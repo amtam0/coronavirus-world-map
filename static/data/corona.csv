@@ -14,7 +14,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Netherlands ,265,77.0,3.0,2.0,0.0,262,1.0,15.5,NLD,Netherlands<br>TotalCases 265<br>TotalDeaths 3
  Sweden ,203,42.0,0.0,0.0,1.0,202,0.0,20.1,SWE,Sweden<br>TotalCases 203<br>TotalDeaths 0
  Belgium ,200,31.0,0.0,0.0,1.0,199,1.0,17.3,BEL,Belgium<br>TotalCases 200<br>TotalDeaths 0
- Norway ,175,19.0,0.0,0.0,1.0,174,0.0,32.3,NOR,Norway<br>TotalCases 175<br>TotalDeaths 0
+ Norway ,176,20.0,0.0,0.0,1.0,175,0.0,32.5,NOR,Norway<br>TotalCases 176<br>TotalDeaths 0
  Singapore ,150,12.0,0.0,0.0,90.0,60,9.0,25.6,SGP,Singapore<br>TotalCases 150<br>TotalDeaths 0
  Hong Kong ,115,7.0,3.0,1.0,59.0,53,6.0,15.3,HKG,Hong Kong<br>TotalCases 115<br>TotalDeaths 3
  Austria ,104,23.0,0.0,0.0,2.0,102,1.0,11.5,AUT,Austria<br>TotalCases 104<br>TotalDeaths 0
@@ -38,10 +38,10 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Portugal ,30,9.0,0.0,0.0,0.0,30,0.0,2.9,PRT,Portugal<br>TotalCases 30<br>TotalDeaths 0
  Vietnam ,30,10.0,0.0,0.0,16.0,14,0.0,0.3,VNM,Vietnam<br>TotalCases 30<br>TotalDeaths 0
  Israel ,29,4.0,0.0,0.0,3.0,26,1.0,3.4,ISR,Israel<br>TotalCases 29<br>TotalDeaths 0
+ Brazil ,25,6.0,0.0,0.0,0.0,26,1.0,0.1,BRA,Brazil<br>TotalCases 25<br>TotalDeaths 0
  Finland ,24,5.0,0.0,0.0,1.0,23,0.0,4.3,FIN,Finland<br>TotalCases 24<br>TotalDeaths 0
  Ireland ,21,2.0,0.0,0.0,0.0,21,0.0,4.3,IRL,Ireland<br>TotalCases 21<br>TotalDeaths 0
  Algeria ,20,1.0,0.0,0.0,0.0,20,0.0,0.5,DZA,Algeria<br>TotalCases 20<br>TotalDeaths 0
- Brazil ,20,1.0,0.0,0.0,0.0,21,1.0,0.1,BRA,Brazil<br>TotalCases 20<br>TotalDeaths 0
  Palestine ,19,0.0,0.0,0.0,0.0,19,0.0,3.7,PSE,Palestine<br>TotalCases 19<br>TotalDeaths 0
  Russia ,17,3.0,0.0,0.0,3.0,14,0.0,0.1,RUS,Russia<br>TotalCases 17<br>TotalDeaths 0
  Oman ,16,0.0,0.0,0.0,2.0,14,0.0,3.1,OMN,Oman<br>TotalCases 16<br>TotalDeaths 0
@@ -74,6 +74,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Afghanistan ,4,0.0,0.0,0.0,0.0,4,0.0,0.1,AFG,Afghanistan<br>TotalCases 4<br>TotalDeaths 0
  Senegal ,4,0.0,0.0,0.0,1.0,3,0.0,0.2,SEN,Senegal<br>TotalCases 4<br>TotalDeaths 0
  Bulgaria ,4,2.0,0.0,0.0,0.0,4,0.0,0.6,BGR,Bulgaria<br>TotalCases 4<br>TotalDeaths 0
+ Maldives ,4,2.0,0.0,0.0,0.0,4,0.0,0.0,MDV,Maldives<br>TotalCases 4<br>TotalDeaths 0
  Latvia ,3,2.0,0.0,0.0,1.0,2,0.0,1.6,LVA,Latvia<br>TotalCases 3<br>TotalDeaths 0
  North Macedonia ,3,0.0,0.0,0.0,0.0,3,0.0,1.4,MKD,North Macedonia<br>TotalCases 3<br>TotalDeaths 0
  Bangladesh ,3,3.0,0.0,0.0,0.0,3,0.0,0.0,BGD,Bangladesh<br>TotalCases 3<br>TotalDeaths 0
@@ -85,7 +86,6 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Tunisia ,2,1.0,0.0,0.0,0.0,2,0.0,0.2,TUN,Tunisia<br>TotalCases 2<br>TotalDeaths 0
  Cameroon ,2,0.0,0.0,0.0,0.0,2,0.0,0.1,CMR,Cameroon<br>TotalCases 2<br>TotalDeaths 0
  Faeroe Islands ,2,0.0,0.0,0.0,0.0,2,0.0,0.0,FRO,Faeroe Islands<br>TotalCases 2<br>TotalDeaths 0
- Maldives ,2,0.0,0.0,0.0,0.0,2,0.0,0.0,MDV,Maldives<br>TotalCases 2<br>TotalDeaths 0
  Andorra ,1,0.0,0.0,0.0,0.0,1,0.0,0.0,AND,Andorra<br>TotalCases 1<br>TotalDeaths 0
  Armenia ,1,0.0,0.0,0.0,0.0,1,0.0,0.3,ARM,Armenia<br>TotalCases 1<br>TotalDeaths 0
  Jordan ,1,0.0,0.0,0.0,0.0,1,0.0,0.1,JOR,Jordan<br>TotalCases 1<br>TotalDeaths 0
