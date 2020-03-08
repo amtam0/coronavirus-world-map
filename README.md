@@ -25,3 +25,4 @@ Ex. to update dataset evry 2 minutes :
 ## References
 
 [Data sources] : https://www.worldometers.info/coronavirus/
+[Medium link](https://medium.com/@amtam0/coronavirus-update-by-country-interactive-web-app-using-python-and-plotly-bac547386846?source=friends_link&sk=449aef56cfa9d71d681eb28371ce441d)
