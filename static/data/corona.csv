@@ -6,7 +6,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  France ,1126,177.0,19.0,3.0,12.0,1095,45.0,17.3,FRA,France<br>TotalCases 1126<br>TotalDeaths 19
  Germany ,1040,240.0,0.0,0.0,18.0,1022,9.0,12.4,DEU,Germany<br>TotalCases 1040<br>TotalDeaths 0
  Diamond Princess ,696,0.0,7.0,0.0,245.0,444,32.0,0.0,Diamond Princess,Diamond Princess<br>TotalCases 696<br>TotalDeaths 7
- Spain ,673,148.0,17.0,7.0,30.0,626,9.0,14.4,ESP,Spain<br>TotalCases 673<br>TotalDeaths 17
+ Spain ,673,148.0,17.0,7.0,32.0,624,9.0,14.4,ESP,Spain<br>TotalCases 673<br>TotalDeaths 17
  Japan ,502,41.0,7.0,1.0,76.0,419,28.0,4.0,JPN,Japan<br>TotalCases 502<br>TotalDeaths 7
  USA ,484,49.0,19.0,0.0,15.0,450,8.0,1.5,USA,USA<br>TotalCases 484<br>TotalDeaths 19
  Switzerland ,337,69.0,2.0,1.0,3.0,332,0.0,38.9,CHE,Switzerland<br>TotalCases 337<br>TotalDeaths 2
@@ -30,7 +30,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Egypt ,49,1.0,1.0,1.0,1.0,47,0.0,0.5,EGY,Egypt<br>TotalCases 49<br>TotalDeaths 1
  Taiwan ,45,0.0,1.0,0.0,15.0,29,0.0,1.9,TWN,Taiwan<br>TotalCases 45<br>TotalDeaths 1
  UAE ,45,0.0,0.0,0.0,7.0,38,2.0,4.5,ARE,UAE<br>TotalCases 45<br>TotalDeaths 0
- India ,40,6.0,0.0,0.0,3.0,37,0.0,0.0,IND,India<br>TotalCases 40<br>TotalDeaths 0
+ India ,43,9.0,0.0,0.0,3.0,40,0.0,0.0,IND,India<br>TotalCases 43<br>TotalDeaths 0
  Israel ,39,14.0,0.0,0.0,3.0,36,1.0,4.5,ISR,Israel<br>TotalCases 39<br>TotalDeaths 0
  San Marino ,36,10.0,1.0,0.0,0.0,35,5.0,0.0,SMR,San Marino<br>TotalCases 36<br>TotalDeaths 1
  Denmark ,35,8.0,0.0,0.0,1.0,34,0.0,6.0,DNK,Denmark<br>TotalCases 35<br>TotalDeaths 0
@@ -39,7 +39,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Portugal ,30,9.0,0.0,0.0,0.0,30,0.0,2.9,PRT,Portugal<br>TotalCases 30<br>TotalDeaths 0
  Vietnam ,30,10.0,0.0,0.0,16.0,14,0.0,0.3,VNM,Vietnam<br>TotalCases 30<br>TotalDeaths 0
  Brazil ,25,6.0,0.0,0.0,0.0,26,1.0,0.1,BRA,Brazil<br>TotalCases 25<br>TotalDeaths 0
- Finland ,24,5.0,0.0,0.0,1.0,23,0.0,4.3,FIN,Finland<br>TotalCases 24<br>TotalDeaths 0
+ Finland ,25,6.0,0.0,0.0,1.0,24,0.0,4.5,FIN,Finland<br>TotalCases 25<br>TotalDeaths 0
  Ireland ,21,2.0,0.0,0.0,0.0,21,0.0,4.3,IRL,Ireland<br>TotalCases 21<br>TotalDeaths 0
  Algeria ,20,1.0,0.0,0.0,0.0,20,0.0,0.5,DZA,Algeria<br>TotalCases 20<br>TotalDeaths 0
  Palestine ,19,0.0,0.0,0.0,0.0,19,0.0,3.7,PSE,Palestine<br>TotalCases 19<br>TotalDeaths 0
@@ -97,7 +97,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Ukraine ,1,0.0,0.0,0.0,0.0,1,0.0,0.0,UKR,Ukraine<br>TotalCases 1<br>TotalDeaths 0
  Bhutan ,1,0.0,0.0,0.0,0.0,1,0.0,0.0,BTN,Bhutan<br>TotalCases 1<br>TotalDeaths 0
  Colombia ,1,0.0,0.0,0.0,0.0,1,0.0,0.0,COL,Colombia<br>TotalCases 1<br>TotalDeaths 0
- Gibraltar ,1,0.0,0.0,0.0,0.0,1,1.0,0.0,GIB,Gibraltar<br>TotalCases 1<br>TotalDeaths 0
+ Gibraltar ,1,0.0,0.0,0.0,1.0,0,1.0,0.0,GIB,Gibraltar<br>TotalCases 1<br>TotalDeaths 0
  Vatican City ,1,0.0,0.0,0.0,0.0,1,0.0,0.0,VAT,Vatican City<br>TotalCases 1<br>TotalDeaths 0
  Liechtenstein ,1,0.0,0.0,0.0,0.0,1,0.0,0.0,LIE,Liechtenstein<br>TotalCases 1<br>TotalDeaths 0
  Moldova ,1,0.0,0.0,0.0,0.0,1,0.0,0.2,MDA,Moldova<br>TotalCases 1<br>TotalDeaths 0
