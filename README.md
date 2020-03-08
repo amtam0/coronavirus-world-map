@@ -10,6 +10,8 @@
 
 `bash script.sh`
 
+To test locally :
+
 `python -m http.server`
 
 open the link displayed
