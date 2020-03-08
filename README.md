@@ -4,7 +4,7 @@
 
 `source corona-env/bin/activate`
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ## to run
 
