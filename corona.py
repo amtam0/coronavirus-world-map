@@ -11,16 +11,15 @@ import numpy as np
 import country_converter as coco
 
 
-# ### Extract df
+# ### Build df from Url
 
 # In[30]:
 
 
 url='https://www.worldometers.info/coronavirus/'
 
-# Create a handle, page, to handle the contents of the website
+# Scraping the Url
 page = requests.get(url)
-# Store the contents of the website under doc
 doc = lh.fromstring(page.content)
 
 # Parse data
@@ -33,13 +32,13 @@ rows_content = np.array(content).reshape(int(len(content)/len(headers)),len(head
 
 df = pd.DataFrame(rows_content)
 df.columns = headers
-df = df[:-1] #drop total row
+df = df[:-1] # drop Total row
 
 
 # In[31]:
 
 
-# convert values to float
+# Convert values to float
 for i,col_name in enumerate(df.columns):
     if i!=0:
         df[col_name] = pd.to_numeric(df[col_name].apply(lambda x:x.replace(",","")),errors='coerce')
@@ -54,17 +53,18 @@ df = df.rename(columns={'Country,Other': 'Country',
 
 df = df.fillna(0)
 
-# create text that will be display on hover
+# Create text that will be display on hover
 df["text"] = df['Country'].apply(lambda x: x.strip()) + '<br>' +     'TotalCases ' + df['TotalCases'].astype(int).astype(str) +     '<br>' + 'TotalDeaths ' + df['TotalDeaths'].astype(int).astype(str)
 
 
 # In[33]:
 
 
+# Export Dataframe
 df.to_csv("static/data/corona.csv",index=False,sep=",")
 
 
-# ### Visualize df
+# ### Visualize df using Plotly (Optional)
 
 # In[ ]:
 
