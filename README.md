@@ -1,2 +1,19 @@
-# coronavirus-world-map
-Coronavirus World map with daily update using python Plotly.js
+## to setup
+
+virtualenv -p python3 corona-env
+
+source corona-env/bin/activate
+
+pip install -r requirements.txt
+
+## to run
+
+bash script.sh
+
+python -m http.server
+
+open the link displayed
+
+## References
+
+[Data sources] : https://www.worldometers.info/coronavirus/
