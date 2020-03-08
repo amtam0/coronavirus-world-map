@@ -1,16 +1,16 @@
 ## to setup
 
-virtualenv -p python3 corona-env
+`virtualenv -p python3 corona-env`
 
-source corona-env/bin/activate
+`source corona-env/bin/activate`
 
 pip install -r requirements.txt
 
 ## to run
 
-bash script.sh
+`bash script.sh`
 
-python -m http.server
+`python -m http.server`
 
 open the link displayed
 
