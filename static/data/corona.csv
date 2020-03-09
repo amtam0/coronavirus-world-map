@@ -13,7 +13,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  UK ,321,43.0,5.0,2.0,18.0,298,0.0,4.7,GBR,UK<br>Active Cases 298<br>Total Deaths 5
  Netherlands ,321,56.0,4.0,1.0,0.0,317,1.0,18.7,NLD,Netherlands<br>Active Cases 317<br>Total Deaths 4
  Sweden ,261,58.0,0.0,0.0,1.0,260,0.0,25.8,SWE,Sweden<br>Active Cases 260<br>Total Deaths 0
- Belgium ,239,39.0,0.0,0.0,1.0,238,1.0,20.6,BEL,Belgium<br>Active Cases 238<br>Total Deaths 0
+ Belgium ,239,39.0,0.0,0.0,1.0,238,2.0,20.6,BEL,Belgium<br>Active Cases 238<br>Total Deaths 0
  Norway ,227,51.0,0.0,0.0,1.0,226,0.0,41.9,NOR,Norway<br>Active Cases 226<br>Total Deaths 0
  Singapore ,160,10.0,0.0,0.0,93.0,67,10.0,27.3,SGP,Singapore<br>Active Cases 67<br>Total Deaths 0
  Austria ,131,27.0,0.0,0.0,2.0,129,1.0,14.5,AUT,Austria<br>Active Cases 129<br>Total Deaths 0
@@ -27,8 +27,8 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Iraq ,71,6.0,7.0,1.0,3.0,61,0.0,1.8,IRQ,Iraq<br>Active Cases 61<br>Total Deaths 7
  Iceland ,65,7.0,0.0,0.0,1.0,64,0.0,0.0,ISL,Iceland<br>Active Cases 64<br>Total Deaths 0
  Kuwait ,65,1.0,0.0,0.0,1.0,64,3.0,15.2,KWT,Kuwait<br>Active Cases 64<br>Total Deaths 0
+ Egypt ,59,4.0,1.0,0.0,1.0,57,0.0,0.6,EGY,Egypt<br>Active Cases 57<br>Total Deaths 1
  UAE ,59,14.0,0.0,0.0,12.0,47,2.0,6.0,ARE,UAE<br>Active Cases 47<br>Total Deaths 0
- Egypt ,55,0.0,1.0,0.0,1.0,53,0.0,0.5,EGY,Egypt<br>Active Cases 53<br>Total Deaths 1
  San Marino ,51,14.0,2.0,1.0,0.0,49,5.0,0.0,SMR,San Marino<br>Active Cases 49<br>Total Deaths 2
  Thailand ,50,0.0,1.0,0.0,33.0,16,1.0,0.7,THA,Thailand<br>Active Cases 16<br>Total Deaths 1
  Israel ,50,11.0,0.0,0.0,4.0,46,1.0,5.8,ISR,Israel<br>Active Cases 46<br>Total Deaths 0
