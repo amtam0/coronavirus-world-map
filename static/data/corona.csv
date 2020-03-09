@@ -1,5 +1,5 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,iso_alpha,text
- China ,80739,4.0,3120.0,1.0,58742.0,18877,5111.0,56.1,CHN,China<br>Active Cases 18877<br>Total Deaths 3120
+ China ,80739,4.0,3120.0,1.0,58749.0,18870,5111.0,56.1,CHN,China<br>Active Cases 18870<br>Total Deaths 3120
  Italy ,9172,1797.0,463.0,97.0,724.0,7985,733.0,151.7,ITA,Italy<br>Active Cases 7985<br>Total Deaths 463
  S. Korea ,7478,165.0,53.0,3.0,166.0,7259,36.0,145.9,KOR,S. Korea<br>Active Cases 7259<br>Total Deaths 53
  Iran ,7161,595.0,237.0,43.0,2394.0,4530,0.0,85.3,IRN,Iran<br>Active Cases 4530<br>Total Deaths 237
@@ -69,6 +69,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  South Africa ,7,4.0,0.0,0.0,0.0,7,0.0,0.1,ZAF,South Africa<br>Active Cases 7<br>Total Deaths 0
  Belarus ,6,0.0,0.0,0.0,0.0,6,0.0,0.6,BLR,Belarus<br>Active Cases 6<br>Total Deaths 0
  Latvia ,6,3.0,0.0,0.0,1.0,5,0.0,3.2,LVA,Latvia<br>Active Cases 5<br>Total Deaths 0
+ Albania ,6,4.0,0.0,0.0,0.0,6,0.0,2.1,ALB,Albania<br>Active Cases 6<br>Total Deaths 0
  Maldives ,6,2.0,0.0,0.0,0.0,6,0.0,0.0,MDV,Maldives<br>Active Cases 6<br>Total Deaths 0
  Dominican Republic ,5,0.0,0.0,0.0,0.0,5,0.0,0.5,DOM,Dominican Republic<br>Active Cases 5<br>Total Deaths 0
  Luxembourg ,5,0.0,0.0,0.0,0.0,5,0.0,0.0,LUX,Luxembourg<br>Active Cases 5<br>Total Deaths 0
@@ -86,7 +87,6 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Cambodia ,2,0.0,0.0,0.0,1.0,1,0.0,0.1,KHM,Cambodia<br>Active Cases 1<br>Total Deaths 0
  Morocco ,2,0.0,0.0,0.0,0.0,2,1.0,0.1,MAR,Morocco<br>Active Cases 2<br>Total Deaths 0
  Nigeria ,2,1.0,0.0,0.0,0.0,2,0.0,0.0,NGA,Nigeria<br>Active Cases 2<br>Total Deaths 0
- Albania ,2,0.0,0.0,0.0,0.0,2,0.0,0.7,ALB,Albania<br>Active Cases 2<br>Total Deaths 0
  Cameroon ,2,0.0,0.0,0.0,0.0,2,0.0,0.1,CMR,Cameroon<br>Active Cases 2<br>Total Deaths 0
  Cyprus ,2,2.0,0.0,0.0,0.0,2,0.0,1.7,CYP,Cyprus<br>Active Cases 2<br>Total Deaths 0
  Faeroe Islands ,2,0.0,0.0,0.0,0.0,2,0.0,0.0,FRO,Faeroe Islands<br>Active Cases 2<br>Total Deaths 0
