@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[29]:
+# In[6]:
 
 
 import requests
@@ -13,7 +13,7 @@ import country_converter as coco
 
 # ### Build df from Url
 
-# In[30]:
+# In[7]:
 
 
 url='https://www.worldometers.info/coronavirus/'
@@ -35,7 +35,7 @@ df.columns = headers
 df = df[:-1] # drop Total row
 
 
-# In[31]:
+# In[8]:
 
 
 # Convert values to float
@@ -54,10 +54,10 @@ df = df.rename(columns={'Country,Other': 'Country',
 df = df.fillna(0)
 
 # Create text that will be display on hover
-df["text"] = df['Country'].apply(lambda x: x.strip()) + '<br>' +     'TotalCases ' + df['TotalCases'].astype(int).astype(str) +     '<br>' + 'TotalDeaths ' + df['TotalDeaths'].astype(int).astype(str)
+df["text"] = df['Country'].apply(lambda x: x.strip()) + '<br>' +     'Active Cases ' + df['ActiveCases'].astype(int).astype(str) +     '<br>' + 'Total Deaths ' + df['TotalDeaths'].astype(int).astype(str)
 
 
-# In[33]:
+# In[9]:
 
 
 # Export Dataframe
