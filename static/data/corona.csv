@@ -6,7 +6,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  France ,2281,497.0,48.0,15.0,12.0,2221,105.0,34.9,FRA,France<br>Active Cases 2221<br>Total Deaths 48
  Spain ,2277,582.0,55.0,19.0,183.0,2039,126.0,48.7,ESP,Spain<br>Active Cases 2039<br>Total Deaths 55
  Germany ,1908,343.0,3.0,1.0,25.0,1880,9.0,22.8,DEU,Germany<br>Active Cases 1880<br>Total Deaths 3
- USA ,1281,287.0,37.0,7.0,15.0,1229,10.0,3.9,USA,USA<br>Active Cases 1229<br>Total Deaths 37
+ USA ,1282,288.0,37.0,7.0,15.0,1230,10.0,3.9,USA,USA<br>Active Cases 1230<br>Total Deaths 37
  Diamond Princess ,696,0.0,7.0,0.0,325.0,364,32.0,0.0,Diamond Princess,Diamond Princess<br>Active Cases 364<br>Total Deaths 7
  Switzerland ,652,155.0,4.0,1.0,4.0,644,0.0,75.3,CHE,Switzerland<br>Active Cases 644<br>Total Deaths 4
  Japan ,639,52.0,15.0,3.0,118.0,506,26.0,5.1,JPN,Japan<br>Active Cases 506<br>Total Deaths 15
@@ -102,6 +102,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Channel Islands ,2,0.0,0.0,0.0,0.0,2,0.0,0.0,Channel Islands,Channel Islands<br>Active Cases 2<br>Total Deaths 0
  Faeroe Islands ,2,0.0,0.0,0.0,0.0,2,0.0,0.0,FRO,Faeroe Islands<br>Active Cases 2<br>Total Deaths 0
  Honduras ,2,2.0,0.0,0.0,0.0,2,0.0,0.2,HND,Honduras<br>Active Cases 2<br>Total Deaths 0
+ Jamaica ,2,1.0,0.0,0.0,0.0,2,0.0,0.7,JAM,Jamaica<br>Active Cases 2<br>Total Deaths 0
  Saint Martin ,2,0.0,0.0,0.0,0.0,2,0.0,0.0,MAF,Saint Martin<br>Active Cases 2<br>Total Deaths 0
  Andorra ,1,0.0,0.0,0.0,0.0,1,0.0,0.0,AND,Andorra<br>Active Cases 1<br>Total Deaths 0
  Armenia ,1,0.0,0.0,0.0,0.0,1,0.0,0.3,ARM,Armenia<br>Active Cases 1<br>Total Deaths 0
@@ -114,7 +115,6 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  DRC ,1,0.0,0.0,0.0,0.0,1,0.0,0.0,DRC,DRC<br>Active Cases 1<br>Total Deaths 0
  Gibraltar ,1,0.0,0.0,0.0,1.0,0,0.0,0.0,GIB,Gibraltar<br>Active Cases 0<br>Total Deaths 0
  Vatican City ,1,0.0,0.0,0.0,0.0,1,0.0,0.0,VAT,Vatican City<br>Active Cases 1<br>Total Deaths 0
- Jamaica ,1,0.0,0.0,0.0,0.0,1,0.0,0.3,JAM,Jamaica<br>Active Cases 1<br>Total Deaths 0
  Liechtenstein ,1,0.0,0.0,0.0,0.0,1,0.0,0.0,LIE,Liechtenstein<br>Active Cases 1<br>Total Deaths 0
  Mongolia ,1,0.0,0.0,0.0,0.0,1,0.0,0.3,MNG,Mongolia<br>Active Cases 1<br>Total Deaths 0
  Réunion ,1,1.0,0.0,0.0,0.0,1,0.0,0.0,REU,Réunion<br>Active Cases 1<br>Total Deaths 0
