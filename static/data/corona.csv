@@ -1,5 +1,5 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,iso_alpha,text
- China ,80776,22.0,3158.0,22.0,61472.0,16146,4794.0,56.1,CHN,China<br>Active Cases 16146<br>Total Deaths 3158
+ China ,80777,23.0,3158.0,22.0,61481.0,16138,4794.0,56.1,CHN,China<br>Active Cases 16138<br>Total Deaths 3158
  Italy ,10149,977.0,631.0,168.0,1004.0,8514,877.0,167.9,ITA,Italy<br>Active Cases 8514<br>Total Deaths 631
  Iran ,8042,881.0,291.0,54.0,2731.0,5020,0.0,95.7,IRN,Iran<br>Active Cases 5020<br>Total Deaths 291
  S. Korea ,7513,35.0,58.0,5.0,247.0,7208,54.0,146.5,KOR,S. Korea<br>Active Cases 7208<br>Total Deaths 58
@@ -7,7 +7,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Spain ,1695,464.0,36.0,6.0,135.0,1524,101.0,36.3,ESP,Spain<br>Active Cases 1524<br>Total Deaths 36
  Germany ,1565,341.0,2.0,0.0,18.0,1545,9.0,18.7,DEU,Germany<br>Active Cases 1545<br>Total Deaths 2
  USA ,975,271.0,30.0,4.0,15.0,930,8.0,2.9,USA,USA<br>Active Cases 930<br>Total Deaths 30
- Diamond Princess ,696,0.0,7.0,0.0,245.0,444,32.0,0.0,Diamond Princess,Diamond Princess<br>Active Cases 444<br>Total Deaths 7
+ Diamond Princess ,696,0.0,7.0,0.0,325.0,364,32.0,0.0,Diamond Princess,Diamond Princess<br>Active Cases 364<br>Total Deaths 7
  Japan ,587,57.0,10.0,1.0,102.0,475,31.0,4.6,JPN,Japan<br>Active Cases 475<br>Total Deaths 10
  Switzerland ,497,123.0,3.0,1.0,3.0,491,0.0,57.4,CHE,Switzerland<br>Active Cases 491<br>Total Deaths 3
  Norway ,400,173.0,0.0,0.0,1.0,399,0.0,73.8,NOR,Norway<br>Active Cases 399<br>Total Deaths 0
@@ -82,6 +82,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Bosnia and Herzegovina ,5,0.0,0.0,0.0,0.0,5,0.0,1.5,BIH,Bosnia and Herzegovina<br>Active Cases 5<br>Total Deaths 0
  French Guiana ,5,0.0,0.0,0.0,0.0,5,0.0,0.0,GUF,French Guiana<br>Active Cases 5<br>Total Deaths 0
  Malta ,5,1.0,0.0,0.0,0.0,5,0.0,0.0,MLT,Malta<br>Active Cases 5<br>Total Deaths 0
+ Paraguay ,5,4.0,0.0,0.0,0.0,5,1.0,0.7,PRY,Paraguay<br>Active Cases 5<br>Total Deaths 0
  Serbia ,5,3.0,0.0,0.0,0.0,5,0.0,0.6,SRB,Serbia<br>Active Cases 5<br>Total Deaths 0
  Senegal ,4,0.0,0.0,0.0,1.0,3,0.0,0.2,SEN,Senegal<br>Active Cases 3<br>Total Deaths 0
  Morocco ,3,1.0,1.0,1.0,0.0,2,1.0,0.1,MAR,Morocco<br>Active Cases 2<br>Total Deaths 1
@@ -98,7 +99,6 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Channel Islands ,2,1.0,0.0,0.0,0.0,2,0.0,0.0,Channel Islands,Channel Islands<br>Active Cases 2<br>Total Deaths 0
  Cyprus ,2,0.0,0.0,0.0,0.0,2,0.0,1.7,CYP,Cyprus<br>Active Cases 2<br>Total Deaths 0
  Faeroe Islands ,2,0.0,0.0,0.0,0.0,2,0.0,0.0,FRO,Faeroe Islands<br>Active Cases 2<br>Total Deaths 0
- Paraguay ,2,1.0,0.0,0.0,0.0,2,1.0,0.3,PRY,Paraguay<br>Active Cases 2<br>Total Deaths 0
  Saint Martin ,2,0.0,0.0,0.0,0.0,2,0.0,0.0,MAF,Saint Martin<br>Active Cases 2<br>Total Deaths 0
  Andorra ,1,0.0,0.0,0.0,0.0,1,0.0,0.0,AND,Andorra<br>Active Cases 1<br>Total Deaths 0
  Armenia ,1,0.0,0.0,0.0,0.0,1,0.0,0.3,ARM,Armenia<br>Active Cases 1<br>Total Deaths 0
