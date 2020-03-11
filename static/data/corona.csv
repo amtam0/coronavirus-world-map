@@ -1,5 +1,5 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,iso_alpha,text
- China ,80763,9.0,3136.0,0.0,60156.0,17471,4794.0,56.1,CHN,China<br>Active Cases 17471<br>Total Deaths 3136
+ China ,80763,9.0,3136.0,0.0,60160.0,17467,4794.0,56.1,CHN,China<br>Active Cases 17467<br>Total Deaths 3136
  Italy ,10149,977.0,631.0,168.0,1004.0,8514,877.0,167.9,ITA,Italy<br>Active Cases 8514<br>Total Deaths 631
  Iran ,8042,881.0,291.0,54.0,2731.0,5020,0.0,95.7,IRN,Iran<br>Active Cases 5020<br>Total Deaths 291
  S. Korea ,7513,35.0,58.0,5.0,247.0,7208,54.0,146.5,KOR,S. Korea<br>Active Cases 7208<br>Total Deaths 58
@@ -32,7 +32,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Czechia ,63,25.0,0.0,0.0,0.0,63,0.0,5.9,CZE,Czechia<br>Active Cases 63<br>Total Deaths 0
  San Marino ,62,11.0,2.0,0.0,0.0,60,5.0,0.0,SMR,San Marino<br>Active Cases 60<br>Total Deaths 2
  India ,62,15.0,0.0,0.0,4.0,58,0.0,0.0,IND,India<br>Active Cases 58<br>Total Deaths 0
- Egypt ,59,0.0,1.0,0.0,1.0,57,0.0,0.6,EGY,Egypt<br>Active Cases 57<br>Total Deaths 1
+ Egypt ,59,0.0,1.0,0.0,26.0,32,0.0,0.6,EGY,Egypt<br>Active Cases 32<br>Total Deaths 1
  Thailand ,53,3.0,1.0,0.0,33.0,19,1.0,0.8,THA,Thailand<br>Active Cases 19<br>Total Deaths 1
  Lebanon ,52,11.0,1.0,1.0,1.0,50,3.0,7.6,LBN,Lebanon<br>Active Cases 50<br>Total Deaths 1
  Taiwan ,47,2.0,1.0,0.0,17.0,29,0.0,2.0,TWN,Taiwan<br>Active Cases 29<br>Total Deaths 1
