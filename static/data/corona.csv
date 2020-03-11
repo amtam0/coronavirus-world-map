@@ -1,5 +1,5 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,iso_alpha,text
- China ,80777,23.0,3158.0,22.0,61481.0,16138,4794.0,56.1,CHN,China<br>Active Cases 16138<br>Total Deaths 3158
+ China ,80778,24.0,3158.0,22.0,61481.0,16139,4794.0,56.1,CHN,China<br>Active Cases 16139<br>Total Deaths 3158
  Italy ,10149,977.0,631.0,168.0,1004.0,8514,877.0,167.9,ITA,Italy<br>Active Cases 8514<br>Total Deaths 631
  Iran ,8042,881.0,291.0,54.0,2731.0,5020,0.0,95.7,IRN,Iran<br>Active Cases 5020<br>Total Deaths 291
  S. Korea ,7513,35.0,58.0,5.0,247.0,7208,54.0,146.5,KOR,S. Korea<br>Active Cases 7208<br>Total Deaths 58
@@ -66,6 +66,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Macao ,10,0.0,0.0,0.0,10.0,0,0.0,0.0,MAC,Macao<br>Active Cases 0<br>Total Deaths 0
  Albania ,10,4.0,0.0,0.0,0.0,10,0.0,3.5,ALB,Albania<br>Active Cases 10<br>Total Deaths 0
  Belarus ,9,3.0,0.0,0.0,3.0,6,0.0,1.0,BLR,Belarus<br>Active Cases 6<br>Total Deaths 0
+ Panama ,8,8.0,1.0,1.0,0.0,7,0.0,1.9,PAN,Panama<br>Active Cases 7<br>Total Deaths 1
  Latvia ,8,2.0,0.0,0.0,1.0,7,0.0,4.2,LVA,Latvia<br>Active Cases 7<br>Total Deaths 0
  Luxembourg ,7,2.0,0.0,0.0,0.0,7,0.0,0.0,LUX,Luxembourg<br>Active Cases 7<br>Total Deaths 0
  North Macedonia ,7,2.0,0.0,0.0,0.0,7,0.0,3.4,MKD,North Macedonia<br>Active Cases 7<br>Total Deaths 0
@@ -114,7 +115,6 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Jamaica ,1,1.0,0.0,0.0,0.0,1,0.0,0.3,JAM,Jamaica<br>Active Cases 1<br>Total Deaths 0
  Liechtenstein ,1,0.0,0.0,0.0,0.0,1,0.0,0.0,LIE,Liechtenstein<br>Active Cases 1<br>Total Deaths 0
  Mongolia ,1,1.0,0.0,0.0,0.0,1,0.0,0.3,MNG,Mongolia<br>Active Cases 1<br>Total Deaths 0
- Panama ,1,1.0,0.0,0.0,0.0,1,0.0,0.2,PAN,Panama<br>Active Cases 1<br>Total Deaths 0
  St. Barth ,1,0.0,0.0,0.0,0.0,1,0.0,0.0,BLM,St. Barth<br>Active Cases 1<br>Total Deaths 0
  Togo ,1,0.0,0.0,0.0,0.0,1,0.0,0.1,TGO,Togo<br>Active Cases 1<br>Total Deaths 0
  Turkey ,1,1.0,0.0,0.0,0.0,1,0.0,0.0,TUR,Turkey<br>Active Cases 1<br>Total Deaths 0
