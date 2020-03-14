@@ -32,6 +32,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Iceland ,156,22.0,0.0,0.0,0.0,156,0.0,0.0,ISL,Iceland<br>Active Cases 156<br>Total Deaths 0
  Brazil ,151,0.0,0.0,0.0,1.0,150,2.0,0.7,BRA,Brazil<br>Active Cases 150<br>Total Deaths 0
  Hong Kong ,138,6.0,4.0,0.0,78.0,56,4.0,18.4,HKG,Hong Kong<br>Active Cases 56<br>Total Deaths 4
+ Ireland ,129,39.0,2.0,1.0,0.0,127,6.0,26.1,IRL,Ireland<br>Active Cases 127<br>Total Deaths 2
  Estonia ,115,36.0,0.0,0.0,0.0,115,0.0,86.7,EST,Estonia<br>Active Cases 115<br>Total Deaths 0
  Romania ,113,18.0,0.0,0.0,9.0,104,1.0,5.9,ROU,Romania<br>Active Cases 104<br>Total Deaths 0
  Philippines ,111,47.0,8.0,3.0,2.0,101,1.0,1.0,PHL,Philippines<br>Active Cases 101<br>Total Deaths 8
@@ -44,7 +45,6 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Lebanon ,93,16.0,3.0,0.0,1.0,89,3.0,13.6,LBN,Lebanon<br>Active Cases 89<br>Total Deaths 3
  Egypt ,93,0.0,2.0,0.0,27.0,64,0.0,0.9,EGY,Egypt<br>Active Cases 64<br>Total Deaths 2
  Poland ,93,25.0,2.0,0.0,0.0,91,3.0,2.5,POL,Poland<br>Active Cases 91<br>Total Deaths 2
- Ireland ,90,0.0,1.0,0.0,0.0,89,6.0,18.2,IRL,Ireland<br>Active Cases 89<br>Total Deaths 1
  UAE ,85,0.0,0.0,0.0,20.0,65,2.0,8.6,ARE,UAE<br>Active Cases 65<br>Total Deaths 0
  Thailand ,82,7.0,1.0,0.0,35.0,46,1.0,1.2,THA,Thailand<br>Active Cases 46<br>Total Deaths 1
  Chile ,61,18.0,0.0,0.0,0.0,61,0.0,3.2,CHL,Chile<br>Active Cases 61<br>Total Deaths 0
@@ -99,8 +99,8 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  New Zealand ,6,0.0,0.0,0.0,0.0,6,0.0,1.2,NZL,New Zealand<br>Active Cases 6<br>Total Deaths 0
  Kazakhstan ,6,2.0,0.0,0.0,0.0,6,0.0,0.3,KAZ,Kazakhstan<br>Active Cases 6<br>Total Deaths 0
  Martinique ,6,3.0,0.0,0.0,0.0,6,0.0,0.0,MTQ,Martinique<br>Active Cases 6<br>Total Deaths 0
+ Réunion ,6,1.0,0.0,0.0,0.0,6,0.0,0.0,REU,Réunion<br>Active Cases 6<br>Total Deaths 0
  Bangladesh ,5,2.0,0.0,0.0,2.0,3,0.0,0.0,BGD,Bangladesh<br>Active Cases 3<br>Total Deaths 0
- Réunion ,5,0.0,0.0,0.0,0.0,5,0.0,0.0,REU,Réunion<br>Active Cases 5<br>Total Deaths 0
  Turkey ,5,0.0,0.0,0.0,0.0,5,0.0,0.1,TUR,Turkey<br>Active Cases 5<br>Total Deaths 0
  Cuba ,4,0.0,0.0,0.0,0.0,4,0.0,0.4,CUB,Cuba<br>Active Cases 4<br>Total Deaths 0
  Liechtenstein ,4,0.0,0.0,0.0,0.0,4,0.0,0.0,LIE,Liechtenstein<br>Active Cases 4<br>Total Deaths 0
