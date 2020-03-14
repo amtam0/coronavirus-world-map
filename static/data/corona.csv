@@ -8,10 +8,10 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  France ,3661,0.0,79.0,0.0,12.0,3570,154.0,56.1,FRA,France<br>Active Cases 3570<br>Total Deaths 79
  USA ,2329,82.0,50.0,1.0,41.0,2238,10.0,7.0,USA,USA<br>Active Cases 2238<br>Total Deaths 50
  Switzerland ,1359,220.0,11.0,0.0,4.0,1344,0.0,157.0,CHE,Switzerland<br>Active Cases 1344<br>Total Deaths 11
- Norway ,999,3.0,1.0,0.0,1.0,997,27.0,184.3,NOR,Norway<br>Active Cases 997<br>Total Deaths 1
+ Norway ,1002,6.0,1.0,0.0,1.0,1000,27.0,184.8,NOR,Norway<br>Active Cases 1000<br>Total Deaths 1
+ Denmark ,827,23.0,0.0,0.0,1.0,826,2.0,142.8,DNK,Denmark<br>Active Cases 826<br>Total Deaths 0
  Sweden ,821,7.0,1.0,0.0,1.0,819,2.0,81.3,SWE,Sweden<br>Active Cases 819<br>Total Deaths 1
  Netherlands ,804,0.0,10.0,0.0,2.0,792,45.0,46.9,NLD,Netherlands<br>Active Cases 792<br>Total Deaths 10
- Denmark ,804,0.0,0.0,0.0,1.0,803,2.0,138.8,DNK,Denmark<br>Active Cases 803<br>Total Deaths 0
  UK ,798,0.0,11.0,0.0,18.0,769,20.0,11.8,GBR,UK<br>Active Cases 769<br>Total Deaths 11
  Japan ,738,4.0,21.0,0.0,118.0,599,29.0,5.8,JPN,Japan<br>Active Cases 599<br>Total Deaths 21
  Diamond Princess ,696,0.0,7.0,0.0,325.0,364,32.0,0.0,Diamond Princess,Diamond Princess<br>Active Cases 364<br>Total Deaths 7
@@ -85,6 +85,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Afghanistan ,10,3.0,0.0,0.0,0.0,10,0.0,0.3,AFG,Afghanistan<br>Active Cases 10<br>Total Deaths 0
  Macao ,10,0.0,0.0,0.0,10.0,0,0.0,0.0,MAC,Macao<br>Active Cases 0<br>Total Deaths 0
  Bolivia ,10,0.0,0.0,0.0,0.0,10,0.0,0.9,BOL,Bolivia<br>Active Cases 10<br>Total Deaths 0
+ Faeroe Islands ,9,6.0,0.0,0.0,0.0,9,0.0,0.0,FRO,Faeroe Islands<br>Active Cases 9<br>Total Deaths 0
  Maldives ,9,0.0,0.0,0.0,0.0,9,0.0,0.0,MDV,Maldives<br>Active Cases 9<br>Total Deaths 0
  Morocco ,8,1.0,1.0,0.0,1.0,6,1.0,0.2,MAR,Morocco<br>Active Cases 6<br>Total Deaths 1
  Jamaica ,8,0.0,0.0,0.0,0.0,8,0.0,2.7,JAM,Jamaica<br>Active Cases 8<br>Total Deaths 0
@@ -106,7 +107,6 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Ukraine ,3,0.0,1.0,0.0,0.0,2,0.0,0.1,UKR,Ukraine<br>Active Cases 2<br>Total Deaths 1
  Bangladesh ,3,0.0,0.0,0.0,2.0,1,0.0,0.0,BGD,Bangladesh<br>Active Cases 1<br>Total Deaths 0
  Channel Islands ,3,0.0,0.0,0.0,0.0,3,0.0,0.0,Channel Islands,Channel Islands<br>Active Cases 3<br>Total Deaths 0
- Faeroe Islands ,3,0.0,0.0,0.0,0.0,3,0.0,0.0,FRO,Faeroe Islands<br>Active Cases 3<br>Total Deaths 0
  French Polynesia ,3,0.0,0.0,0.0,0.0,3,0.0,0.0,PYF,French Polynesia<br>Active Cases 3<br>Total Deaths 0
  Puerto Rico ,3,0.0,0.0,0.0,0.0,3,0.0,1.0,PRI,Puerto Rico<br>Active Cases 3<br>Total Deaths 0
  Monaco ,2,0.0,0.0,0.0,0.0,2,0.0,0.0,MCO,Monaco<br>Active Cases 2<br>Total Deaths 0
