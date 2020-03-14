@@ -35,6 +35,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Estonia ,109,30.0,0.0,0.0,0.0,109,0.0,82.2,EST,Estonia<br>Active Cases 109<br>Total Deaths 0
  Iraq ,101,0.0,9.0,0.0,24.0,68,0.0,2.5,IRQ,Iraq<br>Active Cases 68<br>Total Deaths 9
  Kuwait ,100,0.0,0.0,0.0,5.0,95,4.0,23.4,KWT,Kuwait<br>Active Cases 95<br>Total Deaths 0
+ Philippines ,98,34.0,8.0,3.0,2.0,88,1.0,0.9,PHL,Philippines<br>Active Cases 88<br>Total Deaths 8
  Romania ,97,2.0,0.0,0.0,7.0,90,1.0,5.0,ROU,Romania<br>Active Cases 90<br>Total Deaths 0
  Indonesia ,96,27.0,4.0,0.0,5.0,87,0.0,0.4,IDN,Indonesia<br>Active Cases 87<br>Total Deaths 4
  Lebanon ,93,16.0,3.0,0.0,1.0,89,3.0,13.6,LBN,Lebanon<br>Active Cases 89<br>Total Deaths 3
@@ -46,7 +47,6 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  India ,83,1.0,2.0,0.0,10.0,71,0.0,0.1,IND,India<br>Active Cases 71<br>Total Deaths 2
  San Marino ,80,0.0,5.0,0.0,2.0,73,3.0,0.0,SMR,San Marino<br>Active Cases 73<br>Total Deaths 5
  Thailand ,75,0.0,1.0,0.0,35.0,39,1.0,1.1,THA,Thailand<br>Active Cases 39<br>Total Deaths 1
- Philippines ,64,0.0,8.0,3.0,2.0,54,1.0,0.6,PHL,Philippines<br>Active Cases 54<br>Total Deaths 8
  Taiwan ,53,3.0,1.0,0.0,20.0,32,0.0,2.2,TWN,Taiwan<br>Active Cases 32<br>Total Deaths 1
  Vietnam ,49,5.0,0.0,0.0,16.0,33,0.0,0.5,VNM,Vietnam<br>Active Cases 33<br>Total Deaths 0
  Russia ,45,0.0,0.0,0.0,8.0,37,0.0,0.3,RUS,Russia<br>Active Cases 37<br>Total Deaths 0
@@ -90,8 +90,8 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Jamaica ,8,0.0,0.0,0.0,0.0,8,0.0,2.7,JAM,Jamaica<br>Active Cases 8<br>Total Deaths 0
  Cambodia ,7,0.0,0.0,0.0,1.0,6,0.0,0.4,KHM,Cambodia<br>Active Cases 6<br>Total Deaths 0
  Lithuania ,7,1.0,0.0,0.0,0.0,7,0.0,2.6,LTU,Lithuania<br>Active Cases 7<br>Total Deaths 0
+ Sri Lanka ,7,1.0,0.0,0.0,1.0,6,0.0,0.3,LKA,Sri Lanka<br>Active Cases 6<br>Total Deaths 0
  New Zealand ,6,0.0,0.0,0.0,0.0,6,0.0,1.2,NZL,New Zealand<br>Active Cases 6<br>Total Deaths 0
- Sri Lanka ,6,0.0,0.0,0.0,1.0,5,0.0,0.3,LKA,Sri Lanka<br>Active Cases 5<br>Total Deaths 0
  French Guiana ,6,0.0,0.0,0.0,0.0,6,0.0,0.0,GUF,French Guiana<br>Active Cases 6<br>Total Deaths 0
  Kazakhstan ,6,2.0,0.0,0.0,0.0,6,0.0,0.3,KAZ,Kazakhstan<br>Active Cases 6<br>Total Deaths 0
  Martinique ,6,3.0,0.0,0.0,0.0,6,0.0,0.0,MTQ,Martinique<br>Active Cases 6<br>Total Deaths 0
