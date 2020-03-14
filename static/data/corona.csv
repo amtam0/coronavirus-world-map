@@ -1,12 +1,12 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,iso_alpha,text
- China ,80824,10.0,3177.0,0.0,64176.0,13471,4020.0,56.2,CHN,China<br>Active Cases 13471<br>Total Deaths 3177
+ China ,80824,10.0,3177.0,0.0,64177.0,13470,4020.0,56.2,CHN,China<br>Active Cases 13470<br>Total Deaths 3177
  Italy ,17660,2547.0,1266.0,250.0,1439.0,14955,1328.0,292.1,ITA,Italy<br>Active Cases 14955<br>Total Deaths 1266
  Iran ,11364,1289.0,514.0,85.0,3529.0,7321,0.0,135.3,IRN,Iran<br>Active Cases 7321<br>Total Deaths 514
  S. Korea ,8086,217.0,72.0,6.0,714.0,7300,59.0,157.7,KOR,S. Korea<br>Active Cases 7300<br>Total Deaths 72
  Spain ,5232,2086.0,133.0,47.0,193.0,4906,272.0,111.9,ESP,Spain<br>Active Cases 4906<br>Total Deaths 133
  Germany ,3675,930.0,8.0,2.0,46.0,3621,9.0,43.9,DEU,Germany<br>Active Cases 3621<br>Total Deaths 8
  France ,3661,785.0,79.0,18.0,12.0,3570,154.0,56.1,FRA,France<br>Active Cases 3570<br>Total Deaths 79
- USA ,2285,588.0,48.0,7.0,41.0,2196,10.0,6.9,USA,USA<br>Active Cases 2196<br>Total Deaths 48
+ USA ,2287,590.0,49.0,8.0,41.0,2197,10.0,6.9,USA,USA<br>Active Cases 2197<br>Total Deaths 49
  Switzerland ,1139,271.0,11.0,4.0,4.0,1124,0.0,131.6,CHE,Switzerland<br>Active Cases 1124<br>Total Deaths 11
  Norway ,996,196.0,1.0,0.0,1.0,994,27.0,183.7,NOR,Norway<br>Active Cases 994<br>Total Deaths 1
  Sweden ,814,127.0,1.0,0.0,1.0,812,2.0,80.6,SWE,Sweden<br>Active Cases 812<br>Total Deaths 1
@@ -46,7 +46,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Thailand ,75,5.0,1.0,0.0,35.0,39,1.0,1.1,THA,Thailand<br>Active Cases 39<br>Total Deaths 1
  Indonesia ,69,35.0,4.0,3.0,5.0,60,0.0,0.3,IDN,Indonesia<br>Active Cases 60<br>Total Deaths 4
  Poland ,68,17.0,2.0,1.0,0.0,66,3.0,1.8,POL,Poland<br>Active Cases 66<br>Total Deaths 2
- Philippines ,64,12.0,5.0,0.0,2.0,57,1.0,0.6,PHL,Philippines<br>Active Cases 57<br>Total Deaths 5
+ Philippines ,64,12.0,6.0,1.0,2.0,56,1.0,0.6,PHL,Philippines<br>Active Cases 56<br>Total Deaths 6
  Taiwan ,50,1.0,1.0,0.0,20.0,29,0.0,2.1,TWN,Taiwan<br>Active Cases 29<br>Total Deaths 1
  Russia ,45,11.0,0.0,0.0,8.0,37,0.0,0.3,RUS,Russia<br>Active Cases 37<br>Total Deaths 0
  Vietnam ,44,0.0,0.0,0.0,16.0,28,0.0,0.5,VNM,Vietnam<br>Active Cases 28<br>Total Deaths 0
