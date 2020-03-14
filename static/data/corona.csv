@@ -11,11 +11,11 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  UK ,1140,342.0,21.0,10.0,18.0,1101,20.0,16.8,GBR,UK<br>Active Cases 1101<br>Total Deaths 21
  Norway ,1035,39.0,1.0,0.0,1.0,1033,27.0,190.9,NOR,Norway<br>Active Cases 1033<br>Total Deaths 1
  Netherlands ,959,155.0,12.0,2.0,2.0,945,45.0,56.0,NLD,Netherlands<br>Active Cases 945<br>Total Deaths 12
- Sweden ,943,129.0,2.0,1.0,1.0,940,2.0,93.4,SWE,Sweden<br>Active Cases 940<br>Total Deaths 2
+ Sweden ,948,134.0,2.0,1.0,1.0,945,2.0,93.9,SWE,Sweden<br>Active Cases 945<br>Total Deaths 2
  Denmark ,827,23.0,0.0,0.0,1.0,826,2.0,142.8,DNK,Denmark<br>Active Cases 826<br>Total Deaths 0
  Japan ,788,54.0,22.0,1.0,122.0,644,32.0,6.2,JPN,Japan<br>Active Cases 644<br>Total Deaths 22
  Diamond Princess ,696,0.0,7.0,0.0,325.0,364,32.0,0.0,Diamond Princess,Diamond Princess<br>Active Cases 364<br>Total Deaths 7
- Belgium ,689,130.0,4.0,1.0,1.0,684,2.0,59.4,BEL,Belgium<br>Active Cases 684<br>Total Deaths 4
+ Belgium ,689,130.0,4.0,1.0,1.0,684,24.0,59.4,BEL,Belgium<br>Active Cases 684<br>Total Deaths 4
  Austria ,655,151.0,1.0,0.0,6.0,648,1.0,72.7,AUT,Austria<br>Active Cases 648<br>Total Deaths 1
  Qatar ,337,17.0,0.0,0.0,0.0,337,0.0,117.0,QAT,Qatar<br>Active Cases 337<br>Total Deaths 0
  Australia ,248,49.0,3.0,0.0,27.0,218,1.0,9.7,AUS,Australia<br>Active Cases 218<br>Total Deaths 3
@@ -63,8 +63,8 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Argentina ,34,0.0,2.0,0.0,0.0,32,1.0,0.8,ARG,Argentina<br>Active Cases 32<br>Total Deaths 2
  Slovakia ,32,0.0,0.0,0.0,0.0,32,0.0,5.9,SVK,Slovakia<br>Active Cases 32<br>Total Deaths 0
  Bulgaria ,31,0.0,2.0,1.0,0.0,29,0.0,4.5,BGR,Bulgaria<br>Active Cases 29<br>Total Deaths 2
+ Pakistan ,31,3.0,0.0,0.0,2.0,29,0.0,0.1,PAK,Pakistan<br>Active Cases 29<br>Total Deaths 0
  Georgia ,30,5.0,0.0,0.0,0.0,30,1.0,7.5,GEO,Georgia<br>Active Cases 30<br>Total Deaths 0
- Pakistan ,30,2.0,0.0,0.0,2.0,28,0.0,0.1,PAK,Pakistan<br>Active Cases 28<br>Total Deaths 0
  Belarus ,27,0.0,0.0,0.0,3.0,24,0.0,2.9,BLR,Belarus<br>Active Cases 24<br>Total Deaths 0
  Latvia ,26,9.0,0.0,0.0,1.0,25,0.0,13.8,LVA,Latvia<br>Active Cases 25<br>Total Deaths 0
  Mexico ,26,11.0,0.0,0.0,4.0,22,1.0,0.2,MEX,Mexico<br>Active Cases 22<br>Total Deaths 0
