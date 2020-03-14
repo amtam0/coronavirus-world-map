@@ -7,7 +7,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Germany ,3675,0.0,8.0,0.0,46.0,3621,9.0,43.9,DEU,Germany<br>Active Cases 3621<br>Total Deaths 8
  France ,3661,0.0,79.0,0.0,12.0,3570,154.0,56.1,FRA,France<br>Active Cases 3570<br>Total Deaths 79
  USA ,2329,82.0,50.0,1.0,41.0,2238,10.0,7.0,USA,USA<br>Active Cases 2238<br>Total Deaths 50
- Switzerland ,1139,0.0,11.0,0.0,4.0,1124,0.0,131.6,CHE,Switzerland<br>Active Cases 1124<br>Total Deaths 11
+ Switzerland ,1359,220.0,11.0,0.0,4.0,1344,0.0,157.0,CHE,Switzerland<br>Active Cases 1344<br>Total Deaths 11
  Norway ,999,3.0,1.0,0.0,1.0,997,27.0,184.3,NOR,Norway<br>Active Cases 997<br>Total Deaths 1
  Sweden ,821,7.0,1.0,0.0,1.0,819,2.0,81.3,SWE,Sweden<br>Active Cases 819<br>Total Deaths 1
  Netherlands ,804,0.0,10.0,0.0,2.0,792,45.0,46.9,NLD,Netherlands<br>Active Cases 792<br>Total Deaths 10
@@ -54,6 +54,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Serbia ,41,6.0,0.0,0.0,0.0,41,1.0,4.7,SRB,Serbia<br>Active Cases 41<br>Total Deaths 0
  Luxembourg ,38,0.0,1.0,0.0,0.0,37,0.0,0.0,LUX,Luxembourg<br>Active Cases 37<br>Total Deaths 1
  Peru ,38,0.0,0.0,0.0,0.0,38,0.0,1.2,PER,Peru<br>Active Cases 38<br>Total Deaths 0
+ Algeria ,37,11.0,3.0,1.0,10.0,24,0.0,0.8,DZA,Algeria<br>Active Cases 24<br>Total Deaths 3
  Croatia ,37,5.0,0.0,0.0,1.0,36,0.0,9.0,HRV,Croatia<br>Active Cases 36<br>Total Deaths 0
  Brunei ,37,0.0,0.0,0.0,0.0,37,0.0,0.0,BRN,Brunei<br>Active Cases 37<br>Total Deaths 0
  Panama ,36,9.0,1.0,0.0,0.0,35,0.0,8.3,PAN,Panama<br>Active Cases 35<br>Total Deaths 1
@@ -64,7 +65,6 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Bulgaria ,31,0.0,1.0,0.0,0.0,30,0.0,4.5,BGR,Bulgaria<br>Active Cases 30<br>Total Deaths 1
  Georgia ,30,5.0,0.0,0.0,0.0,30,1.0,7.5,GEO,Georgia<br>Active Cases 30<br>Total Deaths 0
  Pakistan ,28,0.0,0.0,0.0,2.0,26,0.0,0.1,PAK,Pakistan<br>Active Cases 26<br>Total Deaths 0
- Algeria ,27,1.0,2.0,0.0,10.0,15,0.0,0.6,DZA,Algeria<br>Active Cases 15<br>Total Deaths 2
  Belarus ,27,0.0,0.0,0.0,3.0,24,0.0,2.9,BLR,Belarus<br>Active Cases 24<br>Total Deaths 0
  Ecuador ,26,3.0,1.0,0.0,0.0,25,1.0,1.5,ECU,Ecuador<br>Active Cases 25<br>Total Deaths 1
  Costa Rica ,26,3.0,0.0,0.0,0.0,26,1.0,5.1,CRI,Costa Rica<br>Active Cases 26<br>Total Deaths 0
