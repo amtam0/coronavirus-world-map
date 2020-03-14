@@ -19,7 +19,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Belgium ,559,0.0,3.0,0.0,1.0,555,2.0,48.2,BEL,Belgium<br>Active Cases 555<br>Total Deaths 3
  Qatar ,320,0.0,0.0,0.0,0.0,320,0.0,111.1,QAT,Qatar<br>Active Cases 320<br>Total Deaths 0
  Australia ,226,27.0,3.0,0.0,26.0,197,1.0,8.9,AUS,Australia<br>Active Cases 197<br>Total Deaths 3
- Bahrain ,210,0.0,0.0,0.0,44.0,166,1.0,123.4,BHR,Bahrain<br>Active Cases 166<br>Total Deaths 0
+ Bahrain ,210,0.0,0.0,0.0,60.0,150,1.0,123.4,BHR,Bahrain<br>Active Cases 150<br>Total Deaths 0
  Canada ,200,2.0,1.0,0.0,11.0,188,1.0,5.3,CAN,Canada<br>Active Cases 188<br>Total Deaths 1
  Singapore ,200,0.0,0.0,0.0,97.0,103,11.0,34.2,SGP,Singapore<br>Active Cases 103<br>Total Deaths 0
  Malaysia ,197,0.0,0.0,0.0,32.0,165,4.0,6.1,MYS,Malaysia<br>Active Cases 165<br>Total Deaths 0
@@ -45,8 +45,8 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  UAE ,85,0.0,0.0,0.0,20.0,65,2.0,8.6,ARE,UAE<br>Active Cases 65<br>Total Deaths 0
  Poland ,84,16.0,2.0,0.0,0.0,82,3.0,2.2,POL,Poland<br>Active Cases 82<br>Total Deaths 2
  India ,83,1.0,2.0,0.0,10.0,71,0.0,0.1,IND,India<br>Active Cases 71<br>Total Deaths 2
+ Thailand ,82,7.0,1.0,0.0,35.0,46,1.0,1.2,THA,Thailand<br>Active Cases 46<br>Total Deaths 1
  San Marino ,80,0.0,5.0,0.0,2.0,73,3.0,0.0,SMR,San Marino<br>Active Cases 73<br>Total Deaths 5
- Thailand ,75,0.0,1.0,0.0,35.0,39,1.0,1.1,THA,Thailand<br>Active Cases 39<br>Total Deaths 1
  Taiwan ,53,3.0,1.0,0.0,20.0,32,0.0,2.2,TWN,Taiwan<br>Active Cases 32<br>Total Deaths 1
  Vietnam ,53,9.0,0.0,0.0,16.0,37,0.0,0.5,VNM,Vietnam<br>Active Cases 37<br>Total Deaths 0
  Russia ,45,0.0,0.0,0.0,8.0,37,0.0,0.3,RUS,Russia<br>Active Cases 37<br>Total Deaths 0
@@ -148,3 +148,4 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Eswatini ,1,1.0,0.0,0.0,0.0,1,0.0,0.9,SWZ,Eswatini<br>Active Cases 1<br>Total Deaths 0
  Togo ,1,0.0,0.0,0.0,0.0,1,0.0,0.1,TGO,Togo<br>Active Cases 1<br>Total Deaths 0
  Trinidad and Tobago ,1,0.0,0.0,0.0,0.0,1,0.0,0.7,TTO,Trinidad and Tobago<br>Active Cases 1<br>Total Deaths 0
+ U.S. Virgin Islands ,1,1.0,0.0,0.0,0.0,1,0.0,0.0,VIR,U.S. Virgin Islands<br>Active Cases 1<br>Total Deaths 0
