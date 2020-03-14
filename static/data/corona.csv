@@ -1,5 +1,5 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,iso_alpha,text
- China ,80824,11.0,3189.0,13.0,65564.0,12071,4020.0,56.2,CHN,China<br>Active Cases 12071<br>Total Deaths 3189
+ China ,80824,11.0,3189.0,13.0,65566.0,12069,4020.0,56.2,CHN,China<br>Active Cases 12069<br>Total Deaths 3189
  Italy ,17660,0.0,1266.0,0.0,1439.0,14955,1328.0,292.1,ITA,Italy<br>Active Cases 14955<br>Total Deaths 1266
  Iran ,11364,0.0,514.0,0.0,3529.0,7321,0.0,135.3,IRN,Iran<br>Active Cases 7321<br>Total Deaths 514
  S. Korea ,8086,107.0,72.0,5.0,714.0,7300,59.0,157.7,KOR,S. Korea<br>Active Cases 7300<br>Total Deaths 72
@@ -34,7 +34,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Portugal ,112,0.0,0.0,0.0,1.0,111,1.0,11.0,PRT,Portugal<br>Active Cases 111<br>Total Deaths 0
  Iraq ,101,0.0,9.0,0.0,24.0,68,0.0,2.5,IRQ,Iraq<br>Active Cases 68<br>Total Deaths 9
  Kuwait ,100,0.0,0.0,0.0,5.0,95,4.0,23.4,KWT,Kuwait<br>Active Cases 95<br>Total Deaths 0
- Romania ,95,0.0,0.0,0.0,7.0,88,1.0,4.9,ROU,Romania<br>Active Cases 88<br>Total Deaths 0
+ Romania ,97,2.0,0.0,0.0,7.0,90,1.0,5.0,ROU,Romania<br>Active Cases 90<br>Total Deaths 0
  Egypt ,93,0.0,2.0,0.0,27.0,64,0.0,0.9,EGY,Egypt<br>Active Cases 64<br>Total Deaths 2
  Ireland ,90,0.0,1.0,0.0,0.0,89,6.0,18.2,IRL,Ireland<br>Active Cases 89<br>Total Deaths 1
  Saudi Arabia ,86,0.0,0.0,0.0,1.0,85,0.0,2.5,SAU,Saudi Arabia<br>Active Cases 85<br>Total Deaths 0
@@ -64,8 +64,8 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Bulgaria ,31,0.0,1.0,0.0,0.0,30,0.0,4.5,BGR,Bulgaria<br>Active Cases 30<br>Total Deaths 1
  Georgia ,30,5.0,0.0,0.0,0.0,30,1.0,7.5,GEO,Georgia<br>Active Cases 30<br>Total Deaths 0
  Pakistan ,28,0.0,0.0,0.0,2.0,26,0.0,0.1,PAK,Pakistan<br>Active Cases 26<br>Total Deaths 0
+ Algeria ,27,1.0,2.0,0.0,10.0,15,0.0,0.6,DZA,Algeria<br>Active Cases 15<br>Total Deaths 2
  Belarus ,27,0.0,0.0,0.0,3.0,24,0.0,2.9,BLR,Belarus<br>Active Cases 24<br>Total Deaths 0
- Algeria ,26,0.0,2.0,0.0,10.0,14,0.0,0.6,DZA,Algeria<br>Active Cases 14<br>Total Deaths 2
  Ecuador ,26,3.0,1.0,0.0,0.0,25,1.0,1.5,ECU,Ecuador<br>Active Cases 25<br>Total Deaths 1
  Costa Rica ,26,3.0,0.0,0.0,0.0,26,1.0,5.1,CRI,Costa Rica<br>Active Cases 26<br>Total Deaths 0
  Hungary ,25,6.0,0.0,0.0,1.0,24,0.0,2.6,HUN,Hungary<br>Active Cases 24<br>Total Deaths 0
@@ -89,7 +89,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Morocco ,8,1.0,1.0,0.0,1.0,6,1.0,0.2,MAR,Morocco<br>Active Cases 6<br>Total Deaths 1
  Jamaica ,8,0.0,0.0,0.0,0.0,8,0.0,2.7,JAM,Jamaica<br>Active Cases 8<br>Total Deaths 0
  Cambodia ,7,0.0,0.0,0.0,1.0,6,0.0,0.4,KHM,Cambodia<br>Active Cases 6<br>Total Deaths 0
- Lithuania ,6,0.0,0.0,0.0,0.0,6,0.0,2.2,LTU,Lithuania<br>Active Cases 6<br>Total Deaths 0
+ Lithuania ,7,1.0,0.0,0.0,0.0,7,0.0,2.6,LTU,Lithuania<br>Active Cases 7<br>Total Deaths 0
  New Zealand ,6,0.0,0.0,0.0,0.0,6,0.0,1.2,NZL,New Zealand<br>Active Cases 6<br>Total Deaths 0
  Sri Lanka ,6,0.0,0.0,0.0,1.0,5,0.0,0.3,LKA,Sri Lanka<br>Active Cases 5<br>Total Deaths 0
  French Guiana ,6,0.0,0.0,0.0,0.0,6,0.0,0.0,GUF,French Guiana<br>Active Cases 6<br>Total Deaths 0
