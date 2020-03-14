@@ -13,7 +13,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Sweden ,941,127.0,2.0,1.0,1.0,938,2.0,93.2,SWE,Sweden<br>Active Cases 938<br>Total Deaths 2
  Denmark ,827,23.0,0.0,0.0,1.0,826,2.0,142.8,DNK,Denmark<br>Active Cases 826<br>Total Deaths 0
  UK ,798,0.0,11.0,0.0,18.0,769,20.0,11.8,GBR,UK<br>Active Cases 769<br>Total Deaths 11
- Japan ,754,20.0,21.0,0.0,118.0,615,32.0,6.0,JPN,Japan<br>Active Cases 615<br>Total Deaths 21
+ Japan ,776,42.0,22.0,1.0,122.0,632,32.0,6.1,JPN,Japan<br>Active Cases 632<br>Total Deaths 22
  Diamond Princess ,696,0.0,7.0,0.0,325.0,364,32.0,0.0,Diamond Princess,Diamond Princess<br>Active Cases 364<br>Total Deaths 7
  Belgium ,689,130.0,4.0,1.0,1.0,684,2.0,59.4,BEL,Belgium<br>Active Cases 684<br>Total Deaths 4
  Austria ,602,98.0,1.0,0.0,6.0,595,1.0,66.8,AUT,Austria<br>Active Cases 595<br>Total Deaths 1
@@ -67,6 +67,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Pakistan ,30,2.0,0.0,0.0,2.0,28,0.0,0.1,PAK,Pakistan<br>Active Cases 28<br>Total Deaths 0
  Belarus ,27,0.0,0.0,0.0,3.0,24,0.0,2.9,BLR,Belarus<br>Active Cases 24<br>Total Deaths 0
  Latvia ,26,9.0,0.0,0.0,1.0,25,0.0,13.8,LVA,Latvia<br>Active Cases 25<br>Total Deaths 0
+ Mexico ,26,11.0,0.0,0.0,4.0,22,1.0,0.2,MEX,Mexico<br>Active Cases 22<br>Total Deaths 0
  Costa Rica ,26,3.0,0.0,0.0,0.0,26,1.0,5.1,CRI,Costa Rica<br>Active Cases 26<br>Total Deaths 0
  Hungary ,25,6.0,0.0,0.0,1.0,24,0.0,2.6,HUN,Hungary<br>Active Cases 24<br>Total Deaths 0
  South Africa ,24,0.0,0.0,0.0,0.0,24,0.0,0.4,ZAF,South Africa<br>Active Cases 24<br>Total Deaths 0
@@ -81,7 +82,6 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Colombia ,16,0.0,0.0,0.0,0.0,16,0.0,0.3,COL,Colombia<br>Active Cases 16<br>Total Deaths 0
  Azerbaijan ,15,0.0,1.0,0.0,3.0,11,0.0,1.5,AZE,Azerbaijan<br>Active Cases 11<br>Total Deaths 1
  Armenia ,15,7.0,0.0,0.0,0.0,15,0.0,5.1,ARM,Armenia<br>Active Cases 15<br>Total Deaths 0
- Mexico ,15,0.0,0.0,0.0,4.0,11,1.0,0.1,MEX,Mexico<br>Active Cases 11<br>Total Deaths 0
  North Macedonia ,13,0.0,0.0,0.0,1.0,12,0.0,6.2,MKD,North Macedonia<br>Active Cases 12<br>Total Deaths 0
  Dominican Republic ,11,6.0,0.0,0.0,0.0,11,0.0,1.0,DOM,Dominican Republic<br>Active Cases 11<br>Total Deaths 0
  Afghanistan ,10,3.0,0.0,0.0,0.0,10,0.0,0.3,AFG,Afghanistan<br>Active Cases 10<br>Total Deaths 0
