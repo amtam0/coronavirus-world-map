@@ -9,7 +9,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  USA ,3313,370.0,63.0,6.0,59.0,3191,10.0,10.0,USA,USA<br>Active Cases 3191<br>Total Deaths 63
  Switzerland ,2217,842.0,14.0,1.0,4.0,2199,0.0,256.2,CHE,Switzerland<br>Active Cases 2199<br>Total Deaths 14
  UK ,1372,232.0,35.0,14.0,18.0,1319,20.0,20.2,GBR,UK<br>Active Cases 1319<br>Total Deaths 35
- Norway ,1230,121.0,3.0,0.0,1.0,1226,27.0,226.9,NOR,Norway<br>Active Cases 1226<br>Total Deaths 3
+ Norway ,1231,122.0,3.0,0.0,1.0,1227,27.0,227.1,NOR,Norway<br>Active Cases 1227<br>Total Deaths 3
  Netherlands ,1135,176.0,20.0,8.0,2.0,1113,45.0,66.2,NLD,Netherlands<br>Active Cases 1113<br>Total Deaths 20
  Sweden ,1024,63.0,3.0,1.0,1.0,1020,2.0,101.4,SWE,Sweden<br>Active Cases 1020<br>Total Deaths 3
  Belgium ,886,197.0,4.0,0.0,1.0,881,33.0,76.4,BEL,Belgium<br>Active Cases 881<br>Total Deaths 4
@@ -135,6 +135,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Sudan ,1,0.0,1.0,0.0,0.0,0,0.0,0.0,SDN,Sudan<br>Active Cases 0<br>Total Deaths 1
  Nepal ,1,0.0,0.0,0.0,1.0,0,0.0,0.0,NPL,Nepal<br>Active Cases 0<br>Total Deaths 0
  Antigua and Barbuda ,1,0.0,0.0,0.0,0.0,1,0.0,0.0,ATG,Antigua and Barbuda<br>Active Cases 1<br>Total Deaths 0
+ Bahamas ,1,1.0,0.0,0.0,0.0,1,0.0,0.0,BHS,Bahamas<br>Active Cases 1<br>Total Deaths 0
  Bhutan ,1,0.0,0.0,0.0,0.0,1,0.0,0.0,BTN,Bhutan<br>Active Cases 1<br>Total Deaths 0
  Cayman Islands ,1,0.0,0.0,0.0,0.0,1,0.0,0.0,CYM,Cayman Islands<br>Active Cases 1<br>Total Deaths 0
  CAR ,1,1.0,0.0,0.0,0.0,1,0.0,0.2,CAR,CAR<br>Active Cases 1<br>Total Deaths 0
