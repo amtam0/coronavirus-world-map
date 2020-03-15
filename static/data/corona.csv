@@ -6,7 +6,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Spain ,7843,1452.0,292.0,96.0,517.0,7034,272.0,167.7,ESP,Spain<br>Active Cases 7034<br>Total Deaths 292
  Germany ,5813,1214.0,11.0,2.0,46.0,5756,2.0,69.4,DEU,Germany<br>Active Cases 5756<br>Total Deaths 11
  France ,5423,924.0,127.0,36.0,12.0,5284,400.0,83.1,FRA,France<br>Active Cases 5284<br>Total Deaths 127
- USA ,3533,590.0,63.0,6.0,59.0,3411,10.0,10.7,USA,USA<br>Active Cases 3411<br>Total Deaths 63
+ USA ,3621,678.0,63.0,6.0,59.0,3499,10.0,10.9,USA,USA<br>Active Cases 3499<br>Total Deaths 63
  Switzerland ,2217,842.0,14.0,1.0,4.0,2199,0.0,256.2,CHE,Switzerland<br>Active Cases 2199<br>Total Deaths 14
  UK ,1391,251.0,35.0,14.0,20.0,1336,20.0,20.5,GBR,UK<br>Active Cases 1336<br>Total Deaths 35
  Norway ,1250,141.0,3.0,0.0,1.0,1246,27.0,230.6,NOR,Norway<br>Active Cases 1246<br>Total Deaths 3
@@ -108,6 +108,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Uruguay ,6,0.0,0.0,0.0,0.0,6,0.0,1.7,URY,Uruguay<br>Active Cases 6<br>Total Deaths 0
  Andorra ,5,4.0,0.0,0.0,0.0,5,0.0,0.0,AND,Andorra<br>Active Cases 5<br>Total Deaths 0
  Bangladesh ,5,0.0,0.0,0.0,2.0,3,0.0,0.0,BGD,Bangladesh<br>Active Cases 3<br>Total Deaths 0
+ Rwanda ,5,4.0,0.0,0.0,0.0,5,0.0,0.4,RWA,Rwanda<br>Active Cases 5<br>Total Deaths 0
  Guyana ,4,3.0,1.0,0.0,0.0,3,0.0,0.0,GUY,Guyana<br>Active Cases 3<br>Total Deaths 1
  Ivory Coast ,4,2.0,0.0,0.0,0.0,4,0.0,0.2,CIV,Ivory Coast<br>Active Cases 4<br>Total Deaths 0
  Cuba ,4,0.0,0.0,0.0,0.0,4,0.0,0.4,CUB,Cuba<br>Active Cases 4<br>Total Deaths 0
@@ -150,7 +151,6 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Mauritania ,1,0.0,0.0,0.0,0.0,1,0.0,0.2,MRT,Mauritania<br>Active Cases 1<br>Total Deaths 0
  Mayotte ,1,0.0,0.0,0.0,0.0,1,0.0,0.0,MYT,Mayotte<br>Active Cases 1<br>Total Deaths 0
  Mongolia ,1,0.0,0.0,0.0,0.0,1,0.0,0.3,MNG,Mongolia<br>Active Cases 1<br>Total Deaths 0
- Rwanda ,1,0.0,0.0,0.0,0.0,1,0.0,0.1,RWA,Rwanda<br>Active Cases 1<br>Total Deaths 0
  St. Barth ,1,0.0,0.0,0.0,0.0,1,0.0,0.0,BLM,St. Barth<br>Active Cases 1<br>Total Deaths 0
  St. Vincent Grenadines ,1,0.0,0.0,0.0,0.0,1,0.0,0.0,VCT,St. Vincent Grenadines<br>Active Cases 1<br>Total Deaths 0
  Suriname ,1,0.0,0.0,0.0,0.0,1,0.0,0.0,SUR,Suriname<br>Active Cases 1<br>Total Deaths 0
