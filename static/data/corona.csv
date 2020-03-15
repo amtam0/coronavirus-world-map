@@ -27,7 +27,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Finland ,244,19.0,0.0,0.0,10.0,234,0.0,44.0,FIN,Finland<br>Active Cases 234<br>Total Deaths 0
  Singapore ,226,14.0,0.0,0.0,105.0,121,11.0,38.6,SGP,Singapore<br>Active Cases 121<br>Total Deaths 0
  Slovenia ,219,38.0,1.0,0.0,0.0,218,3.0,105.3,SVN,Slovenia<br>Active Cases 218<br>Total Deaths 1
- Bahrain ,214,2.0,0.0,0.0,60.0,154,2.0,125.8,BHR,Bahrain<br>Active Cases 154<br>Total Deaths 0
+ Bahrain ,214,2.0,0.0,0.0,77.0,137,2.0,125.8,BHR,Bahrain<br>Active Cases 137<br>Total Deaths 0
  Israel ,213,20.0,0.0,0.0,4.0,209,2.0,24.6,ISR,Israel<br>Active Cases 209<br>Total Deaths 0
  Brazil ,191,40.0,0.0,0.0,1.0,190,2.0,0.9,BRA,Brazil<br>Active Cases 190<br>Total Deaths 0
  Iceland ,175,14.0,0.0,0.0,0.0,175,1.0,0.0,ISL,Iceland<br>Active Cases 175<br>Total Deaths 0
@@ -110,6 +110,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Bangladesh ,5,0.0,0.0,0.0,2.0,3,0.0,0.0,BGD,Bangladesh<br>Active Cases 3<br>Total Deaths 0
  Rwanda ,5,4.0,0.0,0.0,0.0,5,0.0,0.4,RWA,Rwanda<br>Active Cases 5<br>Total Deaths 0
  Guyana ,4,3.0,1.0,0.0,0.0,3,0.0,0.0,GUY,Guyana<br>Active Cases 3<br>Total Deaths 1
+ Cameroon ,4,1.0,0.0,0.0,0.0,4,0.0,0.2,CMR,Cameroon<br>Active Cases 4<br>Total Deaths 0
  Ivory Coast ,4,2.0,0.0,0.0,0.0,4,0.0,0.2,CIV,Ivory Coast<br>Active Cases 4<br>Total Deaths 0
  Cuba ,4,0.0,0.0,0.0,0.0,4,0.0,0.4,CUB,Cuba<br>Active Cases 4<br>Total Deaths 0
  Ethiopia ,4,3.0,0.0,0.0,0.0,4,0.0,0.0,ETH,Ethiopia<br>Active Cases 4<br>Total Deaths 0
@@ -127,7 +128,6 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Monaco ,2,0.0,0.0,0.0,0.0,2,0.0,0.0,MCO,Monaco<br>Active Cases 2<br>Total Deaths 0
  Nigeria ,2,0.0,0.0,0.0,1.0,1,0.0,0.0,NGA,Nigeria<br>Active Cases 1<br>Total Deaths 0
  Aruba ,2,0.0,0.0,0.0,0.0,2,0.0,0.0,ABW,Aruba<br>Active Cases 2<br>Total Deaths 0
- Cameroon ,2,0.0,0.0,0.0,0.0,2,0.0,0.1,CMR,Cameroon<br>Active Cases 2<br>Total Deaths 0
  Curaçao ,2,0.0,0.0,0.0,0.0,2,0.0,0.0,CUW,Curaçao<br>Active Cases 2<br>Total Deaths 0
  DRC ,2,0.0,0.0,0.0,0.0,2,0.0,0.0,DRC,DRC<br>Active Cases 2<br>Total Deaths 0
  Namibia ,2,0.0,0.0,0.0,0.0,2,0.0,0.8,NAM,Namibia<br>Active Cases 2<br>Total Deaths 0
