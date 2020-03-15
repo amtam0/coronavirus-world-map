@@ -32,13 +32,13 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Iceland ,161,0.0,0.0,0.0,0.0,161,1.0,0.0,ISL,Iceland<br>Active Cases 161<br>Total Deaths 0
  Brazil ,151,0.0,0.0,0.0,1.0,150,2.0,0.7,BRA,Brazil<br>Active Cases 150<br>Total Deaths 0
  Hong Kong ,142,0.0,4.0,0.0,81.0,57,4.0,18.9,HKG,Hong Kong<br>Active Cases 57<br>Total Deaths 4
+ Philippines ,140,29.0,11.0,3.0,2.0,127,1.0,1.3,PHL,Philippines<br>Active Cases 127<br>Total Deaths 11
  Ireland ,129,0.0,2.0,0.0,0.0,127,6.0,26.1,IRL,Ireland<br>Active Cases 127<br>Total Deaths 2
  Romania ,123,0.0,0.0,0.0,9.0,114,1.0,6.4,ROU,Romania<br>Active Cases 114<br>Total Deaths 0
  Indonesia ,117,21.0,5.0,0.0,8.0,104,0.0,0.4,IDN,Indonesia<br>Active Cases 104<br>Total Deaths 5
  Estonia ,115,0.0,0.0,0.0,1.0,114,0.0,86.7,EST,Estonia<br>Active Cases 114<br>Total Deaths 0
  Thailand ,114,32.0,1.0,0.0,35.0,78,1.0,1.6,THA,Thailand<br>Active Cases 78<br>Total Deaths 1
  Kuwait ,112,8.0,0.0,0.0,9.0,103,4.0,26.2,KWT,Kuwait<br>Active Cases 103<br>Total Deaths 0
- Philippines ,111,0.0,11.0,3.0,2.0,98,1.0,1.0,PHL,Philippines<br>Active Cases 98<br>Total Deaths 11
  Poland ,111,7.0,3.0,0.0,13.0,95,3.0,2.9,POL,Poland<br>Active Cases 95<br>Total Deaths 3
  Iraq ,110,0.0,10.0,0.0,26.0,74,0.0,2.7,IRQ,Iraq<br>Active Cases 74<br>Total Deaths 10
  Lebanon ,110,17.0,3.0,0.0,1.0,106,3.0,16.1,LBN,Lebanon<br>Active Cases 106<br>Total Deaths 3
@@ -52,6 +52,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Taiwan ,59,6.0,1.0,0.0,20.0,38,0.0,2.5,TWN,Taiwan<br>Active Cases 38<br>Total Deaths 1
  Russia ,59,0.0,0.0,0.0,8.0,51,0.0,0.4,RUS,Russia<br>Active Cases 51<br>Total Deaths 0
  Vietnam ,53,0.0,0.0,0.0,16.0,37,0.0,0.5,VNM,Vietnam<br>Active Cases 37<br>Total Deaths 0
+ South Africa ,51,13.0,0.0,0.0,0.0,51,0.0,0.9,ZAF,South Africa<br>Active Cases 51<br>Total Deaths 0
  Croatia ,46,7.0,0.0,0.0,2.0,44,0.0,11.2,HRV,Croatia<br>Active Cases 44<br>Total Deaths 0
  Serbia ,46,0.0,0.0,0.0,0.0,46,1.0,5.3,SRB,Serbia<br>Active Cases 46<br>Total Deaths 0
  Algeria ,45,6.0,3.0,0.0,10.0,32,0.0,1.0,DZA,Algeria<br>Active Cases 32<br>Total Deaths 3
@@ -63,7 +64,6 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Mexico ,41,15.0,0.0,0.0,4.0,37,1.0,0.3,MEX,Mexico<br>Active Cases 37<br>Total Deaths 0
  Brunei ,40,0.0,0.0,0.0,0.0,40,0.0,0.0,BRN,Brunei<br>Active Cases 40<br>Total Deaths 0
  Albania ,38,0.0,1.0,0.0,0.0,37,2.0,13.2,ALB,Albania<br>Active Cases 37<br>Total Deaths 1
- South Africa ,38,0.0,0.0,0.0,0.0,38,0.0,0.6,ZAF,South Africa<br>Active Cases 38<br>Total Deaths 0
  Palestine ,38,0.0,0.0,0.0,0.0,38,0.0,7.4,PSE,Palestine<br>Active Cases 38<br>Total Deaths 0
  Pakistan ,33,0.0,0.0,0.0,2.0,31,0.0,0.1,PAK,Pakistan<br>Active Cases 31<br>Total Deaths 0
  Hungary ,32,2.0,0.0,0.0,1.0,31,0.0,3.3,HUN,Hungary<br>Active Cases 31<br>Total Deaths 0
