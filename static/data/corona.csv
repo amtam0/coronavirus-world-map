@@ -6,7 +6,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Spain ,7843,1452.0,292.0,96.0,517.0,7034,272.0,167.7,ESP,Spain<br>Active Cases 7034<br>Total Deaths 292
  Germany ,5813,1214.0,11.0,2.0,46.0,5756,2.0,69.4,DEU,Germany<br>Active Cases 5756<br>Total Deaths 11
  France ,5423,924.0,127.0,36.0,12.0,5284,400.0,83.1,FRA,France<br>Active Cases 5284<br>Total Deaths 127
- USA ,3594,651.0,68.0,11.0,59.0,3467,10.0,10.9,USA,USA<br>Active Cases 3467<br>Total Deaths 68
+ USA ,3666,723.0,68.0,11.0,59.0,3539,10.0,11.1,USA,USA<br>Active Cases 3539<br>Total Deaths 68
  Switzerland ,2217,842.0,14.0,1.0,4.0,2199,0.0,256.2,CHE,Switzerland<br>Active Cases 2199<br>Total Deaths 14
  UK ,1391,251.0,35.0,14.0,20.0,1336,20.0,20.5,GBR,UK<br>Active Cases 1336<br>Total Deaths 35
  Norway ,1254,145.0,3.0,0.0,1.0,1250,27.0,231.3,NOR,Norway<br>Active Cases 1250<br>Total Deaths 3
@@ -134,6 +134,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Saint Lucia ,2,1.0,0.0,0.0,0.0,2,0.0,0.0,LCA,Saint Lucia<br>Active Cases 2<br>Total Deaths 0
  Saint Martin ,2,0.0,0.0,0.0,0.0,2,0.0,0.0,MAF,Saint Martin<br>Active Cases 2<br>Total Deaths 0
  Trinidad and Tobago ,2,0.0,0.0,0.0,0.0,2,0.0,1.4,TTO,Trinidad and Tobago<br>Active Cases 2<br>Total Deaths 0
+ Guatemala ,1,0.0,1.0,1.0,0.0,0,0.0,0.1,GTM,Guatemala<br>Active Cases 0<br>Total Deaths 1
  Sudan ,1,0.0,1.0,0.0,0.0,0,0.0,0.0,SDN,Sudan<br>Active Cases 0<br>Total Deaths 1
  Nepal ,1,0.0,0.0,0.0,1.0,0,0.0,0.0,NPL,Nepal<br>Active Cases 0<br>Total Deaths 0
  Antigua and Barbuda ,1,0.0,0.0,0.0,0.0,1,0.0,0.0,ATG,Antigua and Barbuda<br>Active Cases 1<br>Total Deaths 0
@@ -145,7 +146,6 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Equatorial Guinea ,1,0.0,0.0,0.0,0.0,1,0.0,0.7,GNQ,Equatorial Guinea<br>Active Cases 1<br>Total Deaths 0
  Gabon ,1,0.0,0.0,0.0,0.0,1,0.0,0.4,GAB,Gabon<br>Active Cases 1<br>Total Deaths 0
  Gibraltar ,1,0.0,0.0,0.0,1.0,0,0.0,0.0,GIB,Gibraltar<br>Active Cases 0<br>Total Deaths 0
- Guatemala ,1,0.0,0.0,0.0,0.0,1,0.0,0.1,GTM,Guatemala<br>Active Cases 1<br>Total Deaths 0
  Guinea ,1,0.0,0.0,0.0,0.0,1,0.0,0.1,GIN,Guinea<br>Active Cases 1<br>Total Deaths 0
  Vatican City ,1,0.0,0.0,0.0,0.0,1,0.0,0.0,VAT,Vatican City<br>Active Cases 1<br>Total Deaths 0
  Mauritania ,1,0.0,0.0,0.0,0.0,1,0.0,0.2,MRT,Mauritania<br>Active Cases 1<br>Total Deaths 0
