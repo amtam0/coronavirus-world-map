@@ -9,7 +9,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  USA ,3400,457.0,63.0,6.0,59.0,3278,10.0,10.3,USA,USA<br>Active Cases 3278<br>Total Deaths 63
  Switzerland ,2217,842.0,14.0,1.0,4.0,2199,0.0,256.2,CHE,Switzerland<br>Active Cases 2199<br>Total Deaths 14
  UK ,1391,251.0,35.0,14.0,20.0,1336,20.0,20.5,GBR,UK<br>Active Cases 1336<br>Total Deaths 35
- Norway ,1246,137.0,3.0,0.0,1.0,1242,27.0,229.8,NOR,Norway<br>Active Cases 1242<br>Total Deaths 3
+ Norway ,1249,140.0,3.0,0.0,1.0,1245,27.0,230.4,NOR,Norway<br>Active Cases 1245<br>Total Deaths 3
  Netherlands ,1135,176.0,20.0,8.0,2.0,1113,45.0,66.2,NLD,Netherlands<br>Active Cases 1113<br>Total Deaths 20
  Sweden ,1040,79.0,3.0,1.0,1.0,1036,2.0,103.0,SWE,Sweden<br>Active Cases 1036<br>Total Deaths 3
  Belgium ,886,197.0,4.0,0.0,1.0,881,33.0,76.4,BEL,Belgium<br>Active Cases 881<br>Total Deaths 4
@@ -113,6 +113,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Cuba ,4,0.0,0.0,0.0,0.0,4,0.0,0.4,CUB,Cuba<br>Active Cases 4<br>Total Deaths 0
  Ethiopia ,4,3.0,0.0,0.0,0.0,4,0.0,0.0,ETH,Ethiopia<br>Active Cases 4<br>Total Deaths 0
  Puerto Rico ,4,0.0,0.0,0.0,0.0,4,0.0,1.4,PRI,Puerto Rico<br>Active Cases 4<br>Total Deaths 0
+ Uzbekistan ,4,4.0,0.0,0.0,0.0,4,0.0,0.1,UZB,Uzbekistan<br>Active Cases 4<br>Total Deaths 0
  Ukraine ,3,0.0,1.0,0.0,0.0,2,0.0,0.1,UKR,Ukraine<br>Active Cases 2<br>Total Deaths 1
  Burkina Faso ,3,1.0,0.0,0.0,0.0,3,0.0,0.1,BFA,Burkina Faso<br>Active Cases 3<br>Total Deaths 0
  Channel Islands ,3,0.0,0.0,0.0,0.0,3,0.0,0.0,Channel Islands,Channel Islands<br>Active Cases 3<br>Total Deaths 0
@@ -156,4 +157,3 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Eswatini ,1,0.0,0.0,0.0,0.0,1,0.0,0.9,SWZ,Eswatini<br>Active Cases 1<br>Total Deaths 0
  Togo ,1,0.0,0.0,0.0,0.0,1,0.0,0.1,TGO,Togo<br>Active Cases 1<br>Total Deaths 0
  U.S. Virgin Islands ,1,0.0,0.0,0.0,0.0,1,0.0,0.0,VIR,U.S. Virgin Islands<br>Active Cases 1<br>Total Deaths 0
- Uzbekistan ,1,1.0,0.0,0.0,0.0,1,0.0,0.0,UZB,Uzbekistan<br>Active Cases 1<br>Total Deaths 0
