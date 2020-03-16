@@ -14,7 +14,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Sweden ,1103,63.0,7.0,4.0,1.0,1095,2.0,109.2,SWE,Sweden<br>Active Cases 1095<br>Total Deaths 7
  Belgium ,1058,172.0,5.0,1.0,1.0,1052,33.0,91.3,BEL,Belgium<br>Active Cases 1052<br>Total Deaths 5
  Austria ,1018,158.0,3.0,2.0,8.0,1007,12.0,113.0,AUT,Austria<br>Active Cases 1007<br>Total Deaths 3
- Denmark ,898,34.0,4.0,2.0,1.0,893,10.0,155.0,DNK,Denmark<br>Active Cases 893<br>Total Deaths 4
+ Denmark ,914,50.0,4.0,2.0,1.0,909,10.0,157.8,DNK,Denmark<br>Active Cases 909<br>Total Deaths 4
  Japan ,845,6.0,27.0,3.0,144.0,674,36.0,6.7,JPN,Japan<br>Active Cases 674<br>Total Deaths 27
  Diamond Princess ,696,0.0,7.0,0.0,456.0,233,15.0,0.0,Diamond Princess,Diamond Princess<br>Active Cases 233<br>Total Deaths 7
  Malaysia ,566,138.0,0.0,0.0,42.0,524,9.0,17.5,MYS,Malaysia<br>Active Cases 524<br>Total Deaths 0
@@ -94,6 +94,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Burkina Faso ,15,12.0,0.0,0.0,0.0,15,0.0,0.7,BFA,Burkina Faso<br>Active Cases 15<br>Total Deaths 0
  Jamaica ,15,5.0,0.0,0.0,2.0,13,0.0,5.1,JAM,Jamaica<br>Active Cases 13<br>Total Deaths 0
  Martinique ,15,5.0,0.0,0.0,0.0,15,0.0,0.0,MTQ,Martinique<br>Active Cases 15<br>Total Deaths 0
+ Andorra ,14,9.0,0.0,0.0,0.0,14,0.0,0.0,AND,Andorra<br>Active Cases 14<br>Total Deaths 0
  Maldives ,13,0.0,0.0,0.0,0.0,13,0.0,0.0,MDV,Maldives<br>Active Cases 13<br>Total Deaths 0
  Cambodia ,12,0.0,0.0,0.0,1.0,11,0.0,0.7,KHM,Cambodia<br>Active Cases 11<br>Total Deaths 0
  Macao ,11,0.0,0.0,0.0,10.0,1,0.0,0.0,MAC,Macao<br>Active Cases 1<br>Total Deaths 0
@@ -115,7 +116,6 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Guadeloupe ,6,1.0,0.0,0.0,0.0,6,0.0,0.0,GLP,Guadeloupe<br>Active Cases 6<br>Total Deaths 0
  Honduras ,6,3.0,0.0,0.0,0.0,6,0.0,0.6,HND,Honduras<br>Active Cases 6<br>Total Deaths 0
  Ukraine ,5,2.0,1.0,0.0,0.0,4,0.0,0.1,UKR,Ukraine<br>Active Cases 4<br>Total Deaths 1
- Andorra ,5,0.0,0.0,0.0,0.0,5,0.0,0.0,AND,Andorra<br>Active Cases 5<br>Total Deaths 0
  Ethiopia ,5,1.0,0.0,0.0,0.0,5,0.0,0.0,ETH,Ethiopia<br>Active Cases 5<br>Total Deaths 0
  Puerto Rico ,5,0.0,0.0,0.0,0.0,5,0.0,1.7,PRI,Puerto Rico<br>Active Cases 5<br>Total Deaths 0
  Rwanda ,5,0.0,0.0,0.0,0.0,5,0.0,0.4,RWA,Rwanda<br>Active Cases 5<br>Total Deaths 0
