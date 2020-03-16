@@ -10,7 +10,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Switzerland ,2221,4.0,18.0,4.0,4.0,2199,0.0,256.6,CHE,Switzerland<br>Active Cases 2199<br>Total Deaths 18
  UK ,1543,152.0,35.0,0.0,20.0,1488,20.0,22.7,GBR,UK<br>Active Cases 1488<br>Total Deaths 35
  Netherlands ,1413,278.0,24.0,4.0,2.0,1387,45.0,82.5,NLD,Netherlands<br>Active Cases 1387<br>Total Deaths 24
- Norway ,1303,47.0,3.0,0.0,1.0,1299,27.0,240.4,NOR,Norway<br>Active Cases 1299<br>Total Deaths 3
+ Norway ,1308,52.0,3.0,0.0,1.0,1304,27.0,241.3,NOR,Norway<br>Active Cases 1304<br>Total Deaths 3
  Sweden ,1103,63.0,6.0,3.0,1.0,1096,2.0,109.2,SWE,Sweden<br>Active Cases 1096<br>Total Deaths 6
  Belgium ,1058,172.0,5.0,1.0,1.0,1052,33.0,91.3,BEL,Belgium<br>Active Cases 1052<br>Total Deaths 5
  Austria ,1018,158.0,3.0,2.0,8.0,1007,12.0,113.0,AUT,Austria<br>Active Cases 1007<br>Total Deaths 3
@@ -106,6 +106,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Bangladesh ,8,3.0,0.0,0.0,3.0,5,0.0,0.0,BGD,Bangladesh<br>Active Cases 5<br>Total Deaths 0
  Paraguay ,8,0.0,0.0,0.0,0.0,8,1.0,1.1,PRY,Paraguay<br>Active Cases 8<br>Total Deaths 0
  Uruguay ,8,2.0,0.0,0.0,0.0,8,0.0,2.3,URY,Uruguay<br>Active Cases 8<br>Total Deaths 0
+ Uzbekistan ,8,4.0,0.0,0.0,0.0,8,0.0,0.2,UZB,Uzbekistan<br>Active Cases 8<br>Total Deaths 0
  Guyana ,7,3.0,1.0,0.0,0.0,6,0.0,0.0,GUY,Guyana<br>Active Cases 6<br>Total Deaths 1
  Liechtenstein ,7,0.0,0.0,0.0,0.0,7,0.0,0.0,LIE,Liechtenstein<br>Active Cases 7<br>Total Deaths 0
  Monaco ,6,4.0,0.0,0.0,0.0,6,0.0,0.0,MCO,Monaco<br>Active Cases 6<br>Total Deaths 0
@@ -113,7 +114,6 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Ghana ,6,0.0,0.0,0.0,0.0,6,0.0,0.2,GHA,Ghana<br>Active Cases 6<br>Total Deaths 0
  Guadeloupe ,6,1.0,0.0,0.0,0.0,6,0.0,0.0,GLP,Guadeloupe<br>Active Cases 6<br>Total Deaths 0
  Honduras ,6,3.0,0.0,0.0,0.0,6,0.0,0.6,HND,Honduras<br>Active Cases 6<br>Total Deaths 0
- Uzbekistan ,6,2.0,0.0,0.0,0.0,6,0.0,0.2,UZB,Uzbekistan<br>Active Cases 6<br>Total Deaths 0
  Ukraine ,5,2.0,1.0,0.0,0.0,4,0.0,0.1,UKR,Ukraine<br>Active Cases 4<br>Total Deaths 1
  Andorra ,5,0.0,0.0,0.0,0.0,5,0.0,0.0,AND,Andorra<br>Active Cases 5<br>Total Deaths 0
  Ethiopia ,5,1.0,0.0,0.0,0.0,5,0.0,0.0,ETH,Ethiopia<br>Active Cases 5<br>Total Deaths 0
