@@ -1,6 +1,6 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,iso_alpha,text
  China ,80880,20.0,3213.0,0.0,67819.0,9848,3226.0,56.2,CHN,China<br>Active Cases 9848<br>Total Deaths 3213
- Italy ,27980,3233.0,2158.0,349.0,2749.0,23073,1851.0,462.8,ITA,Italy<br>Active Cases 23073<br>Total Deaths 2158
+ Italy ,27980,3233.0,2158.0,349.0,2749.0,23073,1851.0,0.0,ITA,Italy<br>Active Cases 23073<br>Total Deaths 2158
  Iran ,14991,1053.0,853.0,129.0,4590.0,9548,0.0,178.5,IRN,Iran<br>Active Cases 9548<br>Total Deaths 853
  Spain ,9942,1954.0,342.0,48.0,530.0,9070,272.0,212.6,ESP,Spain<br>Active Cases 9070<br>Total Deaths 342
  S. Korea ,8236,74.0,75.0,0.0,1137.0,7024,59.0,160.6,KOR,S. Korea<br>Active Cases 7024<br>Total Deaths 75
@@ -90,8 +90,8 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Dominican Republic ,21,10.0,0.0,0.0,0.0,21,0.0,1.9,DOM,Dominican Republic<br>Active Cases 21<br>Total Deaths 0
  Tunisia ,20,0.0,0.0,0.0,0.0,20,2.0,1.7,TUN,Tunisia<br>Active Cases 20<br>Total Deaths 0
  North Macedonia ,19,0.0,0.0,0.0,1.0,18,1.0,9.1,MKD,North Macedonia<br>Active Cases 18<br>Total Deaths 0
+ Lithuania ,18,4.0,0.0,0.0,1.0,17,0.0,6.6,LTU,Lithuania<br>Active Cases 17<br>Total Deaths 0
  Faeroe Islands ,18,7.0,0.0,0.0,0.0,18,0.0,0.0,FRO,Faeroe Islands<br>Active Cases 18<br>Total Deaths 0
- Lithuania ,17,3.0,0.0,0.0,1.0,16,0.0,6.2,LTU,Lithuania<br>Active Cases 16<br>Total Deaths 0
  Venezuela ,17,0.0,0.0,0.0,0.0,17,0.0,0.6,VEN,Venezuela<br>Active Cases 17<br>Total Deaths 0
  Burkina Faso ,15,12.0,0.0,0.0,0.0,15,0.0,0.7,BFA,Burkina Faso<br>Active Cases 15<br>Total Deaths 0
  Jamaica ,15,5.0,0.0,0.0,2.0,13,0.0,5.1,JAM,Jamaica<br>Active Cases 13<br>Total Deaths 0
@@ -112,6 +112,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Guyana ,7,3.0,1.0,0.0,0.0,6,0.0,0.0,GUY,Guyana<br>Active Cases 6<br>Total Deaths 1
  Ukraine ,7,4.0,1.0,0.0,0.0,6,0.0,0.2,UKR,Ukraine<br>Active Cases 6<br>Total Deaths 1
  Liechtenstein ,7,0.0,0.0,0.0,0.0,7,0.0,0.0,LIE,Liechtenstein<br>Active Cases 7<br>Total Deaths 0
+ Rwanda ,7,2.0,0.0,0.0,0.0,7,0.0,0.5,RWA,Rwanda<br>Active Cases 7<br>Total Deaths 0
  Monaco ,6,4.0,0.0,0.0,0.0,6,0.0,0.0,MCO,Monaco<br>Active Cases 6<br>Total Deaths 0
  Channel Islands ,6,3.0,0.0,0.0,0.0,6,0.0,0.0,Channel Islands,Channel Islands<br>Active Cases 6<br>Total Deaths 0
  Ghana ,6,0.0,0.0,0.0,0.0,6,0.0,0.2,GHA,Ghana<br>Active Cases 6<br>Total Deaths 0
@@ -120,7 +121,6 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Cameroon ,5,1.0,0.0,0.0,0.0,5,0.0,0.2,CMR,Cameroon<br>Active Cases 5<br>Total Deaths 0
  Ethiopia ,5,1.0,0.0,0.0,0.0,5,0.0,0.0,ETH,Ethiopia<br>Active Cases 5<br>Total Deaths 0
  Puerto Rico ,5,0.0,0.0,0.0,0.0,5,0.0,1.7,PRI,Puerto Rico<br>Active Cases 5<br>Total Deaths 0
- Rwanda ,5,0.0,0.0,0.0,0.0,5,0.0,0.4,RWA,Rwanda<br>Active Cases 5<br>Total Deaths 0
  Ivory Coast ,4,0.0,0.0,0.0,0.0,4,0.0,0.2,CIV,Ivory Coast<br>Active Cases 4<br>Total Deaths 0
  Cuba ,4,0.0,0.0,0.0,0.0,4,0.0,0.4,CUB,Cuba<br>Active Cases 4<br>Total Deaths 0
  Mongolia ,4,3.0,0.0,0.0,0.0,4,0.0,1.2,MNG,Mongolia<br>Active Cases 4<br>Total Deaths 0
