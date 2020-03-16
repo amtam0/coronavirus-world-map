@@ -33,7 +33,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Brazil ,203,3.0,0.0,0.0,2.0,201,2.0,1.0,BRA,Brazil<br>Active Cases 201<br>Total Deaths 0
  Iceland ,182,2.0,0.0,0.0,0.0,182,1.0,0.0,ISL,Iceland<br>Active Cases 182<br>Total Deaths 0
  Ireland ,170,0.0,2.0,0.0,5.0,163,6.0,34.4,IRL,Ireland<br>Active Cases 163<br>Total Deaths 2
- Romania ,168,29.0,0.0,0.0,9.0,159,1.0,8.7,ROU,Romania<br>Active Cases 159<br>Total Deaths 0
+ Romania ,168,29.0,0.0,0.0,9.0,159,2.0,8.7,ROU,Romania<br>Active Cases 159<br>Total Deaths 0
  Poland ,156,31.0,3.0,0.0,0.0,153,3.0,4.1,POL,Poland<br>Active Cases 153<br>Total Deaths 3
  Hong Kong ,155,6.0,4.0,0.0,81.0,70,4.0,20.7,HKG,Hong Kong<br>Active Cases 70<br>Total Deaths 4
  Chile ,155,80.0,0.0,0.0,0.0,155,0.0,8.1,CHL,Chile<br>Active Cases 155<br>Total Deaths 0
@@ -57,6 +57,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  South Africa ,64,3.0,0.0,0.0,0.0,64,0.0,1.1,ZAF,South Africa<br>Active Cases 64<br>Total Deaths 0
  Bulgaria ,62,11.0,2.0,0.0,0.0,60,0.0,8.9,BGR,Bulgaria<br>Active Cases 60<br>Total Deaths 2
  Vietnam ,61,4.0,0.0,0.0,16.0,45,0.0,0.6,VNM,Vietnam<br>Active Cases 45<br>Total Deaths 0
+ Ecuador ,58,21.0,2.0,0.0,0.0,56,2.0,3.3,ECU,Ecuador<br>Active Cases 56<br>Total Deaths 2
  Croatia ,57,8.0,0.0,0.0,3.0,54,0.0,13.9,HRV,Croatia<br>Active Cases 54<br>Total Deaths 0
  Argentina ,56,0.0,2.0,0.0,3.0,51,1.0,1.2,ARG,Argentina<br>Active Cases 51<br>Total Deaths 2
  Panama ,55,0.0,1.0,0.0,0.0,54,0.0,12.7,PAN,Panama<br>Active Cases 54<br>Total Deaths 1
@@ -68,7 +69,6 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Albania ,51,9.0,1.0,0.0,0.0,50,2.0,17.7,ALB,Albania<br>Active Cases 50<br>Total Deaths 1
  Hungary ,39,7.0,1.0,0.0,1.0,37,0.0,4.0,HUN,Hungary<br>Active Cases 37<br>Total Deaths 1
  Palestine ,39,1.0,0.0,0.0,0.0,39,0.0,7.6,PSE,Palestine<br>Active Cases 39<br>Total Deaths 0
- Ecuador ,37,0.0,2.0,0.0,0.0,35,1.0,2.1,ECU,Ecuador<br>Active Cases 35<br>Total Deaths 2
  Belarus ,36,9.0,0.0,0.0,3.0,33,0.0,3.8,BLR,Belarus<br>Active Cases 33<br>Total Deaths 0
  Costa Rica ,35,0.0,0.0,0.0,0.0,35,3.0,6.9,CRI,Costa Rica<br>Active Cases 35<br>Total Deaths 0
  Latvia ,34,4.0,0.0,0.0,1.0,33,0.0,18.0,LVA,Latvia<br>Active Cases 33<br>Total Deaths 0
