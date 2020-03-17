@@ -1,12 +1,12 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,iso_alpha,text
  China ,80881,21.0,3226.0,13.0,68715.0,8940,3226.0,56.2,CHN,China<br>Active Cases 8940<br>Total Deaths 3226
- Italy ,27980,0.0,2158.0,0.0,2749.0,23073,1851.0,462.8,ITA,Italy<br>Active Cases 23073<br>Total Deaths 2158
+ Italy ,27980,0.0,2158.0,0.0,2749.0,23073,1851.0,0.0,ITA,Italy<br>Active Cases 23073<br>Total Deaths 2158
  Iran ,16169,1178.0,988.0,135.0,5389.0,9792,0.0,192.5,IRN,Iran<br>Active Cases 9792<br>Total Deaths 988
  Spain ,11409,1467.0,510.0,168.0,1028.0,9871,563.0,244.0,ESP,Spain<br>Active Cases 9871<br>Total Deaths 510
  Germany ,8604,1332.0,23.0,6.0,67.0,8514,2.0,102.7,DEU,Germany<br>Active Cases 8514<br>Total Deaths 23
  S. Korea ,8320,84.0,81.0,6.0,1401.0,6838,59.0,162.3,KOR,S. Korea<br>Active Cases 6838<br>Total Deaths 81
  France ,6633,0.0,148.0,0.0,12.0,6473,400.0,101.6,FRA,France<br>Active Cases 6473<br>Total Deaths 148
- USA ,5636,973.0,95.0,9.0,74.0,5467,12.0,17.0,USA,USA<br>Active Cases 5467<br>Total Deaths 95
+ USA ,5672,1009.0,96.0,10.0,74.0,5502,12.0,17.1,USA,USA<br>Active Cases 5502<br>Total Deaths 96
  Switzerland ,2742,389.0,27.0,8.0,15.0,2700,0.0,316.8,CHE,Switzerland<br>Active Cases 2700<br>Total Deaths 27
  UK ,1950,407.0,56.0,1.0,52.0,1842,20.0,28.7,GBR,UK<br>Active Cases 1842<br>Total Deaths 56
  Netherlands ,1705,292.0,43.0,19.0,2.0,1660,45.0,99.5,NLD,Netherlands<br>Active Cases 1660<br>Total Deaths 43
@@ -105,7 +105,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Bolivia ,11,0.0,0.0,0.0,0.0,11,0.0,0.9,BOL,Bolivia<br>Active Cases 11<br>Total Deaths 0
  French Guiana ,11,0.0,0.0,0.0,0.0,11,0.0,0.0,GUF,French Guiana<br>Active Cases 11<br>Total Deaths 0
  Uzbekistan ,11,3.0,0.0,0.0,0.0,11,0.0,0.3,UZB,Uzbekistan<br>Active Cases 11<br>Total Deaths 0
- Bangladesh ,10,2.0,0.0,0.0,3.0,7,0.0,0.1,BGD,Bangladesh<br>Active Cases 7<br>Total Deaths 0
+ Bangladesh ,10,2.0,1.0,1.0,3.0,6,0.0,0.1,BGD,Bangladesh<br>Active Cases 6<br>Total Deaths 1
  Cameroon ,10,5.0,0.0,0.0,0.0,10,0.0,0.4,CMR,Cameroon<br>Active Cases 10<br>Total Deaths 0
  Monaco ,9,0.0,0.0,0.0,0.0,9,0.0,0.0,MCO,Monaco<br>Active Cases 9<br>Total Deaths 0
  Paraguay ,9,1.0,0.0,0.0,0.0,9,1.0,1.3,PRY,Paraguay<br>Active Cases 9<br>Total Deaths 0
