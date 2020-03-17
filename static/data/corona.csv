@@ -1,6 +1,6 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,iso_alpha,text
  China ,80881,21.0,3226.0,13.0,68715.0,8940,3226.0,56.2,CHN,China<br>Active Cases 8940<br>Total Deaths 3226
- Italy ,27980,0.0,2158.0,0.0,2749.0,23073,1851.0,0.0,ITA,Italy<br>Active Cases 23073<br>Total Deaths 2158
+ Italy ,27980,0.0,2158.0,0.0,2749.0,23073,1851.0,462.8,ITA,Italy<br>Active Cases 23073<br>Total Deaths 2158
  Iran ,16169,1178.0,988.0,135.0,5389.0,9792,0.0,192.5,IRN,Iran<br>Active Cases 9792<br>Total Deaths 988
  Spain ,11409,1467.0,510.0,168.0,1028.0,9871,563.0,244.0,ESP,Spain<br>Active Cases 9871<br>Total Deaths 510
  Germany ,8604,1332.0,23.0,6.0,67.0,8514,2.0,102.7,DEU,Germany<br>Active Cases 8514<br>Total Deaths 23
@@ -13,7 +13,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Norway ,1443,95.0,3.0,0.0,1.0,1439,27.0,266.2,NOR,Norway<br>Active Cases 1439<br>Total Deaths 3
  Austria ,1332,314.0,4.0,1.0,8.0,1320,12.0,147.9,AUT,Austria<br>Active Cases 1320<br>Total Deaths 4
  Belgium ,1243,185.0,10.0,0.0,14.0,1219,33.0,107.3,BEL,Belgium<br>Active Cases 1219<br>Total Deaths 10
- Sweden ,1190,69.0,7.0,0.0,1.0,1182,12.0,117.8,SWE,Sweden<br>Active Cases 1182<br>Total Deaths 7
+ Sweden ,1191,70.0,8.0,1.0,1.0,1182,12.0,117.9,SWE,Sweden<br>Active Cases 1182<br>Total Deaths 8
  Denmark ,977,63.0,4.0,0.0,1.0,972,18.0,168.7,DNK,Denmark<br>Active Cases 972<br>Total Deaths 4
  Japan ,878,45.0,29.0,1.0,144.0,705,41.0,6.9,JPN,Japan<br>Active Cases 705<br>Total Deaths 29
  Diamond Princess ,696,0.0,7.0,0.0,456.0,233,15.0,0.0,Diamond Princess,Diamond Princess<br>Active Cases 233<br>Total Deaths 7
@@ -24,7 +24,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Qatar ,439,0.0,0.0,0.0,4.0,435,0.0,152.4,QAT,Qatar<br>Active Cases 435<br>Total Deaths 0
  Czechia ,396,52.0,0.0,0.0,3.0,393,2.0,37.0,CZE,Czechia<br>Active Cases 393<br>Total Deaths 0
  Greece ,387,35.0,5.0,1.0,10.0,372,11.0,37.1,GRC,Greece<br>Active Cases 372<br>Total Deaths 5
- Israel ,324,26.0,0.0,0.0,11.0,313,4.0,37.4,ISR,Israel<br>Active Cases 313<br>Total Deaths 0
+ Israel ,324,26.0,0.0,0.0,11.0,313,5.0,37.4,ISR,Israel<br>Active Cases 313<br>Total Deaths 0
  Finland ,322,44.0,0.0,0.0,10.0,312,2.0,58.1,FIN,Finland<br>Active Cases 312<br>Total Deaths 0
  Brazil ,301,67.0,1.0,1.0,2.0,298,18.0,1.4,BRA,Brazil<br>Active Cases 298<br>Total Deaths 1
  Slovenia ,275,22.0,1.0,0.0,0.0,274,4.0,132.3,SVN,Slovenia<br>Active Cases 274<br>Total Deaths 1
