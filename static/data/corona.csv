@@ -7,7 +7,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Germany ,7272,0.0,17.0,0.0,67.0,7188,2.0,86.8,DEU,Germany<br>Active Cases 7188<br>Total Deaths 17
  France ,6633,0.0,148.0,0.0,12.0,6473,400.0,101.6,FRA,France<br>Active Cases 6473<br>Total Deaths 148
  USA ,4743,80.0,93.0,7.0,74.0,4576,12.0,14.3,USA,USA<br>Active Cases 4576<br>Total Deaths 93
- Switzerland ,2353,0.0,19.0,0.0,4.0,2330,0.0,271.9,CHE,Switzerland<br>Active Cases 2330<br>Total Deaths 19
+ Switzerland ,2354,1.0,21.0,2.0,4.0,2329,0.0,272.0,CHE,Switzerland<br>Active Cases 2329<br>Total Deaths 21
  UK ,1543,0.0,55.0,0.0,52.0,1436,20.0,22.7,GBR,UK<br>Active Cases 1436<br>Total Deaths 55
  Netherlands ,1413,0.0,24.0,0.0,2.0,1387,45.0,82.5,NLD,Netherlands<br>Active Cases 1387<br>Total Deaths 24
  Norway ,1350,2.0,3.0,0.0,1.0,1346,27.0,249.0,NOR,Norway<br>Active Cases 1346<br>Total Deaths 3
@@ -35,13 +35,13 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Poland ,205,28.0,5.0,1.0,0.0,200,3.0,5.4,POL,Poland<br>Active Cases 200<br>Total Deaths 5
  Iceland ,199,0.0,0.0,0.0,0.0,199,1.0,0.0,ISL,Iceland<br>Active Cases 199<br>Total Deaths 0
  Pakistan ,189,5.0,1.0,0.0,2.0,186,0.0,0.9,PAK,Pakistan<br>Active Cases 186<br>Total Deaths 1
+ Philippines ,187,45.0,12.0,0.0,5.0,170,1.0,1.7,PHL,Philippines<br>Active Cases 170<br>Total Deaths 12
  Romania ,184,16.0,0.0,0.0,16.0,168,2.0,9.6,ROU,Romania<br>Active Cases 168<br>Total Deaths 0
  Thailand ,177,30.0,1.0,0.0,41.0,135,1.0,2.5,THA,Thailand<br>Active Cases 135<br>Total Deaths 1
+ Indonesia ,172,38.0,5.0,0.0,8.0,159,0.0,0.6,IDN,Indonesia<br>Active Cases 159<br>Total Deaths 5
  Egypt ,166,0.0,4.0,0.0,32.0,130,0.0,1.6,EGY,Egypt<br>Active Cases 130<br>Total Deaths 4
  Hong Kong ,157,2.0,4.0,0.0,81.0,72,4.0,20.9,HKG,Hong Kong<br>Active Cases 72<br>Total Deaths 4
  Chile ,156,0.0,0.0,0.0,0.0,156,0.0,8.2,CHL,Chile<br>Active Cases 156<br>Total Deaths 0
- Philippines ,142,0.0,12.0,0.0,5.0,125,1.0,1.3,PHL,Philippines<br>Active Cases 125<br>Total Deaths 12
- Indonesia ,134,0.0,5.0,0.0,8.0,121,0.0,0.5,IDN,Indonesia<br>Active Cases 121<br>Total Deaths 5
  Iraq ,133,0.0,10.0,0.0,32.0,91,0.0,3.3,IRQ,Iraq<br>Active Cases 91<br>Total Deaths 10
  Saudi Arabia ,133,0.0,0.0,0.0,6.0,127,0.0,3.8,SAU,Saudi Arabia<br>Active Cases 127<br>Total Deaths 0
  Kuwait ,130,7.0,0.0,0.0,9.0,121,4.0,30.4,KWT,Kuwait<br>Active Cases 121<br>Total Deaths 0
