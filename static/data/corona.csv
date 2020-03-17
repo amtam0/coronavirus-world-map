@@ -12,7 +12,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Norway ,1419,71.0,3.0,0.0,1.0,1415,27.0,261.7,NOR,Norway<br>Active Cases 1415<br>Total Deaths 3
  Netherlands ,1413,0.0,24.0,0.0,2.0,1387,45.0,82.5,NLD,Netherlands<br>Active Cases 1387<br>Total Deaths 24
  Belgium ,1243,185.0,10.0,0.0,1.0,1232,33.0,107.3,BEL,Belgium<br>Active Cases 1232<br>Total Deaths 10
- Austria ,1211,193.0,3.0,0.0,8.0,1200,12.0,134.5,AUT,Austria<br>Active Cases 1200<br>Total Deaths 3
+ Austria ,1211,193.0,4.0,1.0,8.0,1199,12.0,134.5,AUT,Austria<br>Active Cases 1199<br>Total Deaths 4
  Sweden ,1125,4.0,7.0,0.0,1.0,1117,2.0,111.4,SWE,Sweden<br>Active Cases 1117<br>Total Deaths 7
  Denmark ,960,46.0,4.0,0.0,1.0,955,18.0,165.7,DNK,Denmark<br>Active Cases 955<br>Total Deaths 4
  Japan ,852,19.0,28.0,0.0,144.0,680,41.0,6.7,JPN,Japan<br>Active Cases 680<br>Total Deaths 28
@@ -22,7 +22,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Portugal ,448,117.0,1.0,0.0,3.0,444,18.0,43.9,PRT,Portugal<br>Active Cases 444<br>Total Deaths 1
  Canada ,441,0.0,4.0,0.0,11.0,426,1.0,11.7,CAN,Canada<br>Active Cases 426<br>Total Deaths 4
  Qatar ,439,0.0,0.0,0.0,4.0,435,0.0,152.4,QAT,Qatar<br>Active Cases 435<br>Total Deaths 0
- Czechia ,383,39.0,0.0,0.0,3.0,380,2.0,35.8,CZE,Czechia<br>Active Cases 380<br>Total Deaths 0
+ Czechia ,396,52.0,0.0,0.0,3.0,393,2.0,37.0,CZE,Czechia<br>Active Cases 393<br>Total Deaths 0
  Greece ,352,0.0,4.0,0.0,10.0,338,5.0,33.8,GRC,Greece<br>Active Cases 338<br>Total Deaths 4
  Israel ,324,26.0,0.0,0.0,11.0,313,4.0,37.4,ISR,Israel<br>Active Cases 313<br>Total Deaths 0
  Finland ,321,43.0,0.0,0.0,10.0,311,2.0,57.9,FIN,Finland<br>Active Cases 311<br>Total Deaths 0
@@ -32,9 +32,9 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Brazil ,234,0.0,0.0,0.0,2.0,232,18.0,1.1,BRA,Brazil<br>Active Cases 232<br>Total Deaths 0
  Estonia ,225,20.0,0.0,0.0,1.0,224,0.0,169.6,EST,Estonia<br>Active Cases 224<br>Total Deaths 0
  Ireland ,223,0.0,2.0,0.0,5.0,216,6.0,45.2,IRL,Ireland<br>Active Cases 216<br>Total Deaths 2
+ Poland ,221,44.0,5.0,1.0,0.0,216,3.0,5.8,POL,Poland<br>Active Cases 216<br>Total Deaths 5
  Iceland ,220,21.0,0.0,0.0,5.0,215,1.0,0.0,ISL,Iceland<br>Active Cases 215<br>Total Deaths 0
  Pakistan ,212,28.0,1.0,0.0,2.0,209,0.0,1.0,PAK,Pakistan<br>Active Cases 209<br>Total Deaths 1
- Poland ,205,28.0,5.0,1.0,0.0,200,3.0,5.4,POL,Poland<br>Active Cases 200<br>Total Deaths 5
  Philippines ,187,45.0,12.0,0.0,5.0,170,1.0,1.7,PHL,Philippines<br>Active Cases 170<br>Total Deaths 12
  Romania ,184,16.0,0.0,0.0,16.0,168,3.0,9.6,ROU,Romania<br>Active Cases 168<br>Total Deaths 0
  Thailand ,177,30.0,1.0,0.0,41.0,135,1.0,2.5,THA,Thailand<br>Active Cases 135<br>Total Deaths 1
