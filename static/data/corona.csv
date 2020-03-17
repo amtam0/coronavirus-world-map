@@ -10,7 +10,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Switzerland ,2354,1.0,21.0,2.0,4.0,2329,0.0,272.0,CHE,Switzerland<br>Active Cases 2329<br>Total Deaths 21
  UK ,1543,0.0,55.0,0.0,52.0,1436,20.0,22.7,GBR,UK<br>Active Cases 1436<br>Total Deaths 55
  Netherlands ,1413,0.0,24.0,0.0,2.0,1387,45.0,82.5,NLD,Netherlands<br>Active Cases 1387<br>Total Deaths 24
- Norway ,1358,10.0,3.0,0.0,1.0,1354,27.0,250.5,NOR,Norway<br>Active Cases 1354<br>Total Deaths 3
+ Norway ,1359,11.0,3.0,0.0,1.0,1355,27.0,250.7,NOR,Norway<br>Active Cases 1355<br>Total Deaths 3
  Austria ,1211,193.0,3.0,0.0,8.0,1200,12.0,134.5,AUT,Austria<br>Active Cases 1200<br>Total Deaths 3
  Sweden ,1121,0.0,7.0,0.0,1.0,1113,2.0,111.0,SWE,Sweden<br>Active Cases 1113<br>Total Deaths 7
  Belgium ,1058,0.0,10.0,0.0,1.0,1047,33.0,91.3,BEL,Belgium<br>Active Cases 1047<br>Total Deaths 10
@@ -56,6 +56,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Taiwan ,77,10.0,1.0,0.0,20.0,56,0.0,3.2,TWN,Taiwan<br>Active Cases 56<br>Total Deaths 1
  Slovakia ,72,0.0,0.0,0.0,0.0,72,0.0,13.2,SVK,Slovakia<br>Active Cases 72<br>Total Deaths 0
  Panama ,69,0.0,1.0,0.0,0.0,68,0.0,16.0,PAN,Panama<br>Active Cases 68<br>Total Deaths 1
+ Nigeria ,69,67.0,0.0,0.0,1.0,68,0.0,0.3,NGA,Nigeria<br>Active Cases 68<br>Total Deaths 0
  Bulgaria ,67,5.0,2.0,0.0,0.0,65,0.0,9.6,BGR,Bulgaria<br>Active Cases 65<br>Total Deaths 2
  Argentina ,65,0.0,2.0,0.0,3.0,60,1.0,1.4,ARG,Argentina<br>Active Cases 60<br>Total Deaths 2
  Croatia ,65,8.0,0.0,0.0,4.0,61,0.0,15.8,HRV,Croatia<br>Active Cases 61<br>Total Deaths 0
@@ -133,7 +134,6 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Gibraltar ,3,0.0,0.0,0.0,1.0,2,0.0,0.0,GIB,Gibraltar<br>Active Cases 2<br>Total Deaths 0
  Kenya ,3,0.0,0.0,0.0,0.0,3,0.0,0.1,KEN,Kenya<br>Active Cases 3<br>Total Deaths 0
  St. Barth ,3,0.0,0.0,0.0,0.0,3,0.0,0.0,BLM,St. Barth<br>Active Cases 3<br>Total Deaths 0
- Nigeria ,2,0.0,0.0,0.0,1.0,1,0.0,0.0,NGA,Nigeria<br>Active Cases 1<br>Total Deaths 0
  Curaçao ,2,0.0,0.0,0.0,0.0,2,0.0,0.0,CUW,Curaçao<br>Active Cases 2<br>Total Deaths 0
  Namibia ,2,0.0,0.0,0.0,0.0,2,0.0,0.8,NAM,Namibia<br>Active Cases 2<br>Total Deaths 0
  Saint Lucia ,2,0.0,0.0,0.0,0.0,2,0.0,0.0,LCA,Saint Lucia<br>Active Cases 2<br>Total Deaths 0
