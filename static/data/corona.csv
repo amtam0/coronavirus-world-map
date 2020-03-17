@@ -1,8 +1,8 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,iso_alpha,text
  China ,80881,21.0,3226.0,13.0,68709.0,8946,3226.0,56.2,CHN,China<br>Active Cases 8946<br>Total Deaths 3226
- Italy ,27980,0.0,2158.0,0.0,2749.0,23073,1851.0,462.8,ITA,Italy<br>Active Cases 23073<br>Total Deaths 2158
+ Italy ,27980,0.0,2158.0,0.0,2749.0,23073,1851.0,0.0,ITA,Italy<br>Active Cases 23073<br>Total Deaths 2158
  Iran ,16169,1178.0,988.0,135.0,5389.0,9792,0.0,192.5,IRN,Iran<br>Active Cases 9792<br>Total Deaths 988
- Spain ,11279,1337.0,497.0,155.0,1028.0,9754,563.0,241.2,ESP,Spain<br>Active Cases 9754<br>Total Deaths 497
+ Spain ,11409,1467.0,499.0,157.0,1028.0,9882,563.0,244.0,ESP,Spain<br>Active Cases 9882<br>Total Deaths 499
  S. Korea ,8320,84.0,81.0,6.0,1401.0,6838,59.0,162.3,KOR,S. Korea<br>Active Cases 6838<br>Total Deaths 81
  Germany ,7974,702.0,20.0,3.0,67.0,7887,2.0,95.2,DEU,Germany<br>Active Cases 7887<br>Total Deaths 20
  France ,6633,0.0,148.0,0.0,12.0,6473,400.0,101.6,FRA,France<br>Active Cases 6473<br>Total Deaths 148
@@ -27,7 +27,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Israel ,324,26.0,0.0,0.0,11.0,313,4.0,37.4,ISR,Israel<br>Active Cases 313<br>Total Deaths 0
  Finland ,321,43.0,0.0,0.0,10.0,311,2.0,57.9,FIN,Finland<br>Active Cases 311<br>Total Deaths 0
  Brazil ,301,67.0,0.0,0.0,2.0,299,18.0,1.4,BRA,Brazil<br>Active Cases 299<br>Total Deaths 0
- Slovenia ,253,0.0,1.0,0.0,0.0,252,3.0,121.7,SVN,Slovenia<br>Active Cases 252<br>Total Deaths 1
+ Slovenia ,273,20.0,1.0,0.0,0.0,272,3.0,131.3,SVN,Slovenia<br>Active Cases 272<br>Total Deaths 1
  Singapore ,243,0.0,0.0,0.0,109.0,134,11.0,41.5,SGP,Singapore<br>Active Cases 134<br>Total Deaths 0
  Bahrain ,237,9.0,1.0,0.0,81.0,155,3.0,139.3,BHR,Bahrain<br>Active Cases 155<br>Total Deaths 1
  Estonia ,225,20.0,0.0,0.0,1.0,224,0.0,169.6,EST,Estonia<br>Active Cases 224<br>Total Deaths 0
@@ -122,11 +122,11 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Cuba ,5,1.0,0.0,0.0,0.0,5,0.0,0.4,CUB,Cuba<br>Active Cases 5<br>Total Deaths 0
  Ethiopia ,5,0.0,0.0,0.0,0.0,5,0.0,0.0,ETH,Ethiopia<br>Active Cases 5<br>Total Deaths 0
  Guam ,5,2.0,0.0,0.0,0.0,5,0.0,0.0,GUM,Guam<br>Active Cases 5<br>Total Deaths 0
+ Mongolia ,5,1.0,0.0,0.0,0.0,5,0.0,1.5,MNG,Mongolia<br>Active Cases 5<br>Total Deaths 0
  Puerto Rico ,5,0.0,0.0,0.0,0.0,5,0.0,1.7,PRI,Puerto Rico<br>Active Cases 5<br>Total Deaths 0
  Trinidad and Tobago ,5,1.0,0.0,0.0,0.0,5,0.0,3.6,TTO,Trinidad and Tobago<br>Active Cases 5<br>Total Deaths 0
  Ivory Coast ,4,0.0,0.0,0.0,0.0,4,0.0,0.2,CIV,Ivory Coast<br>Active Cases 4<br>Total Deaths 0
  Kenya ,4,1.0,0.0,0.0,0.0,4,0.0,0.1,KEN,Kenya<br>Active Cases 4<br>Total Deaths 0
- Mongolia ,4,0.0,0.0,0.0,0.0,4,0.0,1.2,MNG,Mongolia<br>Active Cases 4<br>Total Deaths 0
  Seychelles ,4,1.0,0.0,0.0,0.0,4,0.0,0.0,SYC,Seychelles<br>Active Cases 4<br>Total Deaths 0
  Nigeria ,3,1.0,0.0,0.0,1.0,2,0.0,0.0,NGA,Nigeria<br>Active Cases 2<br>Total Deaths 0
  Aruba ,3,1.0,0.0,0.0,0.0,3,0.0,0.0,ABW,Aruba<br>Active Cases 3<br>Total Deaths 0
