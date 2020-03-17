@@ -49,10 +49,10 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Lebanon ,120,11.0,3.0,0.0,3.0,114,3.0,17.6,LBN,Lebanon<br>Active Cases 114<br>Total Deaths 3
  San Marino ,109,0.0,7.0,0.0,4.0,98,11.0,0.0,SMR,San Marino<br>Active Cases 98<br>Total Deaths 7
  UAE ,98,0.0,0.0,0.0,23.0,75,2.0,9.9,ARE,UAE<br>Active Cases 75<br>Total Deaths 0
+ Luxembourg ,94,13.0,1.0,0.0,0.0,93,10.0,0.0,LUX,Luxembourg<br>Active Cases 93<br>Total Deaths 1
  Russia ,93,0.0,0.0,0.0,8.0,85,0.0,0.6,RUS,Russia<br>Active Cases 85<br>Total Deaths 0
  Peru ,86,0.0,0.0,0.0,1.0,85,8.0,2.6,PER,Peru<br>Active Cases 85<br>Total Deaths 0
  Mexico ,82,29.0,0.0,0.0,4.0,78,1.0,0.6,MEX,Mexico<br>Active Cases 78<br>Total Deaths 0
- Luxembourg ,81,0.0,1.0,0.0,0.0,80,10.0,0.0,LUX,Luxembourg<br>Active Cases 80<br>Total Deaths 1
  Slovakia ,78,6.0,0.0,0.0,0.0,78,0.0,14.3,SVK,Slovakia<br>Active Cases 78<br>Total Deaths 0
  Panama ,69,0.0,1.0,0.0,0.0,68,0.0,16.0,PAN,Panama<br>Active Cases 68<br>Total Deaths 1
  Bulgaria ,67,5.0,2.0,0.0,0.0,65,0.0,9.6,BGR,Bulgaria<br>Active Cases 65<br>Total Deaths 2
@@ -110,6 +110,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Paraguay ,9,1.0,0.0,0.0,0.0,9,1.0,1.3,PRY,Paraguay<br>Active Cases 9<br>Total Deaths 0
  Réunion ,9,0.0,0.0,0.0,0.0,9,0.0,0.0,REU,Réunion<br>Active Cases 9<br>Total Deaths 0
  Guatemala ,8,0.0,1.0,0.0,0.0,7,0.0,0.4,GTM,Guatemala<br>Active Cases 7<br>Total Deaths 1
+ Honduras ,8,2.0,0.0,0.0,0.0,8,0.0,0.8,HND,Honduras<br>Active Cases 8<br>Total Deaths 0
  Guyana ,7,0.0,1.0,0.0,0.0,6,0.0,0.0,GUY,Guyana<br>Active Cases 6<br>Total Deaths 1
  Ukraine ,7,0.0,1.0,0.0,0.0,6,0.0,0.2,UKR,Ukraine<br>Active Cases 6<br>Total Deaths 1
  Liechtenstein ,7,0.0,0.0,0.0,0.0,7,0.0,0.0,LIE,Liechtenstein<br>Active Cases 7<br>Total Deaths 0
@@ -117,7 +118,6 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Channel Islands ,6,0.0,0.0,0.0,0.0,6,0.0,0.0,Channel Islands,Channel Islands<br>Active Cases 6<br>Total Deaths 0
  Ghana ,6,0.0,0.0,0.0,0.0,6,0.0,0.2,GHA,Ghana<br>Active Cases 6<br>Total Deaths 0
  Guadeloupe ,6,0.0,0.0,0.0,0.0,6,0.0,0.0,GLP,Guadeloupe<br>Active Cases 6<br>Total Deaths 0
- Honduras ,6,0.0,0.0,0.0,0.0,6,0.0,0.6,HND,Honduras<br>Active Cases 6<br>Total Deaths 0
  Cameroon ,5,0.0,0.0,0.0,0.0,5,0.0,0.2,CMR,Cameroon<br>Active Cases 5<br>Total Deaths 0
  Ethiopia ,5,0.0,0.0,0.0,0.0,5,0.0,0.0,ETH,Ethiopia<br>Active Cases 5<br>Total Deaths 0
  Guam ,5,2.0,0.0,0.0,0.0,5,0.0,0.0,GUM,Guam<br>Active Cases 5<br>Total Deaths 0
