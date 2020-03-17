@@ -1,6 +1,6 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,iso_alpha,text
  China ,80881,21.0,3226.0,13.0,68703.0,8952,3226.0,56.2,CHN,China<br>Active Cases 8952<br>Total Deaths 3226
- Italy ,27980,0.0,2158.0,0.0,2749.0,23073,1851.0,462.8,ITA,Italy<br>Active Cases 23073<br>Total Deaths 2158
+ Italy ,27980,0.0,2158.0,0.0,2749.0,23073,1851.0,0.0,ITA,Italy<br>Active Cases 23073<br>Total Deaths 2158
  Iran ,14991,0.0,853.0,0.0,4996.0,9142,0.0,178.5,IRN,Iran<br>Active Cases 9142<br>Total Deaths 853
  Spain ,9942,0.0,342.0,0.0,530.0,9070,272.0,212.6,ESP,Spain<br>Active Cases 9070<br>Total Deaths 342
  S. Korea ,8320,84.0,81.0,6.0,1401.0,6838,59.0,162.3,KOR,S. Korea<br>Active Cases 6838<br>Total Deaths 81
@@ -77,8 +77,8 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Palestine ,40,1.0,0.0,0.0,0.0,40,0.0,7.8,PSE,Palestine<br>Active Cases 40<br>Total Deaths 0
  Morocco ,38,1.0,2.0,1.0,1.0,35,1.0,1.0,MAR,Morocco<br>Active Cases 35<br>Total Deaths 2
  Belarus ,36,0.0,0.0,0.0,3.0,33,0.0,3.8,BLR,Belarus<br>Active Cases 33<br>Total Deaths 0
+ Jordan ,35,6.0,0.0,0.0,1.0,34,0.0,3.4,JOR,Jordan<br>Active Cases 34<br>Total Deaths 0
  Georgia ,34,1.0,0.0,0.0,1.0,33,1.0,8.5,GEO,Georgia<br>Active Cases 33<br>Total Deaths 0
- Jordan ,34,5.0,0.0,0.0,1.0,33,0.0,3.3,JOR,Jordan<br>Active Cases 33<br>Total Deaths 0
  Venezuela ,33,16.0,0.0,0.0,0.0,33,0.0,1.2,VEN,Venezuela<br>Active Cases 33<br>Total Deaths 0
  Kazakhstan ,32,22.0,0.0,0.0,0.0,32,0.0,1.7,KAZ,Kazakhstan<br>Active Cases 32<br>Total Deaths 0
  Malta ,30,0.0,0.0,0.0,2.0,28,0.0,0.0,MLT,Malta<br>Active Cases 28<br>Total Deaths 0
