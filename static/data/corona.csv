@@ -1,6 +1,6 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,iso_alpha,text
  China ,80881,21.0,3226.0,13.0,68694.0,8961,3226.0,56.2,CHN,China<br>Active Cases 8961<br>Total Deaths 3226
- Italy ,27980,0.0,2158.0,0.0,2749.0,23073,1851.0,462.8,ITA,Italy<br>Active Cases 23073<br>Total Deaths 2158
+ Italy ,27980,0.0,2158.0,0.0,2749.0,23073,1851.0,0.0,ITA,Italy<br>Active Cases 23073<br>Total Deaths 2158
  Iran ,14991,0.0,853.0,0.0,4996.0,9142,0.0,178.5,IRN,Iran<br>Active Cases 9142<br>Total Deaths 853
  Spain ,9942,0.0,342.0,0.0,530.0,9070,272.0,212.6,ESP,Spain<br>Active Cases 9070<br>Total Deaths 342
  S. Korea ,8320,84.0,81.0,6.0,1401.0,6838,59.0,162.3,KOR,S. Korea<br>Active Cases 6838<br>Total Deaths 81
@@ -15,7 +15,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Sweden ,1121,0.0,7.0,0.0,1.0,1113,2.0,111.0,SWE,Sweden<br>Active Cases 1113<br>Total Deaths 7
  Belgium ,1058,0.0,10.0,0.0,1.0,1047,33.0,91.3,BEL,Belgium<br>Active Cases 1047<br>Total Deaths 10
  Denmark ,960,46.0,4.0,0.0,1.0,955,10.0,165.7,DNK,Denmark<br>Active Cases 955<br>Total Deaths 4
- Japan ,839,6.0,28.0,0.0,144.0,667,41.0,6.6,JPN,Japan<br>Active Cases 667<br>Total Deaths 28
+ Japan ,843,10.0,28.0,0.0,144.0,671,41.0,6.7,JPN,Japan<br>Active Cases 671<br>Total Deaths 28
  Diamond Princess ,696,0.0,7.0,0.0,456.0,233,15.0,0.0,Diamond Princess,Diamond Princess<br>Active Cases 233<br>Total Deaths 7
  Malaysia ,566,0.0,0.0,0.0,42.0,524,9.0,17.5,MYS,Malaysia<br>Active Cases 524<br>Total Deaths 0
  Australia ,452,51.0,5.0,0.0,27.0,420,1.0,17.7,AUS,Australia<br>Active Cases 420<br>Total Deaths 5
@@ -25,7 +25,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Greece ,352,0.0,4.0,0.0,10.0,338,5.0,33.8,GRC,Greece<br>Active Cases 338<br>Total Deaths 4
  Portugal ,331,0.0,1.0,0.0,3.0,327,18.0,32.5,PRT,Portugal<br>Active Cases 327<br>Total Deaths 1
  Israel ,304,6.0,0.0,0.0,5.0,299,4.0,35.1,ISR,Israel<br>Active Cases 299<br>Total Deaths 0
- Finland ,278,0.0,0.0,0.0,10.0,268,1.0,50.2,FIN,Finland<br>Active Cases 268<br>Total Deaths 0
+ Finland ,294,16.0,0.0,0.0,10.0,284,1.0,53.1,FIN,Finland<br>Active Cases 284<br>Total Deaths 0
  Slovenia ,253,0.0,1.0,0.0,0.0,252,3.0,121.7,SVN,Slovenia<br>Active Cases 252<br>Total Deaths 1
  Singapore ,243,0.0,0.0,0.0,109.0,134,11.0,41.5,SGP,Singapore<br>Active Cases 134<br>Total Deaths 0
  Brazil ,234,0.0,0.0,0.0,2.0,232,2.0,1.1,BRA,Brazil<br>Active Cases 232<br>Total Deaths 0
@@ -74,7 +74,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Turkey ,47,0.0,0.0,0.0,0.0,47,0.0,0.6,TUR,Turkey<br>Active Cases 47<br>Total Deaths 0
  Cyprus ,46,0.0,0.0,0.0,0.0,46,1.0,38.1,CYP,Cyprus<br>Active Cases 46<br>Total Deaths 0
  Costa Rica ,41,0.0,0.0,0.0,0.0,41,3.0,8.0,CRI,Costa Rica<br>Active Cases 41<br>Total Deaths 0
- Palestine ,39,0.0,0.0,0.0,0.0,39,0.0,7.6,PSE,Palestine<br>Active Cases 39<br>Total Deaths 0
+ Palestine ,40,1.0,0.0,0.0,0.0,40,0.0,7.8,PSE,Palestine<br>Active Cases 40<br>Total Deaths 0
  Morocco ,37,0.0,1.0,0.0,1.0,35,1.0,1.0,MAR,Morocco<br>Active Cases 35<br>Total Deaths 1
  Belarus ,36,0.0,0.0,0.0,3.0,33,0.0,3.8,BLR,Belarus<br>Active Cases 33<br>Total Deaths 0
  Georgia ,34,1.0,0.0,0.0,1.0,33,1.0,8.5,GEO,Georgia<br>Active Cases 33<br>Total Deaths 0
@@ -90,7 +90,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Bosnia and Herzegovina ,25,0.0,0.0,0.0,2.0,23,0.0,7.6,BIH,Bosnia and Herzegovina<br>Active Cases 23<br>Total Deaths 0
  Cambodia ,24,12.0,0.0,0.0,1.0,23,0.0,1.4,KHM,Cambodia<br>Active Cases 23<br>Total Deaths 0
  North Macedonia ,24,0.0,0.0,0.0,1.0,23,1.0,11.5,MKD,North Macedonia<br>Active Cases 23<br>Total Deaths 0
- Oman ,24,0.0,0.0,0.0,9.0,15,0.0,4.7,OMN,Oman<br>Active Cases 15<br>Total Deaths 0
+ Oman ,24,0.0,0.0,0.0,12.0,12,0.0,4.7,OMN,Oman<br>Active Cases 12<br>Total Deaths 0
  Tunisia ,24,0.0,0.0,0.0,0.0,24,2.0,2.0,TUN,Tunisia<br>Active Cases 24<br>Total Deaths 0
  Afghanistan ,22,1.0,0.0,0.0,1.0,21,0.0,0.6,AFG,Afghanistan<br>Active Cases 21<br>Total Deaths 0
  Dominican Republic ,21,0.0,1.0,0.0,0.0,20,0.0,1.9,DOM,Dominican Republic<br>Active Cases 20<br>Total Deaths 1
