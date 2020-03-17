@@ -1,6 +1,6 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,iso_alpha,text
  China ,80881,21.0,3226.0,13.0,68694.0,8961,3226.0,56.2,CHN,China<br>Active Cases 8961<br>Total Deaths 3226
- Italy ,27980,0.0,2158.0,0.0,2749.0,23073,1851.0,0.0,ITA,Italy<br>Active Cases 23073<br>Total Deaths 2158
+ Italy ,27980,0.0,2158.0,0.0,2749.0,23073,1851.0,462.8,ITA,Italy<br>Active Cases 23073<br>Total Deaths 2158
  Iran ,14991,0.0,853.0,0.0,4996.0,9142,0.0,178.5,IRN,Iran<br>Active Cases 9142<br>Total Deaths 853
  Spain ,9942,0.0,342.0,0.0,530.0,9070,272.0,212.6,ESP,Spain<br>Active Cases 9070<br>Total Deaths 342
  S. Korea ,8320,84.0,81.0,6.0,1401.0,6838,59.0,162.3,KOR,S. Korea<br>Active Cases 6838<br>Total Deaths 81
@@ -15,7 +15,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Sweden ,1121,0.0,7.0,0.0,1.0,1113,2.0,111.0,SWE,Sweden<br>Active Cases 1113<br>Total Deaths 7
  Belgium ,1058,0.0,10.0,0.0,1.0,1047,33.0,91.3,BEL,Belgium<br>Active Cases 1047<br>Total Deaths 10
  Denmark ,914,0.0,4.0,0.0,1.0,909,10.0,157.8,DNK,Denmark<br>Active Cases 909<br>Total Deaths 4
- Japan ,837,4.0,28.0,0.0,144.0,665,41.0,6.6,JPN,Japan<br>Active Cases 665<br>Total Deaths 28
+ Japan ,839,6.0,28.0,0.0,144.0,667,41.0,6.6,JPN,Japan<br>Active Cases 667<br>Total Deaths 28
  Diamond Princess ,696,0.0,7.0,0.0,456.0,233,15.0,0.0,Diamond Princess,Diamond Princess<br>Active Cases 233<br>Total Deaths 7
  Malaysia ,566,0.0,0.0,0.0,42.0,524,9.0,17.5,MYS,Malaysia<br>Active Cases 524<br>Total Deaths 0
  Australia ,452,51.0,5.0,0.0,27.0,420,1.0,17.7,AUS,Australia<br>Active Cases 420<br>Total Deaths 5
@@ -34,7 +34,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Ireland ,223,0.0,2.0,0.0,5.0,216,6.0,45.2,IRL,Ireland<br>Active Cases 216<br>Total Deaths 2
  Poland ,205,28.0,5.0,1.0,0.0,200,3.0,5.4,POL,Poland<br>Active Cases 200<br>Total Deaths 5
  Iceland ,199,0.0,0.0,0.0,0.0,199,1.0,0.0,ISL,Iceland<br>Active Cases 199<br>Total Deaths 0
- Pakistan ,189,5.0,1.0,0.0,2.0,186,0.0,0.9,PAK,Pakistan<br>Active Cases 186<br>Total Deaths 1
+ Pakistan ,194,10.0,1.0,0.0,2.0,191,0.0,0.9,PAK,Pakistan<br>Active Cases 191<br>Total Deaths 1
  Philippines ,187,45.0,12.0,0.0,5.0,170,1.0,1.7,PHL,Philippines<br>Active Cases 170<br>Total Deaths 12
  Romania ,184,16.0,0.0,0.0,16.0,168,2.0,9.6,ROU,Romania<br>Active Cases 168<br>Total Deaths 0
  Thailand ,177,30.0,1.0,0.0,41.0,135,1.0,2.5,THA,Thailand<br>Active Cases 135<br>Total Deaths 1
@@ -64,8 +64,8 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Vietnam ,61,0.0,0.0,0.0,16.0,45,0.0,0.6,VNM,Vietnam<br>Active Cases 45<br>Total Deaths 0
  Algeria ,60,0.0,4.0,0.0,10.0,46,0.0,1.4,DZA,Algeria<br>Active Cases 46<br>Total Deaths 4
  Ecuador ,58,0.0,2.0,0.0,0.0,56,2.0,3.3,ECU,Ecuador<br>Active Cases 56<br>Total Deaths 2
+ Colombia ,57,3.0,0.0,0.0,1.0,56,0.0,1.1,COL,Colombia<br>Active Cases 56<br>Total Deaths 0
  Brunei ,54,0.0,0.0,0.0,0.0,54,1.0,0.0,BRN,Brunei<br>Active Cases 54<br>Total Deaths 0
- Colombia ,54,0.0,0.0,0.0,1.0,53,0.0,1.1,COL,Colombia<br>Active Cases 53<br>Total Deaths 0
  Armenia ,52,0.0,0.0,0.0,1.0,51,2.0,17.5,ARM,Armenia<br>Active Cases 51<br>Total Deaths 0
  Albania ,51,0.0,1.0,0.0,0.0,50,2.0,17.7,ALB,Albania<br>Active Cases 50<br>Total Deaths 1
  Hungary ,50,11.0,1.0,0.0,2.0,47,0.0,5.2,HUN,Hungary<br>Active Cases 47<br>Total Deaths 1
