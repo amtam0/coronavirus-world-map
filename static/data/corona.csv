@@ -1,6 +1,6 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,iso_alpha,text
  China ,80881,21.0,3226.0,13.0,68709.0,8946,3226.0,56.2,CHN,China<br>Active Cases 8946<br>Total Deaths 3226
- Italy ,27980,0.0,2158.0,0.0,2749.0,23073,1851.0,0.0,ITA,Italy<br>Active Cases 23073<br>Total Deaths 2158
+ Italy ,27980,0.0,2158.0,0.0,2749.0,23073,1851.0,462.8,ITA,Italy<br>Active Cases 23073<br>Total Deaths 2158
  Iran ,16169,1178.0,988.0,135.0,5389.0,9792,0.0,192.5,IRN,Iran<br>Active Cases 9792<br>Total Deaths 988
  Spain ,11409,1467.0,499.0,157.0,1028.0,9882,563.0,244.0,ESP,Spain<br>Active Cases 9882<br>Total Deaths 499
  S. Korea ,8320,84.0,81.0,6.0,1401.0,6838,59.0,162.3,KOR,S. Korea<br>Active Cases 6838<br>Total Deaths 81
@@ -83,7 +83,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Georgia ,34,1.0,0.0,0.0,1.0,33,1.0,8.5,GEO,Georgia<br>Active Cases 33<br>Total Deaths 0
  Venezuela ,33,16.0,0.0,0.0,0.0,33,0.0,1.2,VEN,Venezuela<br>Active Cases 33<br>Total Deaths 0
  Kazakhstan ,32,22.0,0.0,0.0,0.0,32,0.0,1.7,KAZ,Kazakhstan<br>Active Cases 32<br>Total Deaths 0
- Moldova ,29,0.0,0.0,0.0,1.0,28,1.0,7.2,MDA,Moldova<br>Active Cases 28<br>Total Deaths 0
+ Moldova ,30,1.0,0.0,0.0,1.0,29,1.0,7.4,MDA,Moldova<br>Active Cases 29<br>Total Deaths 0
  Uruguay ,29,0.0,0.0,0.0,0.0,29,0.0,8.3,URY,Uruguay<br>Active Cases 29<br>Total Deaths 0
  Azerbaijan ,28,3.0,1.0,0.0,6.0,21,0.0,2.8,AZE,Azerbaijan<br>Active Cases 21<br>Total Deaths 1
  Senegal ,27,0.0,0.0,0.0,2.0,25,0.0,1.6,SEN,Senegal<br>Active Cases 25<br>Total Deaths 0
