@@ -1,7 +1,7 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,iso_alpha,text
  China ,80881,21.0,3226.0,13.0,68715.0,8940,3226.0,56.2,CHN,China<br>Active Cases 8940<br>Total Deaths 3226
  Italy ,31506,3526.0,2503.0,345.0,2941.0,26062,2060.0,0.0,ITA,Italy<br>Active Cases 26062<br>Total Deaths 2503
- Iran ,16169,1178.0,988.0,135.0,5389.0,9792,0.0,192.5,IRN,Iran<br>Active Cases 9792<br>Total Deaths 988
+ Iran ,16169,1178.0,988.0,135.0,5389.0,9792,0.0,267.4,IRN,Iran<br>Active Cases 9792<br>Total Deaths 988
  Spain ,11409,1467.0,510.0,168.0,1028.0,9871,563.0,244.0,ESP,Spain<br>Active Cases 9871<br>Total Deaths 510
  Germany ,9226,1954.0,24.0,7.0,67.0,9135,2.0,110.1,DEU,Germany<br>Active Cases 9135<br>Total Deaths 24
  S. Korea ,8320,84.0,81.0,6.0,1401.0,6838,59.0,162.3,KOR,S. Korea<br>Active Cases 6838<br>Total Deaths 81
@@ -98,6 +98,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Andorra ,16,2.0,0.0,0.0,1.0,15,0.0,0.0,AND,Andorra<br>Active Cases 15<br>Total Deaths 0
  Martinique ,15,0.0,1.0,0.0,0.0,14,0.0,0.0,MTQ,Martinique<br>Active Cases 14<br>Total Deaths 1
  Burkina Faso ,15,0.0,0.0,0.0,0.0,15,0.0,0.7,BFA,Burkina Faso<br>Active Cases 15<br>Total Deaths 0
+ Ukraine ,14,7.0,2.0,1.0,0.0,12,0.0,0.3,UKR,Ukraine<br>Active Cases 12<br>Total Deaths 2
  Macao ,13,1.0,0.0,0.0,10.0,3,0.0,0.0,MAC,Macao<br>Active Cases 3<br>Total Deaths 0
  Maldives ,13,0.0,0.0,0.0,0.0,13,0.0,0.0,MDV,Maldives<br>Active Cases 13<br>Total Deaths 0
  New Zealand ,12,4.0,0.0,0.0,0.0,12,0.0,2.5,NZL,New Zealand<br>Active Cases 12<br>Total Deaths 0
@@ -113,7 +114,6 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Guatemala ,8,0.0,1.0,0.0,0.0,7,0.0,0.4,GTM,Guatemala<br>Active Cases 7<br>Total Deaths 1
  Honduras ,8,2.0,0.0,0.0,0.0,8,0.0,0.8,HND,Honduras<br>Active Cases 8<br>Total Deaths 0
  Guyana ,7,0.0,1.0,0.0,0.0,6,0.0,0.0,GUY,Guyana<br>Active Cases 6<br>Total Deaths 1
- Ukraine ,7,0.0,1.0,0.0,0.0,6,0.0,0.2,UKR,Ukraine<br>Active Cases 6<br>Total Deaths 1
  Liechtenstein ,7,0.0,0.0,0.0,0.0,7,0.0,0.0,LIE,Liechtenstein<br>Active Cases 7<br>Total Deaths 0
  Rwanda ,7,0.0,0.0,0.0,0.0,7,0.0,0.5,RWA,Rwanda<br>Active Cases 7<br>Total Deaths 0
  Channel Islands ,6,0.0,0.0,0.0,0.0,6,0.0,0.0,Channel Islands,Channel Islands<br>Active Cases 6<br>Total Deaths 0
