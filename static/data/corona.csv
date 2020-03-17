@@ -1,6 +1,6 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,iso_alpha,text
  China ,80881,21.0,3226.0,13.0,68715.0,8940,3226.0,56.2,CHN,China<br>Active Cases 8940<br>Total Deaths 3226
- Italy ,27980,0.0,2158.0,0.0,2749.0,23073,1851.0,0.0,ITA,Italy<br>Active Cases 23073<br>Total Deaths 2158
+ Italy ,27980,0.0,2158.0,0.0,2749.0,23073,1851.0,462.8,ITA,Italy<br>Active Cases 23073<br>Total Deaths 2158
  Iran ,16169,1178.0,988.0,135.0,5389.0,9792,0.0,192.5,IRN,Iran<br>Active Cases 9792<br>Total Deaths 988
  Spain ,11409,1467.0,510.0,168.0,1028.0,9871,563.0,244.0,ESP,Spain<br>Active Cases 9871<br>Total Deaths 510
  Germany ,8604,1332.0,23.0,6.0,67.0,8514,2.0,102.7,DEU,Germany<br>Active Cases 8514<br>Total Deaths 23
@@ -8,9 +8,9 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  France ,6633,0.0,148.0,0.0,12.0,6473,400.0,101.6,FRA,France<br>Active Cases 6473<br>Total Deaths 148
  USA ,5696,1033.0,97.0,11.0,74.0,5525,12.0,17.2,USA,USA<br>Active Cases 5525<br>Total Deaths 97
  Switzerland ,2742,389.0,27.0,8.0,15.0,2700,0.0,316.8,CHE,Switzerland<br>Active Cases 2700<br>Total Deaths 27
- UK ,1950,407.0,56.0,1.0,52.0,1842,20.0,28.7,GBR,UK<br>Active Cases 1842<br>Total Deaths 56
+ UK ,1950,407.0,71.0,16.0,52.0,1827,20.0,28.7,GBR,UK<br>Active Cases 1827<br>Total Deaths 71
  Netherlands ,1705,292.0,43.0,19.0,2.0,1660,45.0,99.5,NLD,Netherlands<br>Active Cases 1660<br>Total Deaths 43
- Norway ,1445,97.0,3.0,0.0,1.0,1441,27.0,266.5,NOR,Norway<br>Active Cases 1441<br>Total Deaths 3
+ Norway ,1450,102.0,3.0,0.0,1.0,1446,27.0,267.5,NOR,Norway<br>Active Cases 1446<br>Total Deaths 3
  Austria ,1332,314.0,4.0,1.0,8.0,1320,12.0,147.9,AUT,Austria<br>Active Cases 1320<br>Total Deaths 4
  Belgium ,1243,185.0,10.0,0.0,14.0,1219,33.0,107.3,BEL,Belgium<br>Active Cases 1219<br>Total Deaths 10
  Sweden ,1191,70.0,8.0,1.0,1.0,1182,12.0,117.9,SWE,Sweden<br>Active Cases 1182<br>Total Deaths 8
