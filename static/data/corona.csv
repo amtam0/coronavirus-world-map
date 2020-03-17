@@ -1,12 +1,12 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,iso_alpha,text
  China ,80881,21.0,3226.0,13.0,68715.0,8940,3226.0,56.2,CHN,China<br>Active Cases 8940<br>Total Deaths 3226
- Italy ,31506,3526.0,2503.0,345.0,2941.0,26062,2060.0,0.0,ITA,Italy<br>Active Cases 26062<br>Total Deaths 2503
+ Italy ,31506,3526.0,2503.0,345.0,2941.0,26062,2060.0,521.1,ITA,Italy<br>Active Cases 26062<br>Total Deaths 2503
  Iran ,16169,1178.0,988.0,135.0,5389.0,9792,0.0,192.5,IRN,Iran<br>Active Cases 9792<br>Total Deaths 988
  Spain ,11748,1806.0,533.0,191.0,1028.0,10187,563.0,251.3,ESP,Spain<br>Active Cases 10187<br>Total Deaths 533
  Germany ,9352,2080.0,24.0,7.0,67.0,9261,2.0,111.6,DEU,Germany<br>Active Cases 9261<br>Total Deaths 24
  S. Korea ,8320,84.0,81.0,6.0,1401.0,6838,59.0,162.3,KOR,S. Korea<br>Active Cases 6838<br>Total Deaths 81
  France ,7730,1097.0,175.0,27.0,602.0,6953,699.0,118.4,FRA,France<br>Active Cases 6953<br>Total Deaths 175
- USA ,5891,1228.0,99.0,13.0,74.0,5718,12.0,17.8,USA,USA<br>Active Cases 5718<br>Total Deaths 99
+ USA ,5915,1252.0,99.0,13.0,74.0,5742,12.0,17.9,USA,USA<br>Active Cases 5742<br>Total Deaths 99
  Switzerland ,2742,389.0,27.0,8.0,15.0,2700,0.0,316.8,CHE,Switzerland<br>Active Cases 2700<br>Total Deaths 27
  UK ,1950,407.0,71.0,16.0,65.0,1814,20.0,28.7,GBR,UK<br>Active Cases 1814<br>Total Deaths 71
  Netherlands ,1705,292.0,43.0,19.0,2.0,1660,45.0,99.5,NLD,Netherlands<br>Active Cases 1660<br>Total Deaths 43
@@ -45,7 +45,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Hong Kong ,168,13.0,4.0,0.0,81.0,83,4.0,22.4,HKG,Hong Kong<br>Active Cases 83<br>Total Deaths 4
  Iraq ,154,21.0,11.0,1.0,41.0,102,0.0,3.8,IRQ,Iraq<br>Active Cases 102<br>Total Deaths 11
  India ,143,14.0,3.0,1.0,14.0,126,0.0,0.1,IND,India<br>Active Cases 126<br>Total Deaths 3
- Luxembourg ,140,59.0,1.0,0.0,0.0,139,10.0,0.0,LUX,Luxembourg<br>Active Cases 139<br>Total Deaths 1
+ Luxembourg ,140,59.0,1.0,0.0,0.0,139,1.0,0.0,LUX,Luxembourg<br>Active Cases 139<br>Total Deaths 1
  Kuwait ,130,7.0,0.0,0.0,12.0,118,4.0,30.4,KWT,Kuwait<br>Active Cases 118<br>Total Deaths 0
  Lebanon ,120,11.0,3.0,0.0,4.0,113,3.0,17.6,LBN,Lebanon<br>Active Cases 113<br>Total Deaths 3
  San Marino ,119,10.0,11.0,2.0,4.0,104,11.0,0.0,SMR,San Marino<br>Active Cases 104<br>Total Deaths 11
