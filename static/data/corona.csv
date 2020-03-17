@@ -1,10 +1,10 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,iso_alpha,text
  China ,80881,21.0,3226.0,13.0,68715.0,8940,3226.0,56.2,CHN,China<br>Active Cases 8940<br>Total Deaths 3226
  Italy ,31506,3526.0,2503.0,345.0,2941.0,26062,2060.0,0.0,ITA,Italy<br>Active Cases 26062<br>Total Deaths 2503
- Iran ,16169,1178.0,988.0,135.0,5389.0,9792,0.0,192.5,IRN,Iran<br>Active Cases 9792<br>Total Deaths 988
- Spain ,11409,1467.0,510.0,168.0,1028.0,9871,563.0,244.0,ESP,Spain<br>Active Cases 9871<br>Total Deaths 510
- Germany ,8604,1332.0,23.0,6.0,67.0,8514,2.0,102.7,DEU,Germany<br>Active Cases 8514<br>Total Deaths 23
- S. Korea ,8320,84.0,81.0,6.0,1401.0,6838,59.0,162.3,KOR,S. Korea<br>Active Cases 6838<br>Total Deaths 81
+ Iran ,16169,1178.0,988.0,135.0,5389.0,9792,0.0,267.4,IRN,Iran<br>Active Cases 9792<br>Total Deaths 988
+ Spain ,11409,1467.0,510.0,168.0,1028.0,9871,563.0,135.8,ESP,Spain<br>Active Cases 9871<br>Total Deaths 510
+ Germany ,8639,1367.0,23.0,6.0,67.0,8549,2.0,184.8,DEU,Germany<br>Active Cases 8549<br>Total Deaths 23
+ S. Korea ,8320,84.0,81.0,6.0,1401.0,6838,59.0,99.3,KOR,S. Korea<br>Active Cases 6838<br>Total Deaths 81
  France ,6633,0.0,148.0,0.0,12.0,6473,400.0,101.6,FRA,France<br>Active Cases 6473<br>Total Deaths 148
  USA ,5704,1041.0,97.0,11.0,74.0,5533,12.0,17.2,USA,USA<br>Active Cases 5533<br>Total Deaths 97
  Switzerland ,2742,389.0,27.0,8.0,15.0,2700,0.0,316.8,CHE,Switzerland<br>Active Cases 2700<br>Total Deaths 27
@@ -37,12 +37,12 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Poland ,221,44.0,5.0,1.0,0.0,216,3.0,5.8,POL,Poland<br>Active Cases 216<br>Total Deaths 5
  Romania ,217,49.0,0.0,0.0,19.0,198,5.0,11.3,ROU,Romania<br>Active Cases 198<br>Total Deaths 0
  Chile ,201,45.0,0.0,0.0,0.0,201,3.0,10.5,CHL,Chile<br>Active Cases 201<br>Total Deaths 0
+ Egypt ,196,30.0,4.0,0.0,32.0,160,0.0,1.9,EGY,Egypt<br>Active Cases 160<br>Total Deaths 4
  Philippines ,187,45.0,12.0,0.0,5.0,170,1.0,1.7,PHL,Philippines<br>Active Cases 170<br>Total Deaths 12
  Thailand ,177,30.0,1.0,0.0,41.0,135,1.0,2.5,THA,Thailand<br>Active Cases 135<br>Total Deaths 1
  Indonesia ,172,38.0,7.0,2.0,8.0,157,0.0,0.6,IDN,Indonesia<br>Active Cases 157<br>Total Deaths 7
  Saudi Arabia ,171,38.0,0.0,0.0,6.0,165,0.0,4.9,SAU,Saudi Arabia<br>Active Cases 165<br>Total Deaths 0
- Egypt ,169,3.0,4.0,0.0,32.0,133,0.0,1.7,EGY,Egypt<br>Active Cases 133<br>Total Deaths 4
- Hong Kong ,162,7.0,4.0,0.0,81.0,77,4.0,21.6,HKG,Hong Kong<br>Active Cases 77<br>Total Deaths 4
+ Hong Kong ,168,13.0,4.0,0.0,81.0,83,4.0,22.4,HKG,Hong Kong<br>Active Cases 83<br>Total Deaths 4
  Iraq ,154,21.0,11.0,1.0,41.0,102,0.0,3.8,IRQ,Iraq<br>Active Cases 102<br>Total Deaths 11
  India ,142,13.0,3.0,1.0,14.0,125,0.0,0.1,IND,India<br>Active Cases 125<br>Total Deaths 3
  Luxembourg ,140,59.0,1.0,0.0,0.0,139,10.0,0.0,LUX,Luxembourg<br>Active Cases 139<br>Total Deaths 1
