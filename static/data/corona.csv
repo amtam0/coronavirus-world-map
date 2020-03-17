@@ -6,7 +6,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Germany ,9367,2095.0,26.0,9.0,67.0,9274,2.0,111.8,DEU,Germany<br>Active Cases 9274<br>Total Deaths 26
  S. Korea ,8320,84.0,81.0,6.0,1401.0,6838,59.0,162.3,KOR,S. Korea<br>Active Cases 6838<br>Total Deaths 81
  France ,7730,1097.0,175.0,27.0,602.0,6953,699.0,118.4,FRA,France<br>Active Cases 6953<br>Total Deaths 175
- USA ,6211,1548.0,102.0,16.0,74.0,6035,12.0,18.8,USA,USA<br>Active Cases 6035<br>Total Deaths 102
+ USA ,6223,1560.0,103.0,17.0,74.0,6046,12.0,18.8,USA,USA<br>Active Cases 6046<br>Total Deaths 103
  Switzerland ,2742,389.0,27.0,8.0,15.0,2700,0.0,316.8,CHE,Switzerland<br>Active Cases 2700<br>Total Deaths 27
  UK ,1950,407.0,71.0,16.0,65.0,1814,20.0,28.7,GBR,UK<br>Active Cases 1814<br>Total Deaths 71
  Netherlands ,1705,292.0,43.0,19.0,2.0,1660,45.0,99.5,NLD,Netherlands<br>Active Cases 1660<br>Total Deaths 43
@@ -55,6 +55,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Ecuador ,111,53.0,2.0,0.0,0.0,109,2.0,6.3,ECU,Ecuador<br>Active Cases 109<br>Total Deaths 2
  Turkey ,98,51.0,1.0,1.0,0.0,97,0.0,1.2,TUR,Turkey<br>Active Cases 97<br>Total Deaths 1
  Slovakia ,97,25.0,0.0,0.0,0.0,97,2.0,17.8,SVK,Slovakia<br>Active Cases 97<br>Total Deaths 0
+ South Africa ,85,21.0,0.0,0.0,0.0,85,0.0,1.4,ZAF,South Africa<br>Active Cases 85<br>Total Deaths 0
  Mexico ,82,29.0,0.0,0.0,4.0,78,1.0,0.6,MEX,Mexico<br>Active Cases 78<br>Total Deaths 0
  Bulgaria ,81,19.0,2.0,0.0,0.0,79,0.0,11.7,BGR,Bulgaria<br>Active Cases 79<br>Total Deaths 2
  Armenia ,78,26.0,0.0,0.0,1.0,77,2.0,26.3,ARM,Armenia<br>Active Cases 77<br>Total Deaths 0
@@ -65,8 +66,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Argentina ,68,3.0,2.0,0.0,3.0,63,1.0,1.5,ARG,Argentina<br>Active Cases 63<br>Total Deaths 2
  Vietnam ,66,5.0,0.0,0.0,16.0,50,0.0,0.7,VNM,Vietnam<br>Active Cases 50<br>Total Deaths 0
  Colombia ,65,11.0,0.0,0.0,1.0,64,0.0,1.3,COL,Colombia<br>Active Cases 64<br>Total Deaths 0
- South Africa ,62,0.0,0.0,0.0,0.0,62,0.0,1.0,ZAF,South Africa<br>Active Cases 62<br>Total Deaths 0
- Algeria ,60,0.0,5.0,1.0,10.0,45,0.0,1.4,DZA,Algeria<br>Active Cases 45<br>Total Deaths 5
+ Algeria ,61,1.0,5.0,1.0,10.0,46,0.0,1.4,DZA,Algeria<br>Active Cases 46<br>Total Deaths 5
  Latvia ,60,26.0,0.0,0.0,1.0,59,0.0,31.8,LVA,Latvia<br>Active Cases 59<br>Total Deaths 0
  Brunei ,56,2.0,0.0,0.0,0.0,56,1.0,0.0,BRN,Brunei<br>Active Cases 56<br>Total Deaths 0
  Albania ,55,4.0,1.0,0.0,0.0,54,2.0,19.1,ALB,Albania<br>Active Cases 54<br>Total Deaths 1
