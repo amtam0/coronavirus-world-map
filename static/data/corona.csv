@@ -6,7 +6,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Germany ,9367,2095.0,26.0,9.0,67.0,9274,2.0,111.8,DEU,Germany<br>Active Cases 9274<br>Total Deaths 26
  S. Korea ,8320,84.0,81.0,6.0,1401.0,6838,59.0,162.3,KOR,S. Korea<br>Active Cases 6838<br>Total Deaths 81
  France ,7730,1097.0,175.0,27.0,602.0,6953,699.0,118.4,FRA,France<br>Active Cases 6953<br>Total Deaths 175
- USA ,6428,1765.0,106.0,20.0,106.0,6216,12.0,19.4,USA,USA<br>Active Cases 6216<br>Total Deaths 106
+ USA ,6431,1768.0,107.0,21.0,106.0,6218,12.0,19.4,USA,USA<br>Active Cases 6218<br>Total Deaths 107
  Switzerland ,2742,389.0,27.0,8.0,15.0,2700,0.0,316.8,CHE,Switzerland<br>Active Cases 2700<br>Total Deaths 27
  UK ,1950,407.0,71.0,16.0,65.0,1814,20.0,28.7,GBR,UK<br>Active Cases 1814<br>Total Deaths 71
  Netherlands ,1705,292.0,43.0,19.0,2.0,1660,45.0,99.5,NLD,Netherlands<br>Active Cases 1660<br>Total Deaths 43
@@ -24,8 +24,8 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Qatar ,442,3.0,0.0,0.0,4.0,438,0.0,153.4,QAT,Qatar<br>Active Cases 438<br>Total Deaths 0
  Czechia ,434,90.0,0.0,0.0,3.0,431,2.0,40.5,CZE,Czechia<br>Active Cases 431<br>Total Deaths 0
  Greece ,387,35.0,5.0,1.0,14.0,368,11.0,37.1,GRC,Greece<br>Active Cases 368<br>Total Deaths 5
+ Brazil ,346,112.0,1.0,1.0,2.0,343,18.0,1.6,BRA,Brazil<br>Active Cases 343<br>Total Deaths 1
  Israel ,337,39.0,0.0,0.0,11.0,326,5.0,38.9,ISR,Israel<br>Active Cases 326<br>Total Deaths 0
- Brazil ,328,94.0,1.0,1.0,2.0,325,18.0,1.5,BRA,Brazil<br>Active Cases 325<br>Total Deaths 1
  Finland ,322,44.0,0.0,0.0,10.0,312,2.0,58.1,FIN,Finland<br>Active Cases 312<br>Total Deaths 0
  Ireland ,292,69.0,2.0,0.0,5.0,285,6.0,59.1,IRL,Ireland<br>Active Cases 285<br>Total Deaths 2
  Slovenia ,275,22.0,1.0,0.0,0.0,274,4.0,132.3,SVN,Slovenia<br>Active Cases 274<br>Total Deaths 1
@@ -92,7 +92,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Moldova ,30,1.0,0.0,0.0,1.0,29,1.0,7.4,MDA,Moldova<br>Active Cases 29<br>Total Deaths 0
  Uruguay ,29,0.0,0.0,0.0,0.0,29,0.0,8.3,URY,Uruguay<br>Active Cases 29<br>Total Deaths 0
  Senegal ,27,0.0,0.0,0.0,2.0,25,0.0,1.6,SEN,Senegal<br>Active Cases 25<br>Total Deaths 0
- Lithuania ,25,7.0,0.0,0.0,1.0,24,1.0,9.2,LTU,Lithuania<br>Active Cases 24<br>Total Deaths 0
+ Lithuania ,26,8.0,0.0,0.0,1.0,25,1.0,9.6,LTU,Lithuania<br>Active Cases 25<br>Total Deaths 0
  Tunisia ,25,1.0,0.0,0.0,1.0,24,2.0,2.1,TUN,Tunisia<br>Active Cases 24<br>Total Deaths 0
  Afghanistan ,22,1.0,0.0,0.0,1.0,21,0.0,0.6,AFG,Afghanistan<br>Active Cases 21<br>Total Deaths 0
  Dominican Republic ,21,0.0,1.0,0.0,0.0,20,0.0,1.9,DOM,Dominican Republic<br>Active Cases 20<br>Total Deaths 1
@@ -134,6 +134,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  DRC ,3,0.0,0.0,0.0,0.0,3,0.0,0.0,DRC,DRC<br>Active Cases 3<br>Total Deaths 0
  French Polynesia ,3,0.0,0.0,0.0,0.0,3,0.0,0.0,PYF,French Polynesia<br>Active Cases 3<br>Total Deaths 0
  Gibraltar ,3,0.0,0.0,0.0,2.0,1,0.0,0.0,GIB,Gibraltar<br>Active Cases 1<br>Total Deaths 0
+ Mayotte ,3,1.0,0.0,0.0,0.0,3,0.0,0.0,MYT,Mayotte<br>Active Cases 3<br>Total Deaths 0
  St. Barth ,3,0.0,0.0,0.0,0.0,3,0.0,0.0,BLM,St. Barth<br>Active Cases 3<br>Total Deaths 0
  Barbados ,2,2.0,0.0,0.0,0.0,2,0.0,0.0,BRB,Barbados<br>Active Cases 2<br>Total Deaths 0
  Liberia ,2,1.0,0.0,0.0,0.0,2,0.0,0.4,LBR,Liberia<br>Active Cases 2<br>Total Deaths 0
@@ -158,7 +159,6 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Guinea ,1,0.0,0.0,0.0,0.0,1,0.0,0.1,GIN,Guinea<br>Active Cases 1<br>Total Deaths 0
  Vatican City ,1,0.0,0.0,0.0,0.0,1,0.0,0.0,VAT,Vatican City<br>Active Cases 1<br>Total Deaths 0
  Mauritania ,1,0.0,0.0,0.0,0.0,1,0.0,0.2,MRT,Mauritania<br>Active Cases 1<br>Total Deaths 0
- Mayotte ,1,0.0,0.0,0.0,0.0,1,0.0,0.0,MYT,Mayotte<br>Active Cases 1<br>Total Deaths 0
  St. Vincent Grenadines ,1,0.0,0.0,0.0,0.0,1,0.0,0.0,VCT,St. Vincent Grenadines<br>Active Cases 1<br>Total Deaths 0
  Somalia ,1,0.0,0.0,0.0,0.0,1,0.0,0.1,SOM,Somalia<br>Active Cases 1<br>Total Deaths 0
  Suriname ,1,0.0,0.0,0.0,0.0,1,0.0,0.0,SUR,Suriname<br>Active Cases 1<br>Total Deaths 0
