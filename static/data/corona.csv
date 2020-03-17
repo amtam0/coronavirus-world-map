@@ -1,6 +1,6 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,iso_alpha,text
  China ,80881,21.0,3226.0,13.0,68715.0,8940,3226.0,56.2,CHN,China<br>Active Cases 8940<br>Total Deaths 3226
- Italy ,27980,0.0,2158.0,0.0,2749.0,23073,1851.0,462.8,ITA,Italy<br>Active Cases 23073<br>Total Deaths 2158
+ Italy ,27980,0.0,2158.0,0.0,2749.0,23073,1851.0,0.0,ITA,Italy<br>Active Cases 23073<br>Total Deaths 2158
  Iran ,16169,1178.0,988.0,135.0,5389.0,9792,0.0,192.5,IRN,Iran<br>Active Cases 9792<br>Total Deaths 988
  Spain ,11409,1467.0,510.0,168.0,1028.0,9871,563.0,244.0,ESP,Spain<br>Active Cases 9871<br>Total Deaths 510
  Germany ,8604,1332.0,23.0,6.0,67.0,8514,2.0,102.7,DEU,Germany<br>Active Cases 8514<br>Total Deaths 23
@@ -70,9 +70,9 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Brunei ,56,2.0,0.0,0.0,0.0,56,1.0,0.0,BRN,Brunei<br>Active Cases 56<br>Total Deaths 0
  Albania ,55,4.0,1.0,0.0,0.0,54,2.0,19.1,ALB,Albania<br>Active Cases 54<br>Total Deaths 1
  Hungary ,50,11.0,1.0,0.0,2.0,47,0.0,5.2,HUN,Hungary<br>Active Cases 47<br>Total Deaths 1
+ Cyprus ,49,3.0,0.0,0.0,0.0,49,1.0,40.6,CYP,Cyprus<br>Active Cases 49<br>Total Deaths 0
  Faeroe Islands ,47,29.0,0.0,0.0,0.0,47,0.0,0.0,FRO,Faeroe Islands<br>Active Cases 47<br>Total Deaths 0
  Turkey ,47,0.0,0.0,0.0,0.0,47,0.0,0.6,TUR,Turkey<br>Active Cases 47<br>Total Deaths 0
- Cyprus ,46,0.0,0.0,0.0,0.0,46,1.0,38.1,CYP,Cyprus<br>Active Cases 46<br>Total Deaths 0
  Sri Lanka ,44,16.0,0.0,0.0,1.0,43,0.0,2.1,LKA,Sri Lanka<br>Active Cases 43<br>Total Deaths 0
  Costa Rica ,41,0.0,0.0,0.0,0.0,41,3.0,8.0,CRI,Costa Rica<br>Active Cases 41<br>Total Deaths 0
  Palestine ,41,2.0,0.0,0.0,0.0,41,0.0,8.0,PSE,Palestine<br>Active Cases 41<br>Total Deaths 0
