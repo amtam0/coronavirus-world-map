@@ -3,7 +3,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Italy ,31506,0.0,2503.0,0.0,2941.0,26062,2060.0,521.0,ITA,Italy<br>Active Cases 26062<br>Total Deaths 2503
  Iran ,17361,1192.0,1135.0,147.0,5389.0,10837,0.0,207.0,IRN,Iran<br>Active Cases 10837<br>Total Deaths 1135
  Spain ,13910,2084.0,623.0,90.0,1081.0,12206,563.0,298.0,ESP,Spain<br>Active Cases 12206<br>Total Deaths 623
- Germany ,10082,715.0,26.0,0.0,71.0,9985,2.0,120.0,DEU,Germany<br>Active Cases 9985<br>Total Deaths 26
+ Germany ,10082,715.0,27.0,1.0,73.0,9982,2.0,120.0,DEU,Germany<br>Active Cases 9982<br>Total Deaths 27
  S. Korea ,8413,93.0,84.0,3.0,1540.0,6789,59.0,164.0,KOR,S. Korea<br>Active Cases 6789<br>Total Deaths 84
  France ,7730,0.0,175.0,0.0,602.0,6953,699.0,118.0,FRA,France<br>Active Cases 6953<br>Total Deaths 175
  USA ,6534,123.0,116.0,7.0,106.0,6312,12.0,20.0,USA,USA<br>Active Cases 6312<br>Total Deaths 116
@@ -36,11 +36,11 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Iceland ,250,3.0,0.0,0.0,5.0,245,1.0,733.0,ISL,Iceland<br>Active Cases 245<br>Total Deaths 0
  Poland ,246,8.0,5.0,0.0,1.0,240,3.0,6.0,POL,Poland<br>Active Cases 240<br>Total Deaths 5
  Romania ,246,29.0,0.0,0.0,19.0,227,5.0,13.0,ROU,Romania<br>Active Cases 227<br>Total Deaths 0
+ Chile ,238,37.0,0.0,0.0,0.0,238,3.0,12.0,CHL,Chile<br>Active Cases 238<br>Total Deaths 0
  Indonesia ,227,55.0,19.0,12.0,11.0,197,0.0,0.8,IDN,Indonesia<br>Active Cases 197<br>Total Deaths 19
  Thailand ,212,35.0,1.0,0.0,41.0,170,1.0,3.0,THA,Thailand<br>Active Cases 170<br>Total Deaths 1
  Luxembourg ,203,63.0,2.0,1.0,0.0,201,1.0,324.0,LUX,Luxembourg<br>Active Cases 201<br>Total Deaths 2
  Philippines ,202,15.0,17.0,3.0,4.0,181,1.0,2.0,PHL,Philippines<br>Active Cases 181<br>Total Deaths 17
- Chile ,201,0.0,0.0,0.0,0.0,201,3.0,11.0,CHL,Chile<br>Active Cases 201<br>Total Deaths 0
  Egypt ,196,0.0,6.0,0.0,26.0,164,0.0,2.0,EGY,Egypt<br>Active Cases 164<br>Total Deaths 6
  Hong Kong ,181,13.0,4.0,0.0,92.0,85,4.0,24.0,HKG,Hong Kong<br>Active Cases 85<br>Total Deaths 4
  Saudi Arabia ,171,0.0,0.0,0.0,6.0,165,0.0,5.0,SAU,Saudi Arabia<br>Active Cases 165<br>Total Deaths 0
