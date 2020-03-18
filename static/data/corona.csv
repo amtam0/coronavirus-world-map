@@ -6,7 +6,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Germany ,10082,715.0,27.0,1.0,73.0,9982,2.0,120.0,DEU,Germany<br>Active Cases 9982<br>Total Deaths 27
  S. Korea ,8413,93.0,84.0,3.0,1540.0,6789,59.0,164.0,KOR,S. Korea<br>Active Cases 6789<br>Total Deaths 84
  France ,7730,0.0,175.0,0.0,602.0,6953,699.0,118.0,FRA,France<br>Active Cases 6953<br>Total Deaths 175
- USA ,6538,127.0,116.0,7.0,106.0,6316,12.0,20.0,USA,USA<br>Active Cases 6316<br>Total Deaths 116
+ USA ,7301,890.0,116.0,7.0,106.0,7079,12.0,22.0,USA,USA<br>Active Cases 7079<br>Total Deaths 116
  Switzerland ,2742,0.0,27.0,0.0,15.0,2700,0.0,317.0,CHE,Switzerland<br>Active Cases 2700<br>Total Deaths 27
  Netherlands ,2051,346.0,58.0,15.0,2.0,1991,45.0,120.0,NLD,Netherlands<br>Active Cases 1991<br>Total Deaths 58
  UK ,1950,0.0,71.0,0.0,65.0,1814,20.0,29.0,GBR,UK<br>Active Cases 1814<br>Total Deaths 71
@@ -131,6 +131,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Mongolia ,6,1.0,0.0,0.0,0.0,6,0.0,2.0,MNG,Mongolia<br>Active Cases 6<br>Total Deaths 0
  Puerto Rico ,5,0.0,0.0,0.0,0.0,5,0.0,2.0,PRI,Puerto Rico<br>Active Cases 5<br>Total Deaths 0
  Aruba ,4,1.0,0.0,0.0,0.0,4,0.0,37.0,ABW,Aruba<br>Active Cases 4<br>Total Deaths 0
+ Equatorial Guinea ,4,3.0,0.0,0.0,0.0,4,0.0,3.0,GNQ,Equatorial Guinea<br>Active Cases 4<br>Total Deaths 0
  Seychelles ,4,0.0,0.0,0.0,0.0,4,0.0,41.0,SYC,Seychelles<br>Active Cases 4<br>Total Deaths 0
  Curaçao ,3,0.0,0.0,0.0,0.0,3,0.0,18.0,CUW,Curaçao<br>Active Cases 3<br>Total Deaths 0
  French Polynesia ,3,0.0,0.0,0.0,0.0,3,0.0,11.0,PYF,French Polynesia<br>Active Cases 3<br>Total Deaths 0
@@ -158,7 +159,6 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  CAR ,1,0.0,0.0,0.0,0.0,1,0.0,0.2,CAR,CAR<br>Active Cases 1<br>Total Deaths 0
  Congo ,1,0.0,0.0,0.0,0.0,1,0.0,0.2,COG,Congo<br>Active Cases 1<br>Total Deaths 0
  Djibouti ,1,1.0,0.0,0.0,0.0,1,0.0,1.0,DJI,Djibouti<br>Active Cases 1<br>Total Deaths 0
- Equatorial Guinea ,1,0.0,0.0,0.0,0.0,1,0.0,0.7,GNQ,Equatorial Guinea<br>Active Cases 1<br>Total Deaths 0
  Gambia ,1,0.0,0.0,0.0,0.0,1,0.0,0.4,GMB,Gambia<br>Active Cases 1<br>Total Deaths 0
  Greenland ,1,0.0,0.0,0.0,0.0,1,0.0,18.0,GRL,Greenland<br>Active Cases 1<br>Total Deaths 0
  Guinea ,1,0.0,0.0,0.0,0.0,1,0.0,0.08,GIN,Guinea<br>Active Cases 1<br>Total Deaths 0
