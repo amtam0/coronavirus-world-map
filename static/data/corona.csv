@@ -6,7 +6,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Germany ,9367,2095.0,26.0,9.0,67.0,9274,2.0,112.0,DEU,Germany<br>Active Cases 9274<br>Total Deaths 26
  S. Korea ,8413,177.0,84.0,9.0,1540.0,6789,59.0,164.0,KOR,S. Korea<br>Active Cases 6789<br>Total Deaths 84
  France ,7730,1097.0,175.0,27.0,602.0,6953,699.0,118.0,FRA,France<br>Active Cases 6953<br>Total Deaths 175
- USA ,6470,1807.0,110.0,24.0,106.0,6254,12.0,20.0,USA,USA<br>Active Cases 6254<br>Total Deaths 110
+ USA ,6482,1819.0,111.0,25.0,106.0,6265,12.0,20.0,USA,USA<br>Active Cases 6265<br>Total Deaths 111
  Switzerland ,2742,389.0,27.0,8.0,15.0,2700,0.0,317.0,CHE,Switzerland<br>Active Cases 2700<br>Total Deaths 27
  UK ,1950,407.0,71.0,16.0,65.0,1814,20.0,29.0,GBR,UK<br>Active Cases 1814<br>Total Deaths 71
  Netherlands ,1705,292.0,43.0,19.0,2.0,1660,45.0,100.0,NLD,Netherlands<br>Active Cases 1660<br>Total Deaths 43
@@ -98,6 +98,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Dominican Republic ,21,0.0,1.0,0.0,0.0,20,0.0,2.0,DOM,Dominican Republic<br>Active Cases 20<br>Total Deaths 1
  New Zealand ,20,12.0,0.0,0.0,0.0,20,0.0,4.0,NZL,New Zealand<br>Active Cases 20<br>Total Deaths 0
  Liechtenstein ,19,12.0,0.0,0.0,0.0,19,0.0,498.0,LIE,Liechtenstein<br>Active Cases 19<br>Total Deaths 0
+ Guadeloupe ,18,12.0,0.0,0.0,0.0,18,0.0,45.0,GLP,Guadeloupe<br>Active Cases 18<br>Total Deaths 0
  Martinique ,15,0.0,1.0,0.0,0.0,14,0.0,40.0,MTQ,Martinique<br>Active Cases 14<br>Total Deaths 1
  Burkina Faso ,15,0.0,0.0,0.0,0.0,15,0.0,0.7,BFA,Burkina Faso<br>Active Cases 15<br>Total Deaths 0
  Ukraine ,14,7.0,2.0,1.0,0.0,12,0.0,0.3,UKR,Ukraine<br>Active Cases 12<br>Total Deaths 2
@@ -120,7 +121,6 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Rwanda ,7,0.0,0.0,0.0,0.0,7,0.0,0.5,RWA,Rwanda<br>Active Cases 7<br>Total Deaths 0
  Channel Islands ,6,0.0,0.0,0.0,0.0,6,0.0,35.0,Channel Islands,Channel Islands<br>Active Cases 6<br>Total Deaths 0
  Ethiopia ,6,1.0,0.0,0.0,0.0,6,0.0,0.05,ETH,Ethiopia<br>Active Cases 6<br>Total Deaths 0
- Guadeloupe ,6,0.0,0.0,0.0,0.0,6,0.0,15.0,GLP,Guadeloupe<br>Active Cases 6<br>Total Deaths 0
  Guam ,5,2.0,0.0,0.0,0.0,5,0.0,30.0,GUM,Guam<br>Active Cases 5<br>Total Deaths 0
  Mongolia ,5,1.0,0.0,0.0,0.0,5,0.0,2.0,MNG,Mongolia<br>Active Cases 5<br>Total Deaths 0
  Puerto Rico ,5,0.0,0.0,0.0,0.0,5,0.0,2.0,PRI,Puerto Rico<br>Active Cases 5<br>Total Deaths 0
