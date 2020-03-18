@@ -12,7 +12,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Netherlands ,1705,0.0,43.0,0.0,2.0,1660,45.0,100.0,NLD,Netherlands<br>Active Cases 1660<br>Total Deaths 43
  Norway ,1523,52.0,4.0,1.0,1.0,1518,27.0,281.0,NOR,Norway<br>Active Cases 1518<br>Total Deaths 4
  Belgium ,1486,243.0,10.0,0.0,14.0,1462,33.0,128.0,BEL,Belgium<br>Active Cases 1462<br>Total Deaths 10
- Austria ,1471,139.0,4.0,0.0,9.0,1458,12.0,163.0,AUT,Austria<br>Active Cases 1458<br>Total Deaths 4
+ Austria ,1471,139.0,7.0,3.0,9.0,1455,12.0,163.0,AUT,Austria<br>Active Cases 1455<br>Total Deaths 7
  Sweden ,1196,0.0,8.0,0.0,1.0,1187,12.0,118.0,SWE,Sweden<br>Active Cases 1187<br>Total Deaths 8
  Denmark ,1044,67.0,4.0,0.0,1.0,1039,18.0,180.0,DNK,Denmark<br>Active Cases 1039<br>Total Deaths 4
  Japan ,889,11.0,29.0,0.0,144.0,716,41.0,7.0,JPN,Japan<br>Active Cases 716<br>Total Deaths 29
@@ -44,7 +44,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Egypt ,196,0.0,6.0,0.0,26.0,164,0.0,2.0,EGY,Egypt<br>Active Cases 164<br>Total Deaths 6
  Hong Kong ,181,13.0,4.0,0.0,92.0,85,4.0,24.0,HKG,Hong Kong<br>Active Cases 85<br>Total Deaths 4
  Saudi Arabia ,171,0.0,0.0,0.0,6.0,165,0.0,5.0,SAU,Saudi Arabia<br>Active Cases 165<br>Total Deaths 0
- Iraq ,154,0.0,11.0,0.0,41.0,102,0.0,4.0,IRQ,Iraq<br>Active Cases 102<br>Total Deaths 11
+ Iraq ,164,10.0,12.0,1.0,41.0,111,0.0,4.0,IRQ,Iraq<br>Active Cases 111<br>Total Deaths 12
  India ,152,9.0,3.0,0.0,14.0,135,0.0,0.1,IND,India<br>Active Cases 135<br>Total Deaths 3
  Kuwait ,142,12.0,0.0,0.0,12.0,130,4.0,33.0,KWT,Kuwait<br>Active Cases 130<br>Total Deaths 0
  Lebanon ,133,9.0,4.0,0.0,4.0,125,3.0,19.0,LBN,Lebanon<br>Active Cases 125<br>Total Deaths 4
@@ -73,10 +73,10 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Hungary ,58,8.0,1.0,0.0,2.0,55,4.0,6.0,HUN,Hungary<br>Active Cases 55<br>Total Deaths 1
  Faeroe Islands ,58,11.0,0.0,0.0,1.0,57,0.0,1187.0,FRO,Faeroe Islands<br>Active Cases 57<br>Total Deaths 0
  Belarus ,51,15.0,0.0,0.0,5.0,46,0.0,5.0,BLR,Belarus<br>Active Cases 46<br>Total Deaths 0
+ Sri Lanka ,50,6.0,0.0,0.0,3.0,47,0.0,2.0,LKA,Sri Lanka<br>Active Cases 47<br>Total Deaths 0
  Costa Rica ,50,0.0,0.0,0.0,0.0,50,3.0,10.0,CRI,Costa Rica<br>Active Cases 50<br>Total Deaths 0
  Uruguay ,50,0.0,0.0,0.0,0.0,50,0.0,14.0,URY,Uruguay<br>Active Cases 50<br>Total Deaths 0
  Morocco ,49,5.0,2.0,0.0,1.0,46,1.0,1.0,MAR,Morocco<br>Active Cases 46<br>Total Deaths 2
- Sri Lanka ,49,5.0,0.0,0.0,3.0,46,0.0,2.0,LKA,Sri Lanka<br>Active Cases 46<br>Total Deaths 0
  Cyprus ,49,0.0,0.0,0.0,0.0,49,1.0,41.0,CYP,Cyprus<br>Active Cases 49<br>Total Deaths 0
  Jordan ,48,0.0,0.0,0.0,1.0,47,0.0,5.0,JOR,Jordan<br>Active Cases 47<br>Total Deaths 0
  Malta ,48,10.0,0.0,0.0,2.0,46,0.0,109.0,MLT,Malta<br>Active Cases 46<br>Total Deaths 0
@@ -91,7 +91,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
  Oman ,33,0.0,0.0,0.0,12.0,21,0.0,6.0,OMN,Oman<br>Active Cases 21<br>Total Deaths 0
  North Macedonia ,31,0.0,0.0,0.0,1.0,30,1.0,15.0,MKD,North Macedonia<br>Active Cases 30<br>Total Deaths 0
  Senegal ,31,4.0,0.0,0.0,2.0,29,0.0,2.0,SEN,Senegal<br>Active Cases 29<br>Total Deaths 0
- Moldova ,30,0.0,1.0,1.0,1.0,28,1.0,7.0,MDA,Moldova<br>Active Cases 28<br>Total Deaths 1
+ Moldova ,30,0.0,1.0,1.0,1.0,28,2.0,7.0,MDA,Moldova<br>Active Cases 28<br>Total Deaths 1
  Tunisia ,29,2.0,0.0,0.0,1.0,28,2.0,2.0,TUN,Tunisia<br>Active Cases 28<br>Total Deaths 0
  Lithuania ,27,1.0,0.0,0.0,1.0,26,1.0,10.0,LTU,Lithuania<br>Active Cases 26<br>Total Deaths 0
  Guadeloupe ,27,9.0,0.0,0.0,0.0,27,0.0,67.0,GLP,Guadeloupe<br>Active Cases 27<br>Total Deaths 0
