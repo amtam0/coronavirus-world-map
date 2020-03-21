@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[6]:
+# In[3]:
 
 
 import requests
@@ -13,7 +13,7 @@ import country_converter as coco
 
 # ### Build df from Url
 
-# In[7]:
+# In[59]:
 
 
 url='https://www.worldometers.info/coronavirus/'
@@ -21,25 +21,29 @@ url='https://www.worldometers.info/coronavirus/'
 # Scraping the Url
 page = requests.get(url)
 doc = lh.fromstring(page.content)
+todaydoc = doc.get_element_by_id("main_table_countries_today")
 
 # Parse data
-th_elements = doc.xpath('//th') # header
-td_elements = doc.xpath('//td') # cells content
+th_elements = todaydoc.xpath('//th') # header
+td_elements = todaydoc.xpath('//td') # cells content
 
 headers = [th_element.text_content() for th_element in th_elements]
+headers = headers[:len(headers)//2]
+
 content = [td_element.text_content() for td_element in td_elements]
-rows_content = np.array(content).reshape(int(len(content)/len(headers)),len(headers)).tolist()
+rows_content = np.array(content).reshape(int(len(content)/len(headers)),len(headers)).tolist()[:-1] #rm Today row
+rows_content = rows_content[:len(rows_content)//2]
 
 df = pd.DataFrame(rows_content)
 df.columns = headers
-df = df[:-1] # drop Total row
 
 
-# In[8]:
+# In[61]:
 
 
 # Convert values to float
 for i,col_name in enumerate(df.columns):
+    print
     if i!=0:
         df[col_name] = pd.to_numeric(df[col_name].apply(lambda x:x.replace(",","")),errors='coerce')
         
@@ -57,7 +61,7 @@ df = df.fillna(0)
 df["text"] = df['Country'].apply(lambda x: x.strip()) + '<br>' +     'Active Cases ' + df['ActiveCases'].astype(int).astype(str) +     '<br>' + 'Total Deaths ' + df['TotalDeaths'].astype(int).astype(str)
 
 
-# In[9]:
+# In[63]:
 
 
 # Export Dataframe
@@ -66,7 +70,7 @@ df.to_csv("static/data/corona.csv",index=False,sep=",")
 
 # ### Visualize df using Plotly (Optional)
 
-# In[ ]:
+# In[65]:
 
 
 # import plotly.express as px
