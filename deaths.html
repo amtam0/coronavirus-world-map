@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<head>
+	<script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+	<!-- Load plotly.js into the DOM -->
+	<script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
+	<script src='static/js/deaths.js'></script>
+</head>
+
+<body>
+
+	<nav class="navbar navbar-expand-lg navbar-light static-top" style="background-color: #e3f2fd;">
+		<div class="container">
+		  	<!-- <a class="navbar-brand" href="index.html">
+				<img src="./static/atamai.png" width="50" height="50" alt="">
+			</a> -->
+		  	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarResponsive">
+				<ul class="navbar-nav ml-auto">
+				<li class="nav-item">
+					<a class="nav-link" href="index.html">Total</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="active.html">Active</a>
+				</li>
+				<li class="nav-item active">
+					<a class="nav-link" href="deaths.html">Deaths<span class="sr-only">(current)</span></a>
+				</li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+	  
+	<br>
+	
+	<div id='myDiv'><!-- Plotly chart will be drawn inside this DIV --></div>
+</body>
