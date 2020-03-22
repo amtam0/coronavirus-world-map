@@ -1,7 +1,7 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,iso_alpha,text
 China,81054,46.0,3261.0,6.0,72440.0,5353,1845.0,56.0,CHN,China<br>Active Cases 5353<br>Total Deaths 3261
 Italy,59138,5560.0,5476.0,651.0,7024.0,46638,3000.0,978.0,ITA,Italy<br>Active Cases 46638<br>Total Deaths 5476
-USA,32801,8594.0,391.0,89.0,178.0,32232,708.0,99.0,USA,USA<br>Active Cases 32232<br>Total Deaths 391
+USA,35746,11539.0,392.0,90.0,178.0,35176,708.0,108.0,USA,USA<br>Active Cases 35176<br>Total Deaths 392
 Spain,28603,3107.0,1756.0,375.0,2125.0,24722,1785.0,612.0,ESP,Spain<br>Active Cases 24722<br>Total Deaths 1756
 Germany,24714,2350.0,92.0,8.0,266.0,24356,2.0,295.0,DEU,Germany<br>Active Cases 24356<br>Total Deaths 92
 Iran,21638,1028.0,1685.0,129.0,7635.0,12318,0.0,258.0,IRN,Iran<br>Active Cases 12318<br>Total Deaths 1685
@@ -30,11 +30,11 @@ Ireland,785,0.0,3.0,0.0,5.0,777,13.0,159.0,IRL,Ireland<br>Active Cases 777<br>To
 Diamond Princess,712,0.0,8.0,0.0,567.0,137,15.0,0.0,Diamond Princess,Diamond Princess<br>Active Cases 137<br>Total Deaths 8
 Pakistan,646,1.0,3.0,0.0,13.0,630,0.0,3.0,PAK,Pakistan<br>Active Cases 630<br>Total Deaths 3
 Chile,632,95.0,1.0,0.0,8.0,623,7.0,33.0,CHL,Chile<br>Active Cases 623<br>Total Deaths 1
+Poland,627,91.0,7.0,2.0,13.0,607,3.0,17.0,POL,Poland<br>Active Cases 607<br>Total Deaths 7
 Finland,626,103.0,1.0,0.0,10.0,615,12.0,113.0,FIN,Finland<br>Active Cases 615<br>Total Deaths 1
 Greece,624,94.0,15.0,2.0,19.0,590,18.0,60.0,GRC,Greece<br>Active Cases 590<br>Total Deaths 15
 Thailand,599,188.0,1.0,0.0,44.0,554,7.0,9.0,THA,Thailand<br>Active Cases 554<br>Total Deaths 1
 Iceland,568,95.0,1.0,0.0,5.0,562,1.0,1665.0,ISL,Iceland<br>Active Cases 562<br>Total Deaths 1
-Poland,563,27.0,7.0,2.0,13.0,543,3.0,15.0,POL,Poland<br>Active Cases 543<br>Total Deaths 7
 Indonesia,514,64.0,48.0,10.0,29.0,437,0.0,2.0,IDN,Indonesia<br>Active Cases 437<br>Total Deaths 48
 Saudi Arabia,511,119.0,0.0,0.0,17.0,494,0.0,15.0,SAU,Saudi Arabia<br>Active Cases 494<br>Total Deaths 0
 Qatar,481,0.0,0.0,0.0,27.0,454,6.0,167.0,QAT,Qatar<br>Active Cases 454<br>Total Deaths 0
