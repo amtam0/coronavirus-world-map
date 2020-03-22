@@ -1,7 +1,7 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,iso_alpha,text
 China,81054,46.0,3261.0,6.0,72440.0,5353,1845.0,56.0,CHN,China<br>Active Cases 5353<br>Total Deaths 3261
 Italy,59138,5560.0,5476.0,651.0,7024.0,46638,3000.0,978.0,ITA,Italy<br>Active Cases 46638<br>Total Deaths 5476
-USA,36756,12549.0,396.0,94.0,178.0,36182,708.0,111.0,USA,USA<br>Active Cases 36182<br>Total Deaths 396
+USA,32037,7830.0,392.0,90.0,178.0,31467,708.0,97.0,USA,USA<br>Active Cases 31467<br>Total Deaths 392
 Spain,28603,3107.0,1756.0,375.0,2125.0,24722,1785.0,612.0,ESP,Spain<br>Active Cases 24722<br>Total Deaths 1756
 Germany,24714,2350.0,92.0,8.0,266.0,24356,2.0,295.0,DEU,Germany<br>Active Cases 24356<br>Total Deaths 92
 Iran,21638,1028.0,1685.0,129.0,7635.0,12318,0.0,258.0,IRN,Iran<br>Active Cases 12318<br>Total Deaths 1685
@@ -20,8 +20,8 @@ Canada,1385,57.0,20.0,1.0,14.0,1351,1.0,37.0,CAN,Canada<br>Active Cases 1351<br>
 Australia,1353,281.0,7.0,0.0,46.0,1300,2.0,53.0,AUS,Australia<br>Active Cases 1300<br>Total Deaths 7
 Malaysia,1306,123.0,10.0,2.0,139.0,1157,26.0,40.0,MYS,Malaysia<br>Active Cases 1157<br>Total Deaths 10
 Brazil,1209,31.0,18.0,0.0,2.0,1189,18.0,6.0,BRA,Brazil<br>Active Cases 1189<br>Total Deaths 18
+Czechia,1120,125.0,0.0,0.0,6.0,1114,19.0,105.0,CZE,Czechia<br>Active Cases 1114<br>Total Deaths 0
 Japan,1086,32.0,36.0,0.0,235.0,815,57.0,9.0,JPN,Japan<br>Active Cases 815<br>Total Deaths 36
-Czechia,1047,52.0,0.0,0.0,6.0,1041,19.0,98.0,CZE,Czechia<br>Active Cases 1041<br>Total Deaths 0
 Turkey,947,0.0,21.0,0.0,0.0,926,0.0,11.0,TUR,Turkey<br>Active Cases 926<br>Total Deaths 21
 Israel,945,62.0,1.0,0.0,37.0,907,20.0,109.0,ISR,Israel<br>Active Cases 907<br>Total Deaths 1
 Luxembourg,798,128.0,8.0,0.0,6.0,784,3.0,1275.0,LUX,Luxembourg<br>Active Cases 784<br>Total Deaths 8
@@ -41,12 +41,12 @@ Qatar,481,0.0,0.0,0.0,27.0,454,6.0,167.0,QAT,Qatar<br>Active Cases 454<br>Total 
 Singapore,455,23.0,2.0,0.0,144.0,309,14.0,78.0,SGP,Singapore<br>Active Cases 309<br>Total Deaths 2
 Romania,433,66.0,2.0,2.0,64.0,367,14.0,23.0,ROU,Romania<br>Active Cases 367<br>Total Deaths 2
 Slovenia,414,31.0,2.0,1.0,0.0,412,12.0,199.0,SVN,Slovenia<br>Active Cases 412<br>Total Deaths 2
-India,391,59.0,7.0,2.0,24.0,360,0.0,0.3,IND,India<br>Active Cases 360<br>Total Deaths 7
+India,396,64.0,7.0,2.0,24.0,365,0.0,0.3,IND,India<br>Active Cases 365<br>Total Deaths 7
 Philippines,380,73.0,25.0,6.0,15.0,340,1.0,3.0,PHL,Philippines<br>Active Cases 340<br>Total Deaths 25
 Russia,367,61.0,1.0,0.0,16.0,350,0.0,3.0,RUS,Russia<br>Active Cases 350<br>Total Deaths 1
+Peru,363,45.0,5.0,0.0,1.0,357,5.0,11.0,PER,Peru<br>Active Cases 357<br>Total Deaths 5
 Bahrain,332,22.0,2.0,1.0,149.0,181,4.0,195.0,BHR,Bahrain<br>Active Cases 181<br>Total Deaths 2
 Estonia,326,20.0,0.0,0.0,4.0,322,2.0,246.0,EST,Estonia<br>Active Cases 322<br>Total Deaths 0
-Peru,318,0.0,5.0,0.0,1.0,312,5.0,10.0,PER,Peru<br>Active Cases 312<br>Total Deaths 5
 Hong Kong,317,43.0,4.0,0.0,100.0,213,4.0,42.0,HKG,Hong Kong<br>Active Cases 213<br>Total Deaths 4
 Egypt,294,0.0,10.0,0.0,42.0,242,0.0,3.0,EGY,Egypt<br>Active Cases 242<br>Total Deaths 10
 Croatia,254,48.0,1.0,0.0,5.0,248,5.0,62.0,HRV,Croatia<br>Active Cases 248<br>Total Deaths 1
@@ -63,7 +63,7 @@ Algeria,201,62.0,17.0,2.0,65.0,119,0.0,5.0,DZA,Algeria<br>Active Cases 119<br>To
 Armenia,190,30.0,0.0,0.0,2.0,188,6.0,64.0,ARM,Armenia<br>Active Cases 188<br>Total Deaths 0
 Kuwait,188,12.0,0.0,0.0,27.0,161,5.0,44.0,KWT,Kuwait<br>Active Cases 161<br>Total Deaths 0
 Bulgaria,185,22.0,3.0,0.0,3.0,179,3.0,27.0,BGR,Bulgaria<br>Active Cases 179<br>Total Deaths 3
-Slovakia,178,0.0,0.0,0.0,7.0,171,2.0,33.0,SVK,Slovakia<br>Active Cases 171<br>Total Deaths 0
+Slovakia,185,7.0,0.0,0.0,7.0,178,2.0,34.0,SVK,Slovakia<br>Active Cases 178<br>Total Deaths 0
 San Marino,175,15.0,20.0,0.0,4.0,151,13.0,5158.0,SMR,San Marino<br>Active Cases 151<br>Total Deaths 20
 Taiwan,169,16.0,2.0,0.0,28.0,139,0.0,7.0,TWN,Taiwan<br>Active Cases 139<br>Total Deaths 2
 UAE,153,0.0,2.0,0.0,38.0,113,2.0,15.0,ARE,UAE<br>Active Cases 113<br>Total Deaths 2
