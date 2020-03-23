@@ -1,7 +1,7 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,iso_alpha,text
 China,81093,39.0,3270.0,9.0,72703.0,5120,1749.0,56.0,CHN,China<br>Active Cases 5120<br>Total Deaths 3270
 Italy,63927,4789.0,6077.0,601.0,7432.0,50418,3204.0,1057.0,ITA,Italy<br>Active Cases 50418<br>Total Deaths 6077
-USA,41901,8355.0,507.0,88.0,187.0,41207,1040.0,127.0,USA,USA<br>Active Cases 41207<br>Total Deaths 507
+USA,42032,8486.0,508.0,89.0,187.0,41337,1040.0,127.0,USA,USA<br>Active Cases 41337<br>Total Deaths 508
 Spain,33089,4321.0,2207.0,435.0,3355.0,27527,2355.0,708.0,ESP,Spain<br>Active Cases 27527<br>Total Deaths 2207
 Germany,29056,4183.0,118.0,24.0,422.0,28516,23.0,347.0,DEU,Germany<br>Active Cases 28516<br>Total Deaths 118
 Iran,23049,1411.0,1812.0,127.0,8376.0,12861,0.0,274.0,IRN,Iran<br>Active Cases 12861<br>Total Deaths 1812
@@ -163,6 +163,7 @@ Antigua and Barbuda,3,2.0,0.0,0.0,0.0,3,0.0,31.0,ATG,Antigua and Barbuda<br>Acti
 Cabo Verde,3,0.0,0.0,0.0,0.0,3,0.0,5.0,CPV,Cabo Verde<br>Active Cases 3<br>Total Deaths 0
 CAR,3,0.0,0.0,0.0,0.0,3,0.0,0.6,CAR,CAR<br>Active Cases 3<br>Total Deaths 0
 Congo,3,0.0,0.0,0.0,0.0,3,0.0,0.5,COG,Congo<br>Active Cases 3<br>Total Deaths 0
+Djibouti,3,2.0,0.0,0.0,0.0,3,0.0,3.0,DJI,Djibouti<br>Active Cases 3<br>Total Deaths 0
 El Salvador,3,0.0,0.0,0.0,0.0,3,0.0,0.5,SLV,El Salvador<br>Active Cases 3<br>Total Deaths 0
 Fiji,3,1.0,0.0,0.0,0.0,3,0.0,3.0,FJI,Fiji<br>Active Cases 3<br>Total Deaths 0
 Liberia,3,0.0,0.0,0.0,0.0,3,0.0,0.6,LBR,Liberia<br>Active Cases 3<br>Total Deaths 0
@@ -181,7 +182,6 @@ Niger,2,0.0,0.0,0.0,0.0,2,0.0,0.08,NER,Niger<br>Active Cases 2<br>Total Deaths 0
 Sint Maarten,2,1.0,0.0,0.0,0.0,2,0.0,47.0,SXM,Sint Maarten<br>Active Cases 2<br>Total Deaths 0
 Belize,1,1.0,0.0,0.0,0.0,1,0.0,3.0,BLZ,Belize<br>Active Cases 1<br>Total Deaths 0
 Chad,1,0.0,0.0,0.0,0.0,1,0.0,0.06,TCD,Chad<br>Active Cases 1<br>Total Deaths 0
-Djibouti,1,0.0,0.0,0.0,0.0,1,0.0,1.0,DJI,Djibouti<br>Active Cases 1<br>Total Deaths 0
 Dominica,1,0.0,0.0,0.0,0.0,1,0.0,14.0,DMA,Dominica<br>Active Cases 1<br>Total Deaths 0
 Eritrea,1,0.0,0.0,0.0,0.0,1,0.0,0.3,ERI,Eritrea<br>Active Cases 1<br>Total Deaths 0
 Grenada,1,0.0,0.0,0.0,0.0,1,0.0,9.0,GRD,Grenada<br>Active Cases 1<br>Total Deaths 0
