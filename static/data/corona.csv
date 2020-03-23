@@ -32,7 +32,7 @@ Chile,746,114.0,2.0,1.0,11.0,733,7.0,39.0,CHL,Chile<br>Active Cases 733<br>Total
 Thailand,721,122.0,1.0,0.0,52.0,668,7.0,10.0,THA,Thailand<br>Active Cases 668<br>Total Deaths 1
 Diamond Princess,712,0.0,8.0,0.0,567.0,137,15.0,0.0,Diamond Princess,Diamond Princess<br>Active Cases 137<br>Total Deaths 8
 Finland,700,74.0,1.0,0.0,10.0,689,13.0,126.0,FIN,Finland<br>Active Cases 689<br>Total Deaths 1
-Greece,695,71.0,17.0,2.0,19.0,659,35.0,67.0,GRC,Greece<br>Active Cases 659<br>Total Deaths 17
+Greece,695,71.0,17.0,2.0,29.0,649,35.0,67.0,GRC,Greece<br>Active Cases 649<br>Total Deaths 17
 Poland,692,58.0,8.0,1.0,13.0,671,3.0,18.0,POL,Poland<br>Active Cases 671<br>Total Deaths 8
 Iceland,588,20.0,1.0,0.0,51.0,536,14.0,1723.0,ISL,Iceland<br>Active Cases 536<br>Total Deaths 1
 Indonesia,579,65.0,49.0,1.0,30.0,500,0.0,2.0,IDN,Indonesia<br>Active Cases 500<br>Total Deaths 49
@@ -45,7 +45,7 @@ Philippines,462,82.0,33.0,8.0,18.0,411,1.0,4.0,PHL,Philippines<br>Active Cases 4
 Slovenia,442,28.0,3.0,1.0,0.0,439,12.0,213.0,SVN,Slovenia<br>Active Cases 439<br>Total Deaths 3
 Russia,438,71.0,1.0,0.0,17.0,420,0.0,3.0,RUS,Russia<br>Active Cases 420<br>Total Deaths 1
 South Africa,402,128.0,0.0,0.0,4.0,398,0.0,7.0,ZAF,South Africa<br>Active Cases 398<br>Total Deaths 0
-Peru,395,32.0,5.0,0.0,1.0,389,5.0,12.0,PER,Peru<br>Active Cases 389<br>Total Deaths 5
+Peru,395,32.0,5.0,0.0,1.0,389,19.0,12.0,PER,Peru<br>Active Cases 389<br>Total Deaths 5
 Bahrain,377,43.0,2.0,0.0,164.0,211,3.0,222.0,BHR,Bahrain<br>Active Cases 211<br>Total Deaths 2
 Hong Kong,356,38.0,4.0,0.0,100.0,252,4.0,47.0,HKG,Hong Kong<br>Active Cases 252<br>Total Deaths 4
 Estonia,352,26.0,0.0,0.0,4.0,348,4.0,265.0,EST,Estonia<br>Active Cases 348<br>Total Deaths 0
@@ -101,8 +101,8 @@ Georgia,61,7.0,0.0,0.0,8.0,53,1.0,15.0,GEO,Georgia<br>Active Cases 53<br>Total D
 Palestine,59,0.0,0.0,0.0,17.0,42,0.0,12.0,PSE,Palestine<br>Active Cases 42<br>Total Deaths 0
 Guadeloupe,58,0.0,1.0,0.0,0.0,57,4.0,145.0,GLP,Guadeloupe<br>Active Cases 57<br>Total Deaths 1
 Cameroon,56,16.0,0.0,0.0,2.0,54,0.0,2.0,CMR,Cameroon<br>Active Cases 54<br>Total Deaths 0
+Liechtenstein,51,14.0,0.0,0.0,0.0,51,0.0,1338.0,LIE,Liechtenstein<br>Active Cases 51<br>Total Deaths 0
 Trinidad and Tobago,51,1.0,0.0,0.0,0.0,51,0.0,36.0,TTO,Trinidad and Tobago<br>Active Cases 51<br>Total Deaths 0
-Liechtenstein,46,9.0,0.0,0.0,0.0,46,0.0,1206.0,LIE,Liechtenstein<br>Active Cases 46<br>Total Deaths 0
 Uzbekistan,46,3.0,0.0,0.0,0.0,46,0.0,1.0,UZB,Uzbekistan<br>Active Cases 46<br>Total Deaths 0
 Martinique,44,0.0,1.0,0.0,0.0,43,7.0,117.0,MTQ,Martinique<br>Active Cases 43<br>Total Deaths 1
 Afghanistan,40,0.0,1.0,0.0,1.0,38,0.0,1.0,AFG,Afghanistan<br>Active Cases 38<br>Total Deaths 1
@@ -158,6 +158,7 @@ Eswatini,4,0.0,0.0,0.0,0.0,4,0.0,3.0,SWZ,Eswatini<br>Active Cases 4<br>Total Dea
 Cayman Islands,3,0.0,1.0,0.0,0.0,2,0.0,46.0,CYM,Cayman Islands<br>Active Cases 2<br>Total Deaths 1
 Zimbabwe,3,0.0,1.0,1.0,0.0,2,0.0,0.2,ZWE,Zimbabwe<br>Active Cases 2<br>Total Deaths 1
 Angola,3,1.0,0.0,0.0,0.0,3,0.0,0.09,AGO,Angola<br>Active Cases 3<br>Total Deaths 0
+Antigua and Barbuda,3,2.0,0.0,0.0,0.0,3,0.0,31.0,ATG,Antigua and Barbuda<br>Active Cases 3<br>Total Deaths 0
 Cabo Verde,3,0.0,0.0,0.0,0.0,3,0.0,5.0,CPV,Cabo Verde<br>Active Cases 3<br>Total Deaths 0
 CAR,3,0.0,0.0,0.0,0.0,3,0.0,0.6,CAR,CAR<br>Active Cases 3<br>Total Deaths 0
 Congo,3,0.0,0.0,0.0,0.0,3,0.0,0.5,COG,Congo<br>Active Cases 3<br>Total Deaths 0
@@ -178,7 +179,6 @@ Myanmar,2,2.0,0.0,0.0,0.0,2,0.0,0.04,MMR,Myanmar<br>Active Cases 2<br>Total Deat
 Nicaragua,2,0.0,0.0,0.0,0.0,2,0.0,0.3,NIC,Nicaragua<br>Active Cases 2<br>Total Deaths 0
 Niger,2,0.0,0.0,0.0,0.0,2,0.0,0.08,NER,Niger<br>Active Cases 2<br>Total Deaths 0
 Sint Maarten,2,1.0,0.0,0.0,0.0,2,0.0,47.0,SXM,Sint Maarten<br>Active Cases 2<br>Total Deaths 0
-Antigua and Barbuda,1,0.0,0.0,0.0,0.0,1,0.0,10.0,ATG,Antigua and Barbuda<br>Active Cases 1<br>Total Deaths 0
 Belize,1,1.0,0.0,0.0,0.0,1,0.0,3.0,BLZ,Belize<br>Active Cases 1<br>Total Deaths 0
 Chad,1,0.0,0.0,0.0,0.0,1,0.0,0.06,TCD,Chad<br>Active Cases 1<br>Total Deaths 0
 Djibouti,1,0.0,0.0,0.0,0.0,1,0.0,1.0,DJI,Djibouti<br>Active Cases 1<br>Total Deaths 0
