@@ -1,7 +1,7 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,iso_alpha,text
 China,81093,39.0,3270.0,9.0,72703.0,5120,1749.0,56.0,CHN,China<br>Active Cases 5120<br>Total Deaths 3270
 Italy,59138,0.0,5476.0,0.0,7024.0,46638,3000.0,978.0,ITA,Italy<br>Active Cases 46638<br>Total Deaths 5476
-USA,39389,5843.0,467.0,48.0,187.0,38735,621.0,119.0,USA,USA<br>Active Cases 38735<br>Total Deaths 467
+USA,39389,5843.0,467.0,48.0,187.0,38735,1040.0,119.0,USA,USA<br>Active Cases 38735<br>Total Deaths 467
 Spain,33089,4321.0,2206.0,434.0,3355.0,27528,2355.0,708.0,ESP,Spain<br>Active Cases 27528<br>Total Deaths 2206
 Germany,27546,2673.0,115.0,21.0,422.0,27009,23.0,329.0,DEU,Germany<br>Active Cases 27009<br>Total Deaths 115
 Iran,23049,1411.0,1812.0,127.0,8376.0,12861,0.0,274.0,IRN,Iran<br>Active Cases 12861<br>Total Deaths 1812
@@ -135,6 +135,7 @@ U.S. Virgin Islands,17,11.0,0.0,0.0,0.0,17,0.0,163.0,VIR,U.S. Virgin Islands<br>
 Kenya,16,1.0,0.0,0.0,0.0,16,0.0,0.3,KEN,Kenya<br>Active Cases 16<br>Total Deaths 0
 Kyrgyzstan,16,2.0,0.0,0.0,0.0,16,0.0,2.0,KGZ,Kyrgyzstan<br>Active Cases 16<br>Total Deaths 0
 Gibraltar,15,0.0,0.0,0.0,5.0,10,0.0,445.0,GIB,Gibraltar<br>Active Cases 10<br>Total Deaths 0
+Isle of Man,13,8.0,0.0,0.0,0.0,13,0.0,153.0,IMN,Isle of Man<br>Active Cases 13<br>Total Deaths 0
 Maldives,13,0.0,0.0,0.0,5.0,8,0.0,24.0,MDV,Maldives<br>Active Cases 8<br>Total Deaths 0
 Madagascar,12,9.0,0.0,0.0,0.0,12,0.0,0.4,MDG,Madagascar<br>Active Cases 12<br>Total Deaths 0
 Tanzania,12,0.0,0.0,0.0,0.0,12,0.0,0.2,TZA,Tanzania<br>Active Cases 12<br>Total Deaths 0
@@ -147,7 +148,6 @@ Seychelles,7,0.0,0.0,0.0,0.0,7,0.0,71.0,SYC,Seychelles<br>Active Cases 7<br>Tota
 Bermuda,6,0.0,0.0,0.0,0.0,6,0.0,96.0,BMU,Bermuda<br>Active Cases 6<br>Total Deaths 0
 Gabon,5,0.0,1.0,0.0,0.0,4,0.0,2.0,GAB,Gabon<br>Active Cases 4<br>Total Deaths 1
 Haiti,5,3.0,0.0,0.0,0.0,5,0.0,0.4,HTI,Haiti<br>Active Cases 5<br>Total Deaths 0
-Isle of Man,5,0.0,0.0,0.0,0.0,5,0.0,59.0,IMN,Isle of Man<br>Active Cases 5<br>Total Deaths 0
 Saint Martin,5,0.0,0.0,0.0,0.0,5,0.0,129.0,MAF,Saint Martin<br>Active Cases 5<br>Total Deaths 0
 Suriname,5,0.0,0.0,0.0,0.0,5,0.0,9.0,SUR,Suriname<br>Active Cases 5<br>Total Deaths 0
 Curaçao,4,1.0,1.0,0.0,0.0,3,0.0,24.0,CUW,Curaçao<br>Active Cases 3<br>Total Deaths 1
