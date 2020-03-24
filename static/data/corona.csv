@@ -1,7 +1,7 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Tot Deaths/1M pop,iso_alpha,text
 China,81171,78.0,3277.0,7.0,73159.0,4735,1573.0,56.0,2.0,CHN,China<br>Active Cases 4735<br>Total Deaths 3277
 Italy,63927,0.0,6077.0,0.0,7432.0,50418,3204.0,1057.0,101.0,ITA,Italy<br>Active Cases 50418<br>Total Deaths 6077
-USA,46274,2540.0,588.0,35.0,295.0,45391,1040.0,140.0,2.0,USA,USA<br>Active Cases 45391<br>Total Deaths 588
+USA,46285,2551.0,588.0,35.0,295.0,45402,1040.0,140.0,2.0,USA,USA<br>Active Cases 45402<br>Total Deaths 588
 Spain,39673,4537.0,2696.0,385.0,3794.0,33183,2355.0,849.0,58.0,ESP,Spain<br>Active Cases 33183<br>Total Deaths 2696
 Germany,31370,2314.0,133.0,10.0,749.0,30488,23.0,374.0,2.0,DEU,Germany<br>Active Cases 30488<br>Total Deaths 133
 Iran,24811,1762.0,1934.0,122.0,8913.0,13964,0.0,295.0,23.0,IRN,Iran<br>Active Cases 13964<br>Total Deaths 1934
@@ -88,10 +88,10 @@ Malta,110,3.0,0.0,0.0,2.0,108,1.0,249.0,0.0,MLT,Malta<br>Active Cases 108<br>Tot
 Moldova,109,0.0,1.0,0.0,2.0,106,10.0,27.0,0.2,MDA,Moldova<br>Active Cases 106<br>Total Deaths 1
 Brunei ,104,13.0,0.0,0.0,2.0,102,2.0,238.0,0.0,BRN,Brunei<br>Active Cases 102<br>Total Deaths 0
 Sri Lanka,102,5.0,0.0,0.0,2.0,100,2.0,5.0,0.0,LKA,Sri Lanka<br>Active Cases 100<br>Total Deaths 0
+Ukraine,97,24.0,3.0,0.0,1.0,93,0.0,2.0,0.07,UKR,Ukraine<br>Active Cases 93<br>Total Deaths 3
 Cambodia,91,4.0,0.0,0.0,4.0,87,1.0,5.0,0.0,KHM,Cambodia<br>Active Cases 87<br>Total Deaths 0
 Azerbaijan,87,15.0,1.0,0.0,10.0,76,6.0,9.0,0.1,AZE,Azerbaijan<br>Active Cases 76<br>Total Deaths 1
 Senegal,86,7.0,0.0,0.0,8.0,78,0.0,5.0,0.0,SEN,Senegal<br>Active Cases 78<br>Total Deaths 0
-Ukraine,84,11.0,3.0,0.0,1.0,80,0.0,2.0,0.07,UKR,Ukraine<br>Active Cases 80<br>Total Deaths 3
 Oman,84,18.0,0.0,0.0,17.0,67,0.0,16.0,0.0,OMN,Oman<br>Active Cases 67<br>Total Deaths 0
 Venezuela,84,0.0,0.0,0.0,15.0,69,2.0,3.0,0.0,VEN,Venezuela<br>Active Cases 69<br>Total Deaths 0
 Belarus,81,0.0,0.0,0.0,22.0,59,0.0,9.0,0.0,BLR,Belarus<br>Active Cases 59<br>Total Deaths 0
@@ -122,7 +122,7 @@ Honduras,30,0.0,0.0,0.0,0.0,30,0.0,3.0,0.0,HND,Honduras<br>Active Cases 30<br>To
 Montenegro,29,2.0,1.0,0.0,0.0,28,0.0,46.0,2.0,MNE,Montenegro<br>Active Cases 28<br>Total Deaths 1
 Bolivia,28,1.0,0.0,0.0,0.0,28,0.0,2.0,0.0,BOL,Bolivia<br>Active Cases 28<br>Total Deaths 0
 Paraguay,27,5.0,2.0,1.0,0.0,25,1.0,4.0,0.3,PRY,Paraguay<br>Active Cases 25<br>Total Deaths 2
-Macao,25,0.0,0.0,0.0,10.0,15,0.0,39.0,0.0,MAC,Macao<br>Active Cases 15<br>Total Deaths 0
+Macao,26,1.0,0.0,0.0,10.0,16,0.0,40.0,0.0,MAC,Macao<br>Active Cases 16<br>Total Deaths 0
 Ivory Coast,25,0.0,0.0,0.0,2.0,23,0.0,0.9,0.0,CIV,Ivory Coast<br>Active Cases 23<br>Total Deaths 0
 Kenya,25,9.0,0.0,0.0,0.0,25,0.0,0.5,0.0,KEN,Kenya<br>Active Cases 25<br>Total Deaths 0
 Monaco,23,0.0,0.0,0.0,1.0,22,0.0,586.0,0.0,MCO,Monaco<br>Active Cases 22<br>Total Deaths 0
