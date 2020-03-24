@@ -1,7 +1,7 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Tot Deaths/1M pop,iso_alpha,text
 China,81171,78.0,3277.0,7.0,73159.0,4735,1573.0,56.0,2.0,CHN,China<br>Active Cases 4735<br>Total Deaths 3277
 Italy,69176,5249.0,6820.0,743.0,8326.0,54030,3393.0,1144.0,113.0,ITA,Italy<br>Active Cases 54030<br>Total Deaths 6820
-USA,49594,5860.0,622.0,69.0,361.0,48611,1175.0,150.0,2.0,USA,USA<br>Active Cases 48611<br>Total Deaths 622
+USA,49665,5931.0,622.0,69.0,361.0,48682,1175.0,150.0,2.0,USA,USA<br>Active Cases 48682<br>Total Deaths 622
 Spain,39676,4540.0,2800.0,489.0,3794.0,33082,2355.0,849.0,60.0,ESP,Spain<br>Active Cases 33082<br>Total Deaths 2800
 Germany,32781,3725.0,156.0,33.0,3133.0,29492,23.0,391.0,2.0,DEU,Germany<br>Active Cases 29492<br>Total Deaths 156
 Iran,24811,1762.0,1934.0,122.0,8913.0,13964,0.0,295.0,23.0,IRN,Iran<br>Active Cases 13964<br>Total Deaths 1934
@@ -23,7 +23,7 @@ Malaysia,1624,106.0,15.0,1.0,183.0,1426,64.0,50.0,0.5,MYS,Malaysia<br>Active Cas
 Denmark,1591,131.0,32.0,8.0,1.0,1558,69.0,275.0,6.0,DNK,Denmark<br>Active Cases 1558<br>Total Deaths 32
 Turkey,1529,0.0,37.0,0.0,0.0,1492,0.0,18.0,0.4,TUR,Turkey<br>Active Cases 1492<br>Total Deaths 37
 Czechia,1394,158.0,2.0,1.0,8.0,1384,19.0,130.0,0.2,CZE,Czechia<br>Active Cases 1384<br>Total Deaths 2
-Japan,1140,12.0,42.0,0.0,285.0,813,54.0,9.0,0.3,JPN,Japan<br>Active Cases 813<br>Total Deaths 42
+Japan,1193,65.0,43.0,1.0,285.0,865,54.0,9.0,0.3,JPN,Japan<br>Active Cases 865<br>Total Deaths 43
 Ireland,1125,0.0,6.0,0.0,5.0,1114,29.0,228.0,1.0,IRL,Ireland<br>Active Cases 1114<br>Total Deaths 6
 Luxembourg,1099,224.0,8.0,0.0,6.0,1085,3.0,1756.0,13.0,LUX,Luxembourg<br>Active Cases 1085<br>Total Deaths 8
 Ecuador,1049,68.0,27.0,9.0,3.0,1019,2.0,59.0,2.0,ECU,Ecuador<br>Active Cases 1019<br>Total Deaths 27
@@ -110,8 +110,8 @@ Uzbekistan,50,4.0,0.0,0.0,0.0,50,0.0,1.0,0.0,UZB,Uzbekistan<br>Active Cases 50<b
 Cuba,48,8.0,1.0,0.0,0.0,47,2.0,4.0,0.09,CUB,Cuba<br>Active Cases 47<br>Total Deaths 1
 Montenegro,47,20.0,1.0,0.0,0.0,46,0.0,75.0,2.0,MNE,Montenegro<br>Active Cases 46<br>Total Deaths 1
 DRC,45,9.0,2.0,0.0,0.0,43,0.0,0.5,0.02,DRC,DRC<br>Active Cases 43<br>Total Deaths 2
+Nigeria,44,4.0,1.0,0.0,2.0,41,0.0,0.2,0.0,NGA,Nigeria<br>Active Cases 41<br>Total Deaths 1
 Mauritius,42,6.0,2.0,0.0,0.0,40,1.0,33.0,2.0,MUS,Mauritius<br>Active Cases 40<br>Total Deaths 2
-Nigeria,42,2.0,1.0,0.0,2.0,39,0.0,0.2,0.0,NGA,Nigeria<br>Active Cases 39<br>Total Deaths 1
 Kyrgyzstan,42,26.0,0.0,0.0,0.0,42,0.0,6.0,0.0,KGZ,Kyrgyzstan<br>Active Cases 42<br>Total Deaths 0
 Bangladesh,39,6.0,4.0,1.0,5.0,30,0.0,0.2,0.02,BGD,Bangladesh<br>Active Cases 30<br>Total Deaths 4
 Puerto Rico,39,8.0,2.0,0.0,1.0,36,0.0,14.0,0.7,PRI,Puerto Rico<br>Active Cases 36<br>Total Deaths 2
@@ -147,13 +147,13 @@ Equatorial Guinea,9,0.0,0.0,0.0,0.0,9,0.0,6.0,0.0,GNQ,Equatorial Guinea<br>Activ
 Uganda,9,0.0,0.0,0.0,0.0,9,0.0,0.2,0.0,UGA,Uganda<br>Active Cases 9<br>Total Deaths 0
 Saint Martin,8,0.0,0.0,0.0,0.0,8,0.0,207.0,0.0,MAF,Saint Martin<br>Active Cases 8<br>Total Deaths 0
 Seychelles,7,0.0,0.0,0.0,0.0,7,0.0,71.0,0.0,SYC,Seychelles<br>Active Cases 7<br>Total Deaths 0
+Cayman Islands,6,1.0,1.0,0.0,0.0,5,0.0,91.0,15.0,CYM,Cayman Islands<br>Active Cases 5<br>Total Deaths 1
 Gabon,6,0.0,1.0,0.0,0.0,5,0.0,3.0,0.4,GAB,Gabon<br>Active Cases 5<br>Total Deaths 1
 Benin,6,0.0,0.0,0.0,0.0,6,0.0,0.5,0.0,BEN,Benin<br>Active Cases 6<br>Total Deaths 0
 Bermuda,6,0.0,0.0,0.0,0.0,6,0.0,96.0,0.0,BMU,Bermuda<br>Active Cases 6<br>Total Deaths 0
 Haiti,6,0.0,0.0,0.0,0.0,6,0.0,0.5,0.0,HTI,Haiti<br>Active Cases 6<br>Total Deaths 0
 Namibia,6,2.0,0.0,0.0,2.0,4,0.0,2.0,0.0,NAM,Namibia<br>Active Cases 4<br>Total Deaths 0
 Suriname,6,1.0,0.0,0.0,0.0,6,0.0,10.0,0.0,SUR,Suriname<br>Active Cases 6<br>Total Deaths 0
-Cayman Islands,5,0.0,1.0,0.0,0.0,4,0.0,76.0,15.0,CYM,Cayman Islands<br>Active Cases 4<br>Total Deaths 1
 El Salvador,5,2.0,0.0,0.0,0.0,5,0.0,0.8,0.0,SLV,El Salvador<br>Active Cases 5<br>Total Deaths 0
 Greenland,5,1.0,0.0,0.0,2.0,3,0.0,88.0,0.0,GRL,Greenland<br>Active Cases 3<br>Total Deaths 0
 Curaçao,4,0.0,1.0,0.0,0.0,3,0.0,24.0,6.0,CUW,Curaçao<br>Active Cases 3<br>Total Deaths 1
