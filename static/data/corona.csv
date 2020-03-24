@@ -1,7 +1,7 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Tot Deaths/1M pop,iso_alpha,text
 China,81171,78.0,3277.0,7.0,73159.0,4735,1573.0,56.0,2.0,CHN,China<br>Active Cases 4735<br>Total Deaths 3277
 Italy,63927,0.0,6077.0,0.0,7432.0,50418,3204.0,1057.0,101.0,ITA,Italy<br>Active Cases 50418<br>Total Deaths 6077
-USA,46168,2434.0,582.0,29.0,295.0,45291,1040.0,139.0,2.0,USA,USA<br>Active Cases 45291<br>Total Deaths 582
+USA,46274,2540.0,587.0,34.0,295.0,45392,1040.0,140.0,2.0,USA,USA<br>Active Cases 45392<br>Total Deaths 587
 Spain,39673,4537.0,2696.0,385.0,3794.0,33183,2355.0,849.0,58.0,ESP,Spain<br>Active Cases 33183<br>Total Deaths 2696
 Germany,31370,2314.0,132.0,9.0,749.0,30489,23.0,374.0,2.0,DEU,Germany<br>Active Cases 30489<br>Total Deaths 132
 Iran,24811,1762.0,1934.0,122.0,8913.0,13964,0.0,295.0,23.0,IRN,Iran<br>Active Cases 13964<br>Total Deaths 1934
@@ -54,11 +54,11 @@ Egypt,366,0.0,19.0,0.0,68.0,279,0.0,4.0,0.2,EGY,Egypt<br>Active Cases 279<br>Tot
 Croatia,361,46.0,1.0,0.0,5.0,355,6.0,88.0,0.2,HRV,Croatia<br>Active Cases 355<br>Total Deaths 1
 Panama,345,0.0,6.0,0.0,1.0,338,33.0,80.0,1.0,PAN,Panama<br>Active Cases 338<br>Total Deaths 6
 Iraq,316,50.0,27.0,4.0,75.0,214,0.0,8.0,0.7,IRQ,Iraq<br>Active Cases 214<br>Total Deaths 27
+Dominican Republic,312,67.0,6.0,3.0,3.0,303,0.0,29.0,0.6,DOM,Dominican Republic<br>Active Cases 303<br>Total Deaths 6
 Colombia,306,29.0,3.0,0.0,6.0,297,0.0,6.0,0.06,COL,Colombia<br>Active Cases 297<br>Total Deaths 3
 Lebanon,304,37.0,4.0,0.0,8.0,292,4.0,45.0,0.6,LBN,Lebanon<br>Active Cases 292<br>Total Deaths 4
 Serbia,303,54.0,3.0,0.0,15.0,285,21.0,35.0,0.3,SRB,Serbia<br>Active Cases 285<br>Total Deaths 3
 Argentina,301,0.0,4.0,0.0,51.0,246,0.0,7.0,0.09,ARG,Argentina<br>Active Cases 246<br>Total Deaths 4
-Dominican Republic,245,0.0,3.0,0.0,3.0,239,0.0,23.0,0.3,DOM,Dominican Republic<br>Active Cases 239<br>Total Deaths 3
 Armenia,235,0.0,0.0,0.0,2.0,233,6.0,79.0,0.0,ARM,Armenia<br>Active Cases 233<br>Total Deaths 0
 Algeria,230,0.0,17.0,0.0,65.0,148,0.0,5.0,0.4,DZA,Algeria<br>Active Cases 148<br>Total Deaths 17
 Taiwan,216,21.0,2.0,0.0,29.0,185,0.0,9.0,0.08,TWN,Taiwan<br>Active Cases 185<br>Total Deaths 2
