@@ -12,12 +12,12 @@ UK,6795,145.0,338.0,3.0,135.0,6322,20.0,100.0,5.0,GBR,UK<br>Active Cases 6322<br
 Netherlands,5560,811.0,276.0,63.0,2.0,5282,435.0,324.0,16.0,NLD,Netherlands<br>Active Cases 5282<br>Total Deaths 276
 Austria,5010,536.0,28.0,7.0,9.0,4973,22.0,556.0,3.0,AUT,Austria<br>Active Cases 4973<br>Total Deaths 28
 Belgium,4269,526.0,122.0,34.0,461.0,3686,381.0,368.0,11.0,BEL,Belgium<br>Active Cases 3686<br>Total Deaths 122
-Norway,2753,128.0,12.0,2.0,6.0,2735,44.0,508.0,2.0,NOR,Norway<br>Active Cases 2735<br>Total Deaths 12
+Norway,2760,135.0,12.0,2.0,6.0,2742,44.0,509.0,2.0,NOR,Norway<br>Active Cases 2742<br>Total Deaths 12
 Portugal,2362,302.0,30.0,7.0,22.0,2310,48.0,232.0,3.0,PRT,Portugal<br>Active Cases 2310<br>Total Deaths 30
 Sweden,2286,240.0,36.0,9.0,16.0,2234,136.0,226.0,4.0,SWE,Sweden<br>Active Cases 2234<br>Total Deaths 36
+Canada,2176,85.0,24.0,0.0,112.0,2040,1.0,58.0,0.6,CAN,Canada<br>Active Cases 2040<br>Total Deaths 24
 Australia,2144,257.0,8.0,1.0,118.0,2018,11.0,84.0,0.3,AUS,Australia<br>Active Cases 2018<br>Total Deaths 8
-Canada,2091,0.0,24.0,0.0,112.0,1955,1.0,55.0,0.6,CAN,Canada<br>Active Cases 1955<br>Total Deaths 24
-Brazil,1967,43.0,34.0,0.0,2.0,1931,18.0,9.0,0.2,BRA,Brazil<br>Active Cases 1931<br>Total Deaths 34
+Brazil,1980,56.0,34.0,0.0,2.0,1944,18.0,9.0,0.2,BRA,Brazil<br>Active Cases 1944<br>Total Deaths 34
 Israel,1656,214.0,2.0,1.0,49.0,1605,31.0,191.0,0.2,ISR,Israel<br>Active Cases 1605<br>Total Deaths 2
 Malaysia,1624,106.0,15.0,1.0,183.0,1426,64.0,50.0,0.5,MYS,Malaysia<br>Active Cases 1426<br>Total Deaths 15
 Denmark,1577,117.0,32.0,8.0,1.0,1544,69.0,272.0,6.0,DNK,Denmark<br>Active Cases 1544<br>Total Deaths 32
@@ -109,11 +109,11 @@ Liechtenstein,51,0.0,0.0,0.0,0.0,51,0.0,1338.0,0.0,LIE,Liechtenstein<br>Active C
 Uzbekistan,50,4.0,0.0,0.0,0.0,50,0.0,1.0,0.0,UZB,Uzbekistan<br>Active Cases 50<br>Total Deaths 0
 Cuba,48,8.0,1.0,0.0,0.0,47,2.0,4.0,0.09,CUB,Cuba<br>Active Cases 47<br>Total Deaths 1
 DRC,45,9.0,2.0,0.0,0.0,43,0.0,0.5,0.02,DRC,DRC<br>Active Cases 43<br>Total Deaths 2
+Mauritius,42,6.0,2.0,0.0,0.0,40,1.0,33.0,2.0,MUS,Mauritius<br>Active Cases 40<br>Total Deaths 2
 Nigeria,42,2.0,1.0,0.0,2.0,39,0.0,0.2,0.0,NGA,Nigeria<br>Active Cases 39<br>Total Deaths 1
 Kyrgyzstan,42,26.0,0.0,0.0,0.0,42,0.0,6.0,0.0,KGZ,Kyrgyzstan<br>Active Cases 42<br>Total Deaths 0
 Bangladesh,39,6.0,4.0,1.0,5.0,30,0.0,0.2,0.02,BGD,Bangladesh<br>Active Cases 30<br>Total Deaths 4
 Puerto Rico,39,8.0,2.0,0.0,1.0,36,0.0,14.0,0.7,PRI,Puerto Rico<br>Active Cases 36<br>Total Deaths 2
-Mauritius,36,0.0,2.0,0.0,0.0,34,1.0,28.0,2.0,MUS,Mauritius<br>Active Cases 34<br>Total Deaths 2
 Channel Islands,36,0.0,0.0,0.0,0.0,36,0.0,207.0,0.0,Channel Islands,Channel Islands<br>Active Cases 36<br>Total Deaths 0
 Mayotte,36,12.0,0.0,0.0,0.0,36,0.0,132.0,0.0,MYT,Mayotte<br>Active Cases 36<br>Total Deaths 0
 Rwanda,36,0.0,0.0,0.0,0.0,36,0.0,3.0,0.0,RWA,Rwanda<br>Active Cases 36<br>Total Deaths 0
@@ -151,6 +151,7 @@ Gabon,6,0.0,1.0,0.0,0.0,5,0.0,3.0,0.4,GAB,Gabon<br>Active Cases 5<br>Total Death
 Benin,6,0.0,0.0,0.0,0.0,6,0.0,0.5,0.0,BEN,Benin<br>Active Cases 6<br>Total Deaths 0
 Bermuda,6,0.0,0.0,0.0,0.0,6,0.0,96.0,0.0,BMU,Bermuda<br>Active Cases 6<br>Total Deaths 0
 Haiti,6,0.0,0.0,0.0,0.0,6,0.0,0.5,0.0,HTI,Haiti<br>Active Cases 6<br>Total Deaths 0
+Namibia,6,2.0,0.0,0.0,0.0,6,0.0,2.0,0.0,NAM,Namibia<br>Active Cases 6<br>Total Deaths 0
 Suriname,6,1.0,0.0,0.0,0.0,6,0.0,10.0,0.0,SUR,Suriname<br>Active Cases 6<br>Total Deaths 0
 Cayman Islands,5,0.0,1.0,0.0,0.0,4,0.0,76.0,15.0,CYM,Cayman Islands<br>Active Cases 4<br>Total Deaths 1
 El Salvador,5,2.0,0.0,0.0,0.0,5,0.0,0.8,0.0,SLV,El Salvador<br>Active Cases 5<br>Total Deaths 0
@@ -160,7 +161,6 @@ Congo,4,0.0,0.0,0.0,0.0,4,0.0,0.7,0.0,COG,Congo<br>Active Cases 4<br>Total Death
 Fiji,4,1.0,0.0,0.0,0.0,4,0.0,4.0,0.0,FJI,Fiji<br>Active Cases 4<br>Total Deaths 0
 Greenland,4,0.0,0.0,0.0,2.0,2,0.0,70.0,0.0,GRL,Greenland<br>Active Cases 2<br>Total Deaths 0
 Guinea,4,0.0,0.0,0.0,0.0,4,0.0,0.3,0.0,GIN,Guinea<br>Active Cases 4<br>Total Deaths 0
-Namibia,4,0.0,0.0,0.0,0.0,4,0.0,2.0,0.0,NAM,Namibia<br>Active Cases 4<br>Total Deaths 0
 Eswatini,4,0.0,0.0,0.0,0.0,4,0.0,3.0,0.0,SWZ,Eswatini<br>Active Cases 4<br>Total Deaths 0
 Cabo Verde,3,0.0,1.0,1.0,0.0,2,0.0,5.0,2.0,CPV,Cabo Verde<br>Active Cases 2<br>Total Deaths 1
 Sudan,3,1.0,1.0,0.0,0.0,2,0.0,0.07,0.02,SDN,Sudan<br>Active Cases 2<br>Total Deaths 1
