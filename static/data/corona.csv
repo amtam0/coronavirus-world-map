@@ -1,7 +1,7 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Tot Deaths/1M pop,iso_alpha,text
 China,81171,78.0,3277.0,7.0,73159.0,4735,1573.0,56.0,2.0,CHN,China<br>Active Cases 4735<br>Total Deaths 3277
 Italy,69176,5249.0,6820.0,743.0,8326.0,54030,3393.0,1144.0,113.0,ITA,Italy<br>Active Cases 54030<br>Total Deaths 6820
-USA,49665,5931.0,622.0,69.0,361.0,48682,1175.0,150.0,2.0,USA,USA<br>Active Cases 48682<br>Total Deaths 622
+USA,49906,6172.0,634.0,81.0,361.0,48911,1175.0,151.0,2.0,USA,USA<br>Active Cases 48911<br>Total Deaths 634
 Spain,39676,4540.0,2800.0,489.0,3794.0,33082,2355.0,849.0,60.0,ESP,Spain<br>Active Cases 33082<br>Total Deaths 2800
 Germany,32781,3725.0,156.0,33.0,3133.0,29492,23.0,391.0,2.0,DEU,Germany<br>Active Cases 29492<br>Total Deaths 156
 Iran,24811,1762.0,1934.0,122.0,8913.0,13964,0.0,295.0,23.0,IRN,Iran<br>Active Cases 13964<br>Total Deaths 1934
@@ -129,8 +129,8 @@ Monaco,23,0.0,0.0,0.0,1.0,22,0.0,586.0,0.0,MCO,Monaco<br>Active Cases 22<br>Tota
 French Guiana,23,3.0,0.0,0.0,6.0,17,0.0,77.0,0.0,GUF,French Guiana<br>Active Cases 17<br>Total Deaths 0
 French Polynesia,23,5.0,0.0,0.0,0.0,23,0.0,82.0,0.0,PYF,French Polynesia<br>Active Cases 23<br>Total Deaths 0
 Isle of Man,23,10.0,0.0,0.0,0.0,23,0.0,270.0,0.0,IMN,Isle of Man<br>Active Cases 23<br>Total Deaths 0
+Guatemala,21,1.0,1.0,0.0,0.0,20,0.0,1.0,0.06,GTM,Guatemala<br>Active Cases 20<br>Total Deaths 1
 Jamaica,21,2.0,1.0,0.0,2.0,18,0.0,7.0,0.3,JAM,Jamaica<br>Active Cases 18<br>Total Deaths 1
-Guatemala,20,0.0,1.0,0.0,0.0,19,0.0,1.0,0.06,GTM,Guatemala<br>Active Cases 19<br>Total Deaths 1
 Guyana,20,0.0,1.0,0.0,0.0,19,0.0,25.0,1.0,GUY,Guyana<br>Active Cases 19<br>Total Deaths 1
 Togo,20,2.0,0.0,0.0,1.0,19,0.0,2.0,0.0,TGO,Togo<br>Active Cases 19<br>Total Deaths 0
 Barbados,17,0.0,0.0,0.0,0.0,17,0.0,59.0,0.0,BRB,Barbados<br>Active Cases 17<br>Total Deaths 0
