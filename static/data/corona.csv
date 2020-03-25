@@ -1,7 +1,7 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Tot Deaths/1M pop,iso_alpha,text
 China,81218,47.0,3281.0,4.0,73650.0,4287,1399.0,56.0,2.0,CHN,China<br>Active Cases 4287<br>Total Deaths 3281
 Italy,74386,5210.0,7503.0,683.0,9362.0,57521,3489.0,1230.0,124.0,ITA,Italy<br>Active Cases 57521<br>Total Deaths 7503
-USA,60653,5797.0,819.0,39.0,387.0,59447,1307.0,183.0,2.0,USA,USA<br>Active Cases 59447<br>Total Deaths 819
+USA,61062,6206.0,838.0,58.0,387.0,59837,1307.0,184.0,3.0,USA,USA<br>Active Cases 59837<br>Total Deaths 838
 Spain,47610,5552.0,3434.0,443.0,5367.0,38809,2636.0,1018.0,73.0,ESP,Spain<br>Active Cases 38809<br>Total Deaths 3434
 Germany,35740,2749.0,186.0,27.0,3540.0,32014,23.0,427.0,2.0,DEU,Germany<br>Active Cases 32014<br>Total Deaths 186
 Iran,27017,2206.0,2077.0,143.0,9625.0,15315,0.0,322.0,25.0,IRN,Iran<br>Active Cases 15315<br>Total Deaths 2077
@@ -45,11 +45,11 @@ Singapore,631,73.0,2.0,0.0,160.0,469,17.0,108.0,0.3,SGP,Singapore<br>Active Case
 India,606,70.0,10.0,0.0,42.0,554,0.0,0.4,0.01,IND,India<br>Active Cases 554<br>Total Deaths 10
 Qatar,537,11.0,0.0,0.0,41.0,496,6.0,186.0,0.0,QAT,Qatar<br>Active Cases 496<br>Total Deaths 0
 Slovenia,528,48.0,5.0,1.0,10.0,513,14.0,254.0,2.0,SVN,Slovenia<br>Active Cases 513<br>Total Deaths 5
+Peru,480,64.0,9.0,2.0,1.0,470,9.0,15.0,0.3,PER,Peru<br>Active Cases 470<br>Total Deaths 9
 Panama,443,0.0,8.0,2.0,1.0,434,33.0,103.0,2.0,PAN,Panama<br>Active Cases 434<br>Total Deaths 8
 Egypt,442,40.0,21.0,1.0,93.0,328,0.0,4.0,0.2,EGY,Egypt<br>Active Cases 328<br>Total Deaths 21
 Croatia,442,60.0,1.0,0.0,22.0,419,6.0,108.0,0.2,HRV,Croatia<br>Active Cases 419<br>Total Deaths 1
 Bahrain,419,27.0,4.0,1.0,177.0,238,2.0,246.0,2.0,BHR,Bahrain<br>Active Cases 238<br>Total Deaths 4
-Peru,416,0.0,9.0,2.0,1.0,406,9.0,13.0,0.3,PER,Peru<br>Active Cases 406<br>Total Deaths 9
 Hong Kong,410,23.0,4.0,0.0,102.0,304,4.0,55.0,0.5,HKG,Hong Kong<br>Active Cases 304<br>Total Deaths 4
 Mexico,405,38.0,5.0,1.0,4.0,396,1.0,3.0,0.04,MEX,Mexico<br>Active Cases 396<br>Total Deaths 5
 Estonia,404,35.0,1.0,1.0,8.0,395,5.0,305.0,0.8,EST,Estonia<br>Active Cases 395<br>Total Deaths 1
