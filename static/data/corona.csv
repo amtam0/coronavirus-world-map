@@ -41,8 +41,8 @@ Diamond Princess,712,0.0,10.0,0.0,587.0,115,15.0,0.0,0.0,Diamond Princess,Diamon
 South Africa,709,155.0,0.0,0.0,12.0,697,2.0,12.0,0.0,ZAF,South Africa<br>Active Cases 697<br>Total Deaths 0
 Russia,658,163.0,1.0,0.0,29.0,628,8.0,5.0,0.01,RUS,Russia<br>Active Cases 628<br>Total Deaths 1
 Philippines,636,84.0,38.0,3.0,26.0,572,1.0,6.0,0.3,PHL,Philippines<br>Active Cases 572<br>Total Deaths 38
+Singapore,631,73.0,2.0,0.0,156.0,473,17.0,108.0,0.3,SGP,Singapore<br>Active Cases 473<br>Total Deaths 2
 India,606,70.0,10.0,0.0,42.0,554,0.0,0.4,0.01,IND,India<br>Active Cases 554<br>Total Deaths 10
-Singapore,558,0.0,2.0,0.0,156.0,400,17.0,95.0,0.3,SGP,Singapore<br>Active Cases 400<br>Total Deaths 2
 Slovenia,528,48.0,5.0,1.0,10.0,513,14.0,254.0,2.0,SVN,Slovenia<br>Active Cases 513<br>Total Deaths 5
 Qatar,526,0.0,0.0,0.0,41.0,485,6.0,183.0,0.0,QAT,Qatar<br>Active Cases 485<br>Total Deaths 0
 Panama,443,0.0,6.0,0.0,1.0,436,33.0,103.0,1.0,PAN,Panama<br>Active Cases 436<br>Total Deaths 6
@@ -53,13 +53,13 @@ Peru,416,0.0,7.0,0.0,1.0,408,9.0,13.0,0.2,PER,Peru<br>Active Cases 408<br>Total 
 Hong Kong,410,23.0,4.0,0.0,102.0,304,4.0,55.0,0.5,HKG,Hong Kong<br>Active Cases 304<br>Total Deaths 4
 Mexico,405,38.0,5.0,1.0,4.0,396,1.0,3.0,0.04,MEX,Mexico<br>Active Cases 396<br>Total Deaths 5
 Estonia,404,35.0,0.0,0.0,8.0,396,5.0,305.0,0.0,EST,Estonia<br>Active Cases 396<br>Total Deaths 0
+Dominican Republic,392,80.0,10.0,4.0,3.0,379,0.0,36.0,0.9,DOM,Dominican Republic<br>Active Cases 379<br>Total Deaths 10
 Argentina,387,0.0,7.0,1.0,52.0,328,0.0,9.0,0.2,ARG,Argentina<br>Active Cases 328<br>Total Deaths 7
 Serbia,384,81.0,4.0,1.0,15.0,365,21.0,44.0,0.5,SRB,Serbia<br>Active Cases 365<br>Total Deaths 4
 Colombia,378,0.0,3.0,0.0,6.0,369,0.0,7.0,0.06,COL,Colombia<br>Active Cases 369<br>Total Deaths 3
 Iraq,346,30.0,29.0,2.0,103.0,214,0.0,9.0,0.7,IRQ,Iraq<br>Active Cases 214<br>Total Deaths 29
 Lebanon,333,15.0,4.0,0.0,8.0,321,4.0,49.0,0.6,LBN,Lebanon<br>Active Cases 321<br>Total Deaths 4
 UAE,333,85.0,2.0,0.0,52.0,279,2.0,34.0,0.2,ARE,UAE<br>Active Cases 279<br>Total Deaths 2
-Dominican Republic,312,0.0,6.0,0.0,3.0,303,0.0,29.0,0.6,DOM,Dominican Republic<br>Active Cases 303<br>Total Deaths 6
 Armenia,265,16.0,0.0,0.0,16.0,249,6.0,89.0,0.0,ARM,Armenia<br>Active Cases 249<br>Total Deaths 0
 Algeria,264,0.0,19.0,0.0,65.0,180,0.0,6.0,0.4,DZA,Algeria<br>Active Cases 180<br>Total Deaths 19
 Lithuania,255,46.0,4.0,2.0,1.0,250,1.0,94.0,1.0,LTU,Lithuania<br>Active Cases 250<br>Total Deaths 4
@@ -75,6 +75,7 @@ Andorra,188,24.0,1.0,0.0,1.0,186,6.0,2433.0,13.0,AND,Andorra<br>Active Cases 186
 San Marino,187,0.0,21.0,0.0,4.0,162,12.0,5511.0,619.0,SMR,San Marino<br>Active Cases 162<br>Total Deaths 21
 Costa Rica,177,0.0,2.0,0.0,2.0,173,4.0,35.0,0.4,CRI,Costa Rica<br>Active Cases 173<br>Total Deaths 2
 North Macedonia,177,29.0,2.0,0.0,1.0,174,1.0,85.0,1.0,MKD,North Macedonia<br>Active Cases 174<br>Total Deaths 2
+Tunisia,171,57.0,4.0,0.0,2.0,165,11.0,14.0,0.3,TUN,Tunisia<br>Active Cases 165<br>Total Deaths 4
 Morocco,170,0.0,5.0,0.0,6.0,159,1.0,5.0,0.1,MAR,Morocco<br>Active Cases 159<br>Total Deaths 5
 Bosnia and Herzegovina,168,0.0,3.0,0.0,2.0,163,1.0,51.0,0.9,BIH,Bosnia and Herzegovina<br>Active Cases 163<br>Total Deaths 3
 Jordan,154,0.0,0.0,0.0,1.0,153,0.0,15.0,0.0,JOR,Jordan<br>Active Cases 153<br>Total Deaths 0
@@ -84,7 +85,6 @@ Faeroe Islands,132,10.0,0.0,0.0,38.0,94,2.0,2701.0,0.0,FRO,Faeroe Islands<br>Act
 Malta,129,19.0,0.0,0.0,2.0,127,1.0,292.0,0.0,MLT,Malta<br>Active Cases 127<br>Total Deaths 0
 Moldova,125,0.0,1.0,0.0,2.0,122,20.0,31.0,0.2,MDA,Moldova<br>Active Cases 122<br>Total Deaths 1
 Cyprus,124,0.0,3.0,0.0,3.0,118,3.0,103.0,2.0,CYP,Cyprus<br>Active Cases 118<br>Total Deaths 3
-Tunisia,119,5.0,4.0,0.0,2.0,113,11.0,10.0,0.3,TUN,Tunisia<br>Active Cases 113<br>Total Deaths 4
 Burkina Faso,114,0.0,4.0,0.0,7.0,103,0.0,5.0,0.2,BFA,Burkina Faso<br>Active Cases 103<br>Total Deaths 4
 Ukraine,113,11.0,4.0,1.0,1.0,108,0.0,3.0,0.09,UKR,Ukraine<br>Active Cases 108<br>Total Deaths 4
 Brunei ,109,5.0,0.0,0.0,2.0,107,1.0,249.0,0.0,BRN,Brunei<br>Active Cases 107<br>Total Deaths 0
