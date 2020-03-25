@@ -1,11 +1,11 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Tot Deaths/1M pop,iso_alpha,text
 China,81218,47.0,3281.0,4.0,73650.0,4287,1399.0,56.0,2.0,CHN,China<br>Active Cases 4287<br>Total Deaths 3281
 Italy,74386,5210.0,7503.0,683.0,9362.0,57521,3489.0,1230.0,124.0,ITA,Italy<br>Active Cases 57521<br>Total Deaths 7503
-USA,61081,6225.0,841.0,61.0,387.0,59853,1307.0,185.0,3.0,USA,USA<br>Active Cases 59853<br>Total Deaths 841
+USA,61808,6952.0,859.0,79.0,387.0,60562,1307.0,187.0,3.0,USA,USA<br>Active Cases 60562<br>Total Deaths 859
 Spain,47610,5552.0,3434.0,443.0,5367.0,38809,2636.0,1018.0,73.0,ESP,Spain<br>Active Cases 38809<br>Total Deaths 3434
 Germany,37098,4107.0,205.0,46.0,3547.0,33346,23.0,443.0,2.0,DEU,Germany<br>Active Cases 33346<br>Total Deaths 205
 Iran,27017,2206.0,2077.0,143.0,9625.0,15315,0.0,322.0,25.0,IRN,Iran<br>Active Cases 15315<br>Total Deaths 2077
-France,22304,0.0,1100.0,0.0,3281.0,17923,2516.0,342.0,17.0,FRA,France<br>Active Cases 17923<br>Total Deaths 1100
+France,25233,2929.0,1331.0,231.0,3900.0,20002,2827.0,387.0,20.0,FRA,France<br>Active Cases 20002<br>Total Deaths 1331
 Switzerland,10897,1020.0,153.0,31.0,131.0,10613,141.0,1259.0,18.0,CHE,Switzerland<br>Active Cases 10613<br>Total Deaths 153
 S. Korea,9137,100.0,126.0,6.0,3730.0,5281,59.0,178.0,2.0,KOR,S. Korea<br>Active Cases 5281<br>Total Deaths 126
 UK,8264,187.0,435.0,13.0,135.0,7694,20.0,122.0,6.0,GBR,UK<br>Active Cases 7694<br>Total Deaths 435
@@ -42,7 +42,7 @@ South Africa,709,155.0,0.0,0.0,12.0,697,2.0,12.0,0.0,ZAF,South Africa<br>Active 
 Russia,658,163.0,3.0,2.0,29.0,626,8.0,5.0,0.02,RUS,Russia<br>Active Cases 626<br>Total Deaths 3
 Philippines,636,84.0,38.0,3.0,26.0,572,1.0,6.0,0.3,PHL,Philippines<br>Active Cases 572<br>Total Deaths 38
 Singapore,631,73.0,2.0,0.0,160.0,469,17.0,108.0,0.3,SGP,Singapore<br>Active Cases 469<br>Total Deaths 2
-India,606,70.0,10.0,0.0,42.0,554,0.0,0.4,0.01,IND,India<br>Active Cases 554<br>Total Deaths 10
+India,606,70.0,11.0,1.0,42.0,553,0.0,0.4,0.01,IND,India<br>Active Cases 553<br>Total Deaths 11
 Qatar,537,11.0,0.0,0.0,41.0,496,6.0,186.0,0.0,QAT,Qatar<br>Active Cases 496<br>Total Deaths 0
 Slovenia,528,48.0,5.0,1.0,10.0,513,14.0,254.0,2.0,SVN,Slovenia<br>Active Cases 513<br>Total Deaths 5
 Peru,480,64.0,9.0,2.0,1.0,470,9.0,15.0,0.3,PER,Peru<br>Active Cases 470<br>Total Deaths 9
@@ -77,8 +77,8 @@ San Marino,187,0.0,21.0,0.0,4.0,162,12.0,5511.0,619.0,SMR,San Marino<br>Active C
 North Macedonia,177,29.0,3.0,1.0,1.0,173,1.0,85.0,1.0,MKD,North Macedonia<br>Active Cases 173<br>Total Deaths 3
 Costa Rica,177,0.0,2.0,0.0,2.0,173,4.0,35.0,0.4,CRI,Costa Rica<br>Active Cases 173<br>Total Deaths 2
 Tunisia,173,59.0,5.0,1.0,2.0,166,11.0,15.0,0.4,TUN,Tunisia<br>Active Cases 166<br>Total Deaths 5
+Bosnia and Herzegovina,173,5.0,3.0,0.0,2.0,168,1.0,53.0,0.9,BIH,Bosnia and Herzegovina<br>Active Cases 168<br>Total Deaths 3
 Jordan,172,18.0,0.0,0.0,1.0,171,0.0,17.0,0.0,JOR,Jordan<br>Active Cases 171<br>Total Deaths 0
-Bosnia and Herzegovina,168,0.0,3.0,0.0,2.0,163,1.0,51.0,0.9,BIH,Bosnia and Herzegovina<br>Active Cases 163<br>Total Deaths 3
 Moldova,149,24.0,1.0,0.0,2.0,146,20.0,37.0,0.2,MDA,Moldova<br>Active Cases 146<br>Total Deaths 1
 Albania,146,23.0,5.0,0.0,17.0,124,3.0,51.0,2.0,ALB,Albania<br>Active Cases 124<br>Total Deaths 5
 Vietnam,141,7.0,0.0,0.0,17.0,124,3.0,1.0,0.0,VNM,Vietnam<br>Active Cases 124<br>Total Deaths 0
