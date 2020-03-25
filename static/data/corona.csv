@@ -1,7 +1,7 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Tot Deaths/1M pop,iso_alpha,text
 China,81218,47.0,3281.0,4.0,73650.0,4287,1399.0,56.0,2.0,CHN,China<br>Active Cases 4287<br>Total Deaths 3281
 Italy,69176,0.0,6820.0,0.0,8326.0,54030,3393.0,1144.0,113.0,ITA,Italy<br>Active Cases 54030<br>Total Deaths 6820
-USA,54996,140.0,785.0,5.0,379.0,53832,1175.0,166.0,2.0,USA,USA<br>Active Cases 53832<br>Total Deaths 785
+USA,54999,143.0,785.0,5.0,379.0,53835,1175.0,166.0,2.0,USA,USA<br>Active Cases 53835<br>Total Deaths 785
 Spain,47610,5552.0,3434.0,443.0,5367.0,38809,2636.0,1018.0,73.0,ESP,Spain<br>Active Cases 38809<br>Total Deaths 3434
 Germany,34055,1064.0,175.0,16.0,3540.0,30340,23.0,406.0,2.0,DEU,Germany<br>Active Cases 30340<br>Total Deaths 175
 Iran,27017,2206.0,2077.0,143.0,9625.0,15315,0.0,322.0,25.0,IRN,Iran<br>Active Cases 15315<br>Total Deaths 2077
@@ -30,7 +30,7 @@ Ecuador,1082,0.0,27.0,0.0,3.0,1052,2.0,61.0,2.0,ECU,Ecuador<br>Active Cases 1052
 Pakistan,1014,42.0,8.0,1.0,21.0,985,5.0,5.0,0.04,PAK,Pakistan<br>Active Cases 985<br>Total Deaths 8
 Poland,957,56.0,13.0,3.0,1.0,943,3.0,25.0,0.3,POL,Poland<br>Active Cases 943<br>Total Deaths 13
 Thailand,934,107.0,4.0,0.0,70.0,860,11.0,13.0,0.06,THA,Thailand<br>Active Cases 860<br>Total Deaths 4
-Chile,922,0.0,2.0,0.0,17.0,903,7.0,48.0,0.1,CHL,Chile<br>Active Cases 903<br>Total Deaths 2
+Chile,922,0.0,2.0,0.0,22.0,898,7.0,48.0,0.1,CHL,Chile<br>Active Cases 898<br>Total Deaths 2
 Romania,906,112.0,13.0,1.0,86.0,807,18.0,47.0,0.7,ROU,Romania<br>Active Cases 807<br>Total Deaths 13
 Saudi Arabia,900,133.0,2.0,1.0,29.0,869,0.0,26.0,0.06,SAU,Saudi Arabia<br>Active Cases 869<br>Total Deaths 2
 Finland,853,61.0,3.0,2.0,10.0,840,11.0,154.0,0.5,FIN,Finland<br>Active Cases 840<br>Total Deaths 3
@@ -46,7 +46,7 @@ Singapore,558,0.0,2.0,0.0,156.0,400,17.0,95.0,0.3,SGP,Singapore<br>Active Cases 
 Slovenia,528,48.0,5.0,1.0,10.0,513,14.0,254.0,2.0,SVN,Slovenia<br>Active Cases 513<br>Total Deaths 5
 Qatar,526,0.0,0.0,0.0,41.0,485,6.0,183.0,0.0,QAT,Qatar<br>Active Cases 485<br>Total Deaths 0
 Panama,443,0.0,6.0,0.0,1.0,436,33.0,103.0,1.0,PAN,Panama<br>Active Cases 436<br>Total Deaths 6
-Egypt,442,40.0,20.0,0.0,80.0,342,0.0,4.0,0.2,EGY,Egypt<br>Active Cases 342<br>Total Deaths 20
+Egypt,442,40.0,21.0,1.0,80.0,341,0.0,4.0,0.2,EGY,Egypt<br>Active Cases 341<br>Total Deaths 21
 Bahrain,419,27.0,3.0,0.0,177.0,239,2.0,246.0,2.0,BHR,Bahrain<br>Active Cases 239<br>Total Deaths 3
 Croatia,418,36.0,1.0,0.0,16.0,401,6.0,102.0,0.2,HRV,Croatia<br>Active Cases 401<br>Total Deaths 1
 Peru,416,0.0,7.0,0.0,1.0,408,9.0,13.0,0.2,PER,Peru<br>Active Cases 408<br>Total Deaths 7
@@ -56,13 +56,13 @@ Estonia,404,35.0,0.0,0.0,8.0,396,5.0,305.0,0.0,EST,Estonia<br>Active Cases 396<b
 Argentina,387,0.0,6.0,0.0,52.0,329,0.0,9.0,0.1,ARG,Argentina<br>Active Cases 329<br>Total Deaths 6
 Colombia,378,0.0,3.0,0.0,6.0,369,0.0,7.0,0.06,COL,Colombia<br>Active Cases 369<br>Total Deaths 3
 Lebanon,333,15.0,4.0,0.0,8.0,321,4.0,49.0,0.6,LBN,Lebanon<br>Active Cases 321<br>Total Deaths 4
+UAE,333,85.0,2.0,0.0,7.0,324,2.0,34.0,0.2,ARE,UAE<br>Active Cases 324<br>Total Deaths 2
 Iraq,316,0.0,27.0,0.0,75.0,214,0.0,8.0,0.7,IRQ,Iraq<br>Active Cases 214<br>Total Deaths 27
 Dominican Republic,312,0.0,6.0,0.0,3.0,303,0.0,29.0,0.6,DOM,Dominican Republic<br>Active Cases 303<br>Total Deaths 6
 Serbia,303,0.0,4.0,1.0,15.0,284,21.0,35.0,0.5,SRB,Serbia<br>Active Cases 284<br>Total Deaths 4
 Armenia,265,16.0,0.0,0.0,16.0,249,6.0,89.0,0.0,ARM,Armenia<br>Active Cases 249<br>Total Deaths 0
 Algeria,264,0.0,19.0,0.0,65.0,180,0.0,6.0,0.4,DZA,Algeria<br>Active Cases 180<br>Total Deaths 19
 Lithuania,255,46.0,4.0,2.0,1.0,250,1.0,94.0,1.0,LTU,Lithuania<br>Active Cases 250<br>Total Deaths 4
-UAE,248,0.0,2.0,0.0,45.0,201,2.0,25.0,0.2,ARE,UAE<br>Active Cases 201<br>Total Deaths 2
 Taiwan,235,19.0,2.0,0.0,29.0,204,0.0,10.0,0.08,TWN,Taiwan<br>Active Cases 204<br>Total Deaths 2
 Hungary,226,39.0,10.0,1.0,21.0,195,6.0,23.0,1.0,HUN,Hungary<br>Active Cases 195<br>Total Deaths 10
 Latvia,221,24.0,0.0,0.0,1.0,220,0.0,117.0,0.0,LVA,Latvia<br>Active Cases 220<br>Total Deaths 0
