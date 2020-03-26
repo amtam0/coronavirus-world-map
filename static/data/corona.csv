@@ -1,5 +1,5 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Tot Deaths/1M pop,iso_alpha,text
-China,81285,67.0,3287.0,6.0,74051.0,3947,1235.0,56.0,2.0,CHN,China<br>Active Cases 3947<br>Total Deaths 3287
+China,81285,0.0,3287.0,0.0,74051.0,3947,1235.0,56.0,2.0,CHN,China<br>Active Cases 3947<br>Total Deaths 3287
 USA,82179,13968.0,1177.0,150.0,1864.0,79138,2112.0,248.0,4.0,USA,USA<br>Active Cases 79138<br>Total Deaths 1177
 Italy,80589,6203.0,8215.0,712.0,10361.0,62013,3612.0,1333.0,136.0,ITA,Italy<br>Active Cases 62013<br>Total Deaths 8215
 Spain,56347,6832.0,4154.0,507.0,7015.0,45178,3166.0,1205.0,89.0,ESP,Spain<br>Active Cases 45178<br>Total Deaths 4154
@@ -160,6 +160,7 @@ Curaçao,6,0.0,1.0,0.0,2.0,3,0.0,37.0,6.0,CUW,Curaçao<br>Active Cases 3<br>Tota
 Benin,6,0.0,0.0,0.0,0.0,6,0.0,0.5,0.0,BEN,Benin<br>Active Cases 6<br>Total Deaths 0
 Greenland,6,0.0,0.0,0.0,2.0,4,0.0,106.0,0.0,GRL,Greenland<br>Active Cases 4<br>Total Deaths 0
 Laos,6,3.0,0.0,0.0,0.0,6,0.0,0.8,0.0,LAO,Laos<br>Active Cases 6<br>Total Deaths 0
+Eswatini,6,2.0,0.0,0.0,0.0,6,0.0,5.0,0.0,SWZ,Eswatini<br>Active Cases 6<br>Total Deaths 0
 Guyana,5,0.0,1.0,0.0,0.0,4,0.0,6.0,1.0,GUY,Guyana<br>Active Cases 4<br>Total Deaths 1
 Bahamas,5,0.0,0.0,0.0,1.0,4,0.0,13.0,0.0,BHS,Bahamas<br>Active Cases 4<br>Total Deaths 0
 Fiji,5,0.0,0.0,0.0,0.0,5,0.0,6.0,0.0,FJI,Fiji<br>Active Cases 5<br>Total Deaths 0
@@ -171,7 +172,6 @@ Eritrea,4,0.0,0.0,0.0,0.0,4,0.0,1.0,0.0,ERI,Eritrea<br>Active Cases 4<br>Total D
 Guinea,4,0.0,0.0,0.0,0.0,4,0.0,0.3,0.0,GIN,Guinea<br>Active Cases 4<br>Total Deaths 0
 Vatican City,4,0.0,0.0,0.0,0.0,4,0.0,4994.0,0.0,VAT,Vatican City<br>Active Cases 4<br>Total Deaths 0
 Mali,4,2.0,0.0,0.0,0.0,4,0.0,0.2,0.0,MLI,Mali<br>Active Cases 4<br>Total Deaths 0
-Eswatini,4,0.0,0.0,0.0,0.0,4,0.0,3.0,0.0,SWZ,Eswatini<br>Active Cases 4<br>Total Deaths 0
 Gambia,3,0.0,1.0,0.0,0.0,2,0.0,1.0,0.4,GMB,Gambia<br>Active Cases 2<br>Total Deaths 1
 Sudan,3,0.0,1.0,0.0,0.0,2,0.0,0.07,0.02,SDN,Sudan<br>Active Cases 2<br>Total Deaths 1
 Zimbabwe,3,0.0,1.0,0.0,0.0,2,0.0,0.2,0.07,ZWE,Zimbabwe<br>Active Cases 2<br>Total Deaths 1
