@@ -1,11 +1,11 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Tot Deaths/1M pop,iso_alpha,text
 China,81285,67.0,3287.0,6.0,74051.0,3947,1235.0,56.0,2.0,CHN,China<br>Active Cases 3947<br>Total Deaths 3287
 Italy,80589,6203.0,8215.0,712.0,10361.0,62013,3612.0,1333.0,136.0,ITA,Italy<br>Active Cases 62013<br>Total Deaths 8215
-USA,78139,9928.0,1119.0,92.0,1863.0,75157,2096.0,236.0,3.0,USA,USA<br>Active Cases 75157<br>Total Deaths 1119
+USA,78949,10738.0,1141.0,114.0,1864.0,75944,2112.0,239.0,3.0,USA,USA<br>Active Cases 75944<br>Total Deaths 1141
 Spain,56197,6682.0,4145.0,498.0,7015.0,45037,3166.0,1202.0,89.0,ESP,Spain<br>Active Cases 45037<br>Total Deaths 4145
 Germany,43646,6323.0,239.0,33.0,5673.0,37734,23.0,521.0,3.0,DEU,Germany<br>Active Cases 37734<br>Total Deaths 239
 Iran,29406,2389.0,2234.0,157.0,10457.0,16715,2746.0,350.0,27.0,IRN,Iran<br>Active Cases 16715<br>Total Deaths 2234
-France,25233,0.0,1331.0,0.0,3900.0,20002,2827.0,387.0,20.0,FRA,France<br>Active Cases 20002<br>Total Deaths 1331
+France,29155,3922.0,1696.0,365.0,4948.0,22511,3375.0,447.0,26.0,FRA,France<br>Active Cases 22511<br>Total Deaths 1696
 Switzerland,11712,815.0,191.0,38.0,131.0,11390,141.0,1353.0,22.0,CHE,Switzerland<br>Active Cases 11390<br>Total Deaths 191
 UK,11658,2129.0,578.0,113.0,135.0,10945,163.0,172.0,9.0,GBR,UK<br>Active Cases 10945<br>Total Deaths 578
 S. Korea,9241,104.0,131.0,5.0,4144.0,4966,59.0,180.0,3.0,KOR,S. Korea<br>Active Cases 4966<br>Total Deaths 131
@@ -46,8 +46,8 @@ Singapore,683,52.0,2.0,0.0,172.0,509,17.0,117.0,0.3,SGP,Singapore<br>Active Case
 Peru,580,100.0,9.0,0.0,14.0,557,14.0,18.0,0.3,PER,Peru<br>Active Cases 557<br>Total Deaths 9
 Slovenia,562,34.0,6.0,1.0,10.0,546,14.0,270.0,3.0,SVN,Slovenia<br>Active Cases 546<br>Total Deaths 6
 Panama,558,0.0,8.0,0.0,2.0,548,20.0,129.0,2.0,PAN,Panama<br>Active Cases 548<br>Total Deaths 8
+Qatar,549,12.0,0.0,0.0,43.0,506,6.0,191.0,0.0,QAT,Qatar<br>Active Cases 506<br>Total Deaths 0
 Estonia,538,134.0,1.0,0.0,8.0,529,6.0,406.0,0.8,EST,Estonia<br>Active Cases 529<br>Total Deaths 1
-Qatar,537,0.0,0.0,0.0,41.0,496,6.0,186.0,0.0,QAT,Qatar<br>Active Cases 496<br>Total Deaths 0
 Argentina,502,0.0,8.0,0.0,52.0,442,0.0,11.0,0.2,ARG,Argentina<br>Active Cases 442<br>Total Deaths 8
 Croatia,495,53.0,2.0,1.0,22.0,471,14.0,121.0,0.5,HRV,Croatia<br>Active Cases 471<br>Total Deaths 2
 Dominican Republic,488,96.0,10.0,0.0,3.0,475,0.0,45.0,0.9,DOM,Dominican Republic<br>Active Cases 475<br>Total Deaths 10
