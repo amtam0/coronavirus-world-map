@@ -1,6 +1,6 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Tot Deaths/1M pop,iso_alpha,text
 China,81285,67.0,3287.0,6.0,74051.0,3947,1235.0,56.0,2.0,CHN,China<br>Active Cases 3947<br>Total Deaths 3287
-USA,81896,13685.0,1174.0,147.0,1864.0,78858,2112.0,247.0,4.0,USA,USA<br>Active Cases 78858<br>Total Deaths 1174
+USA,81943,13732.0,1177.0,150.0,1864.0,78902,2112.0,248.0,4.0,USA,USA<br>Active Cases 78902<br>Total Deaths 1177
 Italy,80589,6203.0,8215.0,712.0,10361.0,62013,3612.0,1333.0,136.0,ITA,Italy<br>Active Cases 62013<br>Total Deaths 8215
 Spain,56347,6832.0,4154.0,507.0,7015.0,45178,3166.0,1205.0,89.0,ESP,Spain<br>Active Cases 45178<br>Total Deaths 4154
 Germany,43646,6323.0,262.0,56.0,5673.0,37711,23.0,521.0,3.0,DEU,Germany<br>Active Cases 37711<br>Total Deaths 262
@@ -50,7 +50,7 @@ Qatar,549,12.0,0.0,0.0,43.0,506,6.0,191.0,0.0,QAT,Qatar<br>Active Cases 506<br>T
 Estonia,538,134.0,1.0,0.0,8.0,529,6.0,406.0,0.8,EST,Estonia<br>Active Cases 529<br>Total Deaths 1
 Argentina,502,0.0,8.0,0.0,63.0,431,0.0,11.0,0.2,ARG,Argentina<br>Active Cases 431<br>Total Deaths 8
 Egypt,495,39.0,24.0,3.0,102.0,369,0.0,5.0,0.2,EGY,Egypt<br>Active Cases 369<br>Total Deaths 24
-Croatia,495,53.0,2.0,1.0,22.0,471,14.0,121.0,0.5,HRV,Croatia<br>Active Cases 471<br>Total Deaths 2
+Croatia,495,53.0,3.0,2.0,22.0,470,14.0,121.0,0.7,HRV,Croatia<br>Active Cases 470<br>Total Deaths 3
 Colombia,491,21.0,6.0,2.0,8.0,477,0.0,10.0,0.1,COL,Colombia<br>Active Cases 477<br>Total Deaths 6
 Dominican Republic,488,96.0,10.0,0.0,3.0,475,0.0,45.0,0.9,DOM,Dominican Republic<br>Active Cases 475<br>Total Deaths 10
 Mexico,475,70.0,6.0,1.0,4.0,465,1.0,4.0,0.05,MEX,Mexico<br>Active Cases 465<br>Total Deaths 6
@@ -98,7 +98,7 @@ Venezuela,106,0.0,0.0,0.0,15.0,91,2.0,4.0,0.0,VEN,Venezuela<br>Active Cases 91<b
 Senegal,105,6.0,0.0,0.0,9.0,96,0.0,6.0,0.0,SEN,Senegal<br>Active Cases 96<br>Total Deaths 0
 Cambodia,96,0.0,0.0,0.0,10.0,86,1.0,6.0,0.0,KHM,Cambodia<br>Active Cases 86<br>Total Deaths 0
 Ivory Coast,96,16.0,0.0,0.0,3.0,93,0.0,4.0,0.0,CIV,Ivory Coast<br>Active Cases 93<br>Total Deaths 0
-Afghanistan,94,10.0,2.0,0.0,2.0,90,0.0,2.0,0.05,AFG,Afghanistan<br>Active Cases 90<br>Total Deaths 2
+Afghanistan,94,10.0,4.0,2.0,2.0,88,0.0,2.0,0.1,AFG,Afghanistan<br>Active Cases 88<br>Total Deaths 4
 Belarus,86,0.0,0.0,0.0,29.0,57,2.0,9.0,0.0,BLR,Belarus<br>Active Cases 57<br>Total Deaths 0
 Palestine,84,13.0,1.0,0.0,17.0,66,0.0,16.0,0.2,PSE,Palestine<br>Active Cases 66<br>Total Deaths 1
 Mauritius,81,33.0,2.0,0.0,0.0,79,1.0,64.0,2.0,MUS,Mauritius<br>Active Cases 79<br>Total Deaths 2
