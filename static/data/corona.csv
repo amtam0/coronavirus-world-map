@@ -1,7 +1,7 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Tot Deaths/1M pop,iso_alpha,text
 China,81285,67.0,3287.0,6.0,74051.0,3947,1235.0,56.0,2.0,CHN,China<br>Active Cases 3947<br>Total Deaths 3287
+USA,74392,6181.0,1072.0,45.0,1850.0,71470,1857.0,225.0,3.0,USA,USA<br>Active Cases 71470<br>Total Deaths 1072
 Italy,74386,0.0,7503.0,0.0,9362.0,57521,3489.0,1230.0,124.0,ITA,Italy<br>Active Cases 57521<br>Total Deaths 7503
-USA,74375,6164.0,1072.0,45.0,1850.0,71453,1857.0,225.0,3.0,USA,USA<br>Active Cases 71453<br>Total Deaths 1072
 Spain,56197,6682.0,4145.0,498.0,7015.0,45037,3166.0,1202.0,89.0,ESP,Spain<br>Active Cases 45037<br>Total Deaths 4145
 Germany,41519,4196.0,239.0,33.0,5673.0,35607,23.0,496.0,3.0,DEU,Germany<br>Active Cases 35607<br>Total Deaths 239
 Iran,29406,2389.0,2234.0,157.0,10457.0,16715,2746.0,350.0,27.0,IRN,Iran<br>Active Cases 16715<br>Total Deaths 2234
@@ -58,9 +58,9 @@ Egypt,456,0.0,21.0,0.0,95.0,340,0.0,4.0,0.2,EGY,Egypt<br>Active Cases 340<br>Tot
 Hong Kong,453,42.0,4.0,0.0,110.0,339,5.0,60.0,0.5,HKG,Hong Kong<br>Active Cases 339<br>Total Deaths 4
 Dominican Republic,392,0.0,10.0,0.0,3.0,379,0.0,36.0,0.9,DOM,Dominican Republic<br>Active Cases 379<br>Total Deaths 10
 Iraq,382,36.0,36.0,7.0,105.0,241,0.0,9.0,0.9,IRQ,Iraq<br>Active Cases 241<br>Total Deaths 36
-Lebanon,368,35.0,6.0,0.0,20.0,342,3.0,54.0,0.9,LBN,Lebanon<br>Active Cases 342<br>Total Deaths 6
+Lebanon,368,35.0,6.0,0.0,23.0,339,3.0,54.0,0.9,LBN,Lebanon<br>Active Cases 339<br>Total Deaths 6
 UAE,333,0.0,2.0,0.0,52.0,279,2.0,34.0,0.2,ARE,UAE<br>Active Cases 279<br>Total Deaths 2
-Algeria,302,0.0,21.0,0.0,24.0,257,0.0,7.0,0.5,DZA,Algeria<br>Active Cases 257<br>Total Deaths 21
+Algeria,302,0.0,25.0,4.0,24.0,253,0.0,7.0,0.6,DZA,Algeria<br>Active Cases 253<br>Total Deaths 25
 Lithuania,290,16.0,4.0,0.0,1.0,285,1.0,107.0,1.0,LTU,Lithuania<br>Active Cases 285<br>Total Deaths 4
 Armenia,290,25.0,1.0,1.0,18.0,271,6.0,98.0,0.3,ARM,Armenia<br>Active Cases 271<br>Total Deaths 1
 New Zealand,283,0.0,0.0,0.0,27.0,256,0.0,59.0,0.0,NZL,New Zealand<br>Active Cases 256<br>Total Deaths 0
