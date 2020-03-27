@@ -1,7 +1,7 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Tot Deaths/1M pop,iso_alpha,text
 China,81340,55.0,3292.0,5.0,74588.0,3460,1034.0,57.0,2.0,CHN,China<br>Active Cases 3460<br>Total Deaths 3292
 USA,93329,7894.0,1384.0,89.0,2424.0,89521,2432.0,282.0,4.0,USA,USA<br>Active Cases 89521<br>Total Deaths 1384
-Italy,80589,0.0,8215.0,0.0,10361.0,62013,3612.0,1333.0,136.0,ITA,Italy<br>Active Cases 62013<br>Total Deaths 8215
+Italy,86498,5909.0,9134.0,919.0,10950.0,66414,3732.0,1431.0,151.0,ITA,Italy<br>Active Cases 66414<br>Total Deaths 9134
 Spain,64059,6273.0,4934.0,569.0,9357.0,49768,4165.0,1370.0,106.0,ESP,Spain<br>Active Cases 49768<br>Total Deaths 4934
 Germany,49344,5406.0,304.0,37.0,5673.0,43367,23.0,589.0,4.0,DEU,Germany<br>Active Cases 43367<br>Total Deaths 304
 Iran,32332,2926.0,2378.0,144.0,11133.0,18821,2893.0,385.0,28.0,IRN,Iran<br>Active Cases 18821<br>Total Deaths 2378
@@ -28,16 +28,16 @@ Chile,1610,304.0,5.0,1.0,43.0,1562,7.0,84.0,0.3,CHL,Chile<br>Active Cases 1562<b
 Luxembourg,1605,152.0,15.0,6.0,40.0,1550,25.0,2564.0,24.0,LUX,Luxembourg<br>Active Cases 1550<br>Total Deaths 15
 Ecuador,1595,192.0,36.0,2.0,3.0,1556,58.0,90.0,2.0,ECU,Ecuador<br>Active Cases 1556<br>Total Deaths 36
 Japan,1387,0.0,47.0,0.0,359.0,981,57.0,11.0,0.4,JPN,Japan<br>Active Cases 981<br>Total Deaths 47
+Poland,1340,119.0,16.0,0.0,7.0,1317,3.0,35.0,0.4,POL,Poland<br>Active Cases 1317<br>Total Deaths 16
 Pakistan,1296,95.0,9.0,0.0,23.0,1264,7.0,6.0,0.04,PAK,Pakistan<br>Active Cases 1264<br>Total Deaths 9
 Romania,1292,263.0,24.0,1.0,115.0,1153,32.0,67.0,1.0,ROU,Romania<br>Active Cases 1153<br>Total Deaths 24
-Poland,1289,68.0,16.0,0.0,7.0,1266,3.0,34.0,0.4,POL,Poland<br>Active Cases 1266<br>Total Deaths 16
+South Africa,1170,243.0,2.0,2.0,12.0,1156,7.0,20.0,0.03,ZAF,South Africa<br>Active Cases 1156<br>Total Deaths 2
 Thailand,1136,91.0,5.0,1.0,97.0,1034,11.0,16.0,0.07,THA,Thailand<br>Active Cases 1034<br>Total Deaths 5
 Saudi Arabia,1104,92.0,3.0,0.0,35.0,1066,6.0,32.0,0.09,SAU,Saudi Arabia<br>Active Cases 1066<br>Total Deaths 3
 Indonesia,1046,153.0,87.0,9.0,46.0,913,0.0,4.0,0.3,IDN,Indonesia<br>Active Cases 913<br>Total Deaths 87
 Finland,1041,83.0,7.0,2.0,10.0,1024,32.0,188.0,1.0,FIN,Finland<br>Active Cases 1024<br>Total Deaths 7
 Russia,1036,196.0,3.0,0.0,45.0,988,8.0,7.0,0.02,RUS,Russia<br>Active Cases 988<br>Total Deaths 3
 Greece,966,74.0,28.0,1.0,52.0,886,66.0,93.0,3.0,GRC,Greece<br>Active Cases 886<br>Total Deaths 28
-South Africa,927,0.0,2.0,2.0,12.0,913,7.0,16.0,0.03,ZAF,South Africa<br>Active Cases 913<br>Total Deaths 2
 Iceland,890,88.0,2.0,0.0,97.0,791,18.0,2608.0,6.0,ISL,Iceland<br>Active Cases 791<br>Total Deaths 2
 India,878,151.0,20.0,0.0,73.0,785,0.0,0.6,0.01,IND,India<br>Active Cases 785<br>Total Deaths 20
 Philippines,803,96.0,54.0,9.0,31.0,718,1.0,7.0,0.5,PHL,Philippines<br>Active Cases 718<br>Total Deaths 54
@@ -172,6 +172,7 @@ Zimbabwe,5,2.0,1.0,0.0,0.0,4,0.0,0.3,0.07,ZWE,Zimbabwe<br>Active Cases 4<br>Tota
 Fiji,5,0.0,0.0,0.0,0.0,5,0.0,6.0,0.0,FJI,Fiji<br>Active Cases 5<br>Total Deaths 0
 Montserrat,5,0.0,0.0,0.0,0.0,5,0.0,1002.0,0.0,MSR,Montserrat<br>Active Cases 5<br>Total Deaths 0
 Myanmar,5,0.0,0.0,0.0,0.0,5,0.0,0.09,0.0,MMR,Myanmar<br>Active Cases 5<br>Total Deaths 0
+St. Barth,5,2.0,0.0,0.0,0.0,5,0.0,506.0,0.0,BLM,St. Barth<br>Active Cases 5<br>Total Deaths 0
 Syria,5,0.0,0.0,0.0,0.0,5,0.0,0.3,0.0,SYR,Syria<br>Active Cases 5<br>Total Deaths 0
 Nepal,4,1.0,0.0,0.0,1.0,3,0.0,0.1,0.0,NPL,Nepal<br>Active Cases 3<br>Total Deaths 0
 Angola,4,0.0,0.0,0.0,0.0,4,0.0,0.1,0.0,AGO,Angola<br>Active Cases 4<br>Total Deaths 0
@@ -184,7 +185,6 @@ CAR,3,0.0,0.0,0.0,0.0,3,0.0,0.6,0.0,CAR,CAR<br>Active Cases 3<br>Total Deaths 0
 Chad,3,0.0,0.0,0.0,0.0,3,0.0,0.2,0.0,TCD,Chad<br>Active Cases 3<br>Total Deaths 0
 Liberia,3,0.0,0.0,0.0,0.0,3,0.0,0.6,0.0,LBR,Liberia<br>Active Cases 3<br>Total Deaths 0
 Mauritania,3,0.0,0.0,0.0,0.0,3,0.0,0.6,0.0,MRT,Mauritania<br>Active Cases 3<br>Total Deaths 0
-St. Barth,3,0.0,0.0,0.0,0.0,3,0.0,304.0,0.0,BLM,St. Barth<br>Active Cases 3<br>Total Deaths 0
 Saint Lucia,3,0.0,0.0,0.0,1.0,2,0.0,16.0,0.0,LCA,Saint Lucia<br>Active Cases 2<br>Total Deaths 0
 Sint Maarten,3,0.0,0.0,0.0,0.0,3,0.0,70.0,0.0,SXM,Sint Maarten<br>Active Cases 3<br>Total Deaths 0
 Somalia,3,1.0,0.0,0.0,0.0,3,0.0,0.2,0.0,SOM,Somalia<br>Active Cases 3<br>Total Deaths 0
