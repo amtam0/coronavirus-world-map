@@ -1,7 +1,7 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,1stcase,iso_alpha,text
 USA,120529,16403.0,2008.0,312.0,3229.0,115292,2666.0,364.0,6.0,0.0,USA,USA<br>Active Cases 115292<br>Total Deaths 2008
 Italy,92472,5974.0,10023.0,889.0,12384.0,70065,3856.0,1529.0,166.0,0.0,ITA,Italy<br>Active Cases 70065<br>Total Deaths 10023
-Spain,72469,6750.0,5826.0,688.0,12285.0,54358,4165.0,1550.0,125.0,0.0,ESP,Spain<br>Active Cases 54358<br>Total Deaths 5826
+Spain,73232,7513.0,5982.0,844.0,12285.0,54965,4165.0,1566.0,128.0,0.0,ESP,Spain<br>Active Cases 54965<br>Total Deaths 5982
 Germany,57695,6824.0,433.0,82.0,8481.0,48781,1581.0,689.0,5.0,0.0,DEU,Germany<br>Active Cases 48781<br>Total Deaths 433
 France,37575,4611.0,2314.0,319.0,5700.0,29561,4273.0,576.0,35.0,0.0,FRA,France<br>Active Cases 29561<br>Total Deaths 2314
 Iran,35408,3076.0,2517.0,139.0,11679.0,21212,3206.0,422.0,30.0,0.0,IRN,Iran<br>Active Cases 21212<br>Total Deaths 2517
@@ -197,6 +197,6 @@ British Virgin Islands,2,0.0,0.0,0.0,0.0,2,0.0,66.0,0.0,0.0,VGB,British Virgin I
 Guinea-Bissau,2,0.0,0.0,0.0,0.0,2,0.0,1.0,0.0,0.0,GNB,Guinea-Bissau<br>Active Cases 2<br>Total Deaths 0
 Saint Kitts and Nevis,2,0.0,0.0,0.0,0.0,2,0.0,38.0,0.0,0.0,KNA,Saint Kitts and Nevis<br>Active Cases 2<br>Total Deaths 0
 Papua New Guinea,1,0.0,0.0,0.0,0.0,1,0.0,0.1,0.0,0.0,PNG,Papua New Guinea<br>Active Cases 1<br>Total Deaths 0
-St. Vincent Grenadines,1,0.0,0.0,0.0,0.0,1,0.0,9.0,0.0,0.0,VCT,St. Vincent Grenadines<br>Active Cases 1<br>Total Deaths 0
+St. Vincent Grenadines,1,0.0,0.0,0.0,1.0,0,0.0,9.0,0.0,0.0,VCT,St. Vincent Grenadines<br>Active Cases 0<br>Total Deaths 0
 Timor-Leste,1,0.0,0.0,0.0,0.0,1,0.0,0.8,0.0,0.0,TLS,Timor-Leste<br>Active Cases 1<br>Total Deaths 0
 China,81394,54.0,3295.0,3.0,74971.0,3128,886.0,57.0,2.0,0.0,CHN,China<br>Active Cases 3128<br>Total Deaths 3295
