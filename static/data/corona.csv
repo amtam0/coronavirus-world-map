@@ -1,5 +1,5 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,1stcase,iso_alpha,text
-USA,119609,15483.0,1988.0,292.0,3224.0,114397,2666.0,361.0,6.0,0.0,USA,USA<br>Active Cases 114397<br>Total Deaths 1988
+USA,119682,15556.0,1988.0,292.0,3229.0,114465,2666.0,362.0,6.0,0.0,USA,USA<br>Active Cases 114465<br>Total Deaths 1988
 Italy,92472,5974.0,10023.0,889.0,12384.0,70065,3856.0,1529.0,166.0,0.0,ITA,Italy<br>Active Cases 70065<br>Total Deaths 10023
 Spain,72248,6529.0,5812.0,674.0,12285.0,54151,4165.0,1545.0,124.0,0.0,ESP,Spain<br>Active Cases 54151<br>Total Deaths 5812
 Germany,57695,6824.0,430.0,79.0,8481.0,48784,1581.0,689.0,5.0,0.0,DEU,Germany<br>Active Cases 48784<br>Total Deaths 430
@@ -129,12 +129,12 @@ Macao,34,0.0,0.0,0.0,10.0,24,0.0,52.0,0.0,0.0,MAC,Macao<br>Active Cases 24<br>To
 Isle of Man,32,3.0,0.0,0.0,0.0,32,0.0,376.0,0.0,0.0,IMN,Isle of Man<br>Active Cases 32<br>Total Deaths 0
 Jamaica,30,4.0,1.0,0.0,2.0,27,0.0,10.0,0.3,0.0,JAM,Jamaica<br>Active Cases 27<br>Total Deaths 1
 French Polynesia,30,0.0,0.0,0.0,0.0,30,0.0,107.0,0.0,0.0,PYF,French Polynesia<br>Active Cases 30<br>Total Deaths 0
+Uganda,30,7.0,0.0,0.0,0.0,30,0.0,0.7,0.0,0.0,UGA,Uganda<br>Active Cases 30<br>Total Deaths 0
 French Guiana,28,0.0,0.0,0.0,6.0,22,0.0,94.0,0.0,0.0,GUF,French Guiana<br>Active Cases 22<br>Total Deaths 0
 Zambia,28,6.0,0.0,0.0,0.0,28,0.0,2.0,0.0,0.0,ZMB,Zambia<br>Active Cases 28<br>Total Deaths 0
 Barbados,26,0.0,0.0,0.0,0.0,26,0.0,90.0,0.0,0.0,BRB,Barbados<br>Active Cases 26<br>Total Deaths 0
 Madagascar,26,0.0,0.0,0.0,0.0,26,0.0,0.9,0.0,0.0,MDG,Madagascar<br>Active Cases 26<br>Total Deaths 0
 Togo,25,0.0,1.0,0.0,1.0,23,0.0,3.0,0.1,0.0,TGO,Togo<br>Active Cases 23<br>Total Deaths 1
-Uganda,23,0.0,0.0,0.0,0.0,23,0.0,0.5,0.0,0.0,UGA,Uganda<br>Active Cases 23<br>Total Deaths 0
 El Salvador,19,6.0,0.0,0.0,0.0,19,0.0,3.0,0.0,0.0,SLV,El Salvador<br>Active Cases 19<br>Total Deaths 0
 Mali,18,7.0,0.0,0.0,0.0,18,0.0,0.9,0.0,0.0,MLI,Mali<br>Active Cases 18<br>Total Deaths 0
 Bermuda,17,0.0,0.0,0.0,2.0,15,0.0,273.0,0.0,0.0,BMU,Bermuda<br>Active Cases 15<br>Total Deaths 0
@@ -160,12 +160,12 @@ Laos,8,2.0,0.0,0.0,0.0,8,0.0,1.0,0.0,0.0,LAO,Laos<br>Active Cases 8<br>Total Dea
 Mozambique,8,1.0,0.0,0.0,0.0,8,0.0,0.3,0.0,0.0,MOZ,Mozambique<br>Active Cases 8<br>Total Deaths 0
 Myanmar,8,0.0,0.0,0.0,0.0,8,0.0,0.1,0.0,0.0,MMR,Myanmar<br>Active Cases 8<br>Total Deaths 0
 Namibia,8,0.0,0.0,0.0,2.0,6,0.0,3.0,0.0,0.0,NAM,Namibia<br>Active Cases 6<br>Total Deaths 0
+Seychelles,8,1.0,0.0,0.0,0.0,8,0.0,81.0,0.0,0.0,SYC,Seychelles<br>Active Cases 8<br>Total Deaths 0
 Suriname,8,0.0,0.0,0.0,0.0,8,0.0,14.0,0.0,0.0,SUR,Suriname<br>Active Cases 8<br>Total Deaths 0
 Gabon,7,0.0,1.0,0.0,0.0,6,0.0,3.0,0.4,0.0,GAB,Gabon<br>Active Cases 6<br>Total Deaths 1
 Zimbabwe,7,2.0,1.0,0.0,0.0,6,0.0,0.5,0.07,0.0,ZWE,Zimbabwe<br>Active Cases 6<br>Total Deaths 1
 Antigua and Barbuda,7,0.0,0.0,0.0,0.0,7,0.0,71.0,0.0,0.0,ATG,Antigua and Barbuda<br>Active Cases 7<br>Total Deaths 0
 Grenada,7,0.0,0.0,0.0,0.0,7,0.0,62.0,0.0,0.0,GRD,Grenada<br>Active Cases 7<br>Total Deaths 0
-Seychelles,7,0.0,0.0,0.0,0.0,7,0.0,71.0,0.0,0.0,SYC,Seychelles<br>Active Cases 7<br>Total Deaths 0
 Benin,6,0.0,0.0,0.0,0.0,6,0.0,0.5,0.0,0.0,BEN,Benin<br>Active Cases 6<br>Total Deaths 0
 Eritrea,6,0.0,0.0,0.0,0.0,6,0.0,2.0,0.0,0.0,ERI,Eritrea<br>Active Cases 6<br>Total Deaths 0
 Vatican City,6,2.0,0.0,0.0,0.0,6,0.0,7491.0,0.0,0.0,VAT,Vatican City<br>Active Cases 6<br>Total Deaths 0
