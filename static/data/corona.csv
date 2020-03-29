@@ -1,5 +1,5 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,1stcase,iso_alpha,text
-USA,125266,1688.0,2246.0,25.0,3240.0,119780,2666.0,378.0,7.0,0.0,USA,USA<br>Active Cases 119780<br>Total Deaths 2246
+USA,125308,1730.0,2246.0,25.0,3532.0,119530,2666.0,379.0,7.0,0.0,USA,USA<br>Active Cases 119530<br>Total Deaths 2246
 Italy,92472,0.0,10023.0,0.0,12384.0,70065,3856.0,1529.0,166.0,0.0,ITA,Italy<br>Active Cases 70065<br>Total Deaths 10023
 Spain,78799,5564.0,6606.0,624.0,14709.0,57484,4165.0,1685.0,141.0,0.0,ESP,Spain<br>Active Cases 57484<br>Total Deaths 6606
 Germany,58247,552.0,455.0,22.0,8481.0,49311,1581.0,695.0,5.0,0.0,DEU,Germany<br>Active Cases 49311<br>Total Deaths 455
@@ -154,6 +154,7 @@ Namibia,11,3.0,0.0,0.0,2.0,9,0.0,4.0,0.0,0.0,NAM,Namibia<br>Active Cases 9<br>To
 Saint Martin,11,0.0,0.0,0.0,0.0,11,0.0,284.0,0.0,0.0,MAF,Saint Martin<br>Active Cases 11<br>Total Deaths 0
 Bahamas,10,0.0,0.0,0.0,1.0,9,0.0,25.0,0.0,0.0,BHS,Bahamas<br>Active Cases 9<br>Total Deaths 0
 Greenland,10,0.0,0.0,0.0,2.0,8,0.0,176.0,0.0,0.0,GRL,Greenland<br>Active Cases 8<br>Total Deaths 0
+Syria,9,4.0,1.0,1.0,0.0,8,0.0,0.5,0.06,0.0,SYR,Syria<br>Active Cases 8<br>Total Deaths 1
 Grenada,9,2.0,0.0,0.0,0.0,9,0.0,80.0,0.0,0.0,GRD,Grenada<br>Active Cases 9<br>Total Deaths 0
 Eswatini,9,0.0,0.0,0.0,0.0,9,0.0,8.0,0.0,0.0,SWZ,Eswatini<br>Active Cases 9<br>Total Deaths 0
 Cayman Islands,8,0.0,1.0,0.0,0.0,7,0.0,122.0,15.0,0.0,CYM,Cayman Islands<br>Active Cases 7<br>Total Deaths 1
@@ -169,7 +170,6 @@ Gabon,7,0.0,1.0,0.0,0.0,6,0.0,3.0,0.4,0.0,GAB,Gabon<br>Active Cases 6<br>Total D
 Zimbabwe,7,0.0,1.0,0.0,0.0,6,0.0,0.5,0.07,0.0,ZWE,Zimbabwe<br>Active Cases 6<br>Total Deaths 1
 Antigua and Barbuda,7,0.0,0.0,0.0,0.0,7,0.0,71.0,0.0,0.0,ATG,Antigua and Barbuda<br>Active Cases 7<br>Total Deaths 0
 Cabo Verde,6,0.0,1.0,0.0,0.0,5,0.0,11.0,2.0,0.0,CPV,Cabo Verde<br>Active Cases 5<br>Total Deaths 1
-Syria,6,1.0,1.0,1.0,0.0,5,0.0,0.3,0.06,0.0,SYR,Syria<br>Active Cases 5<br>Total Deaths 1
 Benin,6,0.0,0.0,0.0,0.0,6,0.0,0.5,0.0,0.0,BEN,Benin<br>Active Cases 6<br>Total Deaths 0
 Eritrea,6,0.0,0.0,0.0,0.0,6,0.0,2.0,0.0,0.0,ERI,Eritrea<br>Active Cases 6<br>Total Deaths 0
 Vatican City,6,0.0,0.0,0.0,0.0,6,0.0,7491.0,0.0,0.0,VAT,Vatican City<br>Active Cases 6<br>Total Deaths 0
