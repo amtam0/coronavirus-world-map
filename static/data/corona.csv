@@ -1,5 +1,5 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,1stcase,iso_alpha,text
-USA,139164,15586.0,2440.0,220.0,4435.0,132289,2948.0,420.0,7.0,0.0,USA,USA<br>Active Cases 132289<br>Total Deaths 2440
+USA,139217,15639.0,2445.0,225.0,4435.0,132337,2948.0,421.0,7.0,0.0,USA,USA<br>Active Cases 132337<br>Total Deaths 2445
 Italy,97689,5217.0,10779.0,756.0,13030.0,73880,3906.0,1616.0,178.0,0.0,ITA,Italy<br>Active Cases 73880<br>Total Deaths 10779
 Spain,80031,6796.0,6802.0,820.0,14709.0,58520,4165.0,1712.0,145.0,0.0,ESP,Spain<br>Active Cases 58520<br>Total Deaths 6802
 Germany,62095,4400.0,525.0,92.0,9211.0,52359,1979.0,741.0,6.0,0.0,DEU,Germany<br>Active Cases 52359<br>Total Deaths 525
@@ -14,7 +14,7 @@ Turkey,9217,1815.0,131.0,23.0,105.0,8981,568.0,109.0,2.0,0.0,TUR,Turkey<br>Activ
 Austria,8743,472.0,86.0,18.0,479.0,8178,187.0,971.0,10.0,0.0,AUT,Austria<br>Active Cases 8178<br>Total Deaths 86
 Canada,6280,625.0,63.0,3.0,508.0,5709,120.0,166.0,2.0,0.0,CAN,Canada<br>Active Cases 5709<br>Total Deaths 63
 Portugal,5962,792.0,119.0,19.0,43.0,5800,89.0,585.0,12.0,0.0,PRT,Portugal<br>Active Cases 5800<br>Total Deaths 119
-Norway,4268,253.0,25.0,2.0,7.0,4236,91.0,787.0,5.0,0.0,NOR,Norway<br>Active Cases 4236<br>Total Deaths 25
+Norway,4271,256.0,25.0,2.0,7.0,4239,91.0,788.0,5.0,0.0,NOR,Norway<br>Active Cases 4239<br>Total Deaths 25
 Brazil,4256,352.0,136.0,22.0,6.0,4114,296.0,20.0,0.6,0.0,BRA,Brazil<br>Active Cases 4114<br>Total Deaths 136
 Israel,4247,628.0,15.0,3.0,132.0,4100,74.0,491.0,2.0,0.0,ISR,Israel<br>Active Cases 4100<br>Total Deaths 15
 Australia,3980,345.0,16.0,2.0,226.0,3738,23.0,156.0,0.6,0.0,AUS,Australia<br>Active Cases 3738<br>Total Deaths 16
@@ -39,7 +39,7 @@ South Africa,1280,93.0,2.0,1.0,31.0,1247,7.0,22.0,0.03,0.0,ZAF,South Africa<br>A
 Finland,1240,73.0,11.0,2.0,10.0,1219,32.0,224.0,2.0,0.0,FIN,Finland<br>Active Cases 1219<br>Total Deaths 11
 Greece,1156,95.0,38.0,6.0,52.0,1066,66.0,111.0,4.0,0.0,GRC,Greece<br>Active Cases 1066<br>Total Deaths 38
 India,1024,37.0,27.0,3.0,95.0,902,0.0,0.7,0.02,0.0,IND,India<br>Active Cases 902<br>Total Deaths 27
-Iceland,1020,57.0,2.0,0.0,114.0,904,19.0,2989.0,6.0,0.0,ISL,Iceland<br>Active Cases 904<br>Total Deaths 2
+Iceland,1020,57.0,2.0,0.0,135.0,883,9.0,2989.0,6.0,0.0,ISL,Iceland<br>Active Cases 883<br>Total Deaths 2
 Panama,901,0.0,17.0,0.0,4.0,880,32.0,209.0,4.0,0.0,PAN,Panama<br>Active Cases 880<br>Total Deaths 17
 Dominican Republic,859,140.0,39.0,11.0,3.0,817,0.0,79.0,4.0,0.0,DOM,Dominican Republic<br>Active Cases 817<br>Total Deaths 39
 Peru,852,181.0,18.0,2.0,16.0,818,40.0,26.0,0.5,0.0,PER,Peru<br>Active Cases 818<br>Total Deaths 18
@@ -100,11 +100,11 @@ Afghanistan,120,10.0,4.0,0.0,2.0,114,0.0,3.0,0.1,0.0,AFG,Afghanistan<br>Active C
 Venezuela,119,0.0,2.0,0.0,39.0,78,2.0,4.0,0.07,0.0,VEN,Venezuela<br>Active Cases 78<br>Total Deaths 2
 Sri Lanka,117,4.0,1.0,0.0,11.0,105,5.0,5.0,0.05,0.0,LKA,Sri Lanka<br>Active Cases 105<br>Total Deaths 1
 Honduras,110,15.0,2.0,1.0,3.0,105,4.0,11.0,0.2,0.0,HND,Honduras<br>Active Cases 105<br>Total Deaths 2
+Channel Islands,108,11.0,2.0,1.0,0.0,106,0.0,621.0,12.0,0.0,Channel Islands,Channel Islands<br>Active Cases 106<br>Total Deaths 2
 Palestine,108,4.0,1.0,0.0,18.0,89,0.0,21.0,0.2,0.0,PSE,Palestine<br>Active Cases 89<br>Total Deaths 1
 Mauritius,107,5.0,3.0,1.0,0.0,104,1.0,84.0,2.0,0.0,MUS,Mauritius<br>Active Cases 104<br>Total Deaths 3
 Cambodia,103,4.0,0.0,0.0,21.0,82,1.0,6.0,0.0,0.0,KHM,Cambodia<br>Active Cases 82<br>Total Deaths 0
 Guadeloupe,102,0.0,2.0,0.0,17.0,83,4.0,255.0,5.0,0.0,GLP,Guadeloupe<br>Active Cases 83<br>Total Deaths 2
-Channel Islands,100,3.0,2.0,1.0,0.0,98,0.0,575.0,12.0,0.0,Channel Islands,Channel Islands<br>Active Cases 98<br>Total Deaths 2
 Nigeria,97,0.0,1.0,0.0,3.0,93,0.0,0.5,0.0,0.0,NGA,Nigeria<br>Active Cases 93<br>Total Deaths 1
 Belarus,94,0.0,0.0,0.0,32.0,62,2.0,10.0,0.0,0.0,BLR,Belarus<br>Active Cases 62<br>Total Deaths 0
 Martinique,93,0.0,1.0,0.0,0.0,92,12.0,248.0,3.0,0.0,MTQ,Martinique<br>Active Cases 92<br>Total Deaths 1
