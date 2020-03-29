@@ -1,5 +1,5 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,1stcase,iso_alpha,text
-USA,124356,778.0,2236.0,15.0,3238.0,118882,2666.0,376.0,7.0,0.0,USA,USA<br>Active Cases 118882<br>Total Deaths 2236
+USA,124659,1081.0,2237.0,16.0,3238.0,119184,2666.0,377.0,7.0,0.0,USA,USA<br>Active Cases 119184<br>Total Deaths 2237
 Italy,92472,0.0,10023.0,0.0,12384.0,70065,3856.0,1529.0,166.0,0.0,ITA,Italy<br>Active Cases 70065<br>Total Deaths 10023
 Spain,78797,5562.0,6528.0,546.0,14709.0,57560,4165.0,1685.0,140.0,0.0,ESP,Spain<br>Active Cases 57560<br>Total Deaths 6528
 Germany,58247,552.0,455.0,22.0,8481.0,49311,1581.0,695.0,5.0,0.0,DEU,Germany<br>Active Cases 49311<br>Total Deaths 455
@@ -112,7 +112,7 @@ Cameroon,91,0.0,2.0,0.0,2.0,87,0.0,3.0,0.08,0.0,CMR,Cameroon<br>Active Cases 87<
 Georgia,90,0.0,0.0,0.0,18.0,72,1.0,23.0,0.0,0.0,GEO,Georgia<br>Active Cases 72<br>Total Deaths 0
 Montenegro,85,1.0,1.0,0.0,0.0,84,1.0,135.0,2.0,0.0,MNE,Montenegro<br>Active Cases 84<br>Total Deaths 1
 Kyrgyzstan,84,26.0,0.0,0.0,0.0,84,0.0,13.0,0.0,0.0,KGZ,Kyrgyzstan<br>Active Cases 84<br>Total Deaths 0
-Bolivia,81,7.0,0.0,0.0,0.0,81,3.0,7.0,0.0,0.0,BOL,Bolivia<br>Active Cases 81<br>Total Deaths 0
+Bolivia,81,7.0,1.0,1.0,0.0,80,3.0,7.0,0.09,0.0,BOL,Bolivia<br>Active Cases 80<br>Total Deaths 1
 Trinidad and Tobago,76,0.0,3.0,0.0,1.0,72,0.0,54.0,2.0,0.0,TTO,Trinidad and Tobago<br>Active Cases 72<br>Total Deaths 3
 DRC,65,0.0,6.0,0.0,2.0,57,0.0,0.7,0.07,0.0,DRC,DRC<br>Active Cases 57<br>Total Deaths 6
 Mayotte,63,0.0,0.0,0.0,0.0,63,0.0,231.0,0.0,0.0,MYT,Mayotte<br>Active Cases 63<br>Total Deaths 0
@@ -124,9 +124,9 @@ Bangladesh,48,0.0,5.0,0.0,15.0,28,1.0,0.3,0.03,0.0,BGD,Bangladesh<br>Active Case
 Aruba,46,0.0,0.0,0.0,1.0,45,0.0,431.0,0.0,0.0,ABW,Aruba<br>Active Cases 45<br>Total Deaths 0
 Monaco,43,0.0,1.0,0.0,1.0,41,0.0,1096.0,25.0,0.0,MCO,Monaco<br>Active Cases 41<br>Total Deaths 1
 Kenya,42,4.0,1.0,0.0,1.0,40,2.0,0.8,0.02,0.0,KEN,Kenya<br>Active Cases 40<br>Total Deaths 1
+Isle of Man,42,10.0,0.0,0.0,0.0,42,0.0,494.0,0.0,0.0,IMN,Isle of Man<br>Active Cases 42<br>Total Deaths 0
 Madagascar,39,13.0,0.0,0.0,0.0,39,0.0,1.0,0.0,0.0,MDG,Madagascar<br>Active Cases 39<br>Total Deaths 0
 Macao,37,3.0,0.0,0.0,10.0,27,0.0,57.0,0.0,0.0,MAC,Macao<br>Active Cases 27<br>Total Deaths 0
-Isle of Man,37,5.0,0.0,0.0,0.0,37,0.0,435.0,0.0,0.0,IMN,Isle of Man<br>Active Cases 37<br>Total Deaths 0
 Guatemala,34,0.0,1.0,0.0,10.0,23,1.0,2.0,0.06,0.0,GTM,Guatemala<br>Active Cases 23<br>Total Deaths 1
 Jamaica,32,2.0,1.0,0.0,2.0,29,0.0,11.0,0.3,0.0,JAM,Jamaica<br>Active Cases 29<br>Total Deaths 1
 French Polynesia,30,0.0,0.0,0.0,0.0,30,0.0,107.0,0.0,0.0,PYF,French Polynesia<br>Active Cases 30<br>Total Deaths 0
