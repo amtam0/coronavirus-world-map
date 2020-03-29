@@ -1,7 +1,7 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,1stcase,iso_alpha,text
-USA,124683,1105.0,2237.0,16.0,3238.0,119208,2666.0,377.0,7.0,0.0,USA,USA<br>Active Cases 119208<br>Total Deaths 2237
+USA,124970,1392.0,2238.0,17.0,3238.0,119494,2666.0,378.0,7.0,0.0,USA,USA<br>Active Cases 119494<br>Total Deaths 2238
 Italy,92472,0.0,10023.0,0.0,12384.0,70065,3856.0,1529.0,166.0,0.0,ITA,Italy<br>Active Cases 70065<br>Total Deaths 10023
-Spain,78797,5562.0,6528.0,546.0,14709.0,57560,4165.0,1685.0,140.0,0.0,ESP,Spain<br>Active Cases 57560<br>Total Deaths 6528
+Spain,78799,5564.0,6606.0,624.0,14709.0,57484,4165.0,1685.0,141.0,0.0,ESP,Spain<br>Active Cases 57484<br>Total Deaths 6606
 Germany,58247,552.0,455.0,22.0,8481.0,49311,1581.0,695.0,5.0,0.0,DEU,Germany<br>Active Cases 49311<br>Total Deaths 455
 Iran,38309,2901.0,2640.0,123.0,12391.0,23278,3206.0,456.0,31.0,0.0,IRN,Iran<br>Active Cases 23278<br>Total Deaths 2640
 France,37575,0.0,2314.0,0.0,5700.0,29561,4273.0,576.0,35.0,0.0,FRA,France<br>Active Cases 29561<br>Total Deaths 2314
@@ -24,7 +24,7 @@ Malaysia,2470,150.0,5.0,0.0,388.0,2077,73.0,76.0,0.2,0.0,MYS,Malaysia<br>Active 
 Ireland,2415,0.0,36.0,0.0,5.0,2374,59.0,489.0,7.0,0.0,IRL,Ireland<br>Active Cases 2374<br>Total Deaths 36
 Denmark,2395,194.0,72.0,7.0,1.0,2322,113.0,413.0,12.0,0.0,DNK,Denmark<br>Active Cases 2322<br>Total Deaths 72
 Chile,2139,230.0,6.0,0.0,61.0,2072,7.0,112.0,0.3,0.0,CHL,Chile<br>Active Cases 2072<br>Total Deaths 6
-Luxembourg,1831,0.0,18.0,0.0,40.0,1773,25.0,2925.0,29.0,0.0,LUX,Luxembourg<br>Active Cases 1773<br>Total Deaths 18
+Luxembourg,1831,0.0,21.0,3.0,40.0,1770,25.0,2925.0,34.0,0.0,LUX,Luxembourg<br>Active Cases 1770<br>Total Deaths 21
 Ecuador,1823,0.0,48.0,0.0,3.0,1772,58.0,103.0,3.0,0.0,ECU,Ecuador<br>Active Cases 1772<br>Total Deaths 48
 Poland,1771,133.0,20.0,2.0,7.0,1744,3.0,47.0,0.5,0.0,POL,Poland<br>Active Cases 1744<br>Total Deaths 20
 Romania,1760,308.0,40.0,3.0,169.0,1551,34.0,91.0,2.0,0.0,ROU,Romania<br>Active Cases 1551<br>Total Deaths 40
@@ -109,7 +109,7 @@ Nigeria,97,0.0,1.0,0.0,3.0,93,0.0,0.5,0.0,0.0,NGA,Nigeria<br>Active Cases 93<br>
 Belarus,94,0.0,0.0,0.0,32.0,62,2.0,10.0,0.0,0.0,BLR,Belarus<br>Active Cases 62<br>Total Deaths 0
 Martinique,93,0.0,1.0,0.0,0.0,92,12.0,248.0,3.0,0.0,MTQ,Martinique<br>Active Cases 92<br>Total Deaths 1
 Cameroon,91,0.0,2.0,0.0,2.0,87,0.0,3.0,0.08,0.0,CMR,Cameroon<br>Active Cases 87<br>Total Deaths 2
-Georgia,90,0.0,0.0,0.0,18.0,72,1.0,23.0,0.0,0.0,GEO,Georgia<br>Active Cases 72<br>Total Deaths 0
+Georgia,91,1.0,0.0,0.0,18.0,73,1.0,23.0,0.0,0.0,GEO,Georgia<br>Active Cases 73<br>Total Deaths 0
 Montenegro,85,1.0,1.0,0.0,0.0,84,1.0,135.0,2.0,0.0,MNE,Montenegro<br>Active Cases 84<br>Total Deaths 1
 Kyrgyzstan,84,26.0,0.0,0.0,0.0,84,0.0,13.0,0.0,0.0,KGZ,Kyrgyzstan<br>Active Cases 84<br>Total Deaths 0
 Bolivia,81,7.0,1.0,1.0,0.0,80,3.0,7.0,0.09,0.0,BOL,Bolivia<br>Active Cases 80<br>Total Deaths 1
