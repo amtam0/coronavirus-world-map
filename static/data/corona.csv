@@ -30,7 +30,7 @@ Romania,1952,137.0,46.0,3.0,206.0,1700,31.0,101.0,2.0,0.0,ROU,Romania<br>Active 
 Ecuador,1924,0.0,58.0,0.0,3.0,1863,58.0,109.0,3.0,0.0,ECU,Ecuador<br>Active Cases 1863<br>Total Deaths 58
 Japan,1866,0.0,54.0,0.0,424.0,1388,56.0,15.0,0.4,0.0,JPN,Japan<br>Active Cases 1388<br>Total Deaths 54
 Russia,1836,302.0,9.0,1.0,66.0,1761,8.0,13.0,0.06,0.0,RUS,Russia<br>Active Cases 1761<br>Total Deaths 9
-Pakistan,1625,28.0,20.0,6.0,29.0,1576,11.0,7.0,0.09,0.0,PAK,Pakistan<br>Active Cases 1576<br>Total Deaths 20
+Pakistan,1650,53.0,20.0,6.0,29.0,1601,11.0,7.0,0.09,0.0,PAK,Pakistan<br>Active Cases 1601<br>Total Deaths 20
 Philippines,1546,128.0,78.0,7.0,42.0,1426,1.0,14.0,0.7,0.0,PHL,Philippines<br>Active Cases 1426<br>Total Deaths 78
 Thailand,1524,136.0,9.0,2.0,229.0,1286,11.0,22.0,0.1,0.0,THA,Thailand<br>Active Cases 1286<br>Total Deaths 9
 Saudi Arabia,1453,154.0,8.0,0.0,66.0,1379,12.0,42.0,0.2,0.0,SAU,Saudi Arabia<br>Active Cases 1379<br>Total Deaths 8
@@ -54,9 +54,9 @@ Diamond Princess,712,0.0,10.0,0.0,603.0,99,15.0,0.0,0.0,0.0,Diamond Princess,Dia
 Colombia,702,0.0,10.0,0.0,10.0,682,29.0,14.0,0.2,0.0,COL,Colombia<br>Active Cases 682<br>Total Deaths 10
 Hong Kong,642,0.0,4.0,0.0,118.0,520,5.0,86.0,0.5,0.0,HKG,Hong Kong<br>Active Cases 520<br>Total Deaths 4
 Qatar,634,0.0,1.0,0.0,48.0,585,6.0,220.0,0.3,0.0,QAT,Qatar<br>Active Cases 585<br>Total Deaths 1
+UAE,611,41.0,3.0,0.0,58.0,550,2.0,62.0,0.3,0.0,ARE,UAE<br>Active Cases 550<br>Total Deaths 3
 Egypt,609,0.0,40.0,0.0,132.0,437,0.0,6.0,0.4,0.0,EGY,Egypt<br>Active Cases 437<br>Total Deaths 40
 New Zealand,589,75.0,1.0,0.0,63.0,525,2.0,122.0,0.2,0.0,NZL,New Zealand<br>Active Cases 525<br>Total Deaths 1
-UAE,570,0.0,3.0,0.0,58.0,509,2.0,58.0,0.3,0.0,ARE,UAE<br>Active Cases 509<br>Total Deaths 3
 Iraq,547,0.0,42.0,0.0,143.0,362,0.0,14.0,1.0,0.0,IRQ,Iraq<br>Active Cases 362<br>Total Deaths 42
 Morocco,516,37.0,29.0,3.0,14.0,473,1.0,14.0,0.8,0.0,MAR,Morocco<br>Active Cases 473<br>Total Deaths 29
 Bahrain,515,16.0,4.0,0.0,279.0,232,2.0,303.0,2.0,0.0,BHR,Bahrain<br>Active Cases 232<br>Total Deaths 4
@@ -149,6 +149,7 @@ Saint Martin,15,4.0,1.0,1.0,2.0,12,0.0,388.0,26.0,0.0,MAF,Saint Martin<br>Active
 Haiti,15,0.0,0.0,0.0,1.0,14,0.0,1.0,0.0,0.0,HTI,Haiti<br>Active Cases 14<br>Total Deaths 0
 New Caledonia,15,0.0,0.0,0.0,0.0,15,0.0,53.0,0.0,0.0,NCL,New Caledonia<br>Active Cases 15<br>Total Deaths 0
 Bahamas,14,0.0,0.0,0.0,1.0,13,0.0,36.0,0.0,0.0,BHS,Bahamas<br>Active Cases 13<br>Total Deaths 0
+Myanmar,14,4.0,0.0,0.0,0.0,14,0.0,0.3,0.0,0.0,MMR,Myanmar<br>Active Cases 14<br>Total Deaths 0
 Cayman Islands,12,0.0,1.0,0.0,0.0,11,0.0,183.0,15.0,0.0,CYM,Cayman Islands<br>Active Cases 11<br>Total Deaths 1
 Equatorial Guinea,12,0.0,0.0,0.0,0.0,12,0.0,9.0,0.0,0.0,GNQ,Equatorial Guinea<br>Active Cases 12<br>Total Deaths 0
 Eritrea,12,0.0,0.0,0.0,0.0,12,0.0,3.0,0.0,0.0,ERI,Eritrea<br>Active Cases 12<br>Total Deaths 0
@@ -156,7 +157,6 @@ Mongolia,12,0.0,0.0,0.0,2.0,10,0.0,4.0,0.0,0.0,MNG,Mongolia<br>Active Cases 10<b
 Dominica,11,0.0,0.0,0.0,0.0,11,0.0,153.0,0.0,0.0,DMA,Dominica<br>Active Cases 11<br>Total Deaths 0
 Namibia,11,0.0,0.0,0.0,2.0,9,0.0,4.0,0.0,0.0,NAM,Namibia<br>Active Cases 9<br>Total Deaths 0
 Greenland,10,0.0,0.0,0.0,2.0,8,0.0,176.0,0.0,0.0,GRL,Greenland<br>Active Cases 8<br>Total Deaths 0
-Myanmar,10,0.0,0.0,0.0,0.0,10,0.0,0.2,0.0,0.0,MMR,Myanmar<br>Active Cases 10<br>Total Deaths 0
 Syria,9,0.0,1.0,0.0,0.0,8,0.0,0.5,0.06,0.0,SYR,Syria<br>Active Cases 8<br>Total Deaths 1
 Grenada,9,0.0,0.0,0.0,0.0,9,0.0,80.0,0.0,0.0,GRD,Grenada<br>Active Cases 9<br>Total Deaths 0
 Saint Lucia,9,0.0,0.0,0.0,1.0,8,0.0,49.0,0.0,0.0,LCA,Saint Lucia<br>Active Cases 8<br>Total Deaths 0
