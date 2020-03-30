@@ -1,5 +1,5 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,Reported1st case,iso_alpha,text
-USA,152631,9140.0,2817.0,234.0,5211.0,144603,3402.0,461.0,9.0,0.0,USA,USA<br>Active Cases 144603<br>Total Deaths 2817
+USA,155969,12478.0,2854.0,271.0,5211.0,147904,3402.0,471.0,9.0,0.0,USA,USA<br>Active Cases 147904<br>Total Deaths 2854
 Italy,101739,4050.0,11591.0,812.0,14620.0,75528,3981.0,1683.0,192.0,0.0,ITA,Italy<br>Active Cases 75528<br>Total Deaths 11591
 Spain,85195,5085.0,7340.0,537.0,16780.0,61075,5231.0,1822.0,157.0,0.0,ESP,Spain<br>Active Cases 61075<br>Total Deaths 7340
 Germany,63929,1494.0,560.0,19.0,9211.0,54158,1979.0,763.0,7.0,0.0,DEU,Germany<br>Active Cases 54158<br>Total Deaths 560
@@ -53,10 +53,10 @@ Estonia,715,36.0,3.0,0.0,20.0,692,10.0,539.0,2.0,0.0,EST,Estonia<br>Active Cases
 Diamond Princess,712,0.0,10.0,0.0,603.0,99,15.0,0.0,0.0,0.0,Diamond Princess,Diamond Princess<br>Active Cases 99<br>Total Deaths 10
 Colombia,702,0.0,10.0,0.0,10.0,682,29.0,14.0,0.2,0.0,COL,Colombia<br>Active Cases 682<br>Total Deaths 10
 Qatar,693,59.0,1.0,0.0,51.0,641,6.0,241.0,0.3,0.0,QAT,Qatar<br>Active Cases 641<br>Total Deaths 1
+Egypt,656,47.0,41.0,1.0,132.0,483,0.0,6.0,0.4,0.0,EGY,Egypt<br>Active Cases 483<br>Total Deaths 41
 Hong Kong,642,0.0,4.0,0.0,118.0,520,5.0,86.0,0.5,0.0,HKG,Hong Kong<br>Active Cases 520<br>Total Deaths 4
 Iraq,630,83.0,46.0,4.0,152.0,432,0.0,16.0,1.0,0.0,IRQ,Iraq<br>Active Cases 432<br>Total Deaths 46
 UAE,611,41.0,5.0,2.0,61.0,545,2.0,62.0,0.5,0.0,ARE,UAE<br>Active Cases 545<br>Total Deaths 5
-Egypt,609,0.0,40.0,0.0,132.0,437,0.0,6.0,0.4,0.0,EGY,Egypt<br>Active Cases 437<br>Total Deaths 40
 New Zealand,589,75.0,1.0,0.0,63.0,525,2.0,122.0,0.2,0.0,NZL,New Zealand<br>Active Cases 525<br>Total Deaths 1
 Algeria,584,73.0,35.0,4.0,37.0,512,0.0,13.0,0.8,0.0,DZA,Algeria<br>Active Cases 512<br>Total Deaths 35
 Morocco,534,55.0,33.0,7.0,14.0,487,1.0,14.0,0.9,0.0,MAR,Morocco<br>Active Cases 487<br>Total Deaths 33
@@ -108,7 +108,7 @@ Palestine,115,6.0,1.0,0.0,18.0,96,0.0,23.0,0.2,0.0,PSE,Palestine<br>Active Cases
 Nigeria,111,0.0,2.0,1.0,3.0,106,0.0,0.5,0.01,0.0,NGA,Nigeria<br>Active Cases 106<br>Total Deaths 2
 Cambodia,107,4.0,0.0,0.0,21.0,86,1.0,6.0,0.0,0.0,KHM,Cambodia<br>Active Cases 86<br>Total Deaths 0
 Guadeloupe,106,0.0,4.0,0.0,17.0,85,10.0,265.0,10.0,0.0,GLP,Guadeloupe<br>Active Cases 85<br>Total Deaths 4
-Georgia,100,9.0,0.0,0.0,18.0,82,6.0,25.0,0.0,0.0,GEO,Georgia<br>Active Cases 82<br>Total Deaths 0
+Georgia,103,12.0,0.0,0.0,20.0,83,6.0,26.0,0.0,0.0,GEO,Georgia<br>Active Cases 83<br>Total Deaths 0
 Bolivia,97,16.0,4.0,3.0,0.0,93,3.0,8.0,0.3,0.0,BOL,Bolivia<br>Active Cases 93<br>Total Deaths 4
 Kyrgyzstan,94,10.0,0.0,0.0,3.0,91,0.0,14.0,0.0,0.0,KGZ,Kyrgyzstan<br>Active Cases 91<br>Total Deaths 0
 Martinique,93,0.0,1.0,0.0,0.0,92,12.0,248.0,3.0,0.0,MTQ,Martinique<br>Active Cases 92<br>Total Deaths 1
