@@ -1,7 +1,7 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,Reported1st case,iso_alpha,text
 USA,159689,16198.0,2951.0,368.0,5220.0,151518,3402.0,482.0,9.0,0.0,USA,USA<br>Active Cases 151518<br>Total Deaths 2951
 Italy,101739,4050.0,11591.0,812.0,14620.0,75528,3981.0,1683.0,192.0,0.0,ITA,Italy<br>Active Cases 75528<br>Total Deaths 11591
-Spain,85195,5085.0,7340.0,537.0,16780.0,61075,5231.0,1822.0,157.0,0.0,ESP,Spain<br>Active Cases 61075<br>Total Deaths 7340
+Spain,87956,7846.0,7716.0,913.0,16780.0,63460,5231.0,1881.0,165.0,0.0,ESP,Spain<br>Active Cases 63460<br>Total Deaths 7716
 Germany,66711,4276.0,645.0,104.0,13500.0,52566,1979.0,796.0,8.0,0.0,DEU,Germany<br>Active Cases 52566<br>Total Deaths 645
 France,44550,4376.0,3024.0,418.0,7927.0,33599,5056.0,683.0,46.0,0.0,FRA,France<br>Active Cases 33599<br>Total Deaths 3024
 Iran,41495,3186.0,2757.0,117.0,13911.0,24827,3511.0,494.0,33.0,0.0,IRN,Iran<br>Active Cases 24827<br>Total Deaths 2757
@@ -98,8 +98,8 @@ Ghana,152,0.0,5.0,0.0,2.0,145,1.0,5.0,0.2,0.0,GHA,Ghana<br>Active Cases 145<br>T
 Belarus,152,58.0,0.0,0.0,32.0,120,2.0,16.0,0.0,0.0,BLR,Belarus<br>Active Cases 120<br>Total Deaths 0
 Uzbekistan,149,5.0,2.0,0.0,7.0,140,8.0,4.0,0.06,0.0,UZB,Uzbekistan<br>Active Cases 140<br>Total Deaths 2
 Channel Islands,141,33.0,2.0,0.0,0.0,139,0.0,811.0,12.0,0.0,Channel Islands,Channel Islands<br>Active Cases 139<br>Total Deaths 2
+Honduras,139,29.0,7.0,4.0,3.0,129,4.0,14.0,0.7,0.0,HND,Honduras<br>Active Cases 129<br>Total Deaths 7
 Cameroon,139,0.0,6.0,0.0,5.0,128,0.0,5.0,0.2,0.0,CMR,Cameroon<br>Active Cases 128<br>Total Deaths 6
-Honduras,139,29.0,3.0,0.0,3.0,133,4.0,14.0,0.3,0.0,HND,Honduras<br>Active Cases 133<br>Total Deaths 3
 Venezuela,135,16.0,3.0,0.0,39.0,93,6.0,5.0,0.1,0.0,VEN,Venezuela<br>Active Cases 93<br>Total Deaths 3
 Nigeria,131,20.0,2.0,1.0,8.0,121,0.0,0.6,0.01,0.0,NGA,Nigeria<br>Active Cases 121<br>Total Deaths 2
 Mauritius,128,21.0,3.0,0.0,0.0,125,1.0,101.0,2.0,0.0,MUS,Mauritius<br>Active Cases 125<br>Total Deaths 3
