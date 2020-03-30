@@ -24,10 +24,10 @@ Malaysia,2626,156.0,37.0,2.0,479.0,2110,94.0,81.0,1.0,0.0,MYS,Malaysia<br>Active
 Ireland,2615,0.0,46.0,0.0,5.0,2564,59.0,530.0,9.0,0.0,IRL,Ireland<br>Active Cases 2564<br>Total Deaths 46
 Denmark,2555,160.0,77.0,5.0,1.0,2477,113.0,441.0,13.0,0.0,DNK,Denmark<br>Active Cases 2477<br>Total Deaths 77
 Chile,2139,0.0,7.0,0.0,75.0,2057,7.0,112.0,0.4,0.0,CHL,Chile<br>Active Cases 2057<br>Total Deaths 7
+Poland,1984,122.0,26.0,4.0,7.0,1951,3.0,52.0,0.7,0.0,POL,Poland<br>Active Cases 1951<br>Total Deaths 26
 Romania,1952,137.0,46.0,3.0,206.0,1700,31.0,101.0,2.0,0.0,ROU,Romania<br>Active Cases 1700<br>Total Deaths 46
 Luxembourg,1950,0.0,21.0,0.0,40.0,1889,25.0,3115.0,34.0,0.0,LUX,Luxembourg<br>Active Cases 1889<br>Total Deaths 21
 Ecuador,1924,0.0,58.0,0.0,3.0,1863,58.0,109.0,3.0,0.0,ECU,Ecuador<br>Active Cases 1863<br>Total Deaths 58
-Poland,1905,43.0,26.0,4.0,7.0,1872,3.0,50.0,0.7,0.0,POL,Poland<br>Active Cases 1872<br>Total Deaths 26
 Japan,1866,0.0,54.0,0.0,424.0,1388,56.0,15.0,0.4,0.0,JPN,Japan<br>Active Cases 1388<br>Total Deaths 54
 Russia,1836,302.0,9.0,1.0,66.0,1761,8.0,13.0,0.06,0.0,RUS,Russia<br>Active Cases 1761<br>Total Deaths 9
 Pakistan,1625,28.0,20.0,6.0,29.0,1576,11.0,7.0,0.09,0.0,PAK,Pakistan<br>Active Cases 1576<br>Total Deaths 20
@@ -76,10 +76,10 @@ Tunisia,312,0.0,8.0,0.0,2.0,302,10.0,26.0,0.7,0.0,TUN,Tunisia<br>Active Cases 30
 Taiwan,306,8.0,5.0,2.0,39.0,262,0.0,13.0,0.2,0.0,TWN,Taiwan<br>Active Cases 262<br>Total Deaths 5
 Uruguay,304,0.0,1.0,0.0,0.0,303,9.0,88.0,0.3,0.0,URY,Uruguay<br>Active Cases 303<br>Total Deaths 1
 Kazakhstan,294,10.0,1.0,0.0,20.0,273,0.0,16.0,0.05,0.0,KAZ,Kazakhstan<br>Active Cases 273<br>Total Deaths 1
+North Macedonia,285,26.0,7.0,1.0,12.0,266,1.0,137.0,3.0,0.0,MKD,North Macedonia<br>Active Cases 266<br>Total Deaths 7
 Azerbaijan,273,64.0,4.0,0.0,26.0,243,23.0,27.0,0.4,0.0,AZE,Azerbaijan<br>Active Cases 243<br>Total Deaths 4
 Kuwait,266,11.0,0.0,0.0,72.0,194,13.0,62.0,0.0,0.0,KWT,Kuwait<br>Active Cases 194<br>Total Deaths 0
 Moldova,263,0.0,2.0,0.0,13.0,248,33.0,65.0,0.5,0.0,MDA,Moldova<br>Active Cases 248<br>Total Deaths 2
-North Macedonia,259,0.0,6.0,0.0,3.0,250,1.0,124.0,3.0,0.0,MKD,North Macedonia<br>Active Cases 250<br>Total Deaths 6
 Jordan,259,0.0,4.0,1.0,18.0,237,3.0,25.0,0.4,0.0,JOR,Jordan<br>Active Cases 237<br>Total Deaths 4
 San Marino,230,6.0,25.0,3.0,13.0,192,16.0,6778.0,737.0,0.0,SMR,San Marino<br>Active Cases 192<br>Total Deaths 25
 Albania,223,11.0,11.0,1.0,44.0,168,7.0,77.0,4.0,0.0,ALB,Albania<br>Active Cases 168<br>Total Deaths 11
@@ -145,6 +145,7 @@ Tanzania,19,5.0,0.0,0.0,1.0,18,0.0,0.3,0.0,0.0,TZA,Tanzania<br>Active Cases 18<b
 Djibouti,18,0.0,0.0,0.0,0.0,18,0.0,18.0,0.0,0.0,DJI,Djibouti<br>Active Cases 18<br>Total Deaths 0
 Maldives,17,0.0,0.0,0.0,13.0,4,0.0,31.0,0.0,0.0,MDV,Maldives<br>Active Cases 4<br>Total Deaths 0
 Guinea,16,0.0,0.0,0.0,0.0,16,0.0,1.0,0.0,0.0,GIN,Guinea<br>Active Cases 16<br>Total Deaths 0
+Saint Martin,15,4.0,1.0,1.0,2.0,12,0.0,388.0,26.0,0.0,MAF,Saint Martin<br>Active Cases 12<br>Total Deaths 1
 Haiti,15,0.0,0.0,0.0,1.0,14,0.0,1.0,0.0,0.0,HTI,Haiti<br>Active Cases 14<br>Total Deaths 0
 New Caledonia,15,0.0,0.0,0.0,0.0,15,0.0,53.0,0.0,0.0,NCL,New Caledonia<br>Active Cases 15<br>Total Deaths 0
 Bahamas,14,0.0,0.0,0.0,1.0,13,0.0,36.0,0.0,0.0,BHS,Bahamas<br>Active Cases 13<br>Total Deaths 0
@@ -154,7 +155,6 @@ Eritrea,12,0.0,0.0,0.0,0.0,12,0.0,3.0,0.0,0.0,ERI,Eritrea<br>Active Cases 12<br>
 Mongolia,12,0.0,0.0,0.0,2.0,10,0.0,4.0,0.0,0.0,MNG,Mongolia<br>Active Cases 10<br>Total Deaths 0
 Dominica,11,0.0,0.0,0.0,0.0,11,0.0,153.0,0.0,0.0,DMA,Dominica<br>Active Cases 11<br>Total Deaths 0
 Namibia,11,0.0,0.0,0.0,2.0,9,0.0,4.0,0.0,0.0,NAM,Namibia<br>Active Cases 9<br>Total Deaths 0
-Saint Martin,11,0.0,0.0,0.0,0.0,11,0.0,284.0,0.0,0.0,MAF,Saint Martin<br>Active Cases 11<br>Total Deaths 0
 Greenland,10,0.0,0.0,0.0,2.0,8,0.0,176.0,0.0,0.0,GRL,Greenland<br>Active Cases 8<br>Total Deaths 0
 Myanmar,10,0.0,0.0,0.0,0.0,10,0.0,0.2,0.0,0.0,MMR,Myanmar<br>Active Cases 10<br>Total Deaths 0
 Syria,9,0.0,1.0,0.0,0.0,8,0.0,0.5,0.06,0.0,SYR,Syria<br>Active Cases 8<br>Total Deaths 1
