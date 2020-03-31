@@ -1,5 +1,5 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,Reported1st case,iso_alpha,text
-USA,166214,2426.0,3192.0,51.0,5544.0,157478,3535.0,502.0,10.0,0.0,USA,USA<br>Active Cases 157478<br>Total Deaths 3192
+USA,174684,10896.0,3400.0,259.0,6210.0,165074,3893.0,528.0,10.0,0.0,USA,USA<br>Active Cases 165074<br>Total Deaths 3400
 Italy,101739,0.0,11591.0,0.0,14620.0,75528,3981.0,1683.0,192.0,0.0,ITA,Italy<br>Active Cases 75528<br>Total Deaths 11591
 Spain,94417,6461.0,8269.0,553.0,19259.0,66889,5607.0,2019.0,177.0,0.0,ESP,Spain<br>Active Cases 66889<br>Total Deaths 8269
 Germany,68180,1295.0,682.0,37.0,15824.0,51674,1979.0,814.0,8.0,0.0,DEU,Germany<br>Active Cases 51674<br>Total Deaths 682
@@ -37,8 +37,8 @@ Saudi Arabia,1563,110.0,10.0,2.0,165.0,1388,31.0,45.0,0.3,0.0,SAU,Saudi Arabia<b
 Indonesia,1528,114.0,136.0,14.0,81.0,1311,0.0,6.0,0.5,0.0,IDN,Indonesia<br>Active Cases 1311<br>Total Deaths 136
 Finland,1418,66.0,17.0,4.0,10.0,1391,56.0,256.0,3.0,0.0,FIN,Finland<br>Active Cases 1391<br>Total Deaths 17
 South Africa,1353,27.0,3.0,0.0,31.0,1319,7.0,23.0,0.05,0.0,ZAF,South Africa<br>Active Cases 1319<br>Total Deaths 3
+Greece,1314,102.0,49.0,3.0,52.0,1213,72.0,126.0,5.0,0.0,GRC,Greece<br>Active Cases 1213<br>Total Deaths 49
 India,1251,0.0,32.0,0.0,102.0,1117,0.0,0.9,0.02,0.0,IND,India<br>Active Cases 1117<br>Total Deaths 32
-Greece,1212,0.0,46.0,0.0,52.0,1114,72.0,116.0,4.0,0.0,GRC,Greece<br>Active Cases 1114<br>Total Deaths 46
 Iceland,1135,49.0,2.0,0.0,198.0,935,11.0,3326.0,6.0,0.0,ISL,Iceland<br>Active Cases 935<br>Total Deaths 2
 Dominican Republic,1109,208.0,51.0,9.0,5.0,1053,0.0,102.0,5.0,0.0,DOM,Dominican Republic<br>Active Cases 1053<br>Total Deaths 51
 Mexico,1094,101.0,28.0,8.0,35.0,1031,1.0,8.0,0.2,0.0,MEX,Mexico<br>Active Cases 1031<br>Total Deaths 28
