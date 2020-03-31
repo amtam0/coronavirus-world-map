@@ -1,5 +1,5 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,Reported1st case,iso_alpha,text
-USA,164744,900.0,3163.0,7.0,5507.0,156074,3512.0,498.0,10.0,0.0,USA,USA<br>Active Cases 156074<br>Total Deaths 3163
+USA,164744,956.0,3163.0,22.0,5507.0,156074,3512.0,498.0,10.0,0.0,USA,USA<br>Active Cases 156074<br>Total Deaths 3163
 Italy,101739,0.0,11591.0,0.0,14620.0,75528,3981.0,1683.0,192.0,0.0,ITA,Italy<br>Active Cases 75528<br>Total Deaths 11591
 Spain,94417,6461.0,8189.0,473.0,19259.0,66969,5607.0,2019.0,175.0,0.0,ESP,Spain<br>Active Cases 66969<br>Total Deaths 8189
 Germany,68180,1295.0,682.0,37.0,15824.0,51674,1979.0,814.0,8.0,0.0,DEU,Germany<br>Active Cases 51674<br>Total Deaths 682
@@ -43,7 +43,7 @@ Iceland,1135,49.0,2.0,0.0,157.0,976,25.0,3326.0,6.0,0.0,ISL,Iceland<br>Active Ca
 Dominican Republic,1109,208.0,51.0,9.0,5.0,1053,0.0,102.0,5.0,0.0,DOM,Dominican Republic<br>Active Cases 1053<br>Total Deaths 51
 Mexico,1094,101.0,28.0,8.0,35.0,1031,1.0,8.0,0.2,0.0,MEX,Mexico<br>Active Cases 1031<br>Total Deaths 28
 Panama,1075,0.0,27.0,0.0,9.0,1039,43.0,249.0,6.0,0.0,PAN,Panama<br>Active Cases 1039<br>Total Deaths 27
-Argentina,966,146.0,25.0,2.0,228.0,713,0.0,21.0,0.6,0.0,ARG,Argentina<br>Active Cases 713<br>Total Deaths 25
+Argentina,966,146.0,26.0,3.0,228.0,712,0.0,21.0,0.6,0.0,ARG,Argentina<br>Active Cases 712<br>Total Deaths 26
 Peru,950,0.0,24.0,0.0,53.0,873,49.0,29.0,0.7,0.0,PER,Peru<br>Active Cases 873<br>Total Deaths 24
 Singapore,926,47.0,3.0,0.0,240.0,683,22.0,158.0,0.5,0.0,SGP,Singapore<br>Active Cases 683<br>Total Deaths 3
 Serbia,900,115.0,23.0,7.0,42.0,835,62.0,103.0,3.0,0.0,SRB,Serbia<br>Active Cases 835<br>Total Deaths 23
