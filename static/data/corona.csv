@@ -2,7 +2,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
 USA,180789,17001.0,3580.0,439.0,6241.0,170968,3981.0,546.0,11.0,0.0,USA,USA<br>Active Cases 170968<br>Total Deaths 3580
 Italy,105792,4053.0,12428.0,837.0,15729.0,77635,4023.0,1750.0,206.0,0.0,ITA,Italy<br>Active Cases 77635<br>Total Deaths 12428
 Spain,94417,6461.0,8269.0,553.0,19259.0,66889,5607.0,2019.0,177.0,0.0,ESP,Spain<br>Active Cases 66889<br>Total Deaths 8269
-Germany,68180,1295.0,682.0,37.0,15824.0,51674,1979.0,814.0,8.0,0.0,DEU,Germany<br>Active Cases 51674<br>Total Deaths 682
+Germany,70985,4100.0,682.0,37.0,15824.0,54479,1979.0,847.0,8.0,0.0,DEU,Germany<br>Active Cases 54479<br>Total Deaths 682
 France,52128,7578.0,3523.0,499.0,9444.0,39161,5565.0,799.0,54.0,0.0,FRA,France<br>Active Cases 39161<br>Total Deaths 3523
 Iran,44605,3110.0,2898.0,141.0,14656.0,27051,3703.0,531.0,35.0,0.0,IRN,Iran<br>Active Cases 27051<br>Total Deaths 2898
 UK,25150,3009.0,1789.0,381.0,135.0,23226,163.0,370.0,26.0,0.0,GBR,UK<br>Active Cases 23226<br>Total Deaths 1789
@@ -15,18 +15,18 @@ S. Korea,9786,125.0,162.0,4.0,5408.0,4216,55.0,191.0,3.0,0.0,KOR,S. Korea<br>Act
 Canada,8467,1019.0,95.0,6.0,1162.0,7210,120.0,224.0,3.0,0.0,CAN,Canada<br>Active Cases 7210<br>Total Deaths 95
 Portugal,7443,1035.0,160.0,20.0,43.0,7240,188.0,730.0,16.0,0.0,PRT,Portugal<br>Active Cases 7240<br>Total Deaths 160
 Israel,5358,663.0,20.0,4.0,224.0,5114,117.0,619.0,2.0,0.0,ISR,Israel<br>Active Cases 5114<br>Total Deaths 20
-Brazil,4715,85.0,168.0,5.0,127.0,4420,296.0,22.0,0.8,0.0,BRA,Brazil<br>Active Cases 4420<br>Total Deaths 168
+Brazil,4725,95.0,168.0,5.0,127.0,4430,296.0,22.0,0.8,0.0,BRA,Brazil<br>Active Cases 4430<br>Total Deaths 168
 Norway,4630,185.0,39.0,7.0,13.0,4578,97.0,854.0,7.0,0.0,NOR,Norway<br>Active Cases 4578<br>Total Deaths 39
 Australia,4561,101.0,19.0,0.0,337.0,4205,28.0,179.0,0.7,0.0,AUS,Australia<br>Active Cases 4205<br>Total Deaths 19
 Sweden,4435,407.0,180.0,34.0,16.0,4239,358.0,439.0,18.0,0.0,SWE,Sweden<br>Active Cases 4239<br>Total Deaths 180
-Ireland,3325,415.0,71.0,17.0,5.0,3249,103.0,673.0,14.0,0.0,IRL,Ireland<br>Active Cases 3249<br>Total Deaths 71
 Czechia,3257,256.0,31.0,8.0,45.0,3181,64.0,304.0,3.0,0.0,CZE,Czechia<br>Active Cases 3181<br>Total Deaths 31
+Ireland,3235,325.0,71.0,17.0,5.0,3159,103.0,655.0,14.0,0.0,IRL,Ireland<br>Active Cases 3159<br>Total Deaths 71
 Denmark,2860,283.0,90.0,13.0,1.0,2769,145.0,494.0,16.0,0.0,DNK,Denmark<br>Active Cases 2769<br>Total Deaths 90
 Malaysia,2766,140.0,43.0,6.0,537.0,2186,94.0,85.0,1.0,0.0,MYS,Malaysia<br>Active Cases 2186<br>Total Deaths 43
 Chile,2738,289.0,12.0,4.0,156.0,2570,14.0,143.0,0.6,0.0,CHL,Chile<br>Active Cases 2570<br>Total Deaths 12
 Russia,2337,501.0,17.0,8.0,121.0,2199,8.0,16.0,0.1,0.0,RUS,Russia<br>Active Cases 2199<br>Total Deaths 17
 Poland,2311,256.0,33.0,2.0,7.0,2271,50.0,61.0,0.9,0.0,POL,Poland<br>Active Cases 2271<br>Total Deaths 33
-Romania,2245,136.0,80.0,15.0,220.0,1945,62.0,117.0,4.0,0.0,ROU,Romania<br>Active Cases 1945<br>Total Deaths 80
+Romania,2245,136.0,82.0,17.0,220.0,1943,62.0,117.0,4.0,0.0,ROU,Romania<br>Active Cases 1943<br>Total Deaths 82
 Ecuador,2240,274.0,75.0,13.0,54.0,2111,100.0,127.0,4.0,0.0,ECU,Ecuador<br>Active Cases 2111<br>Total Deaths 75
 Luxembourg,2178,190.0,23.0,1.0,80.0,2075,31.0,3479.0,37.0,0.0,LUX,Luxembourg<br>Active Cases 2075<br>Total Deaths 23
 Philippines,2084,538.0,88.0,10.0,49.0,1947,1.0,19.0,0.8,0.0,PHL,Philippines<br>Active Cases 1947<br>Total Deaths 88
@@ -131,7 +131,7 @@ French Guiana,43,0.0,0.0,0.0,6.0,37,0.0,144.0,0.0,0.0,GUF,French Guiana<br>Activ
 Macao,41,3.0,0.0,0.0,10.0,31,0.0,63.0,0.0,0.0,MAC,Macao<br>Active Cases 31<br>Total Deaths 0
 Guatemala,36,0.0,1.0,0.0,10.0,25,1.0,2.0,0.06,0.0,GTM,Guatemala<br>Active Cases 25<br>Total Deaths 1
 Jamaica,36,0.0,1.0,0.0,2.0,33,0.0,12.0,0.3,0.0,JAM,Jamaica<br>Active Cases 33<br>Total Deaths 1
-French Polynesia,36,0.0,0.0,0.0,0.0,36,2.0,128.0,0.0,0.0,PYF,French Polynesia<br>Active Cases 36<br>Total Deaths 0
+French Polynesia,36,0.0,0.0,0.0,0.0,36,1.0,128.0,0.0,0.0,PYF,French Polynesia<br>Active Cases 36<br>Total Deaths 0
 Zambia,35,0.0,0.0,0.0,0.0,35,0.0,2.0,0.0,0.0,ZMB,Zambia<br>Active Cases 35<br>Total Deaths 0
 Togo,34,4.0,1.0,0.0,10.0,23,0.0,4.0,0.1,0.0,TGO,Togo<br>Active Cases 23<br>Total Deaths 1
 Barbados,34,1.0,0.0,0.0,0.0,34,0.0,118.0,0.0,0.0,BRB,Barbados<br>Active Cases 34<br>Total Deaths 0
