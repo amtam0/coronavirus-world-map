@@ -1,8 +1,8 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,Reported1st case,iso_alpha,text
 USA,184487,20699.0,3756.0,615.0,6275.0,174456,3981.0,557.0,11.0,0.0,USA,USA<br>Active Cases 174456<br>Total Deaths 3756
 Italy,105792,4053.0,12428.0,837.0,15729.0,77635,4023.0,1750.0,206.0,0.0,ITA,Italy<br>Active Cases 77635<br>Total Deaths 12428
-Spain,94417,6461.0,8269.0,553.0,19259.0,66889,5607.0,2019.0,177.0,0.0,ESP,Spain<br>Active Cases 66889<br>Total Deaths 8269
-Germany,70985,4100.0,682.0,37.0,15824.0,54479,1979.0,847.0,8.0,0.0,DEU,Germany<br>Active Cases 54479<br>Total Deaths 682
+Spain,95923,7967.0,8464.0,748.0,19259.0,68200,5607.0,2052.0,181.0,0.0,ESP,Spain<br>Active Cases 68200<br>Total Deaths 8464
+Germany,71690,4805.0,774.0,129.0,16100.0,54816,2675.0,856.0,9.0,0.0,DEU,Germany<br>Active Cases 54816<br>Total Deaths 774
 France,52128,7578.0,3523.0,499.0,9444.0,39161,5565.0,799.0,54.0,0.0,FRA,France<br>Active Cases 39161<br>Total Deaths 3523
 Iran,44605,3110.0,2898.0,141.0,14656.0,27051,3703.0,531.0,35.0,0.0,IRN,Iran<br>Active Cases 27051<br>Total Deaths 2898
 UK,25150,3009.0,1789.0,381.0,135.0,23226,163.0,370.0,26.0,0.0,GBR,UK<br>Active Cases 23226<br>Total Deaths 1789
@@ -66,7 +66,7 @@ Lithuania,537,46.0,8.0,1.0,7.0,522,27.0,197.0,3.0,0.0,LTU,Lithuania<br>Active Ca
 Armenia,532,50.0,3.0,0.0,30.0,499,30.0,180.0,1.0,0.0,ARM,Armenia<br>Active Cases 499<br>Total Deaths 3
 Hungary,492,45.0,16.0,1.0,37.0,439,6.0,51.0,2.0,0.0,HUN,Hungary<br>Active Cases 439<br>Total Deaths 16
 Lebanon,463,17.0,12.0,1.0,37.0,414,7.0,68.0,2.0,0.0,LBN,Lebanon<br>Active Cases 414<br>Total Deaths 12
-Bosnia and Herzegovina,418,50.0,12.0,2.0,17.0,389,1.0,127.0,4.0,0.0,BIH,Bosnia and Herzegovina<br>Active Cases 389<br>Total Deaths 12
+Bosnia and Herzegovina,420,52.0,13.0,3.0,17.0,390,1.0,128.0,4.0,0.0,BIH,Bosnia and Herzegovina<br>Active Cases 390<br>Total Deaths 13
 Bulgaria,399,40.0,8.0,0.0,17.0,374,14.0,57.0,1.0,0.0,BGR,Bulgaria<br>Active Cases 374<br>Total Deaths 8
 Latvia,398,22.0,0.0,0.0,1.0,397,3.0,211.0,0.0,0.0,LVA,Latvia<br>Active Cases 397<br>Total Deaths 0
 Andorra,376,6.0,12.0,4.0,10.0,354,12.0,4866.0,155.0,0.0,AND,Andorra<br>Active Cases 354<br>Total Deaths 12
