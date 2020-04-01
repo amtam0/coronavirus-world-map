@@ -2,7 +2,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
 USA,207613,19083.0,4611.0,558.0,8762.0,194240,4926.0,627.0,14.0,0.0,USA,USA<br>Active Cases 194240<br>Total Deaths 4611
 Italy,110574,4782.0,13155.0,727.0,16847.0,80572,4035.0,1829.0,218.0,0.0,ITA,Italy<br>Active Cases 80572<br>Total Deaths 13155
 Spain,102136,6213.0,9053.0,589.0,22647.0,70436,5872.0,2185.0,194.0,0.0,ESP,Spain<br>Active Cases 70436<br>Total Deaths 9053
-Germany,76544,4736.0,858.0,83.0,18700.0,56986,3405.0,914.0,10.0,0.0,DEU,Germany<br>Active Cases 56986<br>Total Deaths 858
+Germany,77558,5750.0,891.0,116.0,18700.0,57967,3408.0,926.0,11.0,0.0,DEU,Germany<br>Active Cases 57967<br>Total Deaths 891
 France,56989,4861.0,4032.0,509.0,10934.0,42023,5565.0,873.0,62.0,0.0,FRA,France<br>Active Cases 42023<br>Total Deaths 4032
 Iran,47593,2988.0,3036.0,138.0,15473.0,29084,3871.0,567.0,36.0,0.0,IRN,Iran<br>Active Cases 29084<br>Total Deaths 3036
 UK,29474,4324.0,2352.0,563.0,135.0,26987,163.0,434.0,35.0,0.0,GBR,UK<br>Active Cases 26987<br>Total Deaths 2352
@@ -53,13 +53,13 @@ Algeria,847,131.0,58.0,14.0,61.0,728,0.0,19.0,1.0,0.0,DZA,Algeria<br>Active Case
 Slovenia,841,39.0,15.0,0.0,10.0,816,31.0,405.0,7.0,0.0,SVN,Slovenia<br>Active Cases 816<br>Total Deaths 15
 Qatar,835,54.0,2.0,0.0,71.0,762,6.0,290.0,0.7,0.0,QAT,Qatar<br>Active Cases 762<br>Total Deaths 2
 UAE,814,150.0,8.0,2.0,61.0,745,2.0,82.0,0.8,0.0,ARE,UAE<br>Active Cases 745<br>Total Deaths 8
+Ukraine,794,149.0,20.0,3.0,13.0,761,0.0,18.0,0.5,0.0,UKR,Ukraine<br>Active Cases 761<br>Total Deaths 20
 Estonia,779,34.0,5.0,1.0,33.0,741,15.0,587.0,4.0,0.0,EST,Estonia<br>Active Cases 741<br>Total Deaths 5
 Hong Kong,765,50.0,4.0,0.0,147.0,614,5.0,102.0,0.5,0.0,HKG,Hong Kong<br>Active Cases 614<br>Total Deaths 4
 Diamond Princess,712,0.0,11.0,0.0,603.0,98,15.0,0.0,0.0,0.0,Diamond Princess,Diamond Princess<br>Active Cases 98<br>Total Deaths 11
 Egypt,710,0.0,46.0,0.0,157.0,507,0.0,7.0,0.4,0.0,EGY,Egypt<br>Active Cases 507<br>Total Deaths 46
 New Zealand,708,61.0,1.0,0.0,83.0,624,2.0,147.0,0.2,0.0,NZL,New Zealand<br>Active Cases 624<br>Total Deaths 1
 Iraq,694,0.0,50.0,0.0,170.0,474,0.0,17.0,1.0,0.0,IRQ,Iraq<br>Active Cases 474<br>Total Deaths 50
-Ukraine,669,24.0,17.0,0.0,10.0,642,0.0,15.0,0.4,0.0,UKR,Ukraine<br>Active Cases 642<br>Total Deaths 17
 Morocco,642,25.0,37.0,1.0,26.0,579,1.0,17.0,1.0,0.0,MAR,Morocco<br>Active Cases 579<br>Total Deaths 37
 Lithuania,581,44.0,8.0,0.0,7.0,566,11.0,213.0,3.0,0.0,LTU,Lithuania<br>Active Cases 566<br>Total Deaths 8
 Armenia,571,39.0,4.0,1.0,31.0,536,30.0,193.0,1.0,0.0,ARM,Armenia<br>Active Cases 536<br>Total Deaths 4
@@ -96,12 +96,12 @@ Senegal,190,15.0,1.0,1.0,45.0,144,0.0,11.0,0.06,0.0,SEN,Senegal<br>Active Cases 
 Malta,188,19.0,0.0,0.0,2.0,186,2.0,426.0,0.0,0.0,MLT,Malta<br>Active Cases 186<br>Total Deaths 0
 Uzbekistan,181,9.0,2.0,0.0,12.0,167,8.0,5.0,0.06,0.0,UZB,Uzbekistan<br>Active Cases 167<br>Total Deaths 2
 Ivory Coast,179,0.0,1.0,0.0,7.0,171,0.0,7.0,0.04,0.0,CIV,Ivory Coast<br>Active Cases 171<br>Total Deaths 1
+Nigeria,174,39.0,2.0,0.0,9.0,163,0.0,0.8,0.01,0.0,NGA,Nigeria<br>Active Cases 163<br>Total Deaths 2
 Faeroe Islands,173,4.0,0.0,0.0,75.0,98,1.0,3541.0,0.0,0.0,FRO,Faeroe Islands<br>Active Cases 98<br>Total Deaths 0
 Honduras,172,31.0,10.0,3.0,3.0,159,4.0,17.0,1.0,0.0,HND,Honduras<br>Active Cases 159<br>Total Deaths 10
 Channel Islands,172,31.0,3.0,0.0,0.0,169,0.0,989.0,17.0,0.0,Channel Islands,Channel Islands<br>Active Cases 169<br>Total Deaths 3
 Belarus,163,11.0,2.0,1.0,53.0,108,2.0,17.0,0.2,0.0,BLR,Belarus<br>Active Cases 108<br>Total Deaths 2
 Mauritius,161,18.0,6.0,1.0,0.0,155,1.0,127.0,5.0,0.0,MUS,Mauritius<br>Active Cases 155<br>Total Deaths 6
-Nigeria,151,16.0,2.0,0.0,9.0,140,0.0,0.7,0.01,0.0,NGA,Nigeria<br>Active Cases 140<br>Total Deaths 2
 Sri Lanka,146,3.0,3.0,1.0,21.0,122,5.0,7.0,0.1,0.0,LKA,Sri Lanka<br>Active Cases 122<br>Total Deaths 3
 Venezuela,143,8.0,3.0,0.0,41.0,99,6.0,5.0,0.1,0.0,VEN,Venezuela<br>Active Cases 99<br>Total Deaths 3
 Martinique,135,7.0,3.0,0.0,27.0,105,16.0,360.0,8.0,0.0,MTQ,Martinique<br>Active Cases 105<br>Total Deaths 3
