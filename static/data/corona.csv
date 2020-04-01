@@ -1,5 +1,4 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,Reported1st case,iso_alpha,text
-USA,211463,22933.0,4721.0,668.0,8805.0,197937,5005.0,639.0,14.0,0.0,USA,USA<br>Active Cases 197937<br>Total Deaths 4721
 Italy,110574,4782.0,13155.0,727.0,16847.0,80572,4035.0,1829.0,218.0,0.0,ITA,Italy<br>Active Cases 80572<br>Total Deaths 13155
 Spain,104118,8195.0,9387.0,923.0,22647.0,72084,5872.0,2227.0,201.0,0.0,ESP,Spain<br>Active Cases 72084<br>Total Deaths 9387
 Germany,77921,6113.0,925.0,150.0,18700.0,58296,3408.0,930.0,11.0,0.0,DEU,Germany<br>Active Cases 58296<br>Total Deaths 925
@@ -44,6 +43,7 @@ Dominican Republic,1284,175.0,57.0,6.0,9.0,1218,0.0,118.0,5.0,0.0,DOM,Dominican 
 Iceland,1220,85.0,2.0,0.0,236.0,982,12.0,3575.0,6.0,0.0,ISL,Iceland<br>Active Cases 982<br>Total Deaths 2
 Mexico,1215,121.0,29.0,1.0,35.0,1151,1.0,9.0,0.2,0.0,MEX,Mexico<br>Active Cases 1151<br>Total Deaths 29
 Panama,1181,0.0,30.0,0.0,9.0,1142,50.0,274.0,7.0,0.0,PAN,Panama<br>Active Cases 1142<br>Total Deaths 30
+USA,1084,0.0,28.0,0.0,8805.0,-7749,5005.0,3.0,0.08,0.0,USA,USA<br>Active Cases -7749<br>Total Deaths 28
 Colombia,1065,159.0,17.0,1.0,39.0,1009,47.0,21.0,0.3,0.0,COL,Colombia<br>Active Cases 1009<br>Total Deaths 17
 Serbia,1060,160.0,28.0,5.0,42.0,990,62.0,121.0,3.0,0.0,SRB,Serbia<br>Active Cases 990<br>Total Deaths 28
 Argentina,1054,0.0,28.0,1.0,248.0,778,0.0,23.0,0.6,0.0,ARG,Argentina<br>Active Cases 778<br>Total Deaths 28
@@ -199,8 +199,8 @@ CAR,3,0.0,0.0,0.0,0.0,3,0.0,0.6,0.0,0.0,CAR,CAR<br>Active Cases 3<br>Total Death
 Anguilla,2,0.0,0.0,0.0,0.0,2,0.0,133.0,0.0,0.0,AIA,Anguilla<br>Active Cases 2<br>Total Deaths 0
 Burundi,2,0.0,0.0,0.0,0.0,2,0.0,0.2,0.0,0.0,BDI,Burundi<br>Active Cases 2<br>Total Deaths 0
 Caribbean Netherlands,2,2.0,0.0,0.0,0.0,2,0.0,76.0,0.0,0.0,BES,Caribbean Netherlands<br>Active Cases 2<br>Total Deaths 0
+St. Vincent Grenadines,2,1.0,0.0,0.0,1.0,1,0.0,18.0,0.0,0.0,VCT,St. Vincent Grenadines<br>Active Cases 1<br>Total Deaths 0
 Sierra Leone,2,1.0,0.0,0.0,0.0,2,0.0,0.3,0.0,0.0,SLE,Sierra Leone<br>Active Cases 2<br>Total Deaths 0
 Papua New Guinea,1,0.0,0.0,0.0,0.0,1,0.0,0.1,0.0,0.0,PNG,Papua New Guinea<br>Active Cases 1<br>Total Deaths 0
-St. Vincent Grenadines,1,0.0,0.0,0.0,1.0,0,0.0,9.0,0.0,0.0,VCT,St. Vincent Grenadines<br>Active Cases 0<br>Total Deaths 0
 Timor-Leste,1,0.0,0.0,0.0,0.0,1,0.0,0.8,0.0,0.0,TLS,Timor-Leste<br>Active Cases 1<br>Total Deaths 0
 China,81554,0.0,3312.0,0.0,76238.0,2004,466.0,57.0,2.0,0.0,CHN,China<br>Active Cases 2004<br>Total Deaths 3312
