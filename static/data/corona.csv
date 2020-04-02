@@ -1,5 +1,5 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,iso_alpha,text
-USA,237812,22809.0,5713.0,611.0,10324.0,221775,5421.0,718.0,17.0,USA,USA<br>Active Cases 221775<br>Total Deaths 5713
+USA,237877,22874.0,5715.0,613.0,10324.0,221838,5421.0,719.0,17.0,USA,USA<br>Active Cases 221838<br>Total Deaths 5715
 Italy,115242,4668.0,13915.0,760.0,18278.0,83049,4053.0,1906.0,230.0,ITA,Italy<br>Active Cases 83049<br>Total Deaths 13915
 Spain,110238,6120.0,10096.0,709.0,26743.0,73399,6092.0,2358.0,216.0,ESP,Spain<br>Active Cases 73399<br>Total Deaths 10096
 Germany,84600,6619.0,1097.0,166.0,21400.0,62103,3936.0,1010.0,13.0,DEU,Germany<br>Active Cases 62103<br>Total Deaths 1097
@@ -75,7 +75,7 @@ Kazakhstan,435,55.0,3.0,0.0,27.0,405,6.0,23.0,0.2,KAZ,Kazakhstan<br>Active Cases
 Andorra,428,38.0,15.0,1.0,10.0,403,12.0,5539.0,194.0,AND,Andorra<br>Active Cases 403<br>Total Deaths 15
 Slovakia,426,26.0,1.0,0.0,5.0,420,3.0,78.0,0.2,SVK,Slovakia<br>Active Cases 420<br>Total Deaths 1
 Azerbaijan,400,41.0,5.0,0.0,26.0,369,7.0,39.0,0.5,AZE,Azerbaijan<br>Active Cases 369<br>Total Deaths 5
-Costa Rica,396,21.0,2.0,0.0,4.0,390,11.0,78.0,0.4,CRI,Costa Rica<br>Active Cases 390<br>Total Deaths 2
+Costa Rica,396,21.0,2.0,0.0,6.0,388,11.0,78.0,0.4,CRI,Costa Rica<br>Active Cases 388<br>Total Deaths 2
 North Macedonia,384,30.0,11.0,0.0,17.0,356,4.0,184.0,5.0,MKD,North Macedonia<br>Active Cases 356<br>Total Deaths 11
 Cyprus,356,36.0,10.0,1.0,28.0,318,11.0,295.0,8.0,CYP,Cyprus<br>Active Cases 318<br>Total Deaths 10
 Uruguay,350,0.0,4.0,2.0,62.0,284,15.0,101.0,1.0,URY,Uruguay<br>Active Cases 284<br>Total Deaths 4
@@ -99,8 +99,8 @@ Malta,196,8.0,0.0,0.0,2.0,194,2.0,444.0,0.0,MLT,Malta<br>Active Cases 194<br>Tot
 Senegal,195,5.0,1.0,0.0,55.0,139,0.0,12.0,0.06,SEN,Senegal<br>Active Cases 139<br>Total Deaths 1
 Channel Islands,193,21.0,3.0,0.0,0.0,190,0.0,1110.0,17.0,Channel Islands,Channel Islands<br>Active Cases 190<br>Total Deaths 3
 Ivory Coast,190,0.0,1.0,0.0,9.0,180,0.0,7.0,0.04,CIV,Ivory Coast<br>Active Cases 180<br>Total Deaths 1
+Nigeria,184,10.0,2.0,0.0,20.0,162,0.0,0.9,0.01,NGA,Nigeria<br>Active Cases 162<br>Total Deaths 2
 Faeroe Islands,177,4.0,0.0,0.0,81.0,96,1.0,3622.0,0.0,FRO,Faeroe Islands<br>Active Cases 96<br>Total Deaths 0
-Nigeria,174,0.0,2.0,0.0,9.0,163,0.0,0.8,0.01,NGA,Nigeria<br>Active Cases 163<br>Total Deaths 2
 Mauritius,169,8.0,7.0,1.0,0.0,162,1.0,133.0,6.0,MUS,Mauritius<br>Active Cases 162<br>Total Deaths 7
 Palestine,160,26.0,1.0,0.0,18.0,141,0.0,31.0,0.2,PSE,Palestine<br>Active Cases 141<br>Total Deaths 1
 Sri Lanka,151,5.0,4.0,1.0,21.0,126,5.0,7.0,0.2,LKA,Sri Lanka<br>Active Cases 126<br>Total Deaths 4
