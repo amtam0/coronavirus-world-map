@@ -1,5 +1,5 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,iso_alpha,text
-USA,228408,13405.0,5366.0,264.0,10280.0,212762,5421.0,690.0,16.0,USA,USA<br>Active Cases 212762<br>Total Deaths 5366
+USA,228674,13671.0,5369.0,267.0,10280.0,213025,5421.0,691.0,16.0,USA,USA<br>Active Cases 213025<br>Total Deaths 5369
 Italy,115242,4668.0,13915.0,760.0,18278.0,83049,4053.0,1906.0,230.0,ITA,Italy<br>Active Cases 83049<br>Total Deaths 13915
 Spain,110238,6120.0,10003.0,616.0,26743.0,73492,6092.0,2358.0,214.0,ESP,Spain<br>Active Cases 73492<br>Total Deaths 10003
 Germany,81728,3747.0,997.0,66.0,19175.0,61556,3936.0,975.0,12.0,DEU,Germany<br>Active Cases 61556<br>Total Deaths 997
@@ -7,7 +7,7 @@ France,56989,0.0,4032.0,0.0,10935.0,42022,6017.0,873.0,62.0,FRA,France<br>Active
 Iran,50468,2875.0,3160.0,124.0,16711.0,30597,3956.0,601.0,38.0,IRN,Iran<br>Active Cases 30597<br>Total Deaths 3160
 UK,33718,4244.0,2921.0,569.0,135.0,30662,163.0,497.0,43.0,GBR,UK<br>Active Cases 30662<br>Total Deaths 2921
 Switzerland,18475,707.0,522.0,34.0,4013.0,13940,348.0,2135.0,60.0,CHE,Switzerland<br>Active Cases 13940<br>Total Deaths 522
-Turkey,15679,0.0,277.0,0.0,333.0,15069,979.0,186.0,3.0,TUR,Turkey<br>Active Cases 15069<br>Total Deaths 277
+Turkey,18135,2456.0,356.0,79.0,415.0,17364,783.0,215.0,4.0,TUR,Turkey<br>Active Cases 17364<br>Total Deaths 356
 Belgium,15348,1384.0,1011.0,183.0,2495.0,11842,1144.0,1324.0,87.0,BEL,Belgium<br>Active Cases 11842<br>Total Deaths 1011
 Netherlands,14697,1083.0,1339.0,166.0,250.0,13108,1053.0,858.0,78.0,NLD,Netherlands<br>Active Cases 13108<br>Total Deaths 1339
 Austria,11027,316.0,158.0,12.0,1749.0,9120,227.0,1224.0,18.0,AUT,Austria<br>Active Cases 9120<br>Total Deaths 158
@@ -198,6 +198,7 @@ Belize,3,0.0,0.0,0.0,0.0,3,0.0,8.0,0.0,BLZ,Belize<br>Active Cases 3<br>Total Dea
 British Virgin Islands,3,0.0,0.0,0.0,0.0,3,0.0,99.0,0.0,VGB,British Virgin Islands<br>Active Cases 3<br>Total Deaths 0
 Burundi,3,1.0,0.0,0.0,0.0,3,0.0,0.3,0.0,BDI,Burundi<br>Active Cases 3<br>Total Deaths 0
 CAR,3,0.0,0.0,0.0,0.0,3,0.0,0.6,0.0,CAR,CAR<br>Active Cases 3<br>Total Deaths 0
+Malawi,3,3.0,0.0,0.0,0.0,3,0.0,0.2,0.0,MWI,Malawi<br>Active Cases 3<br>Total Deaths 0
 Caribbean Netherlands,2,0.0,0.0,0.0,0.0,2,0.0,76.0,0.0,BES,Caribbean Netherlands<br>Active Cases 2<br>Total Deaths 0
 St. Vincent Grenadines,2,0.0,0.0,0.0,1.0,1,0.0,18.0,0.0,VCT,St. Vincent Grenadines<br>Active Cases 1<br>Total Deaths 0
 Sierra Leone,2,0.0,0.0,0.0,0.0,2,0.0,0.3,0.0,SLE,Sierra Leone<br>Active Cases 2<br>Total Deaths 0
