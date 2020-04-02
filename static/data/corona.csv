@@ -1,5 +1,5 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,iso_alpha,text
-USA,235385,20382.0,5604.0,502.0,10324.0,219457,5421.0,711.0,17.0,USA,USA<br>Active Cases 219457<br>Total Deaths 5604
+USA,235747,20744.0,5620.0,518.0,10324.0,219803,5421.0,712.0,17.0,USA,USA<br>Active Cases 219803<br>Total Deaths 5620
 Italy,115242,4668.0,13915.0,760.0,18278.0,83049,4053.0,1906.0,230.0,ITA,Italy<br>Active Cases 83049<br>Total Deaths 13915
 Spain,110238,6120.0,10096.0,709.0,26743.0,73399,6092.0,2358.0,216.0,ESP,Spain<br>Active Cases 73399<br>Total Deaths 10096
 Germany,84264,6283.0,1074.0,143.0,21400.0,61790,3936.0,1006.0,13.0,DEU,Germany<br>Active Cases 61790<br>Total Deaths 1074
@@ -49,7 +49,7 @@ Argentina,1133,0.0,34.0,2.0,256.0,843,0.0,25.0,0.8,ARG,Argentina<br>Active Cases
 Colombia,1065,0.0,17.0,0.0,39.0,1009,47.0,21.0,0.3,COL,Colombia<br>Active Cases 1009<br>Total Deaths 17
 Singapore,1049,49.0,4.0,1.0,266.0,779,24.0,179.0,0.7,SGP,Singapore<br>Active Cases 779<br>Total Deaths 4
 Croatia,1011,48.0,7.0,1.0,88.0,916,34.0,246.0,2.0,HRV,Croatia<br>Active Cases 916<br>Total Deaths 7
-Algeria,986,139.0,63.0,5.0,61.0,862,0.0,22.0,1.0,DZA,Algeria<br>Active Cases 862<br>Total Deaths 63
+Algeria,986,139.0,86.0,28.0,61.0,839,0.0,22.0,2.0,DZA,Algeria<br>Active Cases 839<br>Total Deaths 86
 Slovenia,897,56.0,17.0,2.0,70.0,810,31.0,431.0,8.0,SVN,Slovenia<br>Active Cases 810<br>Total Deaths 17
 Estonia,858,79.0,11.0,6.0,45.0,802,16.0,647.0,8.0,EST,Estonia<br>Active Cases 802<br>Total Deaths 11
 Egypt,850,71.0,52.0,0.0,179.0,619,0.0,8.0,0.5,EGY,Egypt<br>Active Cases 619<br>Total Deaths 52
@@ -131,8 +131,8 @@ Guinea,52,22.0,0.0,0.0,0.0,52,0.0,4.0,0.0,GIN,Guinea<br>Active Cases 52<br>Total
 French Guiana,51,0.0,0.0,0.0,15.0,36,0.0,171.0,0.0,GUF,French Guiana<br>Active Cases 36<br>Total Deaths 0
 Guatemala,47,8.0,1.0,0.0,12.0,34,1.0,3.0,0.06,GTM,Guatemala<br>Active Cases 34<br>Total Deaths 1
 Barbados,45,0.0,0.0,0.0,0.0,45,0.0,157.0,0.0,BRB,Barbados<br>Active Cases 45<br>Total Deaths 0
+Uganda,45,1.0,0.0,0.0,0.0,45,0.0,1.0,0.0,UGA,Uganda<br>Active Cases 45<br>Total Deaths 0
 Jamaica,44,0.0,3.0,0.0,2.0,39,0.0,15.0,1.0,JAM,Jamaica<br>Active Cases 39<br>Total Deaths 3
-Uganda,44,0.0,0.0,0.0,0.0,44,0.0,1.0,0.0,UGA,Uganda<br>Active Cases 44<br>Total Deaths 0
 El Salvador,41,8.0,2.0,0.0,0.0,39,4.0,6.0,0.3,SLV,El Salvador<br>Active Cases 39<br>Total Deaths 2
 Macao,41,0.0,0.0,0.0,10.0,31,0.0,63.0,0.0,MAC,Macao<br>Active Cases 31<br>Total Deaths 0
 Djibouti,40,7.0,0.0,0.0,0.0,40,0.0,40.0,0.0,DJI,Djibouti<br>Active Cases 40<br>Total Deaths 0
