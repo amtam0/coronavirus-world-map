@@ -1,8 +1,8 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,TotalTests,"Tests/
 1M pop
 ",iso_alpha,text
-World,1172891,56248.0,63886.0,4716.0,243580.0,865425,41606.0,150.0,8.2,0.0,0.0,World,World<br>Active Cases 865425<br>Total Deaths 63886
-USA,300432,23271.0,8154.0,750.0,14514.0,277764,7827.0,908.0,25.0,1498903.0,4528.0,USA,USA<br>Active Cases 277764<br>Total Deaths 8154
+World,1172916,56273.0,63888.0,4718.0,243580.0,865448,41606.0,150.0,8.2,0.0,0.0,World,World<br>Active Cases 865448<br>Total Deaths 63888
+USA,300438,23277.0,8156.0,752.0,14514.0,277768,7827.0,908.0,25.0,1498903.0,4528.0,USA,USA<br>Active Cases 277768<br>Total Deaths 8156
 Spain,124736,5537.0,11744.0,546.0,34219.0,78773,6416.0,2668.0,251.0,355000.0,7593.0,ESP,Spain<br>Active Cases 78773<br>Total Deaths 11744
 Italy,124632,4805.0,15362.0,681.0,20996.0,88274,3994.0,2061.0,254.0,657224.0,10870.0,ITA,Italy<br>Active Cases 88274<br>Total Deaths 15362
 Germany,92150,991.0,1330.0,55.0,26400.0,64420,3936.0,1100.0,16.0,918460.0,10962.0,DEU,Germany<br>Active Cases 64420<br>Total Deaths 1330
@@ -55,7 +55,7 @@ Colombia,1267,0.0,25.0,0.0,55.0,1187,50.0,25.0,0.5,21202.0,417.0,COL,Colombia<br
 Algeria,1251,80.0,130.0,25.0,90.0,1031,0.0,29.0,3.0,3359.0,77.0,DZA,Algeria<br>Active Cases 1031<br>Total Deaths 130
 Singapore,1189,75.0,6.0,1.0,297.0,886,24.0,203.0,1.0,39000.0,6666.0,SGP,Singapore<br>Active Cases 886<br>Total Deaths 6
 Croatia,1126,47.0,12.0,4.0,119.0,995,39.0,274.0,3.0,9833.0,2395.0,HRV,Croatia<br>Active Cases 995<br>Total Deaths 12
-Ukraine,1096,24.0,28.0,1.0,23.0,1045,16.0,25.0,0.6,5040.0,115.0,UKR,Ukraine<br>Active Cases 1045<br>Total Deaths 28
+Ukraine,1115,43.0,28.0,1.0,23.0,1064,16.0,25.0,0.6,5040.0,115.0,UKR,Ukraine<br>Active Cases 1064<br>Total Deaths 28
 Estonia,1039,78.0,13.0,1.0,59.0,967,20.0,783.0,10.0,19091.0,14392.0,EST,Estonia<br>Active Cases 967<br>Total Deaths 13
 Egypt,985,0.0,66.0,0.0,216.0,703,0.0,10.0,0.6,25000.0,244.0,EGY,Egypt<br>Active Cases 703<br>Total Deaths 66
 Slovenia,977,43.0,22.0,2.0,79.0,876,31.0,470.0,11.0,27109.0,13040.0,SVN,Slovenia<br>Active Cases 876<br>Total Deaths 22
