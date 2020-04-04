@@ -1,8 +1,8 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,TotalTests,"Tests/
 1M pop
 ",iso_alpha,text
-World,1187956,71313.0,64055.0,4885.0,244274.0,879627,41966.0,152.0,8.2,0.0,0.0,World,World<br>Active Cases 879627<br>Total Deaths 64055
-USA,302641,25480.0,8232.0,828.0,14518.0,279891,7973.0,914.0,25.0,1511509.0,4566.0,USA,USA<br>Active Cases 279891<br>Total Deaths 8232
+World,1188386,71743.0,64085.0,4915.0,244280.0,880021,41966.0,152.0,8.2,0.0,0.0,World,World<br>Active Cases 880021<br>Total Deaths 64085
+USA,302819,25658.0,8237.0,833.0,14518.0,280064,7973.0,915.0,25.0,1538349.0,4648.0,USA,USA<br>Active Cases 280064<br>Total Deaths 8237
 Spain,124736,5537.0,11744.0,546.0,34219.0,78773,6416.0,2668.0,251.0,355000.0,7593.0,ESP,Spain<br>Active Cases 78773<br>Total Deaths 11744
 Italy,124632,4805.0,15362.0,681.0,20996.0,88274,3994.0,2061.0,254.0,657224.0,10870.0,ITA,Italy<br>Active Cases 88274<br>Total Deaths 15362
 Germany,95637,4478.0,1395.0,120.0,26400.0,67842,3936.0,1141.0,17.0,918460.0,10962.0,DEU,Germany<br>Active Cases 67842<br>Total Deaths 1395
@@ -10,10 +10,10 @@ France,89953,7788.0,7560.0,1053.0,15438.0,66955,6838.0,1378.0,116.0,224254.0,343
 Iran,55743,2560.0,3452.0,158.0,19736.0,32555,4103.0,664.0,41.0,80000.0,952.0,IRN,Iran<br>Active Cases 32555<br>Total Deaths 3452
 UK,41903,3735.0,4313.0,708.0,135.0,37455,163.0,617.0,64.0,183190.0,2698.0,GBR,UK<br>Active Cases 37455<br>Total Deaths 4313
 Turkey,23934,3013.0,501.0,76.0,786.0,22647,1311.0,284.0,6.0,161380.0,1913.0,TUR,Turkey<br>Active Cases 22647<br>Total Deaths 501
-Switzerland,20278,672.0,641.0,50.0,4846.0,14791,391.0,2343.0,74.0,153440.0,17729.0,CHE,Switzerland<br>Active Cases 14791<br>Total Deaths 641
+Switzerland,20505,899.0,666.0,75.0,4846.0,14993,391.0,2369.0,77.0,153440.0,17729.0,CHE,Switzerland<br>Active Cases 14993<br>Total Deaths 666
 Belgium,18431,1661.0,1283.0,140.0,3247.0,13901,1245.0,1590.0,111.0,62867.0,5424.0,BEL,Belgium<br>Active Cases 13901<br>Total Deaths 1283
 Netherlands,16627,904.0,1651.0,164.0,250.0,14726,1360.0,970.0,96.0,75415.0,4401.0,NLD,Netherlands<br>Active Cases 14726<br>Total Deaths 1651
-Canada,13860,1485.0,228.0,20.0,2559.0,11073,120.0,367.0,6.0,302745.0,8021.0,CAN,Canada<br>Active Cases 11073<br>Total Deaths 228
+Canada,13872,1497.0,228.0,20.0,2565.0,11079,120.0,368.0,6.0,302745.0,8021.0,CAN,Canada<br>Active Cases 11079<br>Total Deaths 228
 Austria,11781,257.0,186.0,18.0,2507.0,9088,245.0,1308.0,21.0,104134.0,11562.0,AUT,Austria<br>Active Cases 9088<br>Total Deaths 186
 Portugal,10524,638.0,266.0,20.0,75.0,10183,251.0,1032.0,26.0,81087.0,7952.0,PRT,Portugal<br>Active Cases 10183<br>Total Deaths 266
 S. Korea,10156,94.0,177.0,3.0,6325.0,3654,55.0,198.0,3.0,455032.0,8875.0,KOR,S. Korea<br>Active Cases 3654<br>Total Deaths 177
@@ -121,10 +121,10 @@ Kenya,126,4.0,4.0,0.0,4.0,118,2.0,2.0,0.07,2201.0,41.0,KEN,Kenya<br>Active Cases
 Isle of Man,126,12.0,1.0,0.0,0.0,125,0.0,1482.0,12.0,1319.0,15512.0,IMN,Isle of Man<br>Active Cases 125<br>Total Deaths 1
 Niger,120,0.0,5.0,0.0,0.0,115,0.0,5.0,0.2,3729.0,154.0,NER,Niger<br>Active Cases 115<br>Total Deaths 5
 Cambodia,114,0.0,0.0,0.0,50.0,64,1.0,7.0,0.0,5768.0,345.0,KHM,Cambodia<br>Active Cases 64<br>Total Deaths 0
+Rwanda,102,13.0,0.0,0.0,0.0,102,0.0,8.0,0.0,0.0,0.0,RWA,Rwanda<br>Active Cases 102<br>Total Deaths 0
 Trinidad and Tobago,101,3.0,6.0,0.0,1.0,94,0.0,72.0,4.0,722.0,516.0,TTO,Trinidad and Tobago<br>Active Cases 94<br>Total Deaths 6
 Gibraltar,98,3.0,0.0,0.0,52.0,46,0.0,2909.0,0.0,1269.0,37666.0,GIB,Gibraltar<br>Active Cases 46<br>Total Deaths 0
 Paraguay,96,4.0,3.0,0.0,12.0,81,2.0,13.0,0.4,1289.0,181.0,PRY,Paraguay<br>Active Cases 81<br>Total Deaths 3
-Rwanda,89,0.0,0.0,0.0,0.0,89,0.0,7.0,0.0,0.0,0.0,RWA,Rwanda<br>Active Cases 89<br>Total Deaths 0
 Liechtenstein,77,2.0,0.0,0.0,0.0,77,0.0,2020.0,0.0,900.0,23605.0,LIE,Liechtenstein<br>Active Cases 77<br>Total Deaths 0
 Guinea,73,0.0,0.0,0.0,2.0,71,0.0,6.0,0.0,0.0,0.0,GIN,Guinea<br>Active Cases 71<br>Total Deaths 0
 Bangladesh,70,9.0,8.0,2.0,30.0,32,1.0,0.4,0.05,2086.0,13.0,BGD,Bangladesh<br>Active Cases 32<br>Total Deaths 8
