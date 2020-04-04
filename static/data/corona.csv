@@ -1,11 +1,11 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,TotalTests,"Tests/
 1M pop
 ",iso_alpha,text
-World,1196097,79454.0,64546.0,5376.0,246110.0,885441,42070.0,153.0,8.3,0.0,0.0,World,World<br>Active Cases 885441<br>Total Deaths 64546
-USA,307721,30560.0,8377.0,973.0,14686.0,284658,8073.0,930.0,25.0,1598087.0,4828.0,USA,USA<br>Active Cases 284658<br>Total Deaths 8377
+World,1196944,80282.0,64577.0,5403.0,246110.0,886257,42110.0,154.0,8.3,0.0,0.0,World,World<br>Active Cases 886257<br>Total Deaths 64577
+USA,308124,30963.0,8392.0,988.0,14686.0,285046,8113.0,931.0,25.0,1599916.0,4834.0,USA,USA<br>Active Cases 285046<br>Total Deaths 8392
 Spain,126168,6969.0,11947.0,749.0,34219.0,80002,6416.0,2699.0,256.0,355000.0,7593.0,ESP,Spain<br>Active Cases 80002<br>Total Deaths 11947
 Italy,124632,4805.0,15362.0,681.0,20996.0,88274,3994.0,2061.0,254.0,657224.0,10870.0,ITA,Italy<br>Active Cases 88274<br>Total Deaths 15362
-Germany,95648,4489.0,1428.0,153.0,26400.0,67820,3936.0,1142.0,17.0,918460.0,10962.0,DEU,Germany<br>Active Cases 67820<br>Total Deaths 1428
+Germany,96092,4933.0,1444.0,169.0,26400.0,68248,3936.0,1147.0,17.0,918460.0,10962.0,DEU,Germany<br>Active Cases 68248<br>Total Deaths 1444
 France,89953,7788.0,7560.0,1053.0,15438.0,66955,6838.0,1378.0,116.0,224254.0,3436.0,FRA,France<br>Active Cases 66955<br>Total Deaths 7560
 Iran,55743,2560.0,3452.0,158.0,19736.0,32555,4103.0,664.0,41.0,186000.0,2214.0,IRN,Iran<br>Active Cases 32555<br>Total Deaths 3452
 UK,41903,3735.0,4313.0,708.0,135.0,37455,163.0,617.0,64.0,183190.0,2698.0,GBR,UK<br>Active Cases 37455<br>Total Deaths 4313
@@ -208,4 +208,4 @@ Caribbean Netherlands,2,0.0,0.0,0.0,0.0,2,0.0,76.0,0.0,10.0,381.0,BES,Caribbean 
 Falkland Islands,1,0.0,0.0,0.0,0.0,1,0.0,287.0,0.0,0.0,0.0,FLK,Falkland Islands<br>Active Cases 1<br>Total Deaths 0
 Papua New Guinea,1,0.0,0.0,0.0,0.0,1,0.0,0.1,0.0,72.0,8.0,PNG,Papua New Guinea<br>Active Cases 1<br>Total Deaths 0
 Timor-Leste,1,0.0,0.0,0.0,0.0,1,0.0,0.8,0.0,0.0,0.0,TLS,Timor-Leste<br>Active Cases 1<br>Total Deaths 0
-China,81639,19.0,3326.0,4.0,76755.0,1558,331.0,57.0,2.0,0.0,0.0,CHN,China<br>Active Cases 1558<br>Total Deaths 3326
+China,81639,0.0,3326.0,0.0,76755.0,1558,331.0,57.0,2.0,0.0,0.0,CHN,China<br>Active Cases 1558<br>Total Deaths 3326
