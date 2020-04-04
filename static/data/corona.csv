@@ -1,7 +1,7 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,TotalTests,"Tests/
 1M pop
 ",iso_alpha,text
-World,1182827,66184.0,63924.0,4754.0,244224.0,874679,41965.0,152.0,8.2,0.0,0.0,World,World<br>Active Cases 874679<br>Total Deaths 63924
+World,1182830,66187.0,63925.0,4755.0,244229.0,874676,41965.0,152.0,8.2,0.0,0.0,World,World<br>Active Cases 874676<br>Total Deaths 63925
 USA,301147,23986.0,8173.0,769.0,14518.0,278456,7973.0,910.0,25.0,1502729.0,4540.0,USA,USA<br>Active Cases 278456<br>Total Deaths 8173
 Spain,124736,5537.0,11744.0,546.0,34219.0,78773,6416.0,2668.0,251.0,355000.0,7593.0,ESP,Spain<br>Active Cases 78773<br>Total Deaths 11744
 Italy,124632,4805.0,15362.0,681.0,20996.0,88274,3994.0,2061.0,254.0,657224.0,10870.0,ITA,Italy<br>Active Cases 88274<br>Total Deaths 15362
@@ -63,7 +63,7 @@ New Zealand,950,82.0,1.0,0.0,127.0,822,1.0,197.0,0.2,33116.0,6867.0,NZL,New Zeal
 Morocco,883,92.0,58.0,10.0,65.0,760,1.0,24.0,2.0,4070.0,110.0,MAR,Morocco<br>Active Cases 760<br>Total Deaths 58
 Iraq,878,58.0,56.0,2.0,259.0,563,0.0,22.0,1.0,0.0,0.0,IRQ,Iraq<br>Active Cases 563<br>Total Deaths 56
 Hong Kong,862,17.0,4.0,0.0,173.0,685,8.0,115.0,0.5,90000.0,12005.0,HKG,Hong Kong<br>Active Cases 685<br>Total Deaths 4
-Lithuania,771,75.0,10.0,1.0,7.0,754,11.0,283.0,4.0,21376.0,7852.0,LTU,Lithuania<br>Active Cases 754<br>Total Deaths 10
+Lithuania,771,75.0,11.0,2.0,7.0,753,11.0,283.0,4.0,21376.0,7852.0,LTU,Lithuania<br>Active Cases 753<br>Total Deaths 11
 Armenia,770,34.0,7.0,0.0,43.0,720,30.0,260.0,2.0,3994.0,1348.0,ARM,Armenia<br>Active Cases 720<br>Total Deaths 7
 Moldova,752,161.0,12.0,4.0,29.0,711,65.0,186.0,3.0,169.0,42.0,MDA,Moldova<br>Active Cases 711<br>Total Deaths 12
 Diamond Princess,712,0.0,11.0,0.0,619.0,82,10.0,0.0,0.0,0.0,0.0,Diamond Princess,Diamond Princess<br>Active Cases 82<br>Total Deaths 11
@@ -108,7 +108,7 @@ Montenegro,201,27.0,2.0,0.0,1.0,198,4.0,320.0,3.0,1193.0,1899.0,MNE,Montenegro<b
 Mauritius,196,10.0,7.0,0.0,0.0,189,1.0,154.0,6.0,0.0,0.0,MUS,Mauritius<br>Active Cases 189<br>Total Deaths 7
 Faeroe Islands,181,2.0,0.0,0.0,93.0,88,2.0,3704.0,0.0,4800.0,98234.0,FRO,Faeroe Islands<br>Active Cases 88<br>Total Deaths 0
 Sri Lanka,166,7.0,5.0,1.0,27.0,134,5.0,8.0,0.2,0.0,0.0,LKA,Sri Lanka<br>Active Cases 134<br>Total Deaths 5
-Georgia,159,4.0,1.0,1.0,31.0,127,6.0,40.0,0.3,0.0,0.0,GEO,Georgia<br>Active Cases 127<br>Total Deaths 1
+Georgia,162,7.0,1.0,1.0,36.0,125,6.0,41.0,0.3,0.0,0.0,GEO,Georgia<br>Active Cases 125<br>Total Deaths 1
 Venezuela,155,2.0,7.0,0.0,52.0,96,6.0,5.0,0.2,1779.0,63.0,VEN,Venezuela<br>Active Cases 96<br>Total Deaths 7
 DRC,148,0.0,16.0,0.0,3.0,129,0.0,2.0,0.2,0.0,0.0,DRC,DRC<br>Active Cases 129<br>Total Deaths 16
 Kyrgyzstan,144,14.0,1.0,0.0,9.0,134,5.0,22.0,0.2,9618.0,1474.0,KGZ,Kyrgyzstan<br>Active Cases 134<br>Total Deaths 1
