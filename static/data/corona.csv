@@ -1,10 +1,10 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,TotalTests,"Tests/
 1M pop
 ",iso_alpha,text
-World,1155148,38505.0,61718.0,2548.0,240392.0,853038,39989.0,148.0,7.9,0.0,0.0,World,World<br>Active Cases 853038<br>Total Deaths 61718
+World,1159953,43310.0,62399.0,3229.0,241630.0,855924,39915.0,149.0,8.0,0.0,0.0,World,World<br>Active Cases 855924<br>Total Deaths 62399
 USA,291545,14384.0,7851.0,447.0,14368.0,269326,6199.0,881.0,24.0,1391720.0,4205.0,USA,USA<br>Active Cases 269326<br>Total Deaths 7851
 Spain,124736,5537.0,11744.0,546.0,34219.0,78773,6416.0,2668.0,251.0,355000.0,7593.0,ESP,Spain<br>Active Cases 78773<br>Total Deaths 11744
-Italy,119827,0.0,14681.0,0.0,19758.0,85388,4068.0,1982.0,243.0,619849.0,10252.0,ITA,Italy<br>Active Cases 85388<br>Total Deaths 14681
+Italy,124632,4805.0,15362.0,681.0,20996.0,88274,3994.0,2061.0,254.0,657224.0,10870.0,ITA,Italy<br>Active Cases 88274<br>Total Deaths 15362
 Germany,92150,991.0,1330.0,55.0,26400.0,64420,3936.0,1100.0,16.0,918460.0,10962.0,DEU,Germany<br>Active Cases 64420<br>Total Deaths 1330
 France,82165,0.0,6507.0,0.0,14008.0,61650,6662.0,1259.0,100.0,224254.0,3436.0,FRA,France<br>Active Cases 61650<br>Total Deaths 6507
 Iran,55743,2560.0,3452.0,158.0,19736.0,32555,4103.0,664.0,41.0,80000.0,952.0,IRN,Iran<br>Active Cases 32555<br>Total Deaths 3452
@@ -62,7 +62,7 @@ Slovenia,977,43.0,22.0,2.0,79.0,876,31.0,470.0,11.0,27109.0,13040.0,SVN,Slovenia
 New Zealand,950,82.0,1.0,0.0,127.0,822,1.0,197.0,0.2,33116.0,6867.0,NZL,New Zealand<br>Active Cases 822<br>Total Deaths 1
 Iraq,878,58.0,56.0,2.0,259.0,563,0.0,22.0,1.0,0.0,0.0,IRQ,Iraq<br>Active Cases 563<br>Total Deaths 56
 Hong Kong,862,17.0,4.0,0.0,173.0,685,8.0,115.0,0.5,90000.0,12005.0,HKG,Hong Kong<br>Active Cases 685<br>Total Deaths 4
-Morocco,858,67.0,50.0,2.0,62.0,746,1.0,23.0,1.0,4026.0,109.0,MAR,Morocco<br>Active Cases 746<br>Total Deaths 50
+Morocco,858,67.0,50.0,2.0,62.0,746,1.0,23.0,1.0,4070.0,110.0,MAR,Morocco<br>Active Cases 746<br>Total Deaths 50
 Lithuania,771,75.0,10.0,1.0,7.0,754,11.0,283.0,4.0,21376.0,7852.0,LTU,Lithuania<br>Active Cases 754<br>Total Deaths 10
 Armenia,770,34.0,7.0,0.0,43.0,720,30.0,260.0,2.0,3994.0,1348.0,ARM,Armenia<br>Active Cases 720<br>Total Deaths 7
 Moldova,752,161.0,12.0,4.0,29.0,711,65.0,186.0,3.0,169.0,42.0,MDA,Moldova<br>Active Cases 711<br>Total Deaths 12
