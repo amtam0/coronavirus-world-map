@@ -1,7 +1,7 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,TotalTests,"Tests/
 1M pop
 ",iso_alpha,text
-World,1193862,77219.0,64387.0,5217.0,246110.0,883365,42066.0,153.0,8.3,0.0,0.0,World,World<br>Active Cases 883365<br>Total Deaths 64387
+World,1193868,77225.0,64387.0,5217.0,246110.0,883371,42066.0,153.0,8.3,0.0,0.0,World,World<br>Active Cases 883371<br>Total Deaths 64387
 USA,306854,29693.0,8350.0,946.0,14686.0,283818,8073.0,927.0,25.0,1570108.0,4743.0,USA,USA<br>Active Cases 283818<br>Total Deaths 8350
 Spain,124870,5671.0,11818.0,620.0,34219.0,78833,6416.0,2671.0,253.0,355000.0,7593.0,ESP,Spain<br>Active Cases 78833<br>Total Deaths 11818
 Italy,124632,4805.0,15362.0,681.0,20996.0,88274,3994.0,2061.0,254.0,657224.0,10870.0,ITA,Italy<br>Active Cases 88274<br>Total Deaths 15362
@@ -144,8 +144,8 @@ Togo,41,1.0,3.0,0.0,17.0,21,0.0,5.0,0.4,0.0,0.0,TGO,Togo<br>Active Cases 21<br>T
 French Polynesia,40,1.0,0.0,0.0,0.0,40,1.0,142.0,0.0,583.0,2075.0,PYF,French Polynesia<br>Active Cases 40<br>Total Deaths 0
 Zambia,39,0.0,1.0,0.0,2.0,36,0.0,2.0,0.05,619.0,34.0,ZMB,Zambia<br>Active Cases 36<br>Total Deaths 1
 Ethiopia,38,3.0,0.0,0.0,4.0,34,1.0,0.3,0.0,1222.0,11.0,ETH,Ethiopia<br>Active Cases 34<br>Total Deaths 0
+Cayman Islands,35,6.0,1.0,0.0,1.0,33,0.0,533.0,15.0,319.0,4854.0,CYM,Cayman Islands<br>Active Cases 33<br>Total Deaths 1
 Bermuda,35,0.0,0.0,0.0,14.0,21,0.0,562.0,0.0,272.0,4368.0,BMU,Bermuda<br>Active Cases 21<br>Total Deaths 0
-Cayman Islands,29,0.0,1.0,0.0,1.0,27,0.0,441.0,15.0,265.0,4032.0,CYM,Cayman Islands<br>Active Cases 27<br>Total Deaths 1
 Eritrea,29,7.0,0.0,0.0,0.0,29,0.0,8.0,0.0,0.0,0.0,ERI,Eritrea<br>Active Cases 29<br>Total Deaths 0
 Bahamas,24,0.0,3.0,0.0,0.0,21,1.0,61.0,8.0,0.0,0.0,BHS,Bahamas<br>Active Cases 21<br>Total Deaths 3
 Saint Martin,24,2.0,2.0,1.0,5.0,17,6.0,621.0,52.0,18.0,466.0,MAF,Saint Martin<br>Active Cases 17<br>Total Deaths 2
