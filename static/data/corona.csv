@@ -1,7 +1,7 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,TotalTests,"Tests/
 1M pop
 ",iso_alpha,text
-World,1188487,71844.0,64103.0,4933.0,244448.0,879936,41976.0,152.0,8.2,0.0,0.0,World,World<br>Active Cases 879936<br>Total Deaths 64103
+World,1188489,71846.0,64103.0,4933.0,244448.0,879938,41976.0,152.0,8.2,0.0,0.0,World,World<br>Active Cases 879938<br>Total Deaths 64103
 USA,302919,25758.0,8243.0,839.0,14686.0,279990,7983.0,915.0,25.0,1547288.0,4675.0,USA,USA<br>Active Cases 279990<br>Total Deaths 8243
 Spain,124736,5537.0,11744.0,546.0,34219.0,78773,6416.0,2668.0,251.0,355000.0,7593.0,ESP,Spain<br>Active Cases 78773<br>Total Deaths 11744
 Italy,124632,4805.0,15362.0,681.0,20996.0,88274,3994.0,2061.0,254.0,657224.0,10870.0,ITA,Italy<br>Active Cases 88274<br>Total Deaths 15362
@@ -129,7 +129,7 @@ Liechtenstein,77,2.0,0.0,0.0,0.0,77,0.0,2020.0,0.0,900.0,23605.0,LIE,Liechtenste
 Guinea,73,0.0,0.0,0.0,2.0,71,0.0,6.0,0.0,0.0,0.0,GIN,Guinea<br>Active Cases 71<br>Total Deaths 0
 Bangladesh,70,9.0,8.0,2.0,30.0,32,1.0,0.4,0.05,2086.0,13.0,BGD,Bangladesh<br>Active Cases 32<br>Total Deaths 8
 Madagascar,70,0.0,0.0,0.0,0.0,70,6.0,3.0,0.0,0.0,0.0,MDG,Madagascar<br>Active Cases 70<br>Total Deaths 0
-Monaco,64,0.0,1.0,0.0,3.0,60,2.0,1631.0,25.0,0.0,0.0,MCO,Monaco<br>Active Cases 60<br>Total Deaths 1
+Monaco,66,2.0,1.0,0.0,3.0,62,2.0,1682.0,25.0,0.0,0.0,MCO,Monaco<br>Active Cases 62<br>Total Deaths 1
 Aruba,64,2.0,0.0,0.0,1.0,63,0.0,599.0,0.0,863.0,8083.0,ABW,Aruba<br>Active Cases 63<br>Total Deaths 0
 Guatemala,57,7.0,2.0,1.0,15.0,40,1.0,3.0,0.1,0.0,0.0,GTM,Guatemala<br>Active Cases 40<br>Total Deaths 2
 French Guiana,57,0.0,0.0,0.0,22.0,35,1.0,191.0,0.0,0.0,0.0,GUF,French Guiana<br>Active Cases 35<br>Total Deaths 0
