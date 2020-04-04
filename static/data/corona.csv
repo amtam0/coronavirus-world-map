@@ -1,7 +1,7 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,TotalTests,"Tests/
 1M pop
 ",iso_alpha,text
-World,1188489,71846.0,64103.0,4933.0,246019.0,878367,41976.0,152.0,8.2,0.0,0.0,World,World<br>Active Cases 878367<br>Total Deaths 64103
+World,1188489,71846.0,64103.0,4933.0,246032.0,878354,41976.0,152.0,8.2,0.0,0.0,World,World<br>Active Cases 878354<br>Total Deaths 64103
 USA,302919,25758.0,8243.0,839.0,14686.0,279990,7983.0,915.0,25.0,1547288.0,4675.0,USA,USA<br>Active Cases 279990<br>Total Deaths 8243
 Spain,124736,5537.0,11744.0,546.0,34219.0,78773,6416.0,2668.0,251.0,355000.0,7593.0,ESP,Spain<br>Active Cases 78773<br>Total Deaths 11744
 Italy,124632,4805.0,15362.0,681.0,20996.0,88274,3994.0,2061.0,254.0,657224.0,10870.0,ITA,Italy<br>Active Cases 88274<br>Total Deaths 15362
@@ -49,7 +49,7 @@ UAE,1505,241.0,10.0,1.0,125.0,1370,2.0,152.0,1.0,220000.0,22244.0,ARE,UAE<br>Act
 South Africa,1505,0.0,9.0,0.0,95.0,1401,7.0,25.0,0.2,50361.0,849.0,ZAF,South Africa<br>Active Cases 1401<br>Total Deaths 9
 Dominican Republic,1488,0.0,68.0,0.0,16.0,1404,147.0,137.0,6.0,4200.0,387.0,DOM,Dominican Republic<br>Active Cases 1404<br>Total Deaths 68
 Iceland,1417,53.0,4.0,0.0,396.0,1017,12.0,4152.0,12.0,23640.0,69276.0,ISL,Iceland<br>Active Cases 1017<br>Total Deaths 4
-Argentina,1353,0.0,42.0,0.0,266.0,1045,0.0,30.0,0.9,7385.0,163.0,ARG,Argentina<br>Active Cases 1045<br>Total Deaths 42
+Argentina,1353,0.0,42.0,0.0,279.0,1032,0.0,30.0,0.9,7385.0,163.0,ARG,Argentina<br>Active Cases 1032<br>Total Deaths 42
 Qatar,1325,250.0,3.0,0.0,109.0,1213,37.0,460.0,1.0,31951.0,11090.0,QAT,Qatar<br>Active Cases 1213<br>Total Deaths 3
 Colombia,1267,0.0,25.0,0.0,55.0,1187,50.0,25.0,0.5,21202.0,417.0,COL,Colombia<br>Active Cases 1187<br>Total Deaths 25
 Algeria,1251,80.0,130.0,25.0,90.0,1031,0.0,29.0,3.0,3359.0,77.0,DZA,Algeria<br>Active Cases 1031<br>Total Deaths 130
