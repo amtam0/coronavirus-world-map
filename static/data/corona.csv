@@ -1,7 +1,7 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,TotalTests,"Tests/
 1M pop
 ",iso_alpha,text
-World,1182825,66182.0,63924.0,4754.0,244108.0,874793,41965.0,152.0,8.2,0.0,0.0,World,World<br>Active Cases 874793<br>Total Deaths 63924
+World,1182827,66184.0,63924.0,4754.0,244109.0,874794,41965.0,152.0,8.2,0.0,0.0,World,World<br>Active Cases 874794<br>Total Deaths 63924
 USA,301147,23986.0,8173.0,769.0,14518.0,278456,7973.0,910.0,25.0,1502729.0,4540.0,USA,USA<br>Active Cases 278456<br>Total Deaths 8173
 Spain,124736,5537.0,11744.0,546.0,34219.0,78773,6416.0,2668.0,251.0,355000.0,7593.0,ESP,Spain<br>Active Cases 78773<br>Total Deaths 11744
 Italy,124632,4805.0,15362.0,681.0,20996.0,88274,3994.0,2061.0,254.0,657224.0,10870.0,ITA,Italy<br>Active Cases 88274<br>Total Deaths 15362
@@ -172,6 +172,7 @@ Fiji,12,5.0,0.0,0.0,0.0,12,0.0,13.0,0.0,0.0,0.0,FJI,Fiji<br>Active Cases 12<br>T
 Grenada,12,0.0,0.0,0.0,0.0,12,2.0,107.0,0.0,45.0,400.0,GRD,Grenada<br>Active Cases 12<br>Total Deaths 0
 Curaçao,11,0.0,1.0,0.0,3.0,7,0.0,67.0,6.0,0.0,0.0,CUW,Curaçao<br>Active Cases 7<br>Total Deaths 1
 Greenland,11,1.0,0.0,0.0,3.0,8,0.0,194.0,0.0,542.0,9547.0,GRL,Greenland<br>Active Cases 8<br>Total Deaths 0
+Angola,10,2.0,2.0,0.0,2.0,6,0.0,0.3,0.06,0.0,0.0,AGO,Angola<br>Active Cases 6<br>Total Deaths 2
 Sudan,10,0.0,2.0,0.0,2.0,6,0.0,0.2,0.05,0.0,0.0,SDN,Sudan<br>Active Cases 6<br>Total Deaths 2
 Liberia,10,3.0,1.0,1.0,0.0,9,0.0,2.0,0.2,0.0,0.0,LBR,Liberia<br>Active Cases 9<br>Total Deaths 1
 Suriname,10,0.0,1.0,0.0,0.0,9,0.0,17.0,2.0,0.0,0.0,SUR,Suriname<br>Active Cases 9<br>Total Deaths 1
@@ -184,7 +185,6 @@ Nepal,9,3.0,0.0,0.0,1.0,8,0.0,0.3,0.0,1521.0,52.0,NPL,Nepal<br>Active Cases 8<br
 Chad,9,1.0,0.0,0.0,0.0,9,0.0,0.5,0.0,0.0,0.0,TCD,Chad<br>Active Cases 9<br>Total Deaths 0
 Saint Kitts and Nevis,9,0.0,0.0,0.0,0.0,9,0.0,169.0,0.0,113.0,2124.0,KNA,Saint Kitts and Nevis<br>Active Cases 9<br>Total Deaths 0
 Eswatini,9,0.0,0.0,0.0,0.0,9,0.0,8.0,0.0,0.0,0.0,SWZ,Eswatini<br>Active Cases 9<br>Total Deaths 0
-Angola,8,0.0,2.0,0.0,1.0,5,0.0,0.2,0.06,0.0,0.0,AGO,Angola<br>Active Cases 5<br>Total Deaths 2
 CAR,8,0.0,0.0,0.0,0.0,8,0.0,2.0,0.0,0.0,0.0,CAR,CAR<br>Active Cases 8<br>Total Deaths 0
 Cabo Verde,7,1.0,1.0,0.0,0.0,6,0.0,13.0,2.0,0.0,0.0,CPV,Cabo Verde<br>Active Cases 6<br>Total Deaths 1
 Vatican City,7,0.0,0.0,0.0,0.0,7,0.0,8739.0,0.0,0.0,0.0,VAT,Vatican City<br>Active Cases 7<br>Total Deaths 0
