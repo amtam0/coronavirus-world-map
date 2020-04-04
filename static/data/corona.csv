@@ -1,7 +1,7 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,TotalTests,"Tests/
 1M pop
 ",iso_alpha,text
-World,1119993,3350.0,59247.0,89.0,229834.0,830912,39411.0,144.0,7.6,0.0,0.0,World,World<br>Active Cases 830912<br>Total Deaths 59247
+World,1120099,3456.0,59257.0,99.0,229853.0,830989,39411.0,144.0,7.6,0.0,0.0,World,World<br>Active Cases 830989<br>Total Deaths 59257
 USA,277522,361.0,7403.0,11.0,12283.0,257836,5787.0,838.0,22.0,1356085.0,4097.0,USA,USA<br>Active Cases 257836<br>Total Deaths 7403
 Italy,119827,0.0,14681.0,0.0,19758.0,85388,4068.0,1982.0,243.0,619849.0,10252.0,ITA,Italy<br>Active Cases 85388<br>Total Deaths 14681
 Spain,119199,0.0,11198.0,0.0,30513.0,77488,6416.0,2549.0,240.0,355000.0,7593.0,ESP,Spain<br>Active Cases 77488<br>Total Deaths 11198
@@ -36,9 +36,9 @@ India,3082,23.0,86.0,0.0,229.0,2767,0.0,2.0,0.06,116608.0,84.0,IND,India<br>Acti
 Japan,2935,0.0,69.0,0.0,514.0,2352,60.0,23.0,0.5,39446.0,312.0,JPN,Japan<br>Active Cases 2352<br>Total Deaths 69
 Pakistan,2708,22.0,40.0,0.0,130.0,2538,13.0,12.0,0.2,30308.0,137.0,PAK,Pakistan<br>Active Cases 2538<br>Total Deaths 40
 Luxembourg,2612,0.0,31.0,0.0,500.0,2081,33.0,4173.0,50.0,21463.0,34287.0,LUX,Luxembourg<br>Active Cases 2081<br>Total Deaths 31
+Indonesia,2092,106.0,191.0,10.0,150.0,1751,0.0,8.0,0.7,7193.0,26.0,IDN,Indonesia<br>Active Cases 1751<br>Total Deaths 191
 Thailand,2067,89.0,20.0,1.0,612.0,1435,23.0,30.0,0.3,23669.0,339.0,THA,Thailand<br>Active Cases 1435<br>Total Deaths 20
 Saudi Arabia,2039,0.0,25.0,0.0,351.0,1663,41.0,59.0,0.7,0.0,0.0,SAU,Saudi Arabia<br>Active Cases 1663<br>Total Deaths 25
-Indonesia,1986,0.0,181.0,0.0,134.0,1671,0.0,7.0,0.7,7193.0,26.0,IDN,Indonesia<br>Active Cases 1671<br>Total Deaths 181
 Finland,1882,267.0,20.0,0.0,300.0,1562,72.0,340.0,4.0,26500.0,4783.0,FIN,Finland<br>Active Cases 1562<br>Total Deaths 20
 Mexico,1688,178.0,60.0,10.0,633.0,995,1.0,13.0,0.5,15668.0,122.0,MEX,Mexico<br>Active Cases 995<br>Total Deaths 60
 Panama,1673,0.0,41.0,0.0,10.0,1622,50.0,388.0,10.0,7333.0,1700.0,PAN,Panama<br>Active Cases 1622<br>Total Deaths 41
@@ -73,7 +73,7 @@ Moldova,591,0.0,8.0,0.0,26.0,557,65.0,147.0,2.0,169.0,42.0,MDA,Moldova<br>Active
 Cameroon,509,0.0,8.0,0.0,17.0,484,0.0,19.0,0.3,0.0,0.0,CMR,Cameroon<br>Active Cases 484<br>Total Deaths 8
 Latvia,509,16.0,1.0,0.0,1.0,507,3.0,270.0,0.5,19380.0,10275.0,LVA,Latvia<br>Active Cases 507<br>Total Deaths 1
 Lebanon,508,0.0,17.0,0.0,50.0,441,26.0,74.0,2.0,8472.0,1241.0,LBN,Lebanon<br>Active Cases 441<br>Total Deaths 17
-Kazakhstan,500,36.0,4.0,1.0,35.0,461,6.0,27.0,0.2,316.0,17.0,KAZ,Kazakhstan<br>Active Cases 461<br>Total Deaths 4
+Kazakhstan,500,36.0,4.0,1.0,36.0,460,6.0,27.0,0.2,316.0,17.0,KAZ,Kazakhstan<br>Active Cases 460<br>Total Deaths 4
 Bulgaria,498,13.0,14.0,0.0,34.0,450,21.0,72.0,2.0,566.0,81.0,BGR,Bulgaria<br>Active Cases 450<br>Total Deaths 14
 Tunisia,495,0.0,18.0,0.0,5.0,472,26.0,42.0,2.0,5736.0,485.0,TUN,Tunisia<br>Active Cases 472<br>Total Deaths 18
 Slovakia,471,21.0,1.0,0.0,10.0,460,3.0,86.0,0.2,11742.0,2151.0,SVK,Slovakia<br>Active Cases 460<br>Total Deaths 1
@@ -159,7 +159,7 @@ Maldives,19,0.0,0.0,0.0,13.0,6,0.0,35.0,0.0,0.0,0.0,MDV,Maldives<br>Active Cases
 Haiti,18,0.0,0.0,0.0,1.0,17,0.0,2.0,0.0,200.0,18.0,HTI,Haiti<br>Active Cases 17<br>Total Deaths 0
 New Caledonia,18,0.0,0.0,0.0,1.0,17,0.0,63.0,0.0,1390.0,4869.0,NCL,New Caledonia<br>Active Cases 17<br>Total Deaths 0
 Libya,17,0.0,1.0,0.0,0.0,16,0.0,2.0,0.1,131.0,19.0,LBY,Libya<br>Active Cases 16<br>Total Deaths 1
-Syria,16,0.0,2.0,0.0,0.0,14,0.0,0.9,0.1,0.0,0.0,SYR,Syria<br>Active Cases 14<br>Total Deaths 2
+Syria,16,0.0,2.0,0.0,2.0,12,0.0,0.9,0.1,0.0,0.0,SYR,Syria<br>Active Cases 12<br>Total Deaths 2
 Benin,16,0.0,0.0,0.0,2.0,14,0.0,1.0,0.0,0.0,0.0,BEN,Benin<br>Active Cases 14<br>Total Deaths 0
 Equatorial Guinea,16,0.0,0.0,0.0,1.0,15,0.0,11.0,0.0,0.0,0.0,GNQ,Equatorial Guinea<br>Active Cases 15<br>Total Deaths 0
 Antigua and Barbuda,15,0.0,0.0,0.0,0.0,15,1.0,153.0,0.0,9.0,92.0,ATG,Antigua and Barbuda<br>Active Cases 15<br>Total Deaths 0
