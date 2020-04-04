@@ -1,7 +1,7 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,TotalTests,"Tests/
 1M pop
 ",iso_alpha,text
-World,1182827,66184.0,63924.0,4754.0,244109.0,874794,41965.0,152.0,8.2,0.0,0.0,World,World<br>Active Cases 874794<br>Total Deaths 63924
+World,1182827,66184.0,63924.0,4754.0,244224.0,874679,41965.0,152.0,8.2,0.0,0.0,World,World<br>Active Cases 874679<br>Total Deaths 63924
 USA,301147,23986.0,8173.0,769.0,14518.0,278456,7973.0,910.0,25.0,1502729.0,4540.0,USA,USA<br>Active Cases 278456<br>Total Deaths 8173
 Spain,124736,5537.0,11744.0,546.0,34219.0,78773,6416.0,2668.0,251.0,355000.0,7593.0,ESP,Spain<br>Active Cases 78773<br>Total Deaths 11744
 Italy,124632,4805.0,15362.0,681.0,20996.0,88274,3994.0,2061.0,254.0,657224.0,10870.0,ITA,Italy<br>Active Cases 88274<br>Total Deaths 15362
@@ -40,7 +40,7 @@ Saudi Arabia,2179,140.0,29.0,4.0,420.0,1730,41.0,63.0,0.8,0.0,0.0,SAU,Saudi Arab
 Indonesia,2092,106.0,191.0,10.0,150.0,1751,0.0,8.0,0.7,7193.0,26.0,IDN,Indonesia<br>Active Cases 1751<br>Total Deaths 191
 Thailand,2067,89.0,20.0,1.0,674.0,1373,23.0,30.0,0.3,23669.0,339.0,THA,Thailand<br>Active Cases 1373<br>Total Deaths 20
 Finland,1882,267.0,25.0,5.0,300.0,1557,72.0,340.0,5.0,29000.0,5234.0,FIN,Finland<br>Active Cases 1557<br>Total Deaths 25
-Peru,1746,151.0,61.0,0.0,799.0,886,88.0,53.0,2.0,17841.0,541.0,PER,Peru<br>Active Cases 886<br>Total Deaths 61
+Peru,1746,151.0,61.0,0.0,914.0,771,88.0,53.0,2.0,17841.0,541.0,PER,Peru<br>Active Cases 771<br>Total Deaths 61
 Mexico,1688,178.0,60.0,10.0,633.0,995,1.0,13.0,0.5,15668.0,122.0,MEX,Mexico<br>Active Cases 995<br>Total Deaths 60
 Greece,1673,60.0,68.0,5.0,78.0,1527,92.0,161.0,7.0,22437.0,2153.0,GRC,Greece<br>Active Cases 1527<br>Total Deaths 68
 Panama,1673,0.0,41.0,0.0,13.0,1619,50.0,388.0,10.0,7333.0,1700.0,PAN,Panama<br>Active Cases 1619<br>Total Deaths 41
