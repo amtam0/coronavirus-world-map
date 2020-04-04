@@ -1,7 +1,7 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,TotalTests,"Tests/
 1M pop
 ",iso_alpha,text
-World,1190979,74336.0,64197.0,5027.0,246062.0,880720,41976.0,153.0,8.2,0.0,0.0,World,World<br>Active Cases 880720<br>Total Deaths 64197
+World,1191059,74416.0,64197.0,5027.0,246062.0,880800,41976.0,153.0,8.2,0.0,0.0,World,World<br>Active Cases 880800<br>Total Deaths 64197
 USA,304383,27222.0,8276.0,872.0,14686.0,281421,7983.0,920.0,25.0,1552821.0,4691.0,USA,USA<br>Active Cases 281421<br>Total Deaths 8276
 Spain,124736,5537.0,11744.0,546.0,34219.0,78773,6416.0,2668.0,251.0,355000.0,7593.0,ESP,Spain<br>Active Cases 78773<br>Total Deaths 11744
 Italy,124632,4805.0,15362.0,681.0,20996.0,88274,3994.0,2061.0,254.0,657224.0,10870.0,ITA,Italy<br>Active Cases 88274<br>Total Deaths 15362
@@ -45,8 +45,8 @@ Mexico,1688,178.0,60.0,10.0,633.0,995,1.0,13.0,0.5,15668.0,122.0,MEX,Mexico<br>A
 Greece,1673,60.0,68.0,5.0,78.0,1527,92.0,161.0,7.0,22437.0,2153.0,GRC,Greece<br>Active Cases 1527<br>Total Deaths 68
 Panama,1673,0.0,41.0,0.0,13.0,1619,50.0,388.0,10.0,7333.0,1700.0,PAN,Panama<br>Active Cases 1619<br>Total Deaths 41
 Serbia,1624,148.0,44.0,5.0,54.0,1526,89.0,186.0,5.0,6401.0,733.0,SRB,Serbia<br>Active Cases 1526<br>Total Deaths 44
+South Africa,1585,80.0,9.0,0.0,95.0,1481,7.0,27.0,0.2,53937.0,909.0,ZAF,South Africa<br>Active Cases 1481<br>Total Deaths 9
 UAE,1505,241.0,10.0,1.0,125.0,1370,2.0,152.0,1.0,220000.0,22244.0,ARE,UAE<br>Active Cases 1370<br>Total Deaths 10
-South Africa,1505,0.0,9.0,0.0,95.0,1401,7.0,25.0,0.2,50361.0,849.0,ZAF,South Africa<br>Active Cases 1401<br>Total Deaths 9
 Dominican Republic,1488,0.0,68.0,0.0,16.0,1404,147.0,137.0,6.0,4200.0,387.0,DOM,Dominican Republic<br>Active Cases 1404<br>Total Deaths 68
 Iceland,1417,53.0,4.0,0.0,396.0,1017,12.0,4152.0,12.0,23640.0,69276.0,ISL,Iceland<br>Active Cases 1017<br>Total Deaths 4
 Colombia,1406,139.0,32.0,7.0,85.0,1289,50.0,28.0,0.6,21202.0,417.0,COL,Colombia<br>Active Cases 1289<br>Total Deaths 32
