@@ -1,7 +1,7 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,TotalTests,"Tests/
 1M pop
 ",iso_alpha,text
-World,1121973,5330.0,59403.0,245.0,230316.0,832254,39444.0,144.0,7.6,0.0,0.0,World,World<br>Active Cases 832254<br>Total Deaths 59403
+World,1121991,5348.0,59403.0,245.0,230317.0,832271,39444.0,144.0,7.6,0.0,0.0,World,World<br>Active Cases 832271<br>Total Deaths 59403
 USA,277522,361.0,7403.0,11.0,12283.0,257836,5787.0,838.0,22.0,1356085.0,4097.0,USA,USA<br>Active Cases 257836<br>Total Deaths 7403
 Italy,119827,0.0,14681.0,0.0,19758.0,85388,4068.0,1982.0,243.0,619849.0,10252.0,ITA,Italy<br>Active Cases 85388<br>Total Deaths 14681
 Spain,119199,0.0,11198.0,0.0,30513.0,77488,6416.0,2549.0,240.0,355000.0,7593.0,ESP,Spain<br>Active Cases 77488<br>Total Deaths 11198
@@ -60,7 +60,7 @@ Estonia,1018,57.0,13.0,1.0,59.0,946,20.0,767.0,10.0,19091.0,14392.0,EST,Estonia<
 Egypt,985,0.0,66.0,0.0,216.0,703,0.0,10.0,0.6,25000.0,244.0,EGY,Egypt<br>Active Cases 703<br>Total Deaths 66
 Slovenia,977,43.0,22.0,2.0,70.0,885,31.0,470.0,11.0,27109.0,13040.0,SVN,Slovenia<br>Active Cases 885<br>Total Deaths 22
 New Zealand,950,82.0,1.0,0.0,127.0,822,1.0,197.0,0.2,33116.0,6867.0,NZL,New Zealand<br>Active Cases 822<br>Total Deaths 1
-Hong Kong,845,0.0,4.0,0.0,173.0,668,8.0,113.0,0.5,90000.0,12005.0,HKG,Hong Kong<br>Active Cases 668<br>Total Deaths 4
+Hong Kong,862,17.0,4.0,0.0,173.0,685,8.0,115.0,0.5,90000.0,12005.0,HKG,Hong Kong<br>Active Cases 685<br>Total Deaths 4
 Morocco,844,53.0,50.0,2.0,59.0,735,1.0,23.0,1.0,4026.0,109.0,MAR,Morocco<br>Active Cases 735<br>Total Deaths 50
 Iraq,820,0.0,54.0,0.0,226.0,540,0.0,20.0,1.0,0.0,0.0,IRQ,Iraq<br>Active Cases 540<br>Total Deaths 54
 Lithuania,771,75.0,9.0,0.0,7.0,755,11.0,283.0,3.0,21376.0,7852.0,LTU,Lithuania<br>Active Cases 755<br>Total Deaths 9
@@ -114,7 +114,7 @@ DRC,148,0.0,16.0,0.0,3.0,129,0.0,2.0,0.2,0.0,0.0,DRC,DRC<br>Active Cases 129<br>
 Kyrgyzstan,144,14.0,1.0,0.0,9.0,134,5.0,22.0,0.2,9618.0,1474.0,KGZ,Kyrgyzstan<br>Active Cases 134<br>Total Deaths 1
 Martinique,143,0.0,3.0,0.0,27.0,113,18.0,381.0,8.0,0.0,0.0,MTQ,Martinique<br>Active Cases 113<br>Total Deaths 3
 Bolivia,139,7.0,10.0,1.0,1.0,128,3.0,12.0,0.9,591.0,51.0,BOL,Bolivia<br>Active Cases 128<br>Total Deaths 10
-Brunei ,134,0.0,1.0,0.0,65.0,68,3.0,306.0,2.0,7566.0,17295.0,BRN,Brunei<br>Active Cases 68<br>Total Deaths 1
+Brunei ,135,1.0,1.0,0.0,66.0,68,3.0,309.0,2.0,7801.0,17832.0,BRN,Brunei<br>Active Cases 68<br>Total Deaths 1
 Guadeloupe,130,0.0,7.0,0.0,24.0,99,14.0,325.0,17.0,0.0,0.0,GLP,Guadeloupe<br>Active Cases 99<br>Total Deaths 7
 Mayotte,128,0.0,2.0,0.0,10.0,116,3.0,469.0,7.0,479.0,1756.0,MYT,Mayotte<br>Active Cases 116<br>Total Deaths 2
 Kenya,122,0.0,4.0,0.0,4.0,114,2.0,2.0,0.07,2201.0,41.0,KEN,Kenya<br>Active Cases 114<br>Total Deaths 4
