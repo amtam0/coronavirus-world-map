@@ -1,7 +1,7 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,TotalTests,"Tests/
 1M pop
 ",iso_alpha,text
-World,1245192,43739.0,67910.0,3222.0,256497.0,920785,44949.0,160.0,8.7,0.0,0.0,World,World<br>Active Cases 920785<br>Total Deaths 67910
+World,1245207,43754.0,67910.0,3222.0,256503.0,920794,44950.0,160.0,8.7,0.0,0.0,World,World<br>Active Cases 920794<br>Total Deaths 67910
 USA,323516,12159.0,9171.0,719.0,16590.0,297755,8474.0,977.0,28.0,1681482.0,5080.0,USA,USA<br>Active Cases 297755<br>Total Deaths 9171
 Spain,130759,4591.0,12418.0,471.0,38080.0,80261,6861.0,2797.0,266.0,355000.0,7593.0,ESP,Spain<br>Active Cases 80261<br>Total Deaths 12418
 Italy,128948,4316.0,15887.0,525.0,21815.0,91246,3977.0,2133.0,263.0,691461.0,11436.0,ITA,Italy<br>Active Cases 91246<br>Total Deaths 15887
@@ -53,7 +53,7 @@ Argentina,1451,0.0,44.0,1.0,280.0,1127,86.0,32.0,1.0,8488.0,188.0,ARG,Argentina<
 Colombia,1406,0.0,32.0,0.0,85.0,1289,50.0,28.0,0.6,23706.0,466.0,COL,Colombia<br>Active Cases 1289<br>Total Deaths 32
 Qatar,1325,0.0,3.0,0.0,109.0,1213,37.0,460.0,1.0,31951.0,11090.0,QAT,Qatar<br>Active Cases 1213<br>Total Deaths 3
 Algeria,1320,69.0,152.0,22.0,90.0,1078,0.0,30.0,3.0,3359.0,77.0,DZA,Algeria<br>Active Cases 1078<br>Total Deaths 152
-Singapore,1309,120.0,6.0,0.0,297.0,1006,24.0,224.0,1.0,39000.0,6666.0,SGP,Singapore<br>Active Cases 1006<br>Total Deaths 6
+Singapore,1309,120.0,6.0,0.0,297.0,1006,25.0,224.0,1.0,39000.0,6666.0,SGP,Singapore<br>Active Cases 1006<br>Total Deaths 6
 Ukraine,1251,26.0,32.0,0.0,25.0,1194,16.0,29.0,0.7,5493.0,126.0,UKR,Ukraine<br>Active Cases 1194<br>Total Deaths 32
 Croatia,1182,56.0,15.0,3.0,125.0,1042,39.0,288.0,4.0,10847.0,2642.0,HRV,Croatia<br>Active Cases 1042<br>Total Deaths 15
 Estonia,1097,58.0,15.0,2.0,62.0,1020,17.0,827.0,11.0,21004.0,15834.0,EST,Estonia<br>Active Cases 1020<br>Total Deaths 15
@@ -70,8 +70,8 @@ Hungary,733,55.0,34.0,2.0,66.0,633,17.0,76.0,4.0,21250.0,2200.0,HUN,Hungary<br>A
 Diamond Princess,712,0.0,11.0,0.0,619.0,82,10.0,0.0,0.0,0.0,0.0,Diamond Princess,Diamond Princess<br>Active Cases 82<br>Total Deaths 11
 Bahrain,698,10.0,4.0,0.0,427.0,267,3.0,410.0,2.0,43579.0,25611.0,BHR,Bahrain<br>Active Cases 267<br>Total Deaths 4
 Bosnia and Herzegovina,654,30.0,21.0,0.0,30.0,603,4.0,199.0,6.0,5349.0,1630.0,BIH,Bosnia and Herzegovina<br>Active Cases 603<br>Total Deaths 21
+Kazakhstan,584,53.0,6.0,1.0,42.0,536,6.0,31.0,0.3,5093.0,271.0,KAZ,Kazakhstan<br>Active Cases 536<br>Total Deaths 6
 Azerbaijan,584,63.0,5.0,0.0,32.0,547,17.0,58.0,0.5,40000.0,3945.0,AZE,Azerbaijan<br>Active Cases 547<br>Total Deaths 5
-Kazakhstan,569,38.0,6.0,1.0,36.0,527,6.0,30.0,0.3,5093.0,271.0,KAZ,Kazakhstan<br>Active Cases 527<br>Total Deaths 6
 Belarus,562,122.0,8.0,3.0,52.0,502,11.0,59.0,0.8,32000.0,3386.0,BLR,Belarus<br>Active Cases 502<br>Total Deaths 8
 Kuwait,556,77.0,1.0,0.0,99.0,456,17.0,130.0,0.2,0.0,0.0,KWT,Kuwait<br>Active Cases 456<br>Total Deaths 1
 North Macedonia,555,72.0,18.0,1.0,23.0,514,15.0,266.0,9.0,4920.0,2362.0,MKD,North Macedonia<br>Active Cases 514<br>Total Deaths 18
@@ -115,7 +115,7 @@ DRC,154,0.0,18.0,0.0,3.0,133,0.0,2.0,0.2,0.0,0.0,DRC,DRC<br>Active Cases 133<br>
 Kyrgyzstan,147,3.0,1.0,0.0,9.0,137,5.0,23.0,0.2,9618.0,1474.0,KGZ,Kyrgyzstan<br>Active Cases 137<br>Total Deaths 1
 Martinique,145,0.0,3.0,0.0,27.0,115,22.0,386.0,8.0,0.0,0.0,MTQ,Martinique<br>Active Cases 115<br>Total Deaths 3
 Niger,144,0.0,8.0,0.0,0.0,136,0.0,6.0,0.3,4012.0,166.0,NER,Niger<br>Active Cases 136<br>Total Deaths 8
-Kenya,142,16.0,4.0,0.0,4.0,134,2.0,3.0,0.07,2201.0,41.0,KEN,Kenya<br>Active Cases 134<br>Total Deaths 4
+Kenya,142,16.0,4.0,0.0,4.0,134,2.0,3.0,0.07,3836.0,71.0,KEN,Kenya<br>Active Cases 134<br>Total Deaths 4
 Brunei ,135,0.0,1.0,0.0,73.0,61,3.0,309.0,2.0,8129.0,18581.0,BRN,Brunei<br>Active Cases 61<br>Total Deaths 1
 Guadeloupe,134,0.0,7.0,0.0,24.0,103,14.0,335.0,17.0,0.0,0.0,GLP,Guadeloupe<br>Active Cases 103<br>Total Deaths 7
 Mayotte,134,0.0,2.0,0.0,14.0,118,3.0,491.0,7.0,479.0,1756.0,MYT,Mayotte<br>Active Cases 118<br>Total Deaths 2
