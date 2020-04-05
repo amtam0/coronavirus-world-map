@@ -1,8 +1,8 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,TotalTests,"Tests/
 1M pop
 ",iso_alpha,text
-World,1265976,64523.0,69042.0,4354.0,260967.0,935967,45530.0,162.0,8.9,0.0,0.0,World,World<br>Active Cases 935967<br>Total Deaths 69042
-USA,332993,21636.0,9528.0,1076.0,17018.0,306447,8623.0,1006.0,29.0,1751296.0,5291.0,USA,USA<br>Active Cases 306447<br>Total Deaths 9528
+World,1266000,64547.0,69042.0,4354.0,260967.0,935991,45530.0,162.0,8.9,0.0,0.0,World,World<br>Active Cases 935991<br>Total Deaths 69042
+USA,333017,21660.0,9528.0,1076.0,17018.0,306471,8623.0,1006.0,29.0,1751296.0,5291.0,USA,USA<br>Active Cases 306471<br>Total Deaths 9528
 Spain,130759,4591.0,12418.0,471.0,38080.0,80261,6861.0,2797.0,266.0,355000.0,7593.0,ESP,Spain<br>Active Cases 80261<br>Total Deaths 12418
 Italy,128948,4316.0,15887.0,525.0,21815.0,91246,3977.0,2133.0,263.0,691461.0,11436.0,ITA,Italy<br>Active Cases 91246<br>Total Deaths 15887
 Germany,100009,3917.0,1575.0,131.0,28700.0,69734,3936.0,1194.0,19.0,918460.0,10962.0,DEU,Germany<br>Active Cases 69734<br>Total Deaths 1575
@@ -212,4 +212,4 @@ Saint Pierre Miquelon,1,1.0,0.0,0.0,0.0,1,0.0,173.0,0.0,0.0,0.0,SPM,Saint Pierre
 South Sudan,1,1.0,0.0,0.0,0.0,1,0.0,0.09,0.0,0.0,0.0,SSD,South Sudan<br>Active Cases 1<br>Total Deaths 0
 Timor-Leste,1,0.0,0.0,0.0,0.0,1,0.0,0.8,0.0,0.0,0.0,TLS,Timor-Leste<br>Active Cases 1<br>Total Deaths 0
 China,81669,30.0,3329.0,3.0,76964.0,1376,295.0,57.0,2.0,0.0,0.0,CHN,China<br>Active Cases 1376<br>Total Deaths 3329
-Total:,1265976,64523.0,69042.0,4354.0,260967.0,935967,45530.0,162.4,8.9,0.0,0.0,Total:,Total:<br>Active Cases 935967<br>Total Deaths 69042
+Total:,1266000,64547.0,69042.0,4354.0,260967.0,935991,45530.0,162.4,8.9,0.0,0.0,Total:,Total:<br>Active Cases 935991<br>Total Deaths 69042
