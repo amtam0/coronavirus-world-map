@@ -1,8 +1,8 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,TotalTests,"Tests/
 1M pop
 ",iso_alpha,text
-World,1244391,42938.0,67856.0,3168.0,256478.0,920057,44949.0,160.0,8.7,0.0,0.0,World,World<br>Active Cases 920057<br>Total Deaths 67856
-USA,323065,11708.0,9154.0,702.0,16590.0,297321,8474.0,976.0,28.0,1679883.0,5075.0,USA,USA<br>Active Cases 297321<br>Total Deaths 9154
+World,1244812,43359.0,67877.0,3189.0,256496.0,920439,44949.0,160.0,8.7,0.0,0.0,World,World<br>Active Cases 920439<br>Total Deaths 67877
+USA,323418,12061.0,9170.0,718.0,16590.0,297658,8474.0,977.0,28.0,1680330.0,5076.0,USA,USA<br>Active Cases 297658<br>Total Deaths 9170
 Spain,130759,4591.0,12418.0,471.0,38080.0,80261,6861.0,2797.0,266.0,355000.0,7593.0,ESP,Spain<br>Active Cases 80261<br>Total Deaths 12418
 Italy,128948,4316.0,15887.0,525.0,21815.0,91246,3977.0,2133.0,263.0,691461.0,11436.0,ITA,Italy<br>Active Cases 91246<br>Total Deaths 15887
 Germany,98737,2645.0,1523.0,79.0,26400.0,70814,3936.0,1178.0,18.0,918460.0,10962.0,DEU,Germany<br>Active Cases 70814<br>Total Deaths 1523
@@ -24,7 +24,7 @@ Australia,5687,137.0,35.0,5.0,2315.0,3337,91.0,223.0,1.0,297154.0,11653.0,AUS,Au
 Norway,5686,136.0,70.0,8.0,32.0,5584,89.0,1049.0,13.0,105865.0,19528.0,NOR,Norway<br>Active Cases 5584<br>Total Deaths 70
 Russia,5389,658.0,45.0,2.0,355.0,4989,8.0,37.0,0.3,697000.0,4776.0,RUS,Russia<br>Active Cases 4989<br>Total Deaths 45
 Ireland,4604,0.0,137.0,0.0,25.0,4442,148.0,932.0,28.0,30213.0,6119.0,IRL,Ireland<br>Active Cases 4442<br>Total Deaths 137
-Czechia,4475,3.0,62.0,3.0,78.0,4335,86.0,418.0,6.0,80304.0,7499.0,CZE,Czechia<br>Active Cases 4335<br>Total Deaths 62
+Czechia,4543,71.0,67.0,8.0,96.0,4380,86.0,424.0,6.0,80304.0,7499.0,CZE,Czechia<br>Active Cases 4380<br>Total Deaths 67
 Chile,4471,310.0,34.0,7.0,528.0,3909,38.0,234.0,2.0,51956.0,2718.0,CHL,Chile<br>Active Cases 3909<br>Total Deaths 34
 Denmark,4369,292.0,179.0,18.0,1327.0,2863,142.0,754.0,31.0,49249.0,8503.0,DNK,Denmark<br>Active Cases 2863<br>Total Deaths 179
 Poland,4102,475.0,94.0,15.0,134.0,3874,50.0,108.0,2.0,80757.0,2134.0,POL,Poland<br>Active Cases 3874<br>Total Deaths 94
