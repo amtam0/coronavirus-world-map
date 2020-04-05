@@ -1,8 +1,8 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,TotalTests,"Tests/
 1M pop
 ",iso_alpha,text
-World,1261405,59952.0,68475.0,3787.0,260294.0,932636,45480.0,162.0,8.8,0.0,0.0,World,World<br>Active Cases 932636<br>Total Deaths 68475
-USA,331519,20162.0,9484.0,1032.0,17115.0,304920,8573.0,1002.0,29.0,1743009.0,5266.0,USA,USA<br>Active Cases 304920<br>Total Deaths 9484
+World,1262304,60851.0,68492.0,3804.0,260307.0,933505,45490.0,162.0,8.8,0.0,0.0,World,World<br>Active Cases 933505<br>Total Deaths 68492
+USA,332283,20926.0,9499.0,1047.0,17115.0,305669,8583.0,1004.0,29.0,1746146.0,5275.0,USA,USA<br>Active Cases 305669<br>Total Deaths 9499
 Spain,130759,4591.0,12418.0,471.0,38080.0,80261,6861.0,2797.0,266.0,355000.0,7593.0,ESP,Spain<br>Active Cases 80261<br>Total Deaths 12418
 Italy,128948,4316.0,15887.0,525.0,21815.0,91246,3977.0,2133.0,263.0,691461.0,11436.0,ITA,Italy<br>Active Cases 91246<br>Total Deaths 15887
 Germany,100009,3917.0,1575.0,131.0,28700.0,69734,3936.0,1194.0,19.0,918460.0,10962.0,DEU,Germany<br>Active Cases 69734<br>Total Deaths 1575
@@ -70,13 +70,13 @@ Hungary,733,55.0,34.0,2.0,66.0,633,17.0,76.0,4.0,21250.0,2200.0,HUN,Hungary<br>A
 Diamond Princess,712,0.0,11.0,0.0,619.0,82,10.0,0.0,0.0,0.0,0.0,Diamond Princess,Diamond Princess<br>Active Cases 82<br>Total Deaths 11
 Bahrain,700,12.0,4.0,0.0,431.0,265,3.0,411.0,2.0,44386.0,26085.0,BHR,Bahrain<br>Active Cases 265<br>Total Deaths 4
 Bosnia and Herzegovina,654,30.0,23.0,2.0,30.0,601,4.0,199.0,7.0,5349.0,1630.0,BIH,Bosnia and Herzegovina<br>Active Cases 601<br>Total Deaths 23
+Cameroon,650,95.0,9.0,0.0,17.0,624,0.0,24.0,0.3,0.0,0.0,CMR,Cameroon<br>Active Cases 624<br>Total Deaths 9
 Azerbaijan,584,63.0,7.0,2.0,32.0,545,17.0,58.0,0.7,40000.0,3945.0,AZE,Azerbaijan<br>Active Cases 545<br>Total Deaths 7
 Kazakhstan,584,53.0,6.0,1.0,42.0,536,6.0,31.0,0.3,5093.0,271.0,KAZ,Kazakhstan<br>Active Cases 536<br>Total Deaths 6
 Tunisia,574,21.0,22.0,4.0,5.0,547,39.0,49.0,2.0,7145.0,605.0,TUN,Tunisia<br>Active Cases 547<br>Total Deaths 22
 Belarus,562,122.0,8.0,3.0,52.0,502,11.0,59.0,0.8,32000.0,3386.0,BLR,Belarus<br>Active Cases 502<br>Total Deaths 8
 Kuwait,556,77.0,1.0,0.0,99.0,456,17.0,130.0,0.2,0.0,0.0,KWT,Kuwait<br>Active Cases 456<br>Total Deaths 1
 North Macedonia,555,72.0,18.0,1.0,23.0,514,15.0,266.0,9.0,4920.0,2362.0,MKD,North Macedonia<br>Active Cases 514<br>Total Deaths 18
-Cameroon,555,0.0,9.0,0.0,17.0,529,0.0,21.0,0.3,0.0,0.0,CMR,Cameroon<br>Active Cases 529<br>Total Deaths 9
 Latvia,533,24.0,1.0,0.0,1.0,531,4.0,283.0,0.5,20680.0,10964.0,LVA,Latvia<br>Active Cases 531<br>Total Deaths 1
 Bulgaria,531,28.0,20.0,3.0,37.0,474,22.0,76.0,3.0,15899.0,2288.0,BGR,Bulgaria<br>Active Cases 474<br>Total Deaths 20
 Lebanon,527,7.0,18.0,1.0,54.0,455,28.0,77.0,3.0,9411.0,1379.0,LBN,Lebanon<br>Active Cases 455<br>Total Deaths 18
@@ -106,6 +106,7 @@ Nigeria,224,10.0,5.0,1.0,27.0,192,2.0,1.0,0.02,4000.0,19.0,NGA,Nigeria<br>Active
 Senegal,222,3.0,2.0,0.0,82.0,138,1.0,13.0,0.1,0.0,0.0,SEN,Senegal<br>Active Cases 138<br>Total Deaths 2
 Ghana,214,9.0,5.0,0.0,31.0,178,2.0,7.0,0.2,0.0,0.0,GHA,Ghana<br>Active Cases 178<br>Total Deaths 5
 Montenegro,214,13.0,2.0,0.0,1.0,211,4.0,341.0,3.0,1583.0,2520.0,MNE,Montenegro<br>Active Cases 211<br>Total Deaths 2
+Niger,184,40.0,10.0,2.0,13.0,161,0.0,8.0,0.4,4012.0,166.0,NER,Niger<br>Active Cases 161<br>Total Deaths 10
 Faeroe Islands,181,0.0,0.0,0.0,99.0,82,1.0,3704.0,0.0,4890.0,100076.0,FRO,Faeroe Islands<br>Active Cases 82<br>Total Deaths 0
 Sri Lanka,176,10.0,5.0,0.0,33.0,138,5.0,8.0,0.2,0.0,0.0,LKA,Sri Lanka<br>Active Cases 138<br>Total Deaths 5
 Georgia,174,12.0,2.0,1.0,36.0,136,6.0,44.0,0.5,2762.0,692.0,GEO,Georgia<br>Active Cases 136<br>Total Deaths 2
@@ -114,7 +115,6 @@ Bolivia,157,18.0,10.0,0.0,2.0,145,3.0,13.0,0.9,591.0,51.0,BOL,Bolivia<br>Active 
 DRC,154,0.0,18.0,0.0,3.0,133,0.0,2.0,0.2,0.0,0.0,DRC,DRC<br>Active Cases 133<br>Total Deaths 18
 Martinique,149,4.0,4.0,1.0,50.0,95,21.0,397.0,11.0,0.0,0.0,MTQ,Martinique<br>Active Cases 95<br>Total Deaths 4
 Kyrgyzstan,147,3.0,1.0,0.0,9.0,137,5.0,23.0,0.2,9618.0,1474.0,KGZ,Kyrgyzstan<br>Active Cases 137<br>Total Deaths 1
-Niger,144,0.0,8.0,0.0,0.0,136,0.0,6.0,0.3,4012.0,166.0,NER,Niger<br>Active Cases 136<br>Total Deaths 8
 Kenya,142,16.0,4.0,0.0,4.0,134,2.0,3.0,0.07,3836.0,71.0,KEN,Kenya<br>Active Cases 134<br>Total Deaths 4
 Brunei ,135,0.0,1.0,0.0,73.0,61,3.0,309.0,2.0,8129.0,18581.0,BRN,Brunei<br>Active Cases 61<br>Total Deaths 1
 Guadeloupe,134,0.0,7.0,0.0,24.0,103,14.0,335.0,17.0,0.0,0.0,GLP,Guadeloupe<br>Active Cases 103<br>Total Deaths 7
