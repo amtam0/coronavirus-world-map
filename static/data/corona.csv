@@ -1,8 +1,8 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,TotalTests,"Tests/
 1M pop
 ",iso_alpha,text
-World,1261177,59724.0,68468.0,3780.0,260036.0,932673,45480.0,162.0,8.8,0.0,0.0,World,World<br>Active Cases 932673<br>Total Deaths 68468
-USA,331365,20008.0,9479.0,1027.0,17091.0,304795,8573.0,1001.0,29.0,1742130.0,5263.0,USA,USA<br>Active Cases 304795<br>Total Deaths 9479
+World,1261386,59933.0,68474.0,3786.0,260036.0,932876,45480.0,162.0,8.8,0.0,0.0,World,World<br>Active Cases 932876<br>Total Deaths 68474
+USA,331504,20147.0,9483.0,1031.0,17091.0,304930,8573.0,1002.0,29.0,1743009.0,5266.0,USA,USA<br>Active Cases 304930<br>Total Deaths 9483
 Spain,130759,4591.0,12418.0,471.0,38080.0,80261,6861.0,2797.0,266.0,355000.0,7593.0,ESP,Spain<br>Active Cases 80261<br>Total Deaths 12418
 Italy,128948,4316.0,15887.0,525.0,21815.0,91246,3977.0,2133.0,263.0,691461.0,11436.0,ITA,Italy<br>Active Cases 91246<br>Total Deaths 15887
 Germany,100009,3917.0,1575.0,131.0,28700.0,69734,3936.0,1194.0,19.0,918460.0,10962.0,DEU,Germany<br>Active Cases 69734<br>Total Deaths 1575
@@ -47,8 +47,8 @@ Panama,1801,0.0,46.0,0.0,13.0,1742,75.0,417.0,11.0,9256.0,2145.0,PAN,Panama<br>A
 UAE,1798,293.0,10.0,0.0,144.0,1644,1.0,182.0,1.0,220000.0,22244.0,ARE,UAE<br>Active Cases 1644<br>Total Deaths 10
 Dominican Republic,1745,167.0,82.0,5.0,17.0,1646,147.0,161.0,8.0,4542.0,419.0,DOM,Dominican Republic<br>Active Cases 1646<br>Total Deaths 82
 Greece,1735,62.0,73.0,5.0,78.0,1584,93.0,166.0,7.0,25453.0,2442.0,GRC,Greece<br>Active Cases 1584<br>Total Deaths 73
+South Africa,1655,70.0,11.0,2.0,95.0,1549,7.0,28.0,0.2,56873.0,959.0,ZAF,South Africa<br>Active Cases 1549<br>Total Deaths 11
 Qatar,1604,279.0,4.0,1.0,123.0,1477,37.0,557.0,1.0,35757.0,12411.0,QAT,Qatar<br>Active Cases 1477<br>Total Deaths 4
-South Africa,1585,0.0,9.0,0.0,95.0,1481,7.0,27.0,0.2,53937.0,909.0,ZAF,South Africa<br>Active Cases 1481<br>Total Deaths 9
 Iceland,1486,69.0,4.0,0.0,428.0,1054,11.0,4355.0,12.0,25394.0,74416.0,ISL,Iceland<br>Active Cases 1054<br>Total Deaths 4
 Colombia,1485,79.0,35.0,3.0,88.0,1362,50.0,29.0,0.7,23706.0,466.0,COL,Colombia<br>Active Cases 1362<br>Total Deaths 35
 Argentina,1451,0.0,44.0,1.0,280.0,1127,86.0,32.0,1.0,8488.0,188.0,ARG,Argentina<br>Active Cases 1127<br>Total Deaths 44
