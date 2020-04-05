@@ -1,7 +1,7 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,TotalTests,"Tests/
 1M pop
 ",iso_alpha,text
-World,1218126,16673.0,65841.0,1153.0,253818.0,898467,44692.0,156.0,8.4,0.0,0.0,World,World<br>Active Cases 898467<br>Total Deaths 65841
+World,1218126,16673.0,65841.0,1153.0,253821.0,898464,44692.0,156.0,8.4,0.0,0.0,World,World<br>Active Cases 898464<br>Total Deaths 65841
 USA,311637,280.0,8454.0,2.0,14828.0,288355,8206.0,941.0,26.0,1656897.0,5006.0,USA,USA<br>Active Cases 288355<br>Total Deaths 8454
 Spain,130759,4591.0,12418.0,471.0,38080.0,80261,6861.0,2797.0,266.0,355000.0,7593.0,ESP,Spain<br>Active Cases 80261<br>Total Deaths 12418
 Italy,124632,0.0,15362.0,0.0,20996.0,88274,3994.0,2061.0,254.0,657224.0,10870.0,ITA,Italy<br>Active Cases 88274<br>Total Deaths 15362
@@ -60,7 +60,7 @@ Estonia,1097,58.0,15.0,2.0,62.0,1020,17.0,827.0,11.0,21004.0,15834.0,EST,Estonia
 Egypt,1070,0.0,71.0,0.0,241.0,758,0.0,10.0,0.7,25000.0,244.0,EGY,Egypt<br>Active Cases 758<br>Total Deaths 71
 New Zealand,1039,89.0,1.0,0.0,156.0,882,3.0,215.0,0.2,36209.0,7509.0,NZL,New Zealand<br>Active Cases 882<br>Total Deaths 1
 Slovenia,997,20.0,28.0,6.0,79.0,890,31.0,480.0,13.0,27764.0,13355.0,SVN,Slovenia<br>Active Cases 890<br>Total Deaths 28
-Morocco,961,42.0,69.0,10.0,70.0,822,1.0,26.0,2.0,4492.0,122.0,MAR,Morocco<br>Active Cases 822<br>Total Deaths 69
+Morocco,961,42.0,69.0,10.0,70.0,822,1.0,26.0,2.0,3532.0,96.0,MAR,Morocco<br>Active Cases 822<br>Total Deaths 69
 Hong Kong,890,28.0,4.0,0.0,206.0,680,8.0,119.0,0.5,90000.0,12005.0,HKG,Hong Kong<br>Active Cases 680<br>Total Deaths 4
 Iraq,878,0.0,56.0,0.0,259.0,563,0.0,22.0,1.0,0.0,0.0,IRQ,Iraq<br>Active Cases 563<br>Total Deaths 56
 Armenia,822,52.0,7.0,0.0,57.0,758,30.0,277.0,2.0,4666.0,1575.0,ARM,Armenia<br>Active Cases 758<br>Total Deaths 7
@@ -126,7 +126,7 @@ Paraguay,104,8.0,3.0,0.0,12.0,89,2.0,15.0,0.4,1381.0,194.0,PRY,Paraguay<br>Activ
 Trinidad and Tobago,103,0.0,6.0,0.0,1.0,96,0.0,74.0,4.0,779.0,557.0,TTO,Trinidad and Tobago<br>Active Cases 96<br>Total Deaths 6
 Rwanda,102,0.0,0.0,0.0,4.0,98,0.0,8.0,0.0,0.0,0.0,RWA,Rwanda<br>Active Cases 98<br>Total Deaths 0
 Gibraltar,98,0.0,0.0,0.0,52.0,46,0.0,2909.0,0.0,1269.0,37666.0,GIB,Gibraltar<br>Active Cases 46<br>Total Deaths 0
-Bangladesh,88,18.0,9.0,1.0,30.0,49,1.0,0.5,0.05,2086.0,13.0,BGD,Bangladesh<br>Active Cases 49<br>Total Deaths 9
+Bangladesh,88,18.0,9.0,1.0,33.0,46,1.0,0.5,0.05,2086.0,13.0,BGD,Bangladesh<br>Active Cases 46<br>Total Deaths 9
 Liechtenstein,77,0.0,1.0,0.0,0.0,76,0.0,2020.0,26.0,900.0,23605.0,LIE,Liechtenstein<br>Active Cases 76<br>Total Deaths 1
 Madagascar,70,0.0,0.0,0.0,0.0,70,6.0,3.0,0.0,0.0,0.0,MDG,Madagascar<br>Active Cases 70<br>Total Deaths 0
 Monaco,66,0.0,1.0,0.0,3.0,62,2.0,1682.0,25.0,0.0,0.0,MCO,Monaco<br>Active Cases 62<br>Total Deaths 1
