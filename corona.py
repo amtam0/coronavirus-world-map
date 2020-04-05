@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[3]:
+# In[6]:
 
 
 import requests
@@ -9,11 +9,12 @@ import lxml.html as lh
 import pandas as pd
 import numpy as np
 import country_converter as coco
+import itertools
 
 
 # ### Build df from Url
 
-# In[59]:
+# In[7]:
 
 
 url='https://www.worldometers.info/coronavirus/'
@@ -32,13 +33,14 @@ headers = headers[:len(headers)//2]
 
 content = [td_element.text_content() for td_element in td_elements]
 rows_content = np.array(content).reshape(int(len(content)/len(headers)),len(headers)).tolist()[:-1] #rm Today row
-rows_content = rows_content[:len(rows_content)//2]
+rows_content = list(k for k,_ in itertools.groupby(rows_content))
 
 df = pd.DataFrame(rows_content)
 df.columns = headers
+df = df.drop_duplicates(subset= 'Country,Other', keep='first')
 
 
-# In[61]:
+# In[8]:
 
 
 # Convert values to float
@@ -61,7 +63,7 @@ df = df.fillna(0)
 df["text"] = df['Country'].apply(lambda x: x.strip()) + '<br>' +     'Active Cases ' + df['ActiveCases'].astype(int).astype(str) +     '<br>' + 'Total Deaths ' + df['TotalDeaths'].astype(int).astype(str)
 
 
-# In[63]:
+# In[9]:
 
 
 # Export Dataframe
@@ -70,7 +72,7 @@ df.to_csv("static/data/corona.csv",index=False,sep=",")
 
 # ### Visualize df using Plotly (Optional)
 
-# In[65]:
+# In[10]:
 
 
 # import plotly.express as px
