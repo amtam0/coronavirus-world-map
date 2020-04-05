@@ -1,7 +1,7 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,TotalTests,"Tests/
 1M pop
 ",iso_alpha,text
-World,1213199,11746.0,65600.0,912.0,253597.0,894002,44623.0,156.0,8.4,0.0,0.0,World,World<br>Active Cases 894002<br>Total Deaths 65600
+World,1213201,11748.0,65600.0,912.0,253597.0,894004,44623.0,156.0,8.4,0.0,0.0,World,World<br>Active Cases 894004<br>Total Deaths 65600
 USA,311637,280.0,8454.0,2.0,14828.0,288355,8206.0,941.0,26.0,1656897.0,5006.0,USA,USA<br>Active Cases 288355<br>Total Deaths 8454
 Spain,130759,4591.0,12418.0,471.0,38080.0,80261,6861.0,2797.0,266.0,355000.0,7593.0,ESP,Spain<br>Active Cases 80261<br>Total Deaths 12418
 Italy,124632,0.0,15362.0,0.0,20996.0,88274,3994.0,2061.0,254.0,657224.0,10870.0,ITA,Italy<br>Active Cases 88274<br>Total Deaths 15362
@@ -193,6 +193,7 @@ Somalia,7,0.0,0.0,0.0,1.0,6,0.0,0.4,0.0,0.0,0.0,SOM,Somalia<br>Active Cases 6<br
 Mauritania,6,0.0,1.0,0.0,2.0,3,0.0,1.0,0.2,67.0,14.0,MRT,Mauritania<br>Active Cases 3<br>Total Deaths 1
 Montserrat,6,0.0,0.0,0.0,0.0,6,0.0,1202.0,0.0,0.0,0.0,MSR,Montserrat<br>Active Cases 6<br>Total Deaths 0
 St. Barth,6,0.0,0.0,0.0,1.0,5,0.0,607.0,0.0,0.0,0.0,BLM,St. Barth<br>Active Cases 5<br>Total Deaths 0
+Sierra Leone,6,2.0,0.0,0.0,0.0,6,0.0,0.8,0.0,0.0,0.0,SLE,Sierra Leone<br>Active Cases 6<br>Total Deaths 0
 Nicaragua,5,0.0,1.0,0.0,0.0,4,0.0,0.8,0.2,0.0,0.0,NIC,Nicaragua<br>Active Cases 4<br>Total Deaths 1
 Bhutan,5,0.0,0.0,0.0,2.0,3,0.0,6.0,0.0,0.0,0.0,BTN,Bhutan<br>Active Cases 3<br>Total Deaths 0
 Turks and Caicos,5,0.0,0.0,0.0,0.0,5,0.0,129.0,0.0,0.0,0.0,TCA,Turks and Caicos<br>Active Cases 5<br>Total Deaths 0
@@ -200,7 +201,6 @@ Botswana,4,0.0,1.0,0.0,0.0,3,0.0,2.0,0.4,175.0,74.0,BWA,Botswana<br>Active Cases
 Gambia,4,0.0,1.0,0.0,2.0,1,0.0,2.0,0.4,0.0,0.0,GMB,Gambia<br>Active Cases 1<br>Total Deaths 1
 Belize,4,0.0,0.0,0.0,0.0,4,0.0,10.0,0.0,25.0,63.0,BLZ,Belize<br>Active Cases 4<br>Total Deaths 0
 Malawi,4,0.0,0.0,0.0,0.0,4,0.0,0.2,0.0,0.0,0.0,MWI,Malawi<br>Active Cases 4<br>Total Deaths 0
-Sierra Leone,4,0.0,0.0,0.0,0.0,4,0.0,0.5,0.0,0.0,0.0,SLE,Sierra Leone<br>Active Cases 4<br>Total Deaths 0
 Western Sahara,4,0.0,0.0,0.0,0.0,4,0.0,7.0,0.0,0.0,0.0,ESH,Western Sahara<br>Active Cases 4<br>Total Deaths 0
 Anguilla,3,0.0,0.0,0.0,0.0,3,0.0,200.0,0.0,0.0,0.0,AIA,Anguilla<br>Active Cases 3<br>Total Deaths 0
 British Virgin Islands,3,0.0,0.0,0.0,0.0,3,0.0,99.0,0.0,0.0,0.0,VGB,British Virgin Islands<br>Active Cases 3<br>Total Deaths 0
