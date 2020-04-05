@@ -1,8 +1,8 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,TotalTests,"Tests/
 1M pop
 ",iso_alpha,text
-World,1268529,67076.0,69321.0,4634.0,261134.0,938074,45532.0,163.0,8.9,0.0,0.0,World,World<br>Active Cases 938074<br>Total Deaths 69321
-USA,334125,22768.0,9557.0,1106.0,17177.0,307391,8623.0,1009.0,29.0,1755099.0,5302.0,USA,USA<br>Active Cases 307391<br>Total Deaths 9557
+World,1268636,67153.0,69321.0,4631.0,261134.0,938181,45532.0,163.0,8.9,0.0,0.0,World,World<br>Active Cases 938181<br>Total Deaths 69321
+USA,334232,22875.0,9557.0,1106.0,17177.0,307498,8623.0,1010.0,29.0,1755099.0,5302.0,USA,USA<br>Active Cases 307498<br>Total Deaths 9557
 Spain,131646,5478.0,12641.0,694.0,38080.0,80925,6861.0,2816.0,270.0,355000.0,7593.0,ESP,Spain<br>Active Cases 80925<br>Total Deaths 12641
 Italy,128948,4316.0,15887.0,525.0,21815.0,91246,3977.0,2133.0,263.0,691461.0,11436.0,ITA,Italy<br>Active Cases 91246<br>Total Deaths 15887
 Germany,100024,3932.0,1576.0,132.0,28700.0,69748,3936.0,1194.0,19.0,918460.0,10962.0,DEU,Germany<br>Active Cases 69748<br>Total Deaths 1576
@@ -211,5 +211,5 @@ Papua New Guinea,1,0.0,0.0,0.0,0.0,1,0.0,0.1,0.0,72.0,8.0,PNG,Papua New Guinea<b
 Saint Pierre Miquelon,1,1.0,0.0,0.0,0.0,1,0.0,173.0,0.0,0.0,0.0,SPM,Saint Pierre Miquelon<br>Active Cases 1<br>Total Deaths 0
 South Sudan,1,1.0,0.0,0.0,0.0,1,0.0,0.09,0.0,0.0,0.0,SSD,South Sudan<br>Active Cases 1<br>Total Deaths 0
 Timor-Leste,1,0.0,0.0,0.0,0.0,1,0.0,0.8,0.0,0.0,0.0,TLS,Timor-Leste<br>Active Cases 1<br>Total Deaths 0
-China,81669,30.0,3329.0,3.0,76964.0,1376,295.0,57.0,2.0,0.0,0.0,CHN,China<br>Active Cases 1376<br>Total Deaths 3329
-Total:,1268529,67076.0,69321.0,4634.0,261134.0,938074,45532.0,162.7,8.9,0.0,0.0,Total:,Total:<br>Active Cases 938074<br>Total Deaths 69321
+China,81669,0.0,3329.0,0.0,76964.0,1376,295.0,57.0,2.0,0.0,0.0,CHN,China<br>Active Cases 1376<br>Total Deaths 3329
+Total:,1268636,67153.0,69321.0,4631.0,261134.0,938181,45532.0,162.8,8.9,0.0,0.0,Total:,Total:<br>Active Cases 938181<br>Total Deaths 69321
