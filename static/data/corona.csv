@@ -1,7 +1,7 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,TotalTests,"Tests/
 1M pop
 ",iso_alpha,text
-World,1253066,51613.0,68154.0,3466.0,257199.0,927713,45379.0,161.0,8.7,0.0,0.0,World,World<br>Active Cases 927713<br>Total Deaths 68154
+World,1253072,51619.0,68154.0,3466.0,257202.0,927716,45379.0,161.0,8.7,0.0,0.0,World,World<br>Active Cases 927716<br>Total Deaths 68154
 USA,327871,16514.0,9325.0,873.0,16700.0,301846,8519.0,991.0,28.0,1725812.0,5214.0,USA,USA<br>Active Cases 301846<br>Total Deaths 9325
 Spain,130759,4591.0,12418.0,471.0,38080.0,80261,6861.0,2797.0,266.0,355000.0,7593.0,ESP,Spain<br>Active Cases 80261<br>Total Deaths 12418
 Italy,128948,4316.0,15887.0,525.0,21815.0,91246,3977.0,2133.0,263.0,691461.0,11436.0,ITA,Italy<br>Active Cases 91246<br>Total Deaths 15887
@@ -152,6 +152,7 @@ Eritrea,29,0.0,0.0,0.0,0.0,29,0.0,8.0,0.0,0.0,0.0,ERI,Eritrea<br>Active Cases 29
 Bahamas,28,0.0,4.0,0.0,0.0,24,1.0,71.0,10.0,0.0,0.0,BHS,Bahamas<br>Active Cases 24<br>Total Deaths 4
 Sint Maarten,25,2.0,4.0,0.0,6.0,15,0.0,583.0,93.0,82.0,1912.0,SXM,Sint Maarten<br>Active Cases 15<br>Total Deaths 4
 Guyana,24,1.0,4.0,0.0,0.0,20,0.0,31.0,5.0,93.0,118.0,GUY,Guyana<br>Active Cases 20<br>Total Deaths 4
+Benin,22,6.0,0.0,0.0,5.0,17,0.0,2.0,0.0,0.0,0.0,BEN,Benin<br>Active Cases 17<br>Total Deaths 0
 Gabon,21,0.0,1.0,0.0,1.0,19,0.0,9.0,0.4,0.0,0.0,GAB,Gabon<br>Active Cases 19<br>Total Deaths 1
 Myanmar,21,0.0,1.0,0.0,0.0,20,0.0,0.4,0.02,0.0,0.0,MMR,Myanmar<br>Active Cases 20<br>Total Deaths 1
 Haiti,21,1.0,0.0,0.0,1.0,20,0.0,2.0,0.0,247.0,22.0,HTI,Haiti<br>Active Cases 20<br>Total Deaths 0
@@ -161,7 +162,6 @@ Maldives,19,0.0,0.0,0.0,13.0,6,0.0,35.0,0.0,0.0,0.0,MDV,Maldives<br>Active Cases
 Libya,18,0.0,1.0,0.0,0.0,17,0.0,3.0,0.1,294.0,43.0,LBY,Libya<br>Active Cases 17<br>Total Deaths 1
 Guinea-Bissau,18,0.0,0.0,0.0,0.0,18,0.0,9.0,0.0,0.0,0.0,GNB,Guinea-Bissau<br>Active Cases 18<br>Total Deaths 0
 New Caledonia,17,0.0,0.0,0.0,1.0,16,0.0,60.0,0.0,1390.0,4869.0,NCL,New Caledonia<br>Active Cases 16<br>Total Deaths 0
-Benin,16,0.0,0.0,0.0,2.0,14,0.0,1.0,0.0,0.0,0.0,BEN,Benin<br>Active Cases 14<br>Total Deaths 0
 Equatorial Guinea,16,0.0,0.0,0.0,1.0,15,0.0,11.0,0.0,0.0,0.0,GNQ,Equatorial Guinea<br>Active Cases 15<br>Total Deaths 0
 Namibia,16,2.0,0.0,0.0,3.0,13,0.0,6.0,0.0,301.0,118.0,NAM,Namibia<br>Active Cases 13<br>Total Deaths 0
 Antigua and Barbuda,15,0.0,0.0,0.0,0.0,15,1.0,153.0,0.0,40.0,408.0,ATG,Antigua and Barbuda<br>Active Cases 15<br>Total Deaths 0
