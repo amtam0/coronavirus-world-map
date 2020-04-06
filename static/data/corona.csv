@@ -1,8 +1,8 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,TotalTests,"Tests/
 1M pop
 ",iso_alpha,text
-World,1312428,39566.0,72636.0,3211.0,275060.0,964732,46215.0,168.0,9.3,0.0,0.0,World,World<br>Active Cases 964732<br>Total Deaths 72636
-USA,349926,13253.0,10327.0,711.0,19219.0,320380,8830.0,1057.0,31.0,1813869.0,5480.0,USA,USA<br>Active Cases 320380<br>Total Deaths 10327
+World,1312494,39632.0,72636.0,3211.0,275068.0,964790,46215.0,168.0,9.3,0.0,0.0,World,World<br>Active Cases 964790<br>Total Deaths 72636
+USA,349992,13319.0,10327.0,711.0,19226.0,320439,8830.0,1057.0,31.0,1814296.0,5481.0,USA,USA<br>Active Cases 320439<br>Total Deaths 10327
 Spain,135032,3386.0,13169.0,528.0,40437.0,81426,6931.0,2888.0,282.0,355000.0,7593.0,ESP,Spain<br>Active Cases 81426<br>Total Deaths 13169
 Italy,132547,3599.0,16523.0,636.0,22837.0,93187,3898.0,2192.0,273.0,721732.0,11937.0,ITA,Italy<br>Active Cases 93187<br>Total Deaths 16523
 Germany,101089,966.0,1612.0,28.0,28700.0,70777,3936.0,1207.0,19.0,918460.0,10962.0,DEU,Germany<br>Active Cases 70777<br>Total Deaths 1612
@@ -114,7 +114,7 @@ Faeroe Islands,183,2.0,0.0,0.0,107.0,76,1.0,3745.0,0.0,4934.0,100976.0,FRO,Faero
 Sri Lanka,178,2.0,5.0,0.0,38.0,135,5.0,8.0,0.2,3248.0,152.0,LKA,Sri Lanka<br>Active Cases 135<br>Total Deaths 5
 DRC,161,7.0,18.0,0.0,5.0,138,0.0,2.0,0.2,0.0,0.0,DRC,DRC<br>Active Cases 138<br>Total Deaths 18
 Venezuela,159,0.0,7.0,0.0,52.0,100,6.0,6.0,0.2,1779.0,63.0,VEN,Venezuela<br>Active Cases 100<br>Total Deaths 7
-Kenya,158,16.0,6.0,2.0,4.0,148,2.0,3.0,0.1,4000.0,74.0,KEN,Kenya<br>Active Cases 148<br>Total Deaths 6
+Kenya,158,16.0,6.0,2.0,4.0,148,2.0,3.0,0.1,4277.0,80.0,KEN,Kenya<br>Active Cases 148<br>Total Deaths 6
 Martinique,149,0.0,4.0,0.0,50.0,95,21.0,397.0,11.0,0.0,0.0,MTQ,Martinique<br>Active Cases 95<br>Total Deaths 4
 Mayotte,147,0.0,2.0,0.0,14.0,131,3.0,539.0,7.0,479.0,1756.0,MYT,Mayotte<br>Active Cases 131<br>Total Deaths 2
 Isle of Man,139,12.0,1.0,0.0,55.0,83,0.0,1635.0,12.0,1638.0,19263.0,IMN,Isle of Man<br>Active Cases 83<br>Total Deaths 1
@@ -175,7 +175,7 @@ Curaçao,13,2.0,1.0,0.0,5.0,7,0.0,79.0,6.0,0.0,0.0,CUW,Curaçao<br>Active Cases 
 Sudan,12,0.0,2.0,0.0,2.0,8,0.0,0.3,0.05,0.0,0.0,SDN,Sudan<br>Active Cases 8<br>Total Deaths 2
 Grenada,12,0.0,0.0,0.0,0.0,12,2.0,107.0,0.0,45.0,400.0,GRD,Grenada<br>Active Cases 12<br>Total Deaths 0
 Laos,12,1.0,0.0,0.0,0.0,12,0.0,2.0,0.0,621.0,85.0,LAO,Laos<br>Active Cases 12<br>Total Deaths 0
-Greenland,11,0.0,0.0,0.0,3.0,8,0.0,194.0,0.0,542.0,9547.0,GRL,Greenland<br>Active Cases 8<br>Total Deaths 0
+Greenland,11,0.0,0.0,0.0,4.0,7,0.0,194.0,0.0,718.0,12648.0,GRL,Greenland<br>Active Cases 7<br>Total Deaths 0
 Seychelles,11,1.0,0.0,0.0,0.0,11,0.0,112.0,0.0,0.0,0.0,SYC,Seychelles<br>Active Cases 11<br>Total Deaths 0
 Suriname,10,0.0,1.0,0.0,0.0,9,0.0,17.0,2.0,0.0,0.0,SUR,Suriname<br>Active Cases 9<br>Total Deaths 1
 Mozambique,10,0.0,0.0,0.0,1.0,9,0.0,0.3,0.0,363.0,12.0,MOZ,Mozambique<br>Active Cases 9<br>Total Deaths 0
@@ -213,4 +213,4 @@ Saint Pierre Miquelon,1,0.0,0.0,0.0,0.0,1,0.0,173.0,0.0,0.0,0.0,SPM,Saint Pierre
 South Sudan,1,0.0,0.0,0.0,0.0,1,0.0,0.09,0.0,0.0,0.0,SSD,South Sudan<br>Active Cases 1<br>Total Deaths 0
 Timor-Leste,1,0.0,0.0,0.0,0.0,1,0.0,0.8,0.0,0.0,0.0,TLS,Timor-Leste<br>Active Cases 1<br>Total Deaths 0
 China,81708,39.0,3331.0,2.0,77078.0,1299,265.0,57.0,2.0,0.0,0.0,CHN,China<br>Active Cases 1299<br>Total Deaths 3331
-Total:,1312428,39566.0,72636.0,3211.0,275060.0,964732,46215.0,168.4,9.3,0.0,0.0,Total:,Total:<br>Active Cases 964732<br>Total Deaths 72636
+Total:,1312494,39632.0,72636.0,3211.0,275068.0,964790,46215.0,168.4,9.3,0.0,0.0,Total:,Total:<br>Active Cases 964790<br>Total Deaths 72636
