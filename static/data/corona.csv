@@ -1,9 +1,9 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,TotalTests,"Tests/
 1M pop
 ",iso_alpha,text
-World,1292361,19499.0,70680.0,1255.0,272501.0,949180,46110.0,166.0,9.1,0.0,0.0,World,World<br>Active Cases 949180<br>Total Deaths 70680
-USA,339028,2355.0,9687.0,71.0,18004.0,311337,8702.0,1024.0,29.0,1793655.0,5419.0,USA,USA<br>Active Cases 311337<br>Total Deaths 9687
-Spain,135032,3386.0,13055.0,414.0,40437.0,81540,6931.0,2888.0,279.0,355000.0,7593.0,ESP,Spain<br>Active Cases 81540<br>Total Deaths 13055
+World,1292461,19599.0,70797.0,1372.0,272529.0,949135,46110.0,166.0,9.1,0.0,0.0,World,World<br>Active Cases 949135<br>Total Deaths 70797
+USA,339127,2454.0,9689.0,73.0,18029.0,311409,8702.0,1025.0,29.0,1794274.0,5421.0,USA,USA<br>Active Cases 311409<br>Total Deaths 9689
+Spain,135032,3386.0,13169.0,528.0,40437.0,81426,6931.0,2888.0,282.0,355000.0,7593.0,ESP,Spain<br>Active Cases 81426<br>Total Deaths 13169
 Italy,128948,0.0,15887.0,0.0,21815.0,91246,3977.0,2133.0,263.0,691461.0,11436.0,ITA,Italy<br>Active Cases 91246<br>Total Deaths 15887
 Germany,100770,647.0,1608.0,24.0,28700.0,70462,3936.0,1203.0,19.0,918460.0,10962.0,DEU,Germany<br>Active Cases 70462<br>Total Deaths 1608
 France,92839,0.0,8078.0,0.0,16183.0,68578,6838.0,1422.0,124.0,224254.0,3436.0,FRA,France<br>Active Cases 68578<br>Total Deaths 8078
@@ -89,7 +89,7 @@ Uzbekistan,390,48.0,2.0,0.0,30.0,358,8.0,12.0,0.06,0.0,0.0,UZB,Uzbekistan<br>Act
 Albania,377,16.0,21.0,1.0,116.0,240,7.0,131.0,7.0,2571.0,893.0,ALB,Albania<br>Active Cases 240<br>Total Deaths 21
 Taiwan,373,10.0,5.0,0.0,57.0,311,0.0,16.0,0.2,37219.0,1563.0,TWN,Taiwan<br>Active Cases 311<br>Total Deaths 5
 Afghanistan,367,18.0,7.0,0.0,17.0,343,0.0,9.0,0.2,0.0,0.0,AFG,Afghanistan<br>Active Cases 343<br>Total Deaths 7
-Cuba,350,30.0,8.0,0.0,15.0,327,11.0,31.0,0.7,5234.0,462.0,CUB,Cuba<br>Active Cases 327<br>Total Deaths 8
+Cuba,350,30.0,9.0,1.0,18.0,323,11.0,31.0,0.8,5234.0,462.0,CUB,Cuba<br>Active Cases 323<br>Total Deaths 9
 Burkina Faso,345,0.0,17.0,0.0,90.0,238,0.0,17.0,0.8,0.0,0.0,BFA,Burkina Faso<br>Active Cases 238<br>Total Deaths 17
 Jordan,345,0.0,5.0,0.0,110.0,230,5.0,34.0,0.5,0.0,0.0,JOR,Jordan<br>Active Cases 230<br>Total Deaths 5
 Réunion,344,0.0,0.0,0.0,40.0,304,4.0,384.0,0.0,0.0,0.0,REU,Réunion<br>Active Cases 304<br>Total Deaths 0
@@ -98,7 +98,7 @@ Channel Islands,309,0.0,6.0,0.0,27.0,276,0.0,1777.0,35.0,0.0,0.0,Channel Islands
 Honduras,298,30.0,22.0,0.0,6.0,270,10.0,30.0,2.0,0.0,0.0,HND,Honduras<br>Active Cases 270<br>Total Deaths 22
 San Marino,266,0.0,32.0,0.0,35.0,199,14.0,7839.0,943.0,586.0,17270.0,SMR,San Marino<br>Active Cases 199<br>Total Deaths 32
 Ivory Coast,261,0.0,3.0,0.0,37.0,221,0.0,10.0,0.1,0.0,0.0,CIV,Ivory Coast<br>Active Cases 221<br>Total Deaths 3
-Palestine,252,15.0,1.0,0.0,25.0,226,0.0,49.0,0.2,12738.0,2497.0,PSE,Palestine<br>Active Cases 226<br>Total Deaths 1
+Palestine,253,16.0,1.0,0.0,25.0,227,0.0,50.0,0.2,12738.0,2497.0,PSE,Palestine<br>Active Cases 227<br>Total Deaths 1
 Vietnam,245,4.0,0.0,0.0,95.0,150,8.0,3.0,0.0,94305.0,969.0,VNM,Vietnam<br>Active Cases 150<br>Total Deaths 0
 Mauritius,244,17.0,7.0,0.0,7.0,230,1.0,192.0,6.0,0.0,0.0,MUS,Mauritius<br>Active Cases 230<br>Total Deaths 7
 Malta,241,14.0,0.0,0.0,5.0,236,3.0,546.0,0.0,10358.0,23459.0,MLT,Malta<br>Active Cases 236<br>Total Deaths 0
@@ -213,4 +213,4 @@ Saint Pierre Miquelon,1,0.0,0.0,0.0,0.0,1,0.0,173.0,0.0,0.0,0.0,SPM,Saint Pierre
 South Sudan,1,0.0,0.0,0.0,0.0,1,0.0,0.09,0.0,0.0,0.0,SSD,South Sudan<br>Active Cases 1<br>Total Deaths 0
 Timor-Leste,1,0.0,0.0,0.0,0.0,1,0.0,0.8,0.0,0.0,0.0,TLS,Timor-Leste<br>Active Cases 1<br>Total Deaths 0
 China,81708,39.0,3331.0,2.0,77078.0,1299,265.0,57.0,2.0,0.0,0.0,CHN,China<br>Active Cases 1299<br>Total Deaths 3331
-Total:,1292361,19499.0,70680.0,1255.0,272501.0,949180,46110.0,165.8,9.1,0.0,0.0,Total:,Total:<br>Active Cases 949180<br>Total Deaths 70680
+Total:,1292461,19599.0,70797.0,1372.0,272529.0,949135,46110.0,165.8,9.1,0.0,0.0,Total:,Total:<br>Active Cases 949135<br>Total Deaths 70797
