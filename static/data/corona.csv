@@ -1,7 +1,7 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,TotalTests,"Tests/
 1M pop
 ",iso_alpha,text
-World,1286664,13802.0,70446.0,1021.0,271882.0,944336,45999.0,165.0,9.0,0.0,0.0,World,World<br>Active Cases 944336<br>Total Deaths 70446
+World,1286717,13855.0,70446.0,1021.0,271882.0,944389,45999.0,165.0,9.0,0.0,0.0,World,World<br>Active Cases 944389<br>Total Deaths 70446
 USA,336851,178.0,9620.0,4.0,17977.0,309254,8702.0,1018.0,29.0,1772369.0,5355.0,USA,USA<br>Active Cases 309254<br>Total Deaths 9620
 Spain,135032,3386.0,13055.0,414.0,40437.0,81540,6931.0,2888.0,279.0,355000.0,7593.0,ESP,Spain<br>Active Cases 81540<br>Total Deaths 13055
 Italy,128948,0.0,15887.0,0.0,21815.0,91246,3977.0,2133.0,263.0,691461.0,11436.0,ITA,Italy<br>Active Cases 91246<br>Total Deaths 15887
@@ -14,7 +14,7 @@ Switzerland,21652,552.0,734.0,19.0,7298.0,13620,391.0,2502.0,85.0,158000.0,18256
 Belgium,20814,1123.0,1632.0,185.0,3986.0,15196,1257.0,1796.0,141.0,70000.0,6040.0,BEL,Belgium<br>Active Cases 15196<br>Total Deaths 1632
 Netherlands,18803,952.0,1867.0,101.0,250.0,16686,1385.0,1097.0,109.0,75415.0,4401.0,NLD,Netherlands<br>Active Cases 16686<br>Total Deaths 1867
 Canada,15512,0.0,280.0,0.0,2942.0,12290,426.0,411.0,7.0,330901.0,8767.0,CAN,Canada<br>Active Cases 12290<br>Total Deaths 280
-Austria,12109,58.0,220.0,16.0,3463.0,8426,250.0,1344.0,24.0,111296.0,12357.0,AUT,Austria<br>Active Cases 8426<br>Total Deaths 220
+Austria,12162,111.0,220.0,16.0,3463.0,8479,250.0,1350.0,24.0,111296.0,12357.0,AUT,Austria<br>Active Cases 8479<br>Total Deaths 220
 Portugal,11730,452.0,311.0,16.0,140.0,11279,270.0,1150.0,31.0,91794.0,9002.0,PRT,Portugal<br>Active Cases 11279<br>Total Deaths 311
 Brazil,11281,27.0,487.0,1.0,127.0,10667,296.0,53.0,2.0,54824.0,258.0,BRA,Brazil<br>Active Cases 10667<br>Total Deaths 487
 S. Korea,10284,47.0,186.0,3.0,6598.0,3500,55.0,201.0,4.0,461233.0,8996.0,KOR,S. Korea<br>Active Cases 3500<br>Total Deaths 186
@@ -212,4 +212,4 @@ Saint Pierre Miquelon,1,0.0,0.0,0.0,0.0,1,0.0,173.0,0.0,0.0,0.0,SPM,Saint Pierre
 South Sudan,1,0.0,0.0,0.0,0.0,1,0.0,0.09,0.0,0.0,0.0,SSD,South Sudan<br>Active Cases 1<br>Total Deaths 0
 Timor-Leste,1,0.0,0.0,0.0,0.0,1,0.0,0.8,0.0,0.0,0.0,TLS,Timor-Leste<br>Active Cases 1<br>Total Deaths 0
 China,81708,39.0,3331.0,2.0,77078.0,1299,265.0,57.0,2.0,0.0,0.0,CHN,China<br>Active Cases 1299<br>Total Deaths 3331
-Total:,1286664,13802.0,70446.0,1021.0,271882.0,944336,45999.0,165.1,9.0,0.0,0.0,Total:,Total:<br>Active Cases 944336<br>Total Deaths 70446
+Total:,1286717,13855.0,70446.0,1021.0,271882.0,944389,45999.0,165.1,9.0,0.0,0.0,Total:,Total:<br>Active Cases 944389<br>Total Deaths 70446
