@@ -1,7 +1,7 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,TotalTests,"Tests/
 1M pop
 ",iso_alpha,text
-World,1329305,56443.0,73831.0,4406.0,277327.0,978147,46538.0,171.0,9.5,0.0,0.0,World,World<br>Active Cases 978147<br>Total Deaths 73831
+World,1329306,56444.0,73831.0,4406.0,277329.0,978146,46538.0,171.0,9.5,0.0,0.0,World,World<br>Active Cases 978146<br>Total Deaths 73831
 USA,356414,19741.0,10490.0,874.0,19247.0,326677,8876.0,1077.0,32.0,1850506.0,5591.0,USA,USA<br>Active Cases 326677<br>Total Deaths 10490
 Spain,135032,3386.0,13169.0,528.0,40437.0,81426,6931.0,2888.0,282.0,355000.0,7593.0,ESP,Spain<br>Active Cases 81426<br>Total Deaths 13169
 Italy,132547,3599.0,16523.0,636.0,22837.0,93187,3898.0,2192.0,273.0,721732.0,11937.0,ITA,Italy<br>Active Cases 93187<br>Total Deaths 16523
@@ -163,14 +163,14 @@ Libya,18,0.0,1.0,0.0,0.0,17,0.0,3.0,0.1,312.0,45.0,LBY,Libya<br>Active Cases 17<
 Guinea-Bissau,18,0.0,0.0,0.0,0.0,18,0.0,9.0,0.0,0.0,0.0,GNB,Guinea-Bissau<br>Active Cases 18<br>Total Deaths 0
 New Caledonia,18,0.0,0.0,0.0,1.0,17,0.0,63.0,0.0,1983.0,6946.0,NCL,New Caledonia<br>Active Cases 17<br>Total Deaths 0
 Angola,16,2.0,2.0,0.0,2.0,12,0.0,0.5,0.06,0.0,0.0,AGO,Angola<br>Active Cases 12<br>Total Deaths 2
-Equatorial Guinea,16,0.0,0.0,0.0,1.0,15,0.0,11.0,0.0,0.0,0.0,GNQ,Equatorial Guinea<br>Active Cases 15<br>Total Deaths 0
+Equatorial Guinea,16,0.0,0.0,0.0,3.0,13,0.0,11.0,0.0,854.0,609.0,GNQ,Equatorial Guinea<br>Active Cases 13<br>Total Deaths 0
 Namibia,16,0.0,0.0,0.0,3.0,13,0.0,6.0,0.0,362.0,142.0,NAM,Namibia<br>Active Cases 13<br>Total Deaths 0
 Antigua and Barbuda,15,0.0,0.0,0.0,0.0,15,1.0,153.0,0.0,40.0,408.0,ATG,Antigua and Barbuda<br>Active Cases 15<br>Total Deaths 0
 Mongolia,15,1.0,0.0,0.0,2.0,13,0.0,5.0,0.0,0.0,0.0,MNG,Mongolia<br>Active Cases 13<br>Total Deaths 0
+Liberia,14,1.0,3.0,0.0,3.0,8,0.0,3.0,0.6,0.0,0.0,LBR,Liberia<br>Active Cases 8<br>Total Deaths 3
 Dominica,14,0.0,0.0,0.0,0.0,14,0.0,194.0,0.0,255.0,3542.0,DMA,Dominica<br>Active Cases 14<br>Total Deaths 0
 Fiji,14,2.0,0.0,0.0,0.0,14,0.0,16.0,0.0,0.0,0.0,FJI,Fiji<br>Active Cases 14<br>Total Deaths 0
 Saint Lucia,14,0.0,0.0,0.0,1.0,13,0.0,76.0,0.0,0.0,0.0,LCA,Saint Lucia<br>Active Cases 13<br>Total Deaths 0
-Liberia,13,0.0,3.0,0.0,3.0,7,0.0,3.0,0.6,0.0,0.0,LBR,Liberia<br>Active Cases 7<br>Total Deaths 3
 Curaçao,13,2.0,1.0,0.0,5.0,7,0.0,79.0,6.0,0.0,0.0,CUW,Curaçao<br>Active Cases 7<br>Total Deaths 1
 Sudan,12,0.0,2.0,0.0,2.0,8,0.0,0.3,0.05,0.0,0.0,SDN,Sudan<br>Active Cases 8<br>Total Deaths 2
 Grenada,12,0.0,0.0,0.0,0.0,12,2.0,107.0,0.0,45.0,400.0,GRD,Grenada<br>Active Cases 12<br>Total Deaths 0
@@ -213,4 +213,4 @@ Saint Pierre Miquelon,1,0.0,0.0,0.0,0.0,1,0.0,173.0,0.0,0.0,0.0,SPM,Saint Pierre
 South Sudan,1,0.0,0.0,0.0,0.0,1,0.0,0.09,0.0,0.0,0.0,SSD,South Sudan<br>Active Cases 1<br>Total Deaths 0
 Timor-Leste,1,0.0,0.0,0.0,0.0,1,0.0,0.8,0.0,0.0,0.0,TLS,Timor-Leste<br>Active Cases 1<br>Total Deaths 0
 China,81708,39.0,3331.0,2.0,77078.0,1299,265.0,57.0,2.0,0.0,0.0,CHN,China<br>Active Cases 1299<br>Total Deaths 3331
-Total:,1329305,56443.0,73831.0,4406.0,277327.0,978147,46538.0,170.5,9.5,0.0,0.0,Total:,Total:<br>Active Cases 978147<br>Total Deaths 73831
+Total:,1329306,56444.0,73831.0,4406.0,277329.0,978146,46538.0,170.5,9.5,0.0,0.0,Total:,Total:<br>Active Cases 978146<br>Total Deaths 73831
