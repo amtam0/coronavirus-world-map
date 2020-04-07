@@ -1,7 +1,7 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,TotalTests,"Tests/
 1M pop
 ",iso_alpha,text
-World,1362045,16041.0,76328.0,1674.0,293655.0,992062,47605.0,175.0,9.8,0.0,0.0,World,World<br>Active Cases 992062<br>Total Deaths 76328
+World,1362045,16041.0,76328.0,1674.0,293655.0,992062,47588.0,175.0,9.8,0.0,0.0,World,World<br>Active Cases 992062<br>Total Deaths 76328
 USA,367659,655.0,10943.0,72.0,19814.0,336902,8983.0,1111.0,33.0,1933423.0,5841.0,USA,USA<br>Active Cases 336902<br>Total Deaths 10943
 Spain,140510,3835.0,13798.0,457.0,43208.0,83504,7069.0,3005.0,295.0,355000.0,7593.0,ESP,Spain<br>Active Cases 83504<br>Total Deaths 13798
 Italy,132547,0.0,16523.0,0.0,22837.0,93187,3898.0,2192.0,273.0,721732.0,11937.0,ITA,Italy<br>Active Cases 93187<br>Total Deaths 16523
@@ -24,7 +24,7 @@ Russia,7497,1154.0,58.0,11.0,494.0,6945,8.0,51.0,0.4,795000.0,5448.0,RUS,Russia<
 Australia,5908,13.0,48.0,3.0,2547.0,3313,93.0,232.0,2.0,310700.0,12184.0,AUS,Australia<br>Active Cases 3313<br>Total Deaths 48
 Norway,5866,1.0,83.0,7.0,32.0,5751,83.0,1082.0,15.0,111299.0,20530.0,NOR,Norway<br>Active Cases 5751<br>Total Deaths 83
 Ireland,5364,0.0,174.0,0.0,25.0,5165,165.0,1086.0,35.0,30213.0,6119.0,IRL,Ireland<br>Active Cases 5165<br>Total Deaths 174
-Denmark,4978,297.0,203.0,16.0,1491.0,3284,144.0,859.0,35.0,52936.0,9139.0,DNK,Denmark<br>Active Cases 3284<br>Total Deaths 203
+Denmark,4978,297.0,203.0,16.0,1491.0,3284,127.0,859.0,35.0,52936.0,9139.0,DNK,Denmark<br>Active Cases 3284<br>Total Deaths 203
 India,4908,130.0,137.0,1.0,382.0,4389,0.0,4.0,0.1,140293.0,102.0,IND,India<br>Active Cases 4389<br>Total Deaths 137
 Czechia,4828,6.0,80.0,2.0,127.0,4621,86.0,451.0,7.0,91247.0,8521.0,CZE,Czechia<br>Active Cases 4621<br>Total Deaths 80
 Chile,4815,0.0,37.0,0.0,728.0,4050,327.0,252.0,2.0,54864.0,2870.0,CHL,Chile<br>Active Cases 4050<br>Total Deaths 37
@@ -213,4 +213,4 @@ Saint Pierre Miquelon,1,0.0,0.0,0.0,0.0,1,0.0,173.0,0.0,0.0,0.0,SPM,Saint Pierre
 South Sudan,1,0.0,0.0,0.0,0.0,1,0.0,0.09,0.0,0.0,0.0,SSD,South Sudan<br>Active Cases 1<br>Total Deaths 0
 Timor-Leste,1,0.0,0.0,0.0,0.0,1,0.0,0.8,0.0,0.0,0.0,TLS,Timor-Leste<br>Active Cases 1<br>Total Deaths 0
 China,81740,32.0,3331.0,0.0,77167.0,1242,211.0,57.0,2.0,0.0,0.0,CHN,China<br>Active Cases 1242<br>Total Deaths 3331
-Total:,1362045,16041.0,76328.0,1674.0,293655.0,992062,47605.0,174.7,9.8,0.0,0.0,Total:,Total:<br>Active Cases 992062<br>Total Deaths 76328
+Total:,1362045,16041.0,76328.0,1674.0,293655.0,992062,47588.0,174.7,9.8,0.0,0.0,Total:,Total:<br>Active Cases 992062<br>Total Deaths 76328
