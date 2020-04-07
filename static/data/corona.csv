@@ -1,8 +1,8 @@
 Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Critical,Tot Cases/1M pop,Deaths/1M pop,TotalTests,"Tests/
 1M pop
 ",iso_alpha,text
-World,1414127,68123.0,81217.0,6563.0,301166.0,1031744,47901.0,181.0,10.4,0.0,0.0,World,World<br>Active Cases 1031744<br>Total Deaths 81217
-USA,388336,21332.0,12393.0,1522.0,21316.0,354627,9150.0,1173.0,37.0,2011915.0,6078.0,USA,USA<br>Active Cases 354627<br>Total Deaths 12393
+World,1414165,68161.0,81217.0,6563.0,301177.0,1031771,47901.0,181.0,10.4,0.0,0.0,World,World<br>Active Cases 1031771<br>Total Deaths 81217
+USA,388358,21354.0,12393.0,1522.0,21321.0,354644,9150.0,1173.0,37.0,2011945.0,6078.0,USA,USA<br>Active Cases 354644<br>Total Deaths 12393
 Spain,140511,3836.0,13897.0,556.0,43208.0,83406,7069.0,3005.0,297.0,355000.0,7593.0,ESP,Spain<br>Active Cases 83406<br>Total Deaths 13897
 Italy,135586,3039.0,17127.0,604.0,24392.0,94067,3792.0,2243.0,283.0,755445.0,12495.0,ITA,Italy<br>Active Cases 94067<br>Total Deaths 17127
 France,109069,11059.0,10328.0,1417.0,19337.0,79404,7131.0,1671.0,158.0,224254.0,3436.0,FRA,France<br>Active Cases 79404<br>Total Deaths 10328
@@ -84,7 +84,7 @@ Latvia,548,6.0,2.0,1.0,16.0,530,5.0,291.0,1.0,22575.0,11969.0,LVA,Latvia<br>Acti
 Andorra,525,0.0,21.0,0.0,31.0,473,12.0,6795.0,272.0,0.0,0.0,AND,Andorra<br>Active Cases 473<br>Total Deaths 21
 Uzbekistan,504,47.0,2.0,0.0,30.0,472,8.0,15.0,0.06,0.0,0.0,UZB,Uzbekistan<br>Active Cases 472<br>Total Deaths 2
 Cyprus,494,29.0,9.0,0.0,47.0,438,13.0,409.0,7.0,13017.0,10781.0,CYP,Cyprus<br>Active Cases 438<br>Total Deaths 9
-Costa Rica,467,0.0,2.0,0.0,18.0,447,14.0,92.0,0.4,5363.0,1053.0,CRI,Costa Rica<br>Active Cases 447<br>Total Deaths 2
+Costa Rica,483,16.0,2.0,0.0,24.0,457,14.0,95.0,0.4,5525.0,1085.0,CRI,Costa Rica<br>Active Cases 457<br>Total Deaths 2
 Afghanistan,423,56.0,14.0,3.0,18.0,391,0.0,11.0,0.4,0.0,0.0,AFG,Afghanistan<br>Active Cases 391<br>Total Deaths 14
 Uruguay,415,0.0,6.0,0.0,123.0,286,14.0,119.0,2.0,5385.0,1550.0,URY,Uruguay<br>Active Cases 286<br>Total Deaths 6
 Cuba,396,46.0,11.0,2.0,27.0,358,15.0,35.0,1.0,7054.0,623.0,CUB,Cuba<br>Active Cases 358<br>Total Deaths 11
@@ -213,4 +213,4 @@ Saint Pierre Miquelon,1,0.0,0.0,0.0,0.0,1,0.0,173.0,0.0,0.0,0.0,SPM,Saint Pierre
 South Sudan,1,0.0,0.0,0.0,0.0,1,0.0,0.09,0.0,0.0,0.0,SSD,South Sudan<br>Active Cases 1<br>Total Deaths 0
 Timor-Leste,1,0.0,0.0,0.0,0.0,1,0.0,0.8,0.0,0.0,0.0,TLS,Timor-Leste<br>Active Cases 1<br>Total Deaths 0
 China,81740,32.0,3331.0,0.0,77167.0,1242,211.0,57.0,2.0,0.0,0.0,CHN,China<br>Active Cases 1242<br>Total Deaths 3331
-Total:,1414127,68123.0,81217.0,6563.0,301166.0,1031744,47901.0,181.4,10.4,0.0,0.0,Total:,Total:<br>Active Cases 1031744<br>Total Deaths 81217
+Total:,1414165,68161.0,81217.0,6563.0,301177.0,1031771,47901.0,181.4,10.4,0.0,0.0,Total:,Total:<br>Active Cases 1031771<br>Total Deaths 81217
