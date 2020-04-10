@@ -2,7 +2,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
 1M pop
 ",Continent,iso_alpha,text
 "
-North America
+ North America
 ",500901,681.0,17694.0,28.0,32299.0,450908,10968.0,0.0,0.0,0.0,0.0,0.0,North America,North America<br>Active Cases 450908<br>Total Deaths 17694
 "
 Europe
@@ -112,7 +112,7 @@ Oman,484,27.0,3.0,0.0,109.0,372,3.0,95.0,0.6,0.0,0.0,0.0,OMN,Oman<br>Active Case
 Uruguay,473,17.0,7.0,0.0,206.0,260,13.0,136.0,2.0,6856.0,1974.0,0.0,URY,Uruguay<br>Active Cases 260<br>Total Deaths 7
 Ivory Coast,444,0.0,3.0,0.0,52.0,389,0.0,17.0,0.1,0.0,0.0,0.0,CIV,Ivory Coast<br>Active Cases 389<br>Total Deaths 3
 Burkina Faso,443,0.0,24.0,0.0,146.0,273,0.0,21.0,1.0,0.0,0.0,0.0,BFA,Burkina Faso<br>Active Cases 273<br>Total Deaths 24
-Bangladesh,424,94.0,27.0,6.0,33.0,364,1.0,3.0,0.2,6175.0,37.0,0.0,BGD,Bangladesh<br>Active Cases 364<br>Total Deaths 27
+Bangladesh,424,94.0,27.0,6.0,33.0,364,1.0,3.0,0.2,7167.0,44.0,0.0,BGD,Bangladesh<br>Active Cases 364<br>Total Deaths 27
 Albania,416,7.0,23.0,0.0,182.0,211,6.0,145.0,8.0,3385.0,1176.0,0.0,ALB,Albania<br>Active Cases 211<br>Total Deaths 23
 Niger,410,0.0,11.0,0.0,40.0,359,0.0,17.0,0.5,4251.0,176.0,0.0,NER,Niger<br>Active Cases 359<br>Total Deaths 11
 Honduras,382,39.0,23.0,0.0,7.0,352,10.0,39.0,2.0,1600.0,162.0,0.0,HND,Honduras<br>Active Cases 352<br>Total Deaths 23
@@ -236,3 +236,6 @@ Saint Pierre Miquelon,1,0.0,0.0,0.0,0.0,1,0.0,173.0,0.0,0.0,0.0,0.0,SPM,Saint Pi
 Yemen,1,1.0,0.0,0.0,0.0,1,0.0,0.03,0.0,0.0,0.0,0.0,YEM,Yemen<br>Active Cases 1<br>Total Deaths 0
 China,81907,42.0,3336.0,1.0,77455.0,1116,144.0,57.0,2.0,0.0,0.0,0.0,CHN,China<br>Active Cases 1116<br>Total Deaths 3336
 Total:,500901,681.0,17694.0,28.0,32299.0,450908,10968.0,0.0,0.0,0.0,0.0,0.0,Total:,Total:<br>Active Cases 450908<br>Total Deaths 17694
+"
+North America
+",500220,35899.0,17666.0,2036.0,32290.0,450264,10966.0,0.0,0.0,0.0,0.0,0.0,0,North America<br>Active Cases 450264<br>Total Deaths 17666
