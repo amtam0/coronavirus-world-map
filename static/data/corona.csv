@@ -9,7 +9,7 @@ Europe
 ",831541,11432.0,70949.0,886.0,201934.0,558658,30266.0,0.0,0.0,0.0,0.0,0.0,Europe,Europe<br>Active Cases 558658<br>Total Deaths 70949
 "
 Asia
-",279219,4178.0,10426.0,202.0,141274.0,127519,6653.0,0.0,0.0,0.0,0.0,0.0,Asia,Asia<br>Active Cases 127519<br>Total Deaths 10426
+",279601,4560.0,10431.0,207.0,141309.0,127861,6653.0,0.0,0.0,0.0,0.0,0.0,Asia,Asia<br>Active Cases 127861<br>Total Deaths 10431
 "
 South America
 ",45165,189.0,1816.0,7.0,4627.0,38722,877.0,0.0,0.0,0.0,0.0,0.0,South America,South America<br>Active Cases 38722<br>Total Deaths 1816
@@ -18,11 +18,11 @@ Oceania
 ",7691,83.0,60.0,4.0,3688.0,3943,85.0,0.0,0.0,0.0,0.0,0.0,Oceania,Oceania<br>Active Cases 3943<br>Total Deaths 60
 "
 Africa
-",13674,135.0,701.0,4.0,2295.0,10678,159.0,0.0,0.0,0.0,0.0,0.0,Africa,Africa<br>Active Cases 10678<br>Total Deaths 701
+",13683,144.0,701.0,4.0,2295.0,10687,159.0,0.0,0.0,0.0,0.0,0.0,Africa,Africa<br>Active Cases 10687<br>Total Deaths 701
 "
 
 ",721,0.0,13.0,0.0,619.0,89,10.0,0.0,0.0,0.0,0.0,0.0,,<br>Active Cases 89<br>Total Deaths 13
-World,1715580,16745.0,103841.0,1157.0,388899.0,1222840,49956.0,220.0,13.3,0.0,0.0,0.0,World,World<br>Active Cases 1222840<br>Total Deaths 103841
+World,1715971,17136.0,103846.0,1162.0,388934.0,1223191,49956.0,220.0,13.3,0.0,0.0,0.0,World,World<br>Active Cases 1223191<br>Total Deaths 103846
 USA,503177,301.0,18761.0,14.0,27314.0,457102,10917.0,1520.0,57.0,2538888.0,7670.0,0.0,USA,USA<br>Active Cases 457102<br>Total Deaths 18761
 Spain,161852,3579.0,16353.0,272.0,59109.0,86390,7371.0,3462.0,350.0,355000.0,7593.0,0.0,ESP,Spain<br>Active Cases 86390<br>Total Deaths 16353
 Italy,147577,0.0,18849.0,0.0,30455.0,98273,3497.0,2441.0,312.0,906864.0,14999.0,0.0,ITA,Italy<br>Active Cases 98273<br>Total Deaths 18849
@@ -57,9 +57,9 @@ Czechia,5735,3.0,123.0,4.0,370.0,5242,92.0,536.0,11.0,120285.0,11232.0,0.0,CZE,C
 Pakistan,4892,197.0,77.0,11.0,762.0,4053,50.0,22.0,0.3,57836.0,262.0,0.0,PAK,Pakistan<br>Active Cases 4053<br>Total Deaths 77
 Malaysia,4530,184.0,73.0,3.0,1995.0,2462,72.0,140.0,2.0,71897.0,2221.0,0.0,MYS,Malaysia<br>Active Cases 2462<br>Total Deaths 73
 Philippines,4428,233.0,247.0,26.0,157.0,4024,1.0,40.0,2.0,24500.0,224.0,0.0,PHL,Philippines<br>Active Cases 4024<br>Total Deaths 247
+Saudi Arabia,4033,382.0,52.0,5.0,720.0,3261,57.0,116.0,1.0,115585.0,3320.0,0.0,SAU,Saudi Arabia<br>Active Cases 3261<br>Total Deaths 52
 Mexico,3844,403.0,233.0,39.0,633.0,2978,89.0,30.0,2.0,31492.0,244.0,0.0,MEX,Mexico<br>Active Cases 2978<br>Total Deaths 233
 Indonesia,3842,330.0,327.0,21.0,286.0,3229,0.0,14.0,1.0,19452.0,71.0,0.0,IDN,Indonesia<br>Active Cases 3229<br>Total Deaths 327
-Saudi Arabia,3651,0.0,47.0,0.0,685.0,2919,57.0,105.0,1.0,115585.0,3320.0,0.0,SAU,Saudi Arabia<br>Active Cases 2919<br>Total Deaths 47
 UAE,3360,0.0,16.0,0.0,418.0,2926,1.0,340.0,2.0,593095.0,59967.0,0.0,ARE,UAE<br>Active Cases 2926<br>Total Deaths 16
 Luxembourg,3223,0.0,54.0,0.0,500.0,2669,30.0,5149.0,86.0,28273.0,45166.0,0.0,LUX,Luxembourg<br>Active Cases 2669<br>Total Deaths 54
 Serbia,3105,0.0,71.0,0.0,118.0,2916,136.0,355.0,8.0,14240.0,1630.0,0.0,SRB,Serbia<br>Active Cases 2916<br>Total Deaths 71
@@ -151,7 +151,7 @@ Cambodia,120,1.0,0.0,0.0,75.0,45,1.0,7.0,0.0,5768.0,345.0,0.0,KHM,Cambodia<br>Ac
 El Salvador,118,1.0,6.0,0.0,19.0,93,4.0,18.0,0.9,0.0,0.0,0.0,SLV,El Salvador<br>Active Cases 93<br>Total Deaths 6
 Rwanda,118,0.0,0.0,0.0,7.0,111,0.0,9.0,0.0,806.0,62.0,0.0,RWA,Rwanda<br>Active Cases 111<br>Total Deaths 0
 Trinidad and Tobago,109,0.0,8.0,0.0,3.0,98,0.0,78.0,6.0,1090.0,779.0,0.0,TTO,Trinidad and Tobago<br>Active Cases 98<br>Total Deaths 8
-Madagascar,93,0.0,0.0,0.0,11.0,82,1.0,3.0,0.0,0.0,0.0,0.0,MDG,Madagascar<br>Active Cases 82<br>Total Deaths 0
+Madagascar,102,9.0,0.0,0.0,11.0,91,1.0,4.0,0.0,0.0,0.0,0.0,MDG,Madagascar<br>Active Cases 91<br>Total Deaths 0
 Monaco,90,0.0,1.0,0.0,5.0,84,4.0,2293.0,25.0,0.0,0.0,0.0,MCO,Monaco<br>Active Cases 84<br>Total Deaths 1
 Mali,87,0.0,7.0,0.0,22.0,58,0.0,4.0,0.3,0.0,0.0,0.0,MLI,Mali<br>Active Cases 58<br>Total Deaths 7
 Aruba,86,0.0,0.0,0.0,27.0,59,0.0,805.0,0.0,1058.0,9910.0,0.0,ABW,Aruba<br>Active Cases 59<br>Total Deaths 0
