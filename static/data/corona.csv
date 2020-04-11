@@ -3,10 +3,10 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
 ",Continent,iso_alpha,text
 "
 North America
-",540198,3357.0,19985.0,163.0,35348.0,484865,11936.0,0.0,0.0,0.0,0.0,0.0,North America,North America<br>Active Cases 484865<br>Total Deaths 19985
+",540782,3941.0,19996.0,174.0,35348.0,485438,11936.0,0.0,0.0,0.0,0.0,0.0,North America,North America<br>Active Cases 485438<br>Total Deaths 19996
 "
 Europe
-",837937,17828.0,71885.0,1822.0,202038.0,564014,30260.0,0.0,0.0,0.0,0.0,0.0,Europe,Europe<br>Active Cases 564014<br>Total Deaths 71885
+",838007,17898.0,71886.0,1823.0,202038.0,564083,30260.0,0.0,0.0,0.0,0.0,0.0,Europe,Europe<br>Active Cases 564083<br>Total Deaths 71886
 "
 Asia
 ",280377,5336.0,10436.0,212.0,141515.0,128426,6655.0,0.0,0.0,0.0,0.0,0.0,Asia,Asia<br>Active Cases 128426<br>Total Deaths 10436
@@ -22,8 +22,8 @@ Africa
 "
 
 ",721,0.0,13.0,0.0,619.0,89,10.0,0.0,0.0,0.0,0.0,0.0,,<br>Active Cases 89<br>Total Deaths 13
-World,1725846,27011.0,104901.0,2217.0,390219.0,1230726,50001.0,221.0,13.5,0.0,0.0,0.0,World,World<br>Active Cases 1230726<br>Total Deaths 104901
-USA,505805,2929.0,18870.0,123.0,28200.0,458735,10947.0,1528.0,57.0,2558253.0,7729.0,0.0,USA,USA<br>Active Cases 458735<br>Total Deaths 18870
+World,1726500,27665.0,104913.0,2229.0,390219.0,1231368,50001.0,221.0,13.5,0.0,0.0,0.0,World,World<br>Active Cases 1231368<br>Total Deaths 104913
+USA,505978,3102.0,18881.0,134.0,28200.0,458897,10947.0,1529.0,57.0,2558253.0,7729.0,0.0,USA,USA<br>Active Cases 458897<br>Total Deaths 18881
 Spain,161852,3579.0,16353.0,272.0,59109.0,86390,7371.0,3462.0,350.0,355000.0,7593.0,0.0,ESP,Spain<br>Active Cases 86390<br>Total Deaths 16353
 Italy,147577,0.0,18849.0,0.0,30455.0,98273,3497.0,2441.0,312.0,906864.0,14999.0,0.0,ITA,Italy<br>Active Cases 98273<br>Total Deaths 18849
 France,124869,0.0,13197.0,0.0,24932.0,86740,7004.0,1913.0,202.0,333807.0,5114.0,0.0,FRA,France<br>Active Cases 86740<br>Total Deaths 13197
@@ -34,7 +34,7 @@ Turkey,47029,0.0,1006.0,0.0,2423.0,43600,1667.0,558.0,12.0,307210.0,3643.0,0.0,T
 Belgium,28018,1351.0,3346.0,327.0,5986.0,18686,1262.0,2418.0,289.0,102151.0,8814.0,0.0,BEL,Belgium<br>Active Cases 18686<br>Total Deaths 3346
 Switzerland,24900,349.0,1015.0,13.0,11100.0,12785,386.0,2877.0,117.0,190000.0,21954.0,0.0,CHE,Switzerland<br>Active Cases 12785<br>Total Deaths 1015
 Netherlands,24413,1316.0,2643.0,132.0,250.0,21520,1424.0,1425.0,154.0,101534.0,5926.0,0.0,NLD,Netherlands<br>Active Cases 21520<br>Total Deaths 2643
-Canada,22148,0.0,569.0,0.0,6013.0,15566,557.0,587.0,15.0,383322.0,10156.0,0.0,CAN,Canada<br>Active Cases 15566<br>Total Deaths 569
+Canada,22559,411.0,569.0,0.0,6013.0,15977,557.0,598.0,15.0,383322.0,10156.0,0.0,CAN,Canada<br>Active Cases 15977<br>Total Deaths 569
 Brazil,19967,178.0,1075.0,7.0,173.0,18719,296.0,94.0,5.0,62985.0,296.0,0.0,BRA,Brazil<br>Active Cases 18719<br>Total Deaths 1075
 Portugal,15987,515.0,470.0,35.0,266.0,15251,233.0,1568.0,46.0,140863.0,13815.0,0.0,PRT,Portugal<br>Active Cases 15251<br>Total Deaths 470
 Austria,13789,229.0,337.0,18.0,6604.0,6848,246.0,1531.0,37.0,140975.0,15653.0,0.0,AUT,Austria<br>Active Cases 6848<br>Total Deaths 337
@@ -61,7 +61,7 @@ Saudi Arabia,4033,382.0,52.0,5.0,720.0,3261,57.0,116.0,1.0,115585.0,3320.0,0.0,S
 Mexico,3844,403.0,233.0,39.0,633.0,2978,89.0,30.0,2.0,31492.0,244.0,0.0,MEX,Mexico<br>Active Cases 2978<br>Total Deaths 233
 Indonesia,3842,330.0,327.0,21.0,286.0,3229,0.0,14.0,1.0,19452.0,71.0,0.0,IDN,Indonesia<br>Active Cases 3229<br>Total Deaths 327
 UAE,3736,376.0,20.0,4.0,588.0,3128,1.0,378.0,2.0,593095.0,59967.0,0.0,ARE,UAE<br>Active Cases 3128<br>Total Deaths 20
-Serbia,3380,275.0,74.0,3.0,118.0,3188,145.0,387.0,8.0,16339.0,1870.0,0.0,SRB,Serbia<br>Active Cases 3188<br>Total Deaths 74
+Serbia,3380,275.0,74.0,3.0,118.0,3188,145.0,387.0,8.0,16399.0,1877.0,0.0,SRB,Serbia<br>Active Cases 3188<br>Total Deaths 74
 Luxembourg,3223,0.0,54.0,0.0,500.0,2669,30.0,5149.0,86.0,28273.0,45166.0,0.0,LUX,Luxembourg<br>Active Cases 2669<br>Total Deaths 54
 Panama,2974,0.0,74.0,0.0,17.0,2883,104.0,689.0,17.0,11776.0,2729.0,0.0,PAN,Panama<br>Active Cases 2883<br>Total Deaths 74
 Finland,2905,136.0,49.0,1.0,300.0,2556,80.0,524.0,9.0,44354.0,8005.0,0.0,FIN,Finland<br>Active Cases 2556<br>Total Deaths 49
@@ -72,7 +72,7 @@ Ukraine,2511,308.0,73.0,4.0,79.0,2359,45.0,57.0,2.0,26577.0,608.0,0.0,UKR,Ukrain
 Colombia,2473,0.0,80.0,0.0,197.0,2196,85.0,49.0,2.0,37593.0,739.0,0.0,COL,Colombia<br>Active Cases 2196<br>Total Deaths 80
 Singapore,2299,191.0,8.0,1.0,528.0,1763,31.0,393.0,1.0,72680.0,12423.0,0.0,SGP,Singapore<br>Active Cases 1763<br>Total Deaths 8
 Belarus,2226,245.0,23.0,4.0,172.0,2031,72.0,236.0,2.0,53000.0,5609.0,0.0,BLR,Belarus<br>Active Cases 2031<br>Total Deaths 23
-Greece,2011,0.0,92.0,0.0,269.0,1650,77.0,193.0,9.0,35532.0,3409.0,0.0,GRC,Greece<br>Active Cases 1650<br>Total Deaths 92
+Greece,2081,70.0,93.0,1.0,269.0,1719,77.0,200.0,9.0,35532.0,3409.0,0.0,GRC,Greece<br>Active Cases 1719<br>Total Deaths 93
 South Africa,2003,0.0,24.0,0.0,410.0,1569,7.0,34.0,0.4,73028.0,1231.0,0.0,ZAF,South Africa<br>Active Cases 1569<br>Total Deaths 24
 Argentina,1975,0.0,83.0,1.0,440.0,1452,115.0,44.0,2.0,16379.0,362.0,0.0,ARG,Argentina<br>Active Cases 1452<br>Total Deaths 83
 Egypt,1794,0.0,135.0,0.0,384.0,1275,0.0,18.0,1.0,25000.0,244.0,0.0,EGY,Egypt<br>Active Cases 1275<br>Total Deaths 135
@@ -235,4 +235,4 @@ Timor-Leste,2,0.0,0.0,0.0,1.0,1,0.0,2.0,0.0,0.0,0.0,0.0,TLS,Timor-Leste<br>Activ
 Saint Pierre Miquelon,1,0.0,0.0,0.0,0.0,1,0.0,173.0,0.0,0.0,0.0,0.0,SPM,Saint Pierre Miquelon<br>Active Cases 1<br>Total Deaths 0
 Yemen,1,0.0,0.0,0.0,0.0,1,0.0,0.03,0.0,0.0,0.0,0.0,YEM,Yemen<br>Active Cases 1<br>Total Deaths 0
 China,81953,46.0,3339.0,3.0,77525.0,1089,141.0,57.0,2.0,0.0,0.0,0.0,CHN,China<br>Active Cases 1089<br>Total Deaths 3339
-Total:,540198,3357.0,19985.0,163.0,35348.0,484865,11936.0,0.0,0.0,0.0,0.0,0.0,Total:,Total:<br>Active Cases 484865<br>Total Deaths 19985
+Total:,540782,3941.0,19996.0,174.0,35348.0,485438,11936.0,0.0,0.0,0.0,0.0,0.0,Total:,Total:<br>Active Cases 485438<br>Total Deaths 19996
