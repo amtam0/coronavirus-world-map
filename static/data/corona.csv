@@ -3,7 +3,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
 ",Continent,iso_alpha,text
 "
 North America
-",686007,29925.0,30279.0,2592.0,60484.0,595244,14595.0,0.0,0.0,0.0,0.0,0.0,North America,North America<br>Active Cases 595244<br>Total Deaths 30279
+",686011,29929.0,30279.0,2592.0,60484.0,595248,14595.0,0.0,0.0,0.0,0.0,0.0,North America,North America<br>Active Cases 595248<br>Total Deaths 30279
 "
 Europe
 ",967565,30277.0,88215.0,4497.0,257966.0,621384,28603.0,0.0,0.0,0.0,0.0,0.0,Europe,Europe<br>Active Cases 621384<br>Total Deaths 88215
@@ -22,7 +22,7 @@ Africa
 "
 
 ",721,0.0,14.0,0.0,639.0,68,7.0,0.0,0.0,0.0,0.0,0.0,,<br>Active Cases 68<br>Total Deaths 14
-World,2075528,77622.0,134286.0,7685.0,509577.0,1431665,51145.0,266.0,17.2,0.0,0.0,0.0,World,World<br>Active Cases 1431665<br>Total Deaths 134286
+World,2075532,77626.0,134286.0,7685.0,509577.0,1431669,51145.0,266.0,17.2,0.0,0.0,0.0,World,World<br>Active Cases 1431669<br>Total Deaths 134286
 USA,641813,27927.0,28443.0,2396.0,48513.0,564857,13487.0,1939.0,86.0,3258415.0,9844.0,0.0,USA,USA<br>Active Cases 564857<br>Total Deaths 28443
 Spain,177644,3584.0,18708.0,453.0,70853.0,88083,7371.0,3799.0,400.0,650755.0,13918.0,0.0,ESP,Spain<br>Active Cases 88083<br>Total Deaths 18708
 Italy,165155,2667.0,21645.0,578.0,38092.0,105418,3079.0,2732.0,358.0,1117404.0,18481.0,0.0,ITA,Italy<br>Active Cases 105418<br>Total Deaths 21645
@@ -174,8 +174,8 @@ French Polynesia,55,0.0,0.0,0.0,0.0,55,1.0,196.0,0.0,920.0,3275.0,0.0,PYF,French
 Uganda,55,0.0,0.0,0.0,12.0,43,0.0,1.0,0.0,7693.0,168.0,0.0,UGA,Uganda<br>Active Cases 43<br>Total Deaths 0
 Cayman Islands,54,0.0,1.0,0.0,6.0,47,3.0,822.0,15.0,580.0,8825.0,0.0,CYM,Cayman Islands<br>Active Cases 47<br>Total Deaths 1
 Sint Maarten,53,1.0,9.0,0.0,5.0,39,2.0,1236.0,210.0,157.0,3662.0,0.0,SXM,Sint Maarten<br>Active Cases 39<br>Total Deaths 9
+Bahamas,53,4.0,8.0,0.0,6.0,39,1.0,135.0,20.0,0.0,0.0,0.0,BHS,Bahamas<br>Active Cases 39<br>Total Deaths 8
 Equatorial Guinea,51,10.0,0.0,0.0,4.0,47,0.0,36.0,0.0,854.0,609.0,0.0,GNQ,Equatorial Guinea<br>Active Cases 47<br>Total Deaths 0
-Bahamas,49,0.0,8.0,0.0,6.0,35,1.0,125.0,20.0,0.0,0.0,0.0,BHS,Bahamas<br>Active Cases 35<br>Total Deaths 8
 Zambia,48,3.0,2.0,0.0,30.0,16,1.0,3.0,0.1,1696.0,92.0,0.0,ZMB,Zambia<br>Active Cases 16<br>Total Deaths 2
 Libya,48,13.0,1.0,0.0,9.0,38,0.0,7.0,0.1,585.0,85.0,0.0,LBY,Libya<br>Active Cases 38<br>Total Deaths 1
 Macao,45,0.0,0.0,0.0,15.0,30,1.0,69.0,0.0,0.0,0.0,0.0,MAC,Macao<br>Active Cases 30<br>Total Deaths 0
@@ -235,4 +235,4 @@ Papua New Guinea,2,0.0,0.0,0.0,0.0,2,0.0,0.2,0.0,72.0,8.0,0.0,PNG,Papua New Guin
 Saint Pierre Miquelon,1,0.0,0.0,0.0,0.0,1,0.0,173.0,0.0,0.0,0.0,0.0,SPM,Saint Pierre Miquelon<br>Active Cases 1<br>Total Deaths 0
 Yemen,1,0.0,0.0,0.0,0.0,1,0.0,0.03,0.0,0.0,0.0,0.0,YEM,Yemen<br>Active Cases 1<br>Total Deaths 0
 China,82295,0.0,3342.0,0.0,77816.0,1137,113.0,57.0,2.0,0.0,0.0,0.0,CHN,China<br>Active Cases 1137<br>Total Deaths 3342
-Total:,686007,29925.0,30279.0,2592.0,60484.0,595244,14595.0,0.0,0.0,0.0,0.0,0.0,Total:,Total:<br>Active Cases 595244<br>Total Deaths 30279
+Total:,686011,29929.0,30279.0,2592.0,60484.0,595248,14595.0,0.0,0.0,0.0,0.0,0.0,Total:,Total:<br>Active Cases 595248<br>Total Deaths 30279
