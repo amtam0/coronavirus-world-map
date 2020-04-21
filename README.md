@@ -17,11 +17,11 @@ To test locally :
 open the link displayed
 
 ## to automate with Cron (crontab -e in root)
-
-Ex. to update dataset evry 2 minutes :
-
+`sudo nano /etc/crontab`
+add script. Ex. to update dataset evry 2 minutes :
 `*/2 * * * * cd /path/to/coronavirus-world-map/; bash script.sh`
 
+For this you need to save Your Github credentials in your machine
 ## References
 
 [Data sources] : https://www.worldometers.info/coronavirus/
