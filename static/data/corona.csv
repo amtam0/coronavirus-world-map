@@ -5,7 +5,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
 North America
 ",1368881,21679.0,81721.0,2275.0,255273.0,1031887,17034.0,0.0,0.0,0.0,0.0,0.0,North America,North America<br>Active Cases 1031887<br>Total Deaths 81721
 "
-Europe
+ Europe
 ",1524843,30870.0,146631.0,2529.0,594060.0,784152,15843.0,0.0,0.0,0.0,0.0,0.0,Europe,Europe<br>Active Cases 784152<br>Total Deaths 146631
 "
 Asia
@@ -173,7 +173,7 @@ French Guiana,138,5.0,1.0,0.0,111.0,26,2.0,462.0,3.0,0.0,0.0,0.0,GUF,French Guia
 Togo,128,0.0,9.0,0.0,77.0,42,0.0,15.0,1.0,8835.0,1067.0,0.0,TGO,Togo<br>Active Cases 42<br>Total Deaths 9
 Eswatini,123,4.0,2.0,1.0,12.0,109,0.0,106.0,2.0,714.0,615.0,0.0,SWZ,Eswatini<br>Active Cases 109<br>Total Deaths 2
 Cambodia,122,0.0,0.0,0.0,120.0,2,1.0,7.0,0.0,12611.0,754.0,0.0,KHM,Cambodia<br>Active Cases 2<br>Total Deaths 0
-Trinidad and Tobago,116,0.0,8.0,0.0,103.0,5,0.0,83.0,6.0,2114.0,1511.0,0.0,TTO,Trinidad and Tobago<br>Active Cases 5<br>Total Deaths 8
+Trinidad and Tobago,116,0.0,8.0,0.0,103.0,5,0.0,83.0,6.0,2121.0,1516.0,0.0,TTO,Trinidad and Tobago<br>Active Cases 5<br>Total Deaths 8
 Bermuda,115,0.0,7.0,0.0,54.0,54,4.0,1847.0,112.0,3374.0,54176.0,0.0,BMU,Bermuda<br>Active Cases 54<br>Total Deaths 7
 Haiti,101,0.0,12.0,0.0,10.0,79,0.0,9.0,1.0,1037.0,91.0,0.0,HTI,Haiti<br>Active Cases 79<br>Total Deaths 12
 Aruba,101,0.0,2.0,0.0,89.0,10,4.0,946.0,19.0,1798.0,16841.0,0.0,ABW,Aruba<br>Active Cases 10<br>Total Deaths 2
@@ -238,3 +238,9 @@ Anguilla,3,0.0,0.0,0.0,3.0,0,0.0,200.0,0.0,0.0,0.0,0.0,AIA,Anguilla<br>Active Ca
 Saint Pierre Miquelon,1,0.0,0.0,0.0,0.0,1,0.0,173.0,0.0,0.0,0.0,0.0,SPM,Saint Pierre Miquelon<br>Active Cases 1<br>Total Deaths 0
 China,82883,2.0,4633.0,0.0,77911.0,339,26.0,58.0,3.0,0.0,0.0,0.0,CHN,China<br>Active Cases 339<br>Total Deaths 4633
 Total:,1368881,21679.0,81721.0,2275.0,255273.0,1031887,17034.0,0.0,0.0,0.0,0.0,0.0,Total:,Total:<br>Active Cases 1031887<br>Total Deaths 81721
+"
+Europe
+",1493973,24062.0,144102.0,1960.0,568522.0,781349,16507.0,0.0,0.0,0.0,0.0,0.0,0,Europe<br>Active Cases 781349<br>Total Deaths 144102
+"
+Africa
+ ",50166,2091.0,1917.0,69.0,16977.0,31272,128.0,0.0,0.0,0.0,0.0,0.0,0,Africa<br>Active Cases 31272<br>Total Deaths 1917
