@@ -3,9 +3,9 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
 ",Continent,iso_alpha,text
 "
 North America
-",1407876,31975.0,84927.0,2500.0,268369.0,1054580,18166.0,0.0,0.0,0.0,0.0,0.0,North America,North America<br>Active Cases 1054580<br>Total Deaths 84927
+",1407916,32015.0,84927.0,2500.0,268369.0,1054620,18166.0,0.0,0.0,0.0,0.0,0.0,North America,North America<br>Active Cases 1054620<br>Total Deaths 84927
 "
-Europe
+ Europe
 ",1553699,28795.0,148461.0,1830.0,611529.0,793709,15404.0,0.0,0.0,0.0,0.0,0.0,Europe,Europe<br>Active Cases 793709<br>Total Deaths 148461
 "
 South America
@@ -22,8 +22,8 @@ Oceania
 "
 
 ",721,0.0,15.0,0.0,645.0,61,4.0,0.0,0.0,0.0,0.0,0.0,,<br>Active Cases 61<br>Total Deaths 15
-World,3911392,94010.0,270338.0,5501.0,1339625.0,2301429,48958.0,502.0,34.7,0.0,0.0,0.0,World,World<br>Active Cases 2301429<br>Total Deaths 270338
-USA,1291182,28090.0,76894.0,2095.0,215901.0,998387,16995.0,3901.0,232.0,8477527.0,25612.0,0.0,USA,USA<br>Active Cases 998387<br>Total Deaths 76894
+World,3911432,94050.0,270338.0,5501.0,1339625.0,2301469,48958.0,502.0,34.7,0.0,0.0,0.0,World,World<br>Active Cases 2301469<br>Total Deaths 270338
+USA,1291222,28130.0,76894.0,2095.0,215901.0,998427,16995.0,3901.0,232.0,8477527.0,25612.0,0.0,USA,USA<br>Active Cases 998427<br>Total Deaths 76894
 Spain,256855,3173.0,26070.0,213.0,163919.0,66866,2075.0,5494.0,558.0,1932455.0,41332.0,0.0,ESP,Spain<br>Active Cases 66866<br>Total Deaths 26070
 Italy,215858,1401.0,29958.0,274.0,96276.0,89624,1311.0,3570.0,495.0,2381288.0,39385.0,0.0,ITA,Italy<br>Active Cases 89624<br>Total Deaths 29958
 UK,206715,5614.0,30615.0,539.0,0.0,175756,1559.0,3045.0,451.0,1534533.0,22605.0,0.0,GBR,UK<br>Active Cases 175756<br>Total Deaths 30615
@@ -237,4 +237,7 @@ Western Sahara,6,0.0,0.0,0.0,5.0,1,0.0,10.0,0.0,0.0,0.0,0.0,ESH,Western Sahara<b
 Anguilla,3,0.0,0.0,0.0,3.0,0,0.0,200.0,0.0,0.0,0.0,0.0,AIA,Anguilla<br>Active Cases 0<br>Total Deaths 0
 Saint Pierre Miquelon,1,0.0,0.0,0.0,0.0,1,0.0,173.0,0.0,0.0,0.0,0.0,SPM,Saint Pierre Miquelon<br>Active Cases 1<br>Total Deaths 0
 China,82885,2.0,4633.0,0.0,77957.0,295,23.0,58.0,3.0,0.0,0.0,0.0,CHN,China<br>Active Cases 295<br>Total Deaths 4633
-Total:,1407876,31975.0,84927.0,2500.0,268369.0,1054580,18166.0,0.0,0.0,0.0,0.0,0.0,Total:,Total:<br>Active Cases 1054580<br>Total Deaths 84927
+Total:,1407916,32015.0,84927.0,2500.0,268369.0,1054620,18166.0,0.0,0.0,0.0,0.0,0.0,Total:,Total:<br>Active Cases 1054620<br>Total Deaths 84927
+"
+Europe
+",1524904,30931.0,146631.0,2529.0,594063.0,784210,15843.0,0.0,0.0,0.0,0.0,0.0,0,Europe<br>Active Cases 784210<br>Total Deaths 146631
