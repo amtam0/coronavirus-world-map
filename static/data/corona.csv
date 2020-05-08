@@ -12,7 +12,7 @@ South America
 ",268613,1021.0,13671.0,88.0,93948.0,160994,9991.0,0.0,0.0,0.0,0.0,0.0,South America,South America<br>Active Cases 160994<br>Total Deaths 13671
 "
 Asia
-",626040,7536.0,21332.0,127.0,342144.0,262564,5169.0,0.0,0.0,0.0,0.0,0.0,Asia,Asia<br>Active Cases 262564<br>Total Deaths 21332
+",626126,7622.0,21332.0,127.0,342144.0,262650,5169.0,0.0,0.0,0.0,0.0,0.0,Asia,Asia<br>Active Cases 262650<br>Total Deaths 21332
 "
 Africa
 ",55662,342.0,2086.0,3.0,19301.0,34275,176.0,0.0,0.0,0.0,0.0,0.0,Africa,Africa<br>Active Cases 34275<br>Total Deaths 2086
@@ -22,7 +22,7 @@ Oceania
 "
 
 ",721,0.0,15.0,0.0,645.0,61,4.0,0.0,0.0,0.0,0.0,0.0,,<br>Active Cases 61<br>Total Deaths 15
-World,3942268,28624.0,271637.0,1211.0,1356191.0,2314440,48912.0,506.0,34.8,0.0,0.0,0.0,World,World<br>Active Cases 2314440<br>Total Deaths 271637
+World,3942354,28710.0,271637.0,1211.0,1356191.0,2314526,48912.0,506.0,34.8,0.0,0.0,0.0,World,World<br>Active Cases 2314526<br>Total Deaths 271637
 USA,1292902,279.0,76942.0,14.0,217251.0,998709,16995.0,3906.0,232.0,8315807.0,25123.0,0.0,USA,USA<br>Active Cases 998709<br>Total Deaths 76942
 Spain,260117,3262.0,26299.0,229.0,168408.0,65410,2075.0,5563.0,562.0,1932455.0,41332.0,0.0,ESP,Spain<br>Active Cases 65410<br>Total Deaths 26299
 Italy,215858,0.0,29958.0,0.0,96276.0,89624,1311.0,3570.0,495.0,2381288.0,39385.0,0.0,ITA,Italy<br>Active Cases 89624<br>Total Deaths 29958
@@ -128,10 +128,10 @@ Costa Rica,765,0.0,6.0,0.0,445.0,314,6.0,150.0,1.0,15140.0,2972.0,0.0,CRI,Costa 
 Andorra,752,0.0,47.0,0.0,526.0,179,14.0,9733.0,608.0,1673.0,21653.0,0.0,AND,Andorra<br>Active Cases 179<br>Total Deaths 47
 El Salvador,742,47.0,15.0,0.0,257.0,470,4.0,114.0,2.0,37306.0,5752.0,0.0,SLV,El Salvador<br>Active Cases 470<br>Total Deaths 15
 Burkina Faso,736,0.0,48.0,0.0,562.0,126,0.0,35.0,2.0,0.0,0.0,0.0,BFA,Burkina Faso<br>Active Cases 126<br>Total Deaths 48
+Maldives,734,86.0,3.0,0.0,20.0,711,2.0,1358.0,6.0,9863.0,18246.0,0.0,MDV,Maldives<br>Active Cases 711<br>Total Deaths 3
 Diamond Princess,712,0.0,13.0,0.0,645.0,54,4.0,0.0,0.0,0.0,0.0,0.0,Diamond Princess,Diamond Princess<br>Active Cases 54<br>Total Deaths 13
 Uruguay,684,0.0,17.0,0.0,492.0,175,9.0,197.0,5.0,25698.0,7398.0,0.0,URY,Uruguay<br>Active Cases 175<br>Total Deaths 17
 Mali,650,0.0,32.0,0.0,271.0,347,0.0,32.0,2.0,2172.0,107.0,0.0,MLI,Mali<br>Active Cases 347<br>Total Deaths 32
-Maldives,648,0.0,3.0,0.0,20.0,625,2.0,1199.0,6.0,9863.0,18246.0,0.0,MDV,Maldives<br>Active Cases 625<br>Total Deaths 3
 Georgia,623,8.0,10.0,1.0,288.0,325,6.0,156.0,3.0,25861.0,6483.0,0.0,GEO,Georgia<br>Active Cases 325<br>Total Deaths 10
 San Marino,622,0.0,41.0,0.0,106.0,475,4.0,18331.0,1208.0,2777.0,81843.0,0.0,SMR,San Marino<br>Active Cases 475<br>Total Deaths 41
 Kenya,607,0.0,29.0,0.0,197.0,381,1.0,11.0,0.5,25861.0,481.0,0.0,KEN,Kenya<br>Active Cases 381<br>Total Deaths 29
@@ -238,3 +238,6 @@ Anguilla,3,0.0,0.0,0.0,3.0,0,0.0,200.0,0.0,0.0,0.0,0.0,AIA,Anguilla<br>Active Ca
 Saint Pierre Miquelon,1,0.0,0.0,0.0,0.0,1,0.0,173.0,0.0,0.0,0.0,0.0,SPM,Saint Pierre Miquelon<br>Active Cases 1<br>Total Deaths 0
 China,82886,1.0,4633.0,0.0,77993.0,260,18.0,58.0,3.0,0.0,0.0,0.0,CHN,China<br>Active Cases 260<br>Total Deaths 4633
 Total:,1412031,2713.0,85247.0,286.0,269787.0,1056997,18163.0,0.0,0.0,0.0,0.0,0.0,Total:,Total:<br>Active Cases 1056997<br>Total Deaths 85247
+"
+ 
+",721,0.0,15.0,0.0,645.0,61,4.0,0.0,0.0,0.0,0.0,0.0,0,<br>Active Cases 61<br>Total Deaths 15
