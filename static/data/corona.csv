@@ -3,13 +3,13 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
 ",Continent,iso_alpha,text
 "
 North America
-",1470668,27918.0,88809.0,1719.0,294747.0,1087112,17980.0,0.0,0.0,0.0,0.0,0.0,North America,North America<br>Active Cases 1087112<br>Total Deaths 88809
+",1470941,28191.0,88812.0,1722.0,294747.0,1087382,17980.0,0.0,0.0,0.0,0.0,0.0,North America,North America<br>Active Cases 1087382<br>Total Deaths 88812
 "
 Europe
 ",1605817,24561.0,151765.0,1251.0,646909.0,807143,14354.0,0.0,0.0,0.0,0.0,0.0,Europe,Europe<br>Active Cases 807143<br>Total Deaths 151765
 "
 South America
-",297645,15470.0,15356.0,779.0,101204.0,181085,10092.0,0.0,0.0,0.0,0.0,0.0,South America,South America<br>Active Cases 181085<br>Total Deaths 15356
+",297800,15625.0,15363.0,786.0,101204.0,181233,10092.0,0.0,0.0,0.0,0.0,0.0,South America,South America<br>Active Cases 181233<br>Total Deaths 15363
 "
 Asia
 ",650796,15965.0,21834.0,333.0,358548.0,270414,5023.0,0.0,0.0,0.0,0.0,0.0,Asia,Asia<br>Active Cases 270414<br>Total Deaths 21834
@@ -22,8 +22,8 @@ Oceania
 "
 
 ",721,0.0,15.0,0.0,645.0,61,4.0,0.0,0.0,0.0,0.0,0.0,,<br>Active Cases 61<br>Total Deaths 15
-World,4096102,86811.0,280124.0,4148.0,1431262.0,2384716,47697.0,525.0,35.9,0.0,0.0,0.0,World,World<br>Active Cases 2384716<br>Total Deaths 280124
-USA,1345656,23871.0,79997.0,1382.0,236825.0,1028834,16811.0,4065.0,242.0,8889485.0,26856.0,0.0,USA,USA<br>Active Cases 1028834<br>Total Deaths 79997
+World,4096530,87239.0,280134.0,4158.0,1431262.0,2385134,47697.0,526.0,35.9,0.0,0.0,0.0,World,World<br>Active Cases 2385134<br>Total Deaths 280134
+USA,1345929,24144.0,80000.0,1385.0,236825.0,1029104,16811.0,4066.0,242.0,8910741.0,26920.0,0.0,USA,USA<br>Active Cases 1029104<br>Total Deaths 80000
 Spain,262783,2666.0,26478.0,179.0,173157.0,63148,1741.0,5620.0,566.0,2467761.0,52781.0,0.0,ESP,Spain<br>Active Cases 63148<br>Total Deaths 26478
 Italy,218268,1083.0,30395.0,194.0,103031.0,84842,1034.0,3610.0,503.0,2514234.0,41584.0,0.0,ITA,Italy<br>Active Cases 84842<br>Total Deaths 30395
 UK,215260,3896.0,31587.0,346.0,0.0,183329,1559.0,3171.0,465.0,1728443.0,25461.0,0.0,GBR,UK<br>Active Cases 183329<br>Total Deaths 31587
@@ -75,7 +75,7 @@ Australia,6929,15.0,97.0,0.0,6135.0,697,19.0,272.0,4.0,795456.0,31194.0,0.0,AUS,
 Malaysia,6589,54.0,108.0,1.0,4929.0,1552,18.0,204.0,3.0,245102.0,7573.0,0.0,MYS,Malaysia<br>Active Cases 1552<br>Total Deaths 108
 Morocco,5910,199.0,186.0,0.0,2461.0,3263,1.0,160.0,5.0,63059.0,1708.0,0.0,MAR,Morocco<br>Active Cases 3263<br>Total Deaths 186
 Finland,5880,142.0,265.0,5.0,4000.0,1615,45.0,1061.0,48.0,119100.0,21495.0,0.0,FIN,Finland<br>Active Cases 1615<br>Total Deaths 265
-Argentina,5611,0.0,293.0,0.0,1728.0,3590,148.0,124.0,6.0,80729.0,1786.0,0.0,ARG,Argentina<br>Active Cases 3590<br>Total Deaths 293
+Argentina,5766,155.0,300.0,7.0,1728.0,3738,148.0,128.0,7.0,80729.0,1786.0,0.0,ARG,Argentina<br>Active Cases 3738<br>Total Deaths 300
 Algeria,5558,189.0,494.0,6.0,2546.0,2518,22.0,127.0,11.0,6500.0,148.0,0.0,DZA,Algeria<br>Active Cases 2518<br>Total Deaths 494
 Kazakhstan,4975,141.0,31.0,0.0,1776.0,3168,31.0,265.0,2.0,385104.0,20510.0,0.0,KAZ,Kazakhstan<br>Active Cases 3168<br>Total Deaths 31
 Moldova,4867,139.0,161.0,11.0,1925.0,2781,237.0,1207.0,40.0,20447.0,5069.0,0.0,MDA,Moldova<br>Active Cases 2781<br>Total Deaths 161
@@ -237,4 +237,4 @@ Western Sahara,6,0.0,0.0,0.0,5.0,1,0.0,10.0,0.0,0.0,0.0,0.0,ESH,Western Sahara<b
 Anguilla,3,0.0,0.0,0.0,3.0,0,0.0,200.0,0.0,0.0,0.0,0.0,AIA,Anguilla<br>Active Cases 0<br>Total Deaths 0
 Saint Pierre Miquelon,1,0.0,0.0,0.0,0.0,1,0.0,173.0,0.0,0.0,0.0,0.0,SPM,Saint Pierre Miquelon<br>Active Cases 1<br>Total Deaths 0
 China,82887,1.0,4633.0,0.0,78046.0,208,15.0,58.0,3.0,0.0,0.0,0.0,CHN,China<br>Active Cases 208<br>Total Deaths 4633
-Total:,1470668,27918.0,88809.0,1719.0,294747.0,1087112,17980.0,0.0,0.0,0.0,0.0,0.0,Total:,Total:<br>Active Cases 1087112<br>Total Deaths 88809
+Total:,1470941,28191.0,88812.0,1722.0,294747.0,1087382,17980.0,0.0,0.0,0.0,0.0,0.0,Total:,Total:<br>Active Cases 1087382<br>Total Deaths 88812
