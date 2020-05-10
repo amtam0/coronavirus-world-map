@@ -3,7 +3,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
 ",Continent,iso_alpha,text
 "
 North America
-",1475946,3565.0,89082.0,231.0,301364.0,1085500,17985.0,0.0,0.0,0.0,0.0,0.0,North America,North America<br>Active Cases 1085500<br>Total Deaths 89082
+",1476999,4618.0,89112.0,261.0,301364.0,1086523,17985.0,0.0,0.0,0.0,0.0,0.0,North America,North America<br>Active Cases 1086523<br>Total Deaths 89112
 "
 Europe
 ",1622462,16624.0,152171.0,406.0,655848.0,814443,14135.0,0.0,0.0,0.0,0.0,0.0,Europe,Europe<br>Active Cases 814443<br>Total Deaths 152171
@@ -22,8 +22,8 @@ Oceania
 "
 
 ",721,0.0,15.0,0.0,645.0,61,4.0,0.0,0.0,0.0,0.0,0.0,,<br>Active Cases 61<br>Total Deaths 15
-World,4131207,32919.0,281027.0,803.0,1455059.0,2395121,47474.0,530.0,36.1,0.0,0.0,0.0,World,World<br>Active Cases 2395121<br>Total Deaths 281027
-USA,1348485,1176.0,80068.0,31.0,238081.0,1030336,16816.0,4074.0,242.0,8926737.0,26969.0,0.0,USA,USA<br>Active Cases 1030336<br>Total Deaths 80068
+World,4132260,33972.0,281057.0,833.0,1455059.0,2396144,47474.0,530.0,36.1,0.0,0.0,0.0,World,World<br>Active Cases 2396144<br>Total Deaths 281057
+USA,1349538,2229.0,80098.0,61.0,238081.0,1031359,16816.0,4077.0,242.0,8930640.0,26981.0,0.0,USA,USA<br>Active Cases 1031359<br>Total Deaths 80098
 Spain,264663,1880.0,26621.0,143.0,176439.0,61603,1650.0,5661.0,569.0,2467761.0,52781.0,0.0,ESP,Spain<br>Active Cases 61603<br>Total Deaths 26621
 Italy,218268,0.0,30395.0,0.0,103031.0,84842,1034.0,3610.0,503.0,2514234.0,41584.0,0.0,ITA,Italy<br>Active Cases 84842<br>Total Deaths 30395
 UK,215260,0.0,31587.0,0.0,0.0,183329,1559.0,3171.0,465.0,1728443.0,25461.0,0.0,GBR,UK<br>Active Cases 183329<br>Total Deaths 31587
@@ -237,10 +237,7 @@ Western Sahara,6,0.0,0.0,0.0,5.0,1,0.0,10.0,0.0,0.0,0.0,0.0,ESH,Western Sahara<b
 Anguilla,3,0.0,0.0,0.0,3.0,0,0.0,200.0,0.0,0.0,0.0,0.0,AIA,Anguilla<br>Active Cases 0<br>Total Deaths 0
 Saint Pierre Miquelon,1,0.0,0.0,0.0,0.0,1,0.0,173.0,0.0,0.0,0.0,0.0,SPM,Saint Pierre Miquelon<br>Active Cases 1<br>Total Deaths 0
 China,82901,14.0,4633.0,0.0,78120.0,148,13.0,58.0,3.0,0.0,0.0,0.0,CHN,China<br>Active Cases 148<br>Total Deaths 4633
-Total:,1475946,3565.0,89082.0,231.0,301364.0,1085500,17985.0,0.0,0.0,0.0,0.0,0.0,Total:,Total:<br>Active Cases 1085500<br>Total Deaths 89082
+Total:,1476999,4618.0,89112.0,261.0,301364.0,1086523,17985.0,0.0,0.0,0.0,0.0,0.0,Total:,Total:<br>Active Cases 1086523<br>Total Deaths 89112
 "
 Africa
 ",61985,2935.0,2232.0,71.0,21649.0,38104,217.0,0.0,0.0,0.0,0.0,0.0,0,Africa<br>Active Cases 38104<br>Total Deaths 2232
-"
- Oceania
-",8525,17.0,118.0,0.0,7599.0,808,22.0,0.0,0.0,0.0,0.0,0.0,0,Oceania<br>Active Cases 808<br>Total Deaths 118
