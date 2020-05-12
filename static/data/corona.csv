@@ -3,7 +3,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
 ",Continent,iso_alpha,text
 "
 North America
-",1543892,25451.0,93132.0,1885.0,361949.0,1088811,17647.0,0.0,0.0,0.0,0.0,0.0,North America,North America<br>Active Cases 1088811<br>Total Deaths 93132
+",1543892,25451.0,93132.0,1885.0,361952.0,1088808,17647.0,0.0,0.0,0.0,0.0,0.0,North America,North America<br>Active Cases 1088808<br>Total Deaths 93132
 "
 Europe
 ",1675742,22730.0,155762.0,1842.0,685246.0,834734,13420.0,0.0,0.0,0.0,0.0,0.0,Europe,Europe<br>Active Cases 834734<br>Total Deaths 155762
@@ -22,7 +22,7 @@ Oceania
 "
 
 ",721,0.0,15.0,0.0,651.0,55,4.0,0.0,0.0,0.0,0.0,0.0,,<br>Active Cases 55<br>Total Deaths 15
-World,4336836,84546.0,292368.0,5237.0,1594226.0,2450242,46361.0,556.0,37.5,0.0,0.0,0.0,World,World<br>Active Cases 2450242<br>Total Deaths 292368
+World,4336836,84546.0,292368.0,5237.0,1594229.0,2450239,46361.0,556.0,37.5,0.0,0.0,0.0,World,World<br>Active Cases 2450239<br>Total Deaths 292368
 USA,1408073,22239.0,83368.0,1573.0,293485.0,1031220,16473.0,4254.0,252.0,9933508.0,30010.0,0.0,USA,USA<br>Active Cases 1031220<br>Total Deaths 83368
 Spain,269520,1377.0,26920.0,176.0,180470.0,62130,1534.0,5765.0,576.0,2467761.0,52781.0,0.0,ESP,Spain<br>Active Cases 62130<br>Total Deaths 26920
 Russia,232243,10899.0,2116.0,107.0,43512.0,186615,2300.0,1591.0,14.0,5805404.0,39781.0,0.0,RUS,Russia<br>Active Cases 186615<br>Total Deaths 2116
@@ -212,7 +212,7 @@ Belize,18,0.0,2.0,0.0,16.0,0,0.0,45.0,5.0,1043.0,2623.0,0.0,BLZ,Belize<br>Active
 Fiji,18,0.0,0.0,0.0,14.0,4,0.0,20.0,0.0,1300.0,1450.0,0.0,FJI,Fiji<br>Active Cases 4<br>Total Deaths 0
 New Caledonia,18,0.0,0.0,0.0,18.0,0,0.0,63.0,0.0,5454.0,19103.0,0.0,NCL,New Caledonia<br>Active Cases 0<br>Total Deaths 0
 Saint Lucia,18,0.0,0.0,0.0,17.0,1,0.0,98.0,0.0,620.0,3376.0,0.0,LCA,Saint Lucia<br>Active Cases 1<br>Total Deaths 0
-St. Vincent Grenadines,17,0.0,0.0,0.0,9.0,8,0.0,153.0,0.0,137.0,1235.0,0.0,VCT,St. Vincent Grenadines<br>Active Cases 8<br>Total Deaths 0
+St. Vincent Grenadines,17,0.0,0.0,0.0,12.0,5,0.0,153.0,0.0,155.0,1397.0,0.0,VCT,St. Vincent Grenadines<br>Active Cases 5<br>Total Deaths 0
 Curaçao,16,0.0,1.0,0.0,14.0,1,0.0,98.0,6.0,389.0,2371.0,0.0,CUW,Curaçao<br>Active Cases 1<br>Total Deaths 1
 Dominica,16,0.0,0.0,0.0,15.0,1,0.0,222.0,0.0,420.0,5834.0,0.0,DMA,Dominica<br>Active Cases 1<br>Total Deaths 0
 Namibia,16,0.0,0.0,0.0,11.0,5,0.0,6.0,0.0,1543.0,607.0,0.0,NAM,Namibia<br>Active Cases 5<br>Total Deaths 0
@@ -237,4 +237,4 @@ Western Sahara,6,0.0,0.0,0.0,6.0,0,0.0,10.0,0.0,0.0,0.0,0.0,ESH,Western Sahara<b
 Anguilla,3,0.0,0.0,0.0,3.0,0,0.0,200.0,0.0,0.0,0.0,0.0,AIA,Anguilla<br>Active Cases 0<br>Total Deaths 0
 Saint Pierre Miquelon,1,0.0,0.0,0.0,1.0,0,0.0,173.0,0.0,0.0,0.0,0.0,SPM,Saint Pierre Miquelon<br>Active Cases 0<br>Total Deaths 0
 China,82919,1.0,4633.0,0.0,78171.0,115,10.0,58.0,3.0,0.0,0.0,0.0,CHN,China<br>Active Cases 115<br>Total Deaths 4633
-Total:,1543892,25451.0,93132.0,1885.0,361949.0,1088811,17647.0,0.0,0.0,0.0,0.0,0.0,Total:,Total:<br>Active Cases 1088811<br>Total Deaths 93132
+Total:,1543892,25451.0,93132.0,1885.0,361952.0,1088808,17647.0,0.0,0.0,0.0,0.0,0.0,Total:,Total:<br>Active Cases 1088808<br>Total Deaths 93132
