@@ -3,7 +3,7 @@ Country,TotalCases,NewCases,TotalDeaths,NewDeaths,TotalRecovered,ActiveCases,Cri
 ",Continent,iso_alpha,text
 "
 North America
-",1599447,29562.0,97652.0,2185.0,393230.0,1108565,17419.0,0.0,0.0,0.0,0.0,0.0,North America,North America<br>Active Cases 1108565<br>Total Deaths 97652
+",1599411,29526.0,97651.0,2184.0,393248.0,1108512,17419.0,0.0,0.0,0.0,0.0,0.0,North America,North America<br>Active Cases 1108512<br>Total Deaths 97651
 "
 Europe
 ",1718672,22351.0,159068.0,1695.0,721957.0,837647,12533.0,0.0,0.0,0.0,0.0,0.0,Europe,Europe<br>Active Cases 837647<br>Total Deaths 159068
@@ -15,15 +15,15 @@ Asia
 ",738991,18108.0,23592.0,333.0,418386.0,297013,4966.0,0.0,0.0,0.0,0.0,0.0,Asia,Asia<br>Active Cases 297013<br>Total Deaths 23592
 "
 Africa
-",77002,3029.0,2578.0,71.0,28185.0,46239,290.0,0.0,0.0,0.0,0.0,0.0,Africa,Africa<br>Active Cases 46239<br>Total Deaths 2578
+",77002,3029.0,2578.0,71.0,28186.0,46238,290.0,0.0,0.0,0.0,0.0,0.0,Africa,Africa<br>Active Cases 46238<br>Total Deaths 2578
 "
 Oceania
 ",8590,9.0,119.0,0.0,7811.0,660,20.0,0.0,0.0,0.0,0.0,0.0,Oceania,Oceania<br>Active Cases 660<br>Total Deaths 119
 "
-
+ 
 ",721,0.0,15.0,0.0,651.0,55,4.0,0.0,0.0,0.0,0.0,0.0,,<br>Active Cases 55<br>Total Deaths 15
-World,4520597,94942.0,303062.0,5297.0,1701159.0,2516376,45566.0,580.0,38.9,0.0,0.0,0.0,World,World<br>Active Cases 2516376<br>Total Deaths 303062
-USA,1456184,25837.0,86892.0,1695.0,317036.0,1052256,16240.0,4399.0,263.0,10593089.0,32003.0,0.0,USA,USA<br>Active Cases 1052256<br>Total Deaths 86892
+World,4520561,94906.0,303061.0,5296.0,1701178.0,2516322,45566.0,580.0,38.9,0.0,0.0,0.0,World,World<br>Active Cases 2516322<br>Total Deaths 303061
+USA,1456148,25801.0,86891.0,1694.0,317054.0,1052203,16240.0,4399.0,263.0,10593089.0,32003.0,0.0,USA,USA<br>Active Cases 1052203<br>Total Deaths 86891
 Spain,272646,1551.0,27321.0,217.0,186480.0,58845,1376.0,5831.0,584.0,2467761.0,52781.0,0.0,ESP,Spain<br>Active Cases 58845<br>Total Deaths 27321
 Russia,252245,9974.0,2305.0,93.0,53530.0,196410,2300.0,1728.0,16.0,6188102.0,42403.0,0.0,RUS,Russia<br>Active Cases 196410<br>Total Deaths 2305
 UK,233151,3446.0,33614.0,428.0,0.0,199193,1559.0,3434.0,495.0,2219281.0,32691.0,0.0,GBR,UK<br>Active Cases 199193<br>Total Deaths 33614
@@ -167,7 +167,7 @@ Sao Tome and Principe,235,15.0,7.0,1.0,4.0,224,0.0,1072.0,32.0,175.0,799.0,0.0,S
 Haiti,234,15.0,18.0,0.0,17.0,199,0.0,21.0,2.0,1408.0,123.0,0.0,HTI,Haiti<br>Active Cases 199<br>Total Deaths 18
 Madagascar,230,18.0,0.0,0.0,108.0,122,1.0,8.0,0.0,5670.0,205.0,0.0,MDG,Madagascar<br>Active Cases 122<br>Total Deaths 0
 Liberia,215,2.0,20.0,0.0,105.0,90,0.0,43.0,4.0,0.0,0.0,0.0,LBR,Liberia<br>Active Cases 90<br>Total Deaths 20
-South Sudan,203,0.0,0.0,0.0,2.0,201,0.0,18.0,0.0,1247.0,111.0,0.0,SSD,South Sudan<br>Active Cases 201<br>Total Deaths 0
+South Sudan,203,0.0,0.0,0.0,3.0,200,0.0,18.0,0.0,3356.0,300.0,0.0,SSD,South Sudan<br>Active Cases 200<br>Total Deaths 0
 Martinique,189,0.0,14.0,0.0,91.0,84,2.0,504.0,37.0,0.0,0.0,0.0,MTQ,Martinique<br>Active Cases 84<br>Total Deaths 14
 Eswatini,187,0.0,2.0,0.0,51.0,134,0.0,161.0,2.0,2262.0,1950.0,0.0,SWZ,Eswatini<br>Active Cases 134<br>Total Deaths 2
 Faeroe Islands,187,0.0,0.0,0.0,187.0,0,0.0,3827.0,0.0,8638.0,176780.0,0.0,FRO,Faeroe Islands<br>Active Cases 0<br>Total Deaths 0
@@ -238,4 +238,7 @@ Anguilla,3,0.0,0.0,0.0,3.0,0,0.0,200.0,0.0,0.0,0.0,0.0,AIA,Anguilla<br>Active Ca
 Lesotho,1,0.0,0.0,0.0,0.0,1,0.0,0.5,0.0,0.0,0.0,0.0,LSO,Lesotho<br>Active Cases 1<br>Total Deaths 0
 Saint Pierre Miquelon,1,0.0,0.0,0.0,1.0,0,0.0,173.0,0.0,0.0,0.0,0.0,SPM,Saint Pierre Miquelon<br>Active Cases 0<br>Total Deaths 0
 China,82929,3.0,4633.0,0.0,78195.0,101,9.0,58.0,3.0,0.0,0.0,0.0,CHN,China<br>Active Cases 101<br>Total Deaths 4633
-Total:,1599447,29562.0,97652.0,2185.0,393230.0,1108565,17419.0,0.0,0.0,0.0,0.0,0.0,Total:,Total:<br>Active Cases 1108565<br>Total Deaths 97652
+Total:,1599411,29526.0,97651.0,2184.0,393248.0,1108512,17419.0,0.0,0.0,0.0,0.0,0.0,Total:,Total:<br>Active Cases 1108512<br>Total Deaths 97651
+"
+
+",721,0.0,15.0,0.0,651.0,55,4.0,0.0,0.0,0.0,0.0,0.0,0,<br>Active Cases 55<br>Total Deaths 15
