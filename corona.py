@@ -1,46 +1,57 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[6]:
+# In[3]:
 
 
-import requests
-import lxml.html as lh
+import bs4 as bs
+import urllib.request
 import pandas as pd
-import numpy as np
 import country_converter as coco
-import itertools
 
-
-# ### Build df from Url
-
-# In[7]:
-
+ref_headers = ['Country,Other',
+  'TotalCases',
+  'NewCases',
+  'TotalDeaths',
+  'NewDeaths',
+  'TotalRecovered',
+  'NewRecovered',
+  'ActiveCases',
+  'Serious,Critical',
+  'Tot\xa0Cases/1M pop',
+  'Deaths/1M pop',
+  'TotalTests',
+  'Tests/\n1M pop\n',
+  'Population']
 
 url='https://www.worldometers.info/coronavirus/'
 
-# Scraping the Url
-page = requests.get(url)
-doc = lh.fromstring(page.content)
-todaydoc = doc.get_element_by_id("main_table_countries_today")
+req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
 
-# Parse data
-th_elements = todaydoc.xpath('//th') # header
-td_elements = todaydoc.xpath('//td') # cells content
+source = urllib.request.urlopen(req).read()
+# source = urllib.request.urlopen(url).read()
+soup = bs.BeautifulSoup(source,'lxml')
 
-headers = [th_element.text_content() for th_element in th_elements]
-headers = headers[:len(headers)//2]
+table = soup.find('table', attrs={'id':'main_table_countries_today'})
+table_rows = table.find_all('tr')
+# table_rows
+list_rows = []
+for tr in table_rows:
+    td = tr.find_all('td')
+    row = [tr.text for tr in td]
+    list_rows.append(row)
+list_rows = [el for el in list_rows if el]
 
-content = [td_element.text_content() for td_element in td_elements]
-rows_content = np.array(content).reshape(int(len(content)/len(headers)),len(headers)).tolist()[:-1] #rm Today row
-rows_content = list(k for k,_ in itertools.groupby(rows_content))
+table_header = table.find_all('th')
+columns = [cell.text for cell in table_header]
+df = pd.DataFrame(list_rows, columns=columns)
 
-df = pd.DataFrame(rows_content)
-df.columns = headers
+df = df[ref_headers]
+
 df = df.drop_duplicates(subset= 'Country,Other', keep='first')
 
 
-# In[8]:
+# In[4]:
 
 
 # Convert values to float
@@ -63,7 +74,7 @@ df = df.fillna(0)
 df["text"] = df['Country'].apply(lambda x: x.strip()) + '<br>' +     'Active Cases ' + df['ActiveCases'].astype(int).astype(str) +     '<br>' + 'Total Deaths ' + df['TotalDeaths'].astype(int).astype(str)
 
 
-# In[9]:
+# In[5]:
 
 
 # Export Dataframe
@@ -72,7 +83,7 @@ df.to_csv("static/data/corona.csv",index=False,sep=",")
 
 # ### Visualize df using Plotly (Optional)
 
-# In[10]:
+# In[6]:
 
 
 # import plotly.express as px
