@@ -16,7 +16,7 @@ Plotly.d3.csv('static/data/corona.csv', function(err, rows){
         reversescale: false,
 
         zmin: 0,
-        zmax: 2000,
+        zmax: 10000,
         colorbar: {
             title: 'Number of cases',
             // thickness: 1
