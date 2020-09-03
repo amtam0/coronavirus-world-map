@@ -17,7 +17,7 @@ You need 2 layers
 
 The lambda function template is in the folder. Github Authentification username/password need to be added in the env variables in the Console
 
-You can then add a timed trigger(Cloudwatchevent) to lambda in order to automatically update the dataset.
+You can then add a timed trigger(Cloudwatchevent) to lambda in order to automatically update the dataset(here it is updated every 5 hours).
 
 ## References
 
