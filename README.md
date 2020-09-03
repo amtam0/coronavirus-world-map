@@ -1,27 +1,24 @@
-## to setup
+## to setup and update the dataset
 
-`virtualenv -p python3 corona-env`
+```bash script.sh```
 
-`source corona-env/bin/activate`
+To test the web-app locally :
 
-`pip install -r requirements.txt`
+```python -m http.server```
 
-## to run
+Open the link displayed
 
-`bash script.sh`
+## to automate in AWS lambda
 
-To test locally :
+You need 2 layers
+- **python libraries** (Docker required):
+```bash build_py_aws_layer/build_layer.sh```
+- **Git** layer : check [link](https://github.com/lambci/git-lambda-layer) to get it 
 
-`python -m http.server`
+The lambda function template is in the folder. Github Authentification username/password need to be added in the env variables in the Console
 
-open the link displayed
+You can then add a timed trigger(Cloudwatchevent) to lambda in order to automatically update the dataset(here it is updated every 5 hours).
 
-## to automate with Cron (crontab -e in root)
-`sudo nano /etc/crontab`
-add script. Ex. to update dataset evry 2 minutes :
-`*/2 * * * * cd /path/to/coronavirus-world-map/; bash script.sh`
-
-For this you need to save Your Github credentials in your machine
 ## References
 
 [Data sources] : https://www.worldometers.info/coronavirus/
