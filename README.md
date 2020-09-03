@@ -1,12 +1,4 @@
-## to setup
-
-`virtualenv -p python3 corona-env`
-
-`source corona-env/bin/activate`
-
-`pip install -r requirements.txt`
-
-## to run
+## to setupe and update dataset
 
 `bash script.sh`
 
@@ -16,12 +8,15 @@ To test locally :
 
 open the link displayed
 
-## to automate with Cron (crontab -e in root)
-`sudo nano /etc/crontab`
-add script. Ex. to update dataset evry 2 minutes :
-`*/2 * * * * cd /path/to/coronavirus-world-map/; bash script.sh`
+## to automate in AWS lambda
 
-For this you need to save Your Github credentials in your machine
+You need two layers
+- python packages you can build it (Docker required):
+`bash build_py_aws_layer/build_layer.sh`
+- 
+
+You can then add a timed trigger to automatically update the dataset
+
 ## References
 
 [Data sources] : https://www.worldometers.info/coronavirus/
