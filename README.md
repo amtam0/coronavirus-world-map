@@ -1,21 +1,23 @@
-## to setupe and update dataset
+## to setup and update the dataset
 
-`bash script.sh`
+```bash script.sh```
 
-To test locally :
+To test the web-app locally :
 
-`python -m http.server`
+```python -m http.server```
 
-open the link displayed
+Open the link displayed
 
 ## to automate in AWS lambda
 
-You need two layers
-- python packages you can build it (Docker required):
-`bash build_py_aws_layer/build_layer.sh`
-- 
+You need 2 layers
+- **python libraries** (Docker required):
+```bash build_py_aws_layer/build_layer.sh```
+- **Git** layer : check [link]() to get it 
 
-You can then add a timed trigger to automatically update the dataset
+The lambda function template is in the folder. Github Authentification username/password need to be added in the env variables in the Console
+
+You can then add a timed trigger(Cloudwatchevent) to lambda in order to automatically update the dataset.
 
 ## References
 
